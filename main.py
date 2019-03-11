@@ -30,5 +30,3 @@ for (file_path, content) in dict_file_content.items():
     print("sentences with nnp")
     print(get_pn_sentences(content))
 
-
-    # de scos hiponime si hipernime 
