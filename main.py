@@ -25,7 +25,7 @@ for (file_path, content) in dict_file_content.items():
     language_of_file = get_language_of_text(content)
     print(filename + ' - language of file - ' + language_of_file)
 
-    print(get_tokens(content))
-    print(get_sentences(content))
-    print("sentences with nnp")
-    print(get_pn_sentences(content))
+    # print(get_tokens(content))
+    # print(get_sentences(content))
+    # print("sentences with nnp")
+    # print(get_pn_sentences(content))

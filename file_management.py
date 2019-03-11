@@ -1,6 +1,6 @@
 import os
 
-resource_location = '.\\resources'
+resource_location = '.\\resources\\txt'
 output_location = '.\\output\\'
 
 def get_file_list(source):
