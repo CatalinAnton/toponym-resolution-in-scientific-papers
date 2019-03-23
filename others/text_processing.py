@@ -1,11 +1,6 @@
 import nltk
+import p5_pos_tagger
 from langdetect import detect
-
-
-def preprocess(text):
-    text_tokenzied = nltk.word_tokenize(text)
-    text_pos_tagged = nltk.pos_tag(text_tokenzied)
-    return text_pos_tagged
 
 
 def get_lemmas(text):
@@ -21,21 +16,12 @@ def get_language_of_text(text):
     return detect(text)
 
 
-def get_sentences(text):
-    tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
-    return tokenizer.tokenize(text)
-
-
-def get_tokens(text):
-    return nltk.tokenize.word_tokenize(text)
-
-
 def get_pn_sentences(text):
     sentences = get_sentences(text)
     pn_sentences = list()
 
     for sentence in sentences:
-        pos_sentence = preprocess(sentence)
+        pos_sentence = p5_pos_tagger.pos_tag(sentence)
         if is_NNP_sentence(pos_sentence):
             pn_sentences.append(sentence)
 
