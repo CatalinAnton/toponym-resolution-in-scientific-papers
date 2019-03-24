@@ -6,9 +6,11 @@ import p5_pos_tagger
 import p6_nnp_filter
 
 from nltk.wsd import lesk
+from nltk.corpus import wordnet as wn
 
 from others.text_processing import *
 
+import json
 # nltk.download('punkt')
 # nltk.download('averaged_perceptron_tagger')
 
@@ -17,6 +19,7 @@ from others.text_processing import *
 files = p1_file_management.get_file_list(p1_file_management.resource_location)
 dict_file_content = p1_file_management.get_dictionary_file_content(files)
 
+output_sentences = list()
 #############################
 # 2. getting the paragraphs #
 for (file_path, content) in dict_file_content.items():
@@ -43,7 +46,17 @@ for (file_path, content) in dict_file_content.items():
         # 6. NNP sentence filter #
         if (p6_nnp_filter.is_NNP_sentence(sentence_pos_tagged)):
             print(sentence)
+            print(sentence_pos_tagged)
 
+            senses = list()
+            # identify the sense of nouns in the sentences
+            for t in sentence_pos_tagged:
+                if 'NNP' in t[1]:
+                    noun_sense = lesk(sentence, t[0], 'n')
+
+                    senses.append(str(noun_sense))
+
+            output_sentences.append((sentence_pos_tagged, senses,))
     # break after reading the first file -> just for testing ;)
     break
 
@@ -76,3 +89,22 @@ for (file_path, content) in dict_file_content.items():
 #              sensul 5 al cuvantului cone contine cuvantul conifer
 #   C. de adaugat pe profesoara la folderul de contul de GDrive daniela.gifu33@gmail.com
 
+
+
+# simple lesk example
+sent = ['I', 'went', 'to', 'Venezuela', 'to', 'deposit', 'money', '.']
+print(lesk(sent, 'Venezuela', 'n'))
+
+
+# gets senses of the word
+for ss in wn.synsets('Paris'):
+    print(ss, ss.definition())
+
+print(output_sentences)
+
+
+jsoned = json.dumps(output_sentences)
+
+
+with open('others/output_lesk.json', 'w') as outfile:
+    json.dump(output_sentences, outfile)

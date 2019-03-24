@@ -69,7 +69,6 @@ for (file_path, content) in dict_file_content.items():
         tf_count_all[word] += t_content.count(word)
 
 
-
 print(tf_count_all)
 print(tf_count_files)
 
