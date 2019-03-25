@@ -1,0 +1,2480 @@
+[
+    {
+        "id": 0,
+        "sentence": "\u00ef\u00bb\u00bfJOURNAL OF CLINICAL MICROBIOLOGY,\n0095-1137/01/$04.000 DOI: 10.1128/JCM.39.2.696\u00c2\u00ad704.2001\nFeb. 2001, p. 696\u00c2\u00ad704 Vol.",
+        "wordProcessed": "MICROBIOLOGY",
+        "senseFoundByLesk": "the branch of biology that studies microorganisms and their effects on humans"
+    },
+    {
+        "id": 1,
+        "sentence": "\u00ef\u00bb\u00bfJOURNAL OF CLINICAL MICROBIOLOGY,\n0095-1137/01/$04.000 DOI: 10.1128/JCM.39.2.696\u00c2\u00ad704.2001\nFeb. 2001, p. 696\u00c2\u00ad704 Vol.",
+        "wordProcessed": "DOI",
+        "senseFoundByLesk": "the United States federal department charged with conservation and the development of natural resources; created in 1849"
+    },
+    {
+        "id": 2,
+        "sentence": "2\nCopyright \u00c2\u00a9 2001, American Society for Microbiology.",
+        "wordProcessed": "Copyright",
+        "senseFoundByLesk": "a document granting exclusive right to publish and sell literary or musical or artistic work"
+    },
+    {
+        "id": 3,
+        "sentence": "2\nCopyright \u00c2\u00a9 2001, American Society for Microbiology.",
+        "wordProcessed": "American",
+        "senseFoundByLesk": "a native or inhabitant of a North American or Central American or South American country"
+    },
+    {
+        "id": 4,
+        "sentence": "2\nCopyright \u00c2\u00a9 2001, American Society for Microbiology.",
+        "wordProcessed": "Society",
+        "senseFoundByLesk": "the fashionable elite"
+    },
+    {
+        "id": 5,
+        "sentence": "2\nCopyright \u00c2\u00a9 2001, American Society for Microbiology.",
+        "wordProcessed": "Microbiology",
+        "senseFoundByLesk": "the branch of biology that studies microorganisms and their effects on humans"
+    },
+    {
+        "id": 6,
+        "sentence": "All Rights Reserved.",
+        "wordProcessed": "Rights",
+        "senseFoundByLesk": "the piece of ground in the outfield on the catcher's right"
+    },
+    {
+        "id": 7,
+        "sentence": "Typing and Subtyping Influenza Virus Using DNA Microarrays\nand Multiplex Reverse Transcriptase PCR\nJIPING LI,1,2\nSHU CHEN,2\nAND DAVID H. EVANS1\n*\nDepartment of Molecular Biology and Genetics1\nand Laboratory Services Division,2\nThe University of Guelph, Guelph, Ontario N1G 2W1, Canada\nReceived 21 September 2000/Accepted 15 November 2000\nA model DNA microarray has been prepared and shown to facilitate typing and subtyping of human\ninfluenza A and B viruses.",
+        "wordProcessed": "Influenza",
+        "senseFoundByLesk": "an acute febrile highly contagious viral disease"
+    },
+    {
+        "id": 8,
+        "sentence": "Typing and Subtyping Influenza Virus Using DNA Microarrays\nand Multiplex Reverse Transcriptase PCR\nJIPING LI,1,2\nSHU CHEN,2\nAND DAVID H. EVANS1\n*\nDepartment of Molecular Biology and Genetics1\nand Laboratory Services Division,2\nThe University of Guelph, Guelph, Ontario N1G 2W1, Canada\nReceived 21 September 2000/Accepted 15 November 2000\nA model DNA microarray has been prepared and shown to facilitate typing and subtyping of human\ninfluenza A and B viruses.",
+        "wordProcessed": "Virus",
+        "senseFoundByLesk": "a software program capable of reproducing itself and usually capable of causing great harm to files or other programs on the same computer"
+    },
+    {
+        "id": 9,
+        "sentence": "Typing and Subtyping Influenza Virus Using DNA Microarrays\nand Multiplex Reverse Transcriptase PCR\nJIPING LI,1,2\nSHU CHEN,2\nAND DAVID H. EVANS1\n*\nDepartment of Molecular Biology and Genetics1\nand Laboratory Services Division,2\nThe University of Guelph, Guelph, Ontario N1G 2W1, Canada\nReceived 21 September 2000/Accepted 15 November 2000\nA model DNA microarray has been prepared and shown to facilitate typing and subtyping of human\ninfluenza A and B viruses.",
+        "wordProcessed": "Using",
+        "senseFoundByLesk": "an act that exploits or victimizes someone (treats them unfairly)"
+    },
+    {
+        "id": 10,
+        "sentence": "Typing and Subtyping Influenza Virus Using DNA Microarrays\nand Multiplex Reverse Transcriptase PCR\nJIPING LI,1,2\nSHU CHEN,2\nAND DAVID H. EVANS1\n*\nDepartment of Molecular Biology and Genetics1\nand Laboratory Services Division,2\nThe University of Guelph, Guelph, Ontario N1G 2W1, Canada\nReceived 21 September 2000/Accepted 15 November 2000\nA model DNA microarray has been prepared and shown to facilitate typing and subtyping of human\ninfluenza A and B viruses.",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 11,
+        "sentence": "Typing and Subtyping Influenza Virus Using DNA Microarrays\nand Multiplex Reverse Transcriptase PCR\nJIPING LI,1,2\nSHU CHEN,2\nAND DAVID H. EVANS1\n*\nDepartment of Molecular Biology and Genetics1\nand Laboratory Services Division,2\nThe University of Guelph, Guelph, Ontario N1G 2W1, Canada\nReceived 21 September 2000/Accepted 15 November 2000\nA model DNA microarray has been prepared and shown to facilitate typing and subtyping of human\ninfluenza A and B viruses.",
+        "wordProcessed": "Multiplex",
+        "senseFoundByLesk": "a movie theater than has several different auditoriums in the same building"
+    },
+    {
+        "id": 12,
+        "sentence": "Typing and Subtyping Influenza Virus Using DNA Microarrays\nand Multiplex Reverse Transcriptase PCR\nJIPING LI,1,2\nSHU CHEN,2\nAND DAVID H. EVANS1\n*\nDepartment of Molecular Biology and Genetics1\nand Laboratory Services Division,2\nThe University of Guelph, Guelph, Ontario N1G 2W1, Canada\nReceived 21 September 2000/Accepted 15 November 2000\nA model DNA microarray has been prepared and shown to facilitate typing and subtyping of human\ninfluenza A and B viruses.",
+        "wordProcessed": "Reverse",
+        "senseFoundByLesk": "(American football) a running play in which a back running in one direction hands the ball to a back running in the opposite direction"
+    },
+    {
+        "id": 13,
+        "sentence": "Typing and Subtyping Influenza Virus Using DNA Microarrays\nand Multiplex Reverse Transcriptase PCR\nJIPING LI,1,2\nSHU CHEN,2\nAND DAVID H. EVANS1\n*\nDepartment of Molecular Biology and Genetics1\nand Laboratory Services Division,2\nThe University of Guelph, Guelph, Ontario N1G 2W1, Canada\nReceived 21 September 2000/Accepted 15 November 2000\nA model DNA microarray has been prepared and shown to facilitate typing and subtyping of human\ninfluenza A and B viruses.",
+        "wordProcessed": "Transcriptase",
+        "senseFoundByLesk": "the enzyme that copies DNA into RNA"
+    },
+    {
+        "id": 14,
+        "sentence": "Typing and Subtyping Influenza Virus Using DNA Microarrays\nand Multiplex Reverse Transcriptase PCR\nJIPING LI,1,2\nSHU CHEN,2\nAND DAVID H. EVANS1\n*\nDepartment of Molecular Biology and Genetics1\nand Laboratory Services Division,2\nThe University of Guelph, Guelph, Ontario N1G 2W1, Canada\nReceived 21 September 2000/Accepted 15 November 2000\nA model DNA microarray has been prepared and shown to facilitate typing and subtyping of human\ninfluenza A and B viruses.",
+        "wordProcessed": "DAVID",
+        "senseFoundByLesk": "(Old Testament) the 2nd king of the Israelites; as a young shepherd he fought Goliath (a giant Philistine warrior) and killed him by hitting him in the head with a stone flung from a sling; he united Israel with Jerusalem as its capital; many of the Psalms are attributed to David (circa 1000-962 BC)"
+    },
+    {
+        "id": 15,
+        "sentence": "Typing and Subtyping Influenza Virus Using DNA Microarrays\nand Multiplex Reverse Transcriptase PCR\nJIPING LI,1,2\nSHU CHEN,2\nAND DAVID H. EVANS1\n*\nDepartment of Molecular Biology and Genetics1\nand Laboratory Services Division,2\nThe University of Guelph, Guelph, Ontario N1G 2W1, Canada\nReceived 21 September 2000/Accepted 15 November 2000\nA model DNA microarray has been prepared and shown to facilitate typing and subtyping of human\ninfluenza A and B viruses.",
+        "wordProcessed": "Department",
+        "senseFoundByLesk": "the territorial and administrative division of some countries (such as France)"
+    },
+    {
+        "id": 16,
+        "sentence": "Typing and Subtyping Influenza Virus Using DNA Microarrays\nand Multiplex Reverse Transcriptase PCR\nJIPING LI,1,2\nSHU CHEN,2\nAND DAVID H. EVANS1\n*\nDepartment of Molecular Biology and Genetics1\nand Laboratory Services Division,2\nThe University of Guelph, Guelph, Ontario N1G 2W1, Canada\nReceived 21 September 2000/Accepted 15 November 2000\nA model DNA microarray has been prepared and shown to facilitate typing and subtyping of human\ninfluenza A and B viruses.",
+        "wordProcessed": "Biology",
+        "senseFoundByLesk": "all the plant and animal life of a particular region"
+    },
+    {
+        "id": 17,
+        "sentence": "Typing and Subtyping Influenza Virus Using DNA Microarrays\nand Multiplex Reverse Transcriptase PCR\nJIPING LI,1,2\nSHU CHEN,2\nAND DAVID H. EVANS1\n*\nDepartment of Molecular Biology and Genetics1\nand Laboratory Services Division,2\nThe University of Guelph, Guelph, Ontario N1G 2W1, Canada\nReceived 21 September 2000/Accepted 15 November 2000\nA model DNA microarray has been prepared and shown to facilitate typing and subtyping of human\ninfluenza A and B viruses.",
+        "wordProcessed": "Laboratory",
+        "senseFoundByLesk": "a region resembling a laboratory inasmuch as it offers opportunities for observation and practice and experimentation"
+    },
+    {
+        "id": 18,
+        "sentence": "Typing and Subtyping Influenza Virus Using DNA Microarrays\nand Multiplex Reverse Transcriptase PCR\nJIPING LI,1,2\nSHU CHEN,2\nAND DAVID H. EVANS1\n*\nDepartment of Molecular Biology and Genetics1\nand Laboratory Services Division,2\nThe University of Guelph, Guelph, Ontario N1G 2W1, Canada\nReceived 21 September 2000/Accepted 15 November 2000\nA model DNA microarray has been prepared and shown to facilitate typing and subtyping of human\ninfluenza A and B viruses.",
+        "wordProcessed": "Services",
+        "senseFoundByLesk": "performance of duties or provision of space and equipment helpful to others"
+    },
+    {
+        "id": 19,
+        "sentence": "Typing and Subtyping Influenza Virus Using DNA Microarrays\nand Multiplex Reverse Transcriptase PCR\nJIPING LI,1,2\nSHU CHEN,2\nAND DAVID H. EVANS1\n*\nDepartment of Molecular Biology and Genetics1\nand Laboratory Services Division,2\nThe University of Guelph, Guelph, Ontario N1G 2W1, Canada\nReceived 21 September 2000/Accepted 15 November 2000\nA model DNA microarray has been prepared and shown to facilitate typing and subtyping of human\ninfluenza A and B viruses.",
+        "wordProcessed": "University",
+        "senseFoundByLesk": "a large and diverse institution of higher learning created to educate for life and for a profession and to grant degrees"
+    },
+    {
+        "id": 20,
+        "sentence": "Typing and Subtyping Influenza Virus Using DNA Microarrays\nand Multiplex Reverse Transcriptase PCR\nJIPING LI,1,2\nSHU CHEN,2\nAND DAVID H. EVANS1\n*\nDepartment of Molecular Biology and Genetics1\nand Laboratory Services Division,2\nThe University of Guelph, Guelph, Ontario N1G 2W1, Canada\nReceived 21 September 2000/Accepted 15 November 2000\nA model DNA microarray has been prepared and shown to facilitate typing and subtyping of human\ninfluenza A and B viruses.",
+        "wordProcessed": "Ontario",
+        "senseFoundByLesk": "a prosperous and industrialized province in central Canada"
+    },
+    {
+        "id": 21,
+        "sentence": "Typing and Subtyping Influenza Virus Using DNA Microarrays\nand Multiplex Reverse Transcriptase PCR\nJIPING LI,1,2\nSHU CHEN,2\nAND DAVID H. EVANS1\n*\nDepartment of Molecular Biology and Genetics1\nand Laboratory Services Division,2\nThe University of Guelph, Guelph, Ontario N1G 2W1, Canada\nReceived 21 September 2000/Accepted 15 November 2000\nA model DNA microarray has been prepared and shown to facilitate typing and subtyping of human\ninfluenza A and B viruses.",
+        "wordProcessed": "Canada",
+        "senseFoundByLesk": "a nation in northern North America; the French were the first Europeans to settle in mainland Canada"
+    },
+    {
+        "id": 22,
+        "sentence": "Typing and Subtyping Influenza Virus Using DNA Microarrays\nand Multiplex Reverse Transcriptase PCR\nJIPING LI,1,2\nSHU CHEN,2\nAND DAVID H. EVANS1\n*\nDepartment of Molecular Biology and Genetics1\nand Laboratory Services Division,2\nThe University of Guelph, Guelph, Ontario N1G 2W1, Canada\nReceived 21 September 2000/Accepted 15 November 2000\nA model DNA microarray has been prepared and shown to facilitate typing and subtyping of human\ninfluenza A and B viruses.",
+        "wordProcessed": "September",
+        "senseFoundByLesk": "the month following August and preceding October"
+    },
+    {
+        "id": 23,
+        "sentence": "Typing and Subtyping Influenza Virus Using DNA Microarrays\nand Multiplex Reverse Transcriptase PCR\nJIPING LI,1,2\nSHU CHEN,2\nAND DAVID H. EVANS1\n*\nDepartment of Molecular Biology and Genetics1\nand Laboratory Services Division,2\nThe University of Guelph, Guelph, Ontario N1G 2W1, Canada\nReceived 21 September 2000/Accepted 15 November 2000\nA model DNA microarray has been prepared and shown to facilitate typing and subtyping of human\ninfluenza A and B viruses.",
+        "wordProcessed": "November",
+        "senseFoundByLesk": "the month following October and preceding December"
+    },
+    {
+        "id": 24,
+        "sentence": "Typing and Subtyping Influenza Virus Using DNA Microarrays\nand Multiplex Reverse Transcriptase PCR\nJIPING LI,1,2\nSHU CHEN,2\nAND DAVID H. EVANS1\n*\nDepartment of Molecular Biology and Genetics1\nand Laboratory Services Division,2\nThe University of Guelph, Guelph, Ontario N1G 2W1, Canada\nReceived 21 September 2000/Accepted 15 November 2000\nA model DNA microarray has been prepared and shown to facilitate typing and subtyping of human\ninfluenza A and B viruses.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 25,
+        "sentence": "Typing and Subtyping Influenza Virus Using DNA Microarrays\nand Multiplex Reverse Transcriptase PCR\nJIPING LI,1,2\nSHU CHEN,2\nAND DAVID H. EVANS1\n*\nDepartment of Molecular Biology and Genetics1\nand Laboratory Services Division,2\nThe University of Guelph, Guelph, Ontario N1G 2W1, Canada\nReceived 21 September 2000/Accepted 15 November 2000\nA model DNA microarray has been prepared and shown to facilitate typing and subtyping of human\ninfluenza A and B viruses.",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 26,
+        "sentence": "Typing and Subtyping Influenza Virus Using DNA Microarrays\nand Multiplex Reverse Transcriptase PCR\nJIPING LI,1,2\nSHU CHEN,2\nAND DAVID H. EVANS1\n*\nDepartment of Molecular Biology and Genetics1\nand Laboratory Services Division,2\nThe University of Guelph, Guelph, Ontario N1G 2W1, Canada\nReceived 21 September 2000/Accepted 15 November 2000\nA model DNA microarray has been prepared and shown to facilitate typing and subtyping of human\ninfluenza A and B viruses.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 27,
+        "sentence": "Typing and Subtyping Influenza Virus Using DNA Microarrays\nand Multiplex Reverse Transcriptase PCR\nJIPING LI,1,2\nSHU CHEN,2\nAND DAVID H. EVANS1\n*\nDepartment of Molecular Biology and Genetics1\nand Laboratory Services Division,2\nThe University of Guelph, Guelph, Ontario N1G 2W1, Canada\nReceived 21 September 2000/Accepted 15 November 2000\nA model DNA microarray has been prepared and shown to facilitate typing and subtyping of human\ninfluenza A and B viruses.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder"
+    },
+    {
+        "id": 28,
+        "sentence": "These target DNAs included multiple fragments of the hemagglutinin, neuraminidase, and matrix\nprotein genes.",
+        "wordProcessed": "DNAs",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 29,
+        "sentence": "Cy3- or Cy5-labeled fluorescent probes were then hybridized to these target DNAs, and the\narrays were scanned to determine the probe binding site(s).",
+        "wordProcessed": "DNAs",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 30,
+        "sentence": "Combinations of Cy3- and Cy5-labeled DNAs can also be hybridized to the same\nchip, permitting further differentiation of amplified molecules in complex mixtures.",
+        "wordProcessed": "DNAs",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 31,
+        "sentence": "In a more realistic test of\nthe technology, several sets of multiplex PCR primers that collectively target influenza A and B virus strains\nwere identified and were used to type and subtype several previously unsequenced influenza virus isolates.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 32,
+        "sentence": "In a more realistic test of\nthe technology, several sets of multiplex PCR primers that collectively target influenza A and B virus strains\nwere identified and were used to type and subtype several previously unsequenced influenza virus isolates.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "(physics) a unit of nuclear cross section; the effective circular area that one particle presents to another as a target for an encounter"
+    },
+    {
+        "id": 33,
+        "sentence": "The\nresults show that DNA microarray technology provides a useful supplement to PCR-based diagnostic methods.",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 34,
+        "sentence": "After the first reports describing DNA microchip arrays ap-\npeared (15, 16), microarray technology revolutionized the\nstudy of gene expression patterns in diverse organisms (re-\nviewed in references 3 and 7).",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 35,
+        "sentence": "Arrays composed of oligonucle-\notides (15) or robotically spotted DNAs (16) permit genome\nscale analysis of gene expression patterns and have more re-\ncently been used in such applications as drug discovery (6),\nmutation detection (8, 9, 12), evolutionary studies (11, 21), and\ngenome mapping (20).",
+        "wordProcessed": "DNAs",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 36,
+        "sentence": "The application of DNA microarray\ntechnology as a diagnostic tool also shows great promise, since\nmicroarrays theoretically permit a simultaneous screen for any\nof tens of thousands of nucleic acid sequences.",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 37,
+        "sentence": "Influenza viruses cause annually recurrent epidemics of\nmoderate-to-severe respiratory disease, frequently associated\nwith genetic variation termed drift and shift (5, 27).",
+        "wordProcessed": "Influenza",
+        "senseFoundByLesk": "an acute febrile highly contagious viral disease"
+    },
+    {
+        "id": 38,
+        "sentence": "These\nviruses present an important diagnostic problem, and the rapid\ndetection, typing, and subtyping of influenza A and B virus\nstrains are of both clinical and epidemiological value.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 39,
+        "sentence": "These\nviruses present an important diagnostic problem, and the rapid\ndetection, typing, and subtyping of influenza A and B virus\nstrains are of both clinical and epidemiological value.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder"
+    },
+    {
+        "id": 40,
+        "sentence": "We\nhave tested this approach and show here that a model DNA\narray can be used to type and subtype influenza A and B virus\nstrains.",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 41,
+        "sentence": "We\nhave tested this approach and show here that a model DNA\narray can be used to type and subtype influenza A and B virus\nstrains.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 42,
+        "sentence": "We\nhave tested this approach and show here that a model DNA\narray can be used to type and subtype influenza A and B virus\nstrains.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "originally thought to be a single vitamin but now separated into several B vitamins"
+    },
+    {
+        "id": 43,
+        "sentence": "This shows that DNA arrays can provide multiply re-\ndundant confirmatory evidence that a PCR product encodes\nthe sequence(s) it is expected to encode.",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 44,
+        "sentence": "MATERIALS AND METHODS\nViruses.",
+        "wordProcessed": "MATERIALS",
+        "senseFoundByLesk": "a person judged suitable for admission or employment"
+    },
+    {
+        "id": 45,
+        "sentence": "MATERIALS AND METHODS\nViruses.",
+        "wordProcessed": "METHODS",
+        "senseFoundByLesk": "an acting technique introduced by Stanislavsky in which the actor recalls emotions or reactions from his or her own life and uses them to identify with the character being portrayed"
+    },
+    {
+        "id": 46,
+        "sentence": "MATERIALS AND METHODS\nViruses.",
+        "wordProcessed": "Viruses",
+        "senseFoundByLesk": "a software program capable of reproducing itself and usually capable of causing great harm to files or other programs on the same computer"
+    },
+    {
+        "id": 47,
+        "sentence": "Human influenza virus strains (Table 1) were obtained from the\nAmerican Type Culture Collection (Manassas, Va.) and propagated where nec-\nessary in 10-day-old embryonated chicken eggs (29).",
+        "wordProcessed": "Human",
+        "senseFoundByLesk": "any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage"
+    },
+    {
+        "id": 48,
+        "sentence": "Human influenza virus strains (Table 1) were obtained from the\nAmerican Type Culture Collection (Manassas, Va.) and propagated where nec-\nessary in 10-day-old embryonated chicken eggs (29).",
+        "wordProcessed": "Type",
+        "senseFoundByLesk": "a small metal block bearing a raised character on one end; produces a printed character when inked and pressed on paper"
+    },
+    {
+        "id": 49,
+        "sentence": "Human influenza virus strains (Table 1) were obtained from the\nAmerican Type Culture Collection (Manassas, Va.) and propagated where nec-\nessary in 10-day-old embryonated chicken eggs (29).",
+        "wordProcessed": "Culture",
+        "senseFoundByLesk": "the tastes in art and manners that are favored by a social group"
+    },
+    {
+        "id": 50,
+        "sentence": "Human influenza virus strains (Table 1) were obtained from the\nAmerican Type Culture Collection (Manassas, Va.) and propagated where nec-\nessary in 10-day-old embryonated chicken eggs (29).",
+        "wordProcessed": "Collection",
+        "senseFoundByLesk": "the act of gathering something together"
+    },
+    {
+        "id": 51,
+        "sentence": "Crude viral RNA was\nextracted as described previously (29) and stored at 70\u00c2\u00b0C.",
+        "wordProcessed": "Crude",
+        "senseFoundByLesk": "a dark oil consisting mainly of hydrocarbons"
+    },
+    {
+        "id": 52,
+        "sentence": "Crude viral RNA was\nextracted as described previously (29) and stored at 70\u00c2\u00b0C.",
+        "wordProcessed": "RNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer of nucleotides found in the nucleus but mainly in the cytoplasm of a cell where it is associated with microsomes; it transmits genetic information from DNA to the cytoplasm and controls certain chemical processes in the cell"
+    },
+    {
+        "id": 53,
+        "sentence": "Mailing address: Department of Molecular\nBiology and Genetics, University of Guelph, Guelph, Ontario N1G\n2W1, Canada.",
+        "wordProcessed": "Department",
+        "senseFoundByLesk": "the territorial and administrative division of some countries (such as France)"
+    },
+    {
+        "id": 54,
+        "sentence": "Mailing address: Department of Molecular\nBiology and Genetics, University of Guelph, Guelph, Ontario N1G\n2W1, Canada.",
+        "wordProcessed": "Biology",
+        "senseFoundByLesk": "all the plant and animal life of a particular region"
+    },
+    {
+        "id": 55,
+        "sentence": "Mailing address: Department of Molecular\nBiology and Genetics, University of Guelph, Guelph, Ontario N1G\n2W1, Canada.",
+        "wordProcessed": "Genetics",
+        "senseFoundByLesk": "the branch of biology that studies heredity and variation in organisms"
+    },
+    {
+        "id": 56,
+        "sentence": "Mailing address: Department of Molecular\nBiology and Genetics, University of Guelph, Guelph, Ontario N1G\n2W1, Canada.",
+        "wordProcessed": "University",
+        "senseFoundByLesk": "a large and diverse institution of higher learning created to educate for life and for a profession and to grant degrees"
+    },
+    {
+        "id": 57,
+        "sentence": "Mailing address: Department of Molecular\nBiology and Genetics, University of Guelph, Guelph, Ontario N1G\n2W1, Canada.",
+        "wordProcessed": "Ontario",
+        "senseFoundByLesk": "a prosperous and industrialized province in central Canada"
+    },
+    {
+        "id": 58,
+        "sentence": "Mailing address: Department of Molecular\nBiology and Genetics, University of Guelph, Guelph, Ontario N1G\n2W1, Canada.",
+        "wordProcessed": "Canada",
+        "senseFoundByLesk": "a nation in northern North America; the French were the first Europeans to settle in mainland Canada"
+    },
+    {
+        "id": 59,
+        "sentence": "696\n\fconserved sequence elements, (ii) each amplicon spans approximately 500 bp,\n(iii) amplified segments collectively encompass an entire gene (thus 1.5 kb of\nvirus DNA sequence required three primer pairs), and (iv) primer melting points\ngenerally fell between 50 and 54\u00c2\u00b0C.",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 60,
+        "sentence": "Reaction mixtures contained 10 pg of RNA, 200 M (each) de-\noxynucleoside triphosphate, 1.5 mM MgCl2, 0.4 M (each) primer, and other\ncomponents as directed by the manufacturer (Titan one-tube reverse transcrip-\ntase PCR [RT-PCR] kit [Roche]).",
+        "wordProcessed": "RNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer of nucleotides found in the nucleus but mainly in the cytoplasm of a cell where it is associated with microsomes; it transmits genetic information from DNA to the cytoplasm and controls certain chemical processes in the cell"
+    },
+    {
+        "id": 61,
+        "sentence": "Reaction mixtures contained 10 pg of RNA, 200 M (each) de-\noxynucleoside triphosphate, 1.5 mM MgCl2, 0.4 M (each) primer, and other\ncomponents as directed by the manufacturer (Titan one-tube reverse transcrip-\ntase PCR [RT-PCR] kit [Roche]).",
+        "wordProcessed": "M",
+        "senseFoundByLesk": "the cardinal number that is the product of 10 and 100"
+    },
+    {
+        "id": 62,
+        "sentence": "Reaction mixtures contained 10 pg of RNA, 200 M (each) de-\noxynucleoside triphosphate, 1.5 mM MgCl2, 0.4 M (each) primer, and other\ncomponents as directed by the manufacturer (Titan one-tube reverse transcrip-\ntase PCR [RT-PCR] kit [Roche]).",
+        "wordProcessed": "M",
+        "senseFoundByLesk": "the cardinal number that is the product of 10 and 100"
+    },
+    {
+        "id": 63,
+        "sentence": "Reaction mixtures contained 10 pg of RNA, 200 M (each) de-\noxynucleoside triphosphate, 1.5 mM MgCl2, 0.4 M (each) primer, and other\ncomponents as directed by the manufacturer (Titan one-tube reverse transcrip-\ntase PCR [RT-PCR] kit [Roche]).",
+        "wordProcessed": "Titan",
+        "senseFoundByLesk": "(Greek mythology) any of the primordial giant gods who ruled the Earth until overthrown by Zeus; the Titans were offspring of Uranus (Heaven) and Gaea (Earth)"
+    },
+    {
+        "id": 64,
+        "sentence": "Reaction mixtures contained 10 pg of RNA, 200 M (each) de-\noxynucleoside triphosphate, 1.5 mM MgCl2, 0.4 M (each) primer, and other\ncomponents as directed by the manufacturer (Titan one-tube reverse transcrip-\ntase PCR [RT-PCR] kit [Roche]).",
+        "wordProcessed": "kit",
+        "senseFoundByLesk": "young of any of various fur-bearing animals"
+    },
+    {
+        "id": 65,
+        "sentence": "PCR-amplified viral cDNAs were subsequently cloned using a Topo TA cloning\nkit (Invitrogen).",
+        "wordProcessed": "TA",
+        "senseFoundByLesk": "a hard grey lustrous metallic element that is highly resistant to corrosion; occurs in niobite and fergusonite and tantalite"
+    },
+    {
+        "id": 66,
+        "sentence": "Preparation of target DNAs.",
+        "wordProcessed": "DNAs",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 67,
+        "sentence": "PCR mixtures (100 l)\ncontained 2 mM MgCl2, 200 M (each) deoxynucleoside triphosphate, 0.4 M\n(each) primer, 1 ng of purified plasmid DNA, 1/10-diluted enzyme buffer, and\n1.5 U of Taq polymerase (Perkin-Elmer).",
+        "wordProcessed": "M",
+        "senseFoundByLesk": "the cardinal number that is the product of 10 and 100"
+    },
+    {
+        "id": 68,
+        "sentence": "PCR mixtures (100 l)\ncontained 2 mM MgCl2, 200 M (each) deoxynucleoside triphosphate, 0.4 M\n(each) primer, 1 ng of purified plasmid DNA, 1/10-diluted enzyme buffer, and\n1.5 U of Taq polymerase (Perkin-Elmer).",
+        "wordProcessed": "M",
+        "senseFoundByLesk": "the cardinal number that is the product of 10 and 100"
+    },
+    {
+        "id": 69,
+        "sentence": "PCR mixtures (100 l)\ncontained 2 mM MgCl2, 200 M (each) deoxynucleoside triphosphate, 0.4 M\n(each) primer, 1 ng of purified plasmid DNA, 1/10-diluted enzyme buffer, and\n1.5 U of Taq polymerase (Perkin-Elmer).",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 70,
+        "sentence": "PCR mixtures (100 l)\ncontained 2 mM MgCl2, 200 M (each) deoxynucleoside triphosphate, 0.4 M\n(each) primer, 1 ng of purified plasmid DNA, 1/10-diluted enzyme buffer, and\n1.5 U of Taq polymerase (Perkin-Elmer).",
+        "wordProcessed": "U",
+        "senseFoundByLesk": "a heavy toxic silvery-white radioactive metallic element; occurs in many isotopes; used for nuclear fuels and nuclear weapons"
+    },
+    {
+        "id": 71,
+        "sentence": "Following 35 thermal cycles (typically\n94\u00c2\u00b0C for 30 s, 52\u00c2\u00b0C for 30 s, 72\u00c2\u00b0C for 1 min) the DNA was purified using\nMicroSpin S-400 columns (Amersham/Pharmacia Biotech), precipitated with\nethanol, resuspended in 30 l of 3 SSC (10 SSC is 87.6 g of NaCl/liter and\n44.1 of sodium citrate/liter, pH 7.0), and the DNA concentration was adjusted to\n300 ng/l for spotting purposes.",
+        "wordProcessed": "Biotech",
+        "senseFoundByLesk": "the branch of molecular biology that studies the use of microorganisms to perform specific industrial processes"
+    },
+    {
+        "id": 72,
+        "sentence": "Following 35 thermal cycles (typically\n94\u00c2\u00b0C for 30 s, 52\u00c2\u00b0C for 30 s, 72\u00c2\u00b0C for 1 min) the DNA was purified using\nMicroSpin S-400 columns (Amersham/Pharmacia Biotech), precipitated with\nethanol, resuspended in 30 l of 3 SSC (10 SSC is 87.6 g of NaCl/liter and\n44.1 of sodium citrate/liter, pH 7.0), and the DNA concentration was adjusted to\n300 ng/l for spotting purposes.",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 73,
+        "sentence": "Amine-tagged target DNAs were distrib-\nuted, in duplicate, into 384-well microtiter plates.",
+        "wordProcessed": "DNAs",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 74,
+        "sentence": "A custom-built arrayer\n(Virtek) was used to spot DNA on aldehyde-activated silylated microscope slides\n(CEL Associates).",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 75,
+        "sentence": "A custom-built arrayer\n(Virtek) was used to spot DNA on aldehyde-activated silylated microscope slides\n(CEL Associates).",
+        "wordProcessed": "Associates",
+        "senseFoundByLesk": "a degree granted by a two-year college on successful completion of the undergraduates course of studies"
+    },
+    {
+        "id": 76,
+        "sentence": "The arrays were rehy-\ndrated for 4 h in a humid atmosphere, dried briefly at 50\u00c2\u00b0C on a heating block,\nwashed once in 0.2% sodium dodecyl sulfate (SDS) and twice in water (1 min\neach), and treated with sodium borohydride (1.0 g of NaBH4 [Sigma] dissolved\nin 300 ml of phosphate-buffered saline plus 100 ml of ethanol [17]) for 5 min.",
+        "wordProcessed": "SDS",
+        "senseFoundByLesk": "a state in north central United States"
+    },
+    {
+        "id": 77,
+        "sentence": "The arrays were rehy-\ndrated for 4 h in a humid atmosphere, dried briefly at 50\u00c2\u00b0C on a heating block,\nwashed once in 0.2% sodium dodecyl sulfate (SDS) and twice in water (1 min\neach), and treated with sodium borohydride (1.0 g of NaBH4 [Sigma] dissolved\nin 300 ml of phosphate-buffered saline plus 100 ml of ethanol [17]) for 5 min.",
+        "wordProcessed": "Sigma",
+        "senseFoundByLesk": "the 18th letter of the Greek alphabet"
+    },
+    {
+        "id": 78,
+        "sentence": "The\nDNA was denatured in water (2 min at 95\u00c2\u00b0C) and then washed again (once in\n0.2% SDS and once in water [1 min each]).",
+        "wordProcessed": "SDS",
+        "senseFoundByLesk": "a state in north central United States"
+    },
+    {
+        "id": 79,
+        "sentence": "Probe preparation and multiplex PCR.",
+        "wordProcessed": "Probe",
+        "senseFoundByLesk": "an investigation conducted using a flexible surgical instrument to explore an injury or a body cavity"
+    },
+    {
+        "id": 80,
+        "sentence": "Two methods for incorporating fluoro-\nlinked Cy3- and/or Cy5-dCTP (Amersham/Pharmacia Biotech) into fluorescent\nprobes were devised.",
+        "wordProcessed": "Biotech",
+        "senseFoundByLesk": "the branch of molecular biology that studies the use of microorganisms to perform specific industrial processes"
+    },
+    {
+        "id": 81,
+        "sentence": "The simplest method involved adding 20 M Cy3- or Cy5-\ndCTP to a standard 100-l PCR mixture containing Taq polymerase; 200 M\n(each) dATP, dGTP, and TTP plus 100 M dCTP; and a single primer pair (see\nabove).",
+        "wordProcessed": "M",
+        "senseFoundByLesk": "a unit of information equal to 1024 kibibytes or 2^20 (1,048,576) bytes"
+    },
+    {
+        "id": 82,
+        "sentence": "The simplest method involved adding 20 M Cy3- or Cy5-\ndCTP to a standard 100-l PCR mixture containing Taq polymerase; 200 M\n(each) dATP, dGTP, and TTP plus 100 M dCTP; and a single primer pair (see\nabove).",
+        "wordProcessed": "M",
+        "senseFoundByLesk": "a unit of information equal to 1024 kibibytes or 2^20 (1,048,576) bytes"
+    },
+    {
+        "id": 83,
+        "sentence": "The simplest method involved adding 20 M Cy3- or Cy5-\ndCTP to a standard 100-l PCR mixture containing Taq polymerase; 200 M\n(each) dATP, dGTP, and TTP plus 100 M dCTP; and a single primer pair (see\nabove).",
+        "wordProcessed": "M",
+        "senseFoundByLesk": "a unit of information equal to 1024 kibibytes or 2^20 (1,048,576) bytes"
+    },
+    {
+        "id": 84,
+        "sentence": "In subsequent experiments, probes were prepared using multiplex RT-\nPCR mixtures also supplemented with 20 M Cy3- or Cy5-dCTP.",
+        "wordProcessed": "M",
+        "senseFoundByLesk": "a unit of information equal to 1024 kibibytes or 2^20 (1,048,576) bytes"
+    },
+    {
+        "id": 85,
+        "sentence": "In this case the\nprimers were combined into three different groups, but in such a way that the\ncombination of primers ensured that one influenza virus subtype could be am-\nplified no matter which viral RNA or cloned cDNA was present.",
+        "wordProcessed": "RNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer of nucleotides found in the nucleus but mainly in the cytoplasm of a cell where it is associated with microsomes; it transmits genetic information from DNA to the cytoplasm and controls certain chemical processes in the cell"
+    },
+    {
+        "id": 86,
+        "sentence": "Microarrays were prehybridized in 20 l of\nDIG Easy Hyb (Roche) containing 5 g of denatured salmon sperm DNA at\n62\u00c2\u00b0C for 1 h under a 12- by 12-mm coverslip.",
+        "wordProcessed": "DIG",
+        "senseFoundByLesk": "a small gouge (as in the cover of a book)"
+    },
+    {
+        "id": 87,
+        "sentence": "A fresh\nsolution of DIG Easy Hyb, containing 5 l of denatured fluorescent probe plus\n5 g of salmon sperm DNA in a total volume of 20 l, was then applied to the\narray and overlaid with a 12- by 12-mm coverslip.",
+        "wordProcessed": "DIG",
+        "senseFoundByLesk": "a small gouge (as in the cover of a book)"
+    },
+    {
+        "id": 88,
+        "sentence": "The arrays were incubated\novernight at 58 to 62\u00c2\u00b0C in a humid chamber and then washed for 5 min at 20\u00c2\u00b0C\nin 1 SSC\u00c2\u00ad0.1% SDS followed by 0.1 SSC\u00c2\u00ad0.1% SDS.",
+        "wordProcessed": "SDS",
+        "senseFoundByLesk": "a state in north central United States"
+    },
+    {
+        "id": 89,
+        "sentence": "The arrays were incubated\novernight at 58 to 62\u00c2\u00b0C in a humid chamber and then washed for 5 min at 20\u00c2\u00b0C\nin 1 SSC\u00c2\u00ad0.1% SDS followed by 0.1 SSC\u00c2\u00ad0.1% SDS.",
+        "wordProcessed": "SDS",
+        "senseFoundByLesk": "a state in north central United States"
+    },
+    {
+        "id": 90,
+        "sentence": "Arrays were analyzed using GenePix\n(Axon Instruments) or ChipReader (Virtek) confocal scanners, and the fluores-\ncence was quantitated using ImaGene software (Biodiscovery).",
+        "wordProcessed": "Axon",
+        "senseFoundByLesk": "long nerve fiber that conducts away from the cell body of the neuron"
+    },
+    {
+        "id": 91,
+        "sentence": "Arrays were analyzed using GenePix\n(Axon Instruments) or ChipReader (Virtek) confocal scanners, and the fluores-\ncence was quantitated using ImaGene software (Biodiscovery).",
+        "wordProcessed": "Instruments",
+        "senseFoundByLesk": "the semantic role of the entity (usually inanimate) that the agent uses to perform an action or start a process"
+    },
+    {
+        "id": 92,
+        "sentence": "Gain settings\nproduced a linear detector response.",
+        "wordProcessed": "Gain",
+        "senseFoundByLesk": "the amount by which the revenue of a business exceeds its cost of operating"
+    },
+    {
+        "id": 93,
+        "sentence": "A \"glass\" background fluorescence reading\nwas measured in the region surrounding each spot and subtracted, and the\nintensity was normalized to produce an average fluorescence reading at all\nnonhomologous spot positions equal to 50 U.",
+        "wordProcessed": "U",
+        "senseFoundByLesk": "a heavy toxic silvery-white radioactive metallic element; occurs in many isotopes; used for nuclear fuels and nuclear weapons"
+    },
+    {
+        "id": 94,
+        "sentence": "Nucleotide sequence accession numbers.",
+        "wordProcessed": "Nucleotide",
+        "senseFoundByLesk": "a phosphoric ester of a nucleoside; the basic structural unit of nucleic acids (DNA or RNA)"
+    },
+    {
+        "id": 95,
+        "sentence": "RESULTS\nViral genetic targets.",
+        "wordProcessed": "RESULTS",
+        "senseFoundByLesk": "a statement that solves a problem or explains how to solve the problem"
+    },
+    {
+        "id": 96,
+        "sentence": "Three types of human influenza viruses\nare commonly encountered (A, B, and C), of which the A and\nB types are of primary clinical interest.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 97,
+        "sentence": "Three types of human influenza viruses\nare commonly encountered (A, B, and C), of which the A and\nB types are of primary clinical interest.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder"
+    },
+    {
+        "id": 98,
+        "sentence": "Three types of human influenza viruses\nare commonly encountered (A, B, and C), of which the A and\nB types are of primary clinical interest.",
+        "wordProcessed": "C",
+        "senseFoundByLesk": "the speed at which light travels in a vacuum; the constancy and universality of the speed of light is recognized by defining it to be exactly 299,792,458 meters per second"
+    },
+    {
+        "id": 99,
+        "sentence": "Three types of human influenza viruses\nare commonly encountered (A, B, and C), of which the A and\nB types are of primary clinical interest.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 100,
+        "sentence": "Three types of human influenza viruses\nare commonly encountered (A, B, and C), of which the A and\nB types are of primary clinical interest.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder"
+    },
+    {
+        "id": 101,
+        "sentence": "Type A strains are\nfurther subtyped as encoding one of three different hemagglu-\ntinins (HAs; H1, H2, or H3) and one of two different neura-\nminidases (N1 or N2).",
+        "wordProcessed": "HAs",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 102,
+        "sentence": "The HA and neuraminidase (NA) genes\nare principal pathogenic determinants that reside on separate\nsubgenomic segments, and it is genetic reassortment of these\nsegments which creates the six primary human influenza A\nvirus subtypes which change over decades.",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 103,
+        "sentence": "The HA and neuraminidase (NA) genes\nare principal pathogenic determinants that reside on separate\nsubgenomic segments, and it is genetic reassortment of these\nsegments which creates the six primary human influenza A\nvirus subtypes which change over decades.",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 104,
+        "sentence": "The HA and neuraminidase (NA) genes\nare principal pathogenic determinants that reside on separate\nsubgenomic segments, and it is genetic reassortment of these\nsegments which creates the six primary human influenza A\nvirus subtypes which change over decades.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 105,
+        "sentence": "Human type B\nTABLE 1.",
+        "wordProcessed": "Human",
+        "senseFoundByLesk": "any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage"
+    },
+    {
+        "id": 106,
+        "sentence": "Human type B\nTABLE 1.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "the blood group whose red cells carry the B antigen"
+    },
+    {
+        "id": 107,
+        "sentence": "Human type B\nTABLE 1.",
+        "wordProcessed": "TABLE",
+        "senseFoundByLesk": "a company of people assembled at a table for a meal or game"
+    },
+    {
+        "id": 108,
+        "sentence": "Human influenza viruses used in this study\nVirus Subtype\nGenBank accession no.",
+        "wordProcessed": "Human",
+        "senseFoundByLesk": "any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage"
+    },
+    {
+        "id": 109,
+        "sentence": "Human influenza viruses used in this study\nVirus Subtype\nGenBank accession no.",
+        "wordProcessed": "Virus",
+        "senseFoundByLesk": "(virology) ultramicroscopic infectious agent that replicates itself only within cells of living hosts; many are pathogenic; a piece of nucleic acid (DNA or RNA) wrapped in a thin coat of protein"
+    },
+    {
+        "id": 110,
+        "sentence": "of virus gene: DNAa\nHA NA MP Arrayed Hybridized\nA/New Jersey/8/76 H1N1 n/ab\nM27970 n/a HA1, NA1\nA/Denver/1/57 H1N1 AF305218c\nAF305216c\nAF305217c\nHA1, NA1, MP\nA/Japan/305/57 H2N2 L20406 n/a n/a HA2, NA2-3\nA/Victoria/3/75 H3N2 V01098 J02173 n/a HA3 HA3, NA2, MP\nA/Port Chalmers/1/73 H3N2 AF092062 n/a X08092 NA2-1, NA2-2, MP\nB/Maryland/1/59 K00424 M30633 n/a HA, NA, MP\nB/Hong Kong/5/72 AF305219c\nAF305220c\nn/a HA, NA, MP\na\nUnless otherwise indicated, all DNA subfragments derived from the indicated virus.",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 111,
+        "sentence": "of virus gene: DNAa\nHA NA MP Arrayed Hybridized\nA/New Jersey/8/76 H1N1 n/ab\nM27970 n/a HA1, NA1\nA/Denver/1/57 H1N1 AF305218c\nAF305216c\nAF305217c\nHA1, NA1, MP\nA/Japan/305/57 H2N2 L20406 n/a n/a HA2, NA2-3\nA/Victoria/3/75 H3N2 V01098 J02173 n/a HA3 HA3, NA2, MP\nA/Port Chalmers/1/73 H3N2 AF092062 n/a X08092 NA2-1, NA2-2, MP\nB/Maryland/1/59 K00424 M30633 n/a HA, NA, MP\nB/Hong Kong/5/72 AF305219c\nAF305220c\nn/a HA, NA, MP\na\nUnless otherwise indicated, all DNA subfragments derived from the indicated virus.",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 112,
+        "sentence": "of virus gene: DNAa\nHA NA MP Arrayed Hybridized\nA/New Jersey/8/76 H1N1 n/ab\nM27970 n/a HA1, NA1\nA/Denver/1/57 H1N1 AF305218c\nAF305216c\nAF305217c\nHA1, NA1, MP\nA/Japan/305/57 H2N2 L20406 n/a n/a HA2, NA2-3\nA/Victoria/3/75 H3N2 V01098 J02173 n/a HA3 HA3, NA2, MP\nA/Port Chalmers/1/73 H3N2 AF092062 n/a X08092 NA2-1, NA2-2, MP\nB/Maryland/1/59 K00424 M30633 n/a HA, NA, MP\nB/Hong Kong/5/72 AF305219c\nAF305220c\nn/a HA, NA, MP\na\nUnless otherwise indicated, all DNA subfragments derived from the indicated virus.",
+        "wordProcessed": "MP",
+        "senseFoundByLesk": "a member of the military police who polices soldiers and guards prisoners"
+    },
+    {
+        "id": 113,
+        "sentence": "of virus gene: DNAa\nHA NA MP Arrayed Hybridized\nA/New Jersey/8/76 H1N1 n/ab\nM27970 n/a HA1, NA1\nA/Denver/1/57 H1N1 AF305218c\nAF305216c\nAF305217c\nHA1, NA1, MP\nA/Japan/305/57 H2N2 L20406 n/a n/a HA2, NA2-3\nA/Victoria/3/75 H3N2 V01098 J02173 n/a HA3 HA3, NA2, MP\nA/Port Chalmers/1/73 H3N2 AF092062 n/a X08092 NA2-1, NA2-2, MP\nB/Maryland/1/59 K00424 M30633 n/a HA, NA, MP\nB/Hong Kong/5/72 AF305219c\nAF305220c\nn/a HA, NA, MP\na\nUnless otherwise indicated, all DNA subfragments derived from the indicated virus.",
+        "wordProcessed": "MP",
+        "senseFoundByLesk": "a member of the military police who polices soldiers and guards prisoners"
+    },
+    {
+        "id": 114,
+        "sentence": "of virus gene: DNAa\nHA NA MP Arrayed Hybridized\nA/New Jersey/8/76 H1N1 n/ab\nM27970 n/a HA1, NA1\nA/Denver/1/57 H1N1 AF305218c\nAF305216c\nAF305217c\nHA1, NA1, MP\nA/Japan/305/57 H2N2 L20406 n/a n/a HA2, NA2-3\nA/Victoria/3/75 H3N2 V01098 J02173 n/a HA3 HA3, NA2, MP\nA/Port Chalmers/1/73 H3N2 AF092062 n/a X08092 NA2-1, NA2-2, MP\nB/Maryland/1/59 K00424 M30633 n/a HA, NA, MP\nB/Hong Kong/5/72 AF305219c\nAF305220c\nn/a HA, NA, MP\na\nUnless otherwise indicated, all DNA subfragments derived from the indicated virus.",
+        "wordProcessed": "MP",
+        "senseFoundByLesk": "a member of the military police who polices soldiers and guards prisoners"
+    },
+    {
+        "id": 115,
+        "sentence": "of virus gene: DNAa\nHA NA MP Arrayed Hybridized\nA/New Jersey/8/76 H1N1 n/ab\nM27970 n/a HA1, NA1\nA/Denver/1/57 H1N1 AF305218c\nAF305216c\nAF305217c\nHA1, NA1, MP\nA/Japan/305/57 H2N2 L20406 n/a n/a HA2, NA2-3\nA/Victoria/3/75 H3N2 V01098 J02173 n/a HA3 HA3, NA2, MP\nA/Port Chalmers/1/73 H3N2 AF092062 n/a X08092 NA2-1, NA2-2, MP\nB/Maryland/1/59 K00424 M30633 n/a HA, NA, MP\nB/Hong Kong/5/72 AF305219c\nAF305220c\nn/a HA, NA, MP\na\nUnless otherwise indicated, all DNA subfragments derived from the indicated virus.",
+        "wordProcessed": "MP",
+        "senseFoundByLesk": "a member of the military police who polices soldiers and guards prisoners"
+    },
+    {
+        "id": 116,
+        "sentence": "of virus gene: DNAa\nHA NA MP Arrayed Hybridized\nA/New Jersey/8/76 H1N1 n/ab\nM27970 n/a HA1, NA1\nA/Denver/1/57 H1N1 AF305218c\nAF305216c\nAF305217c\nHA1, NA1, MP\nA/Japan/305/57 H2N2 L20406 n/a n/a HA2, NA2-3\nA/Victoria/3/75 H3N2 V01098 J02173 n/a HA3 HA3, NA2, MP\nA/Port Chalmers/1/73 H3N2 AF092062 n/a X08092 NA2-1, NA2-2, MP\nB/Maryland/1/59 K00424 M30633 n/a HA, NA, MP\nB/Hong Kong/5/72 AF305219c\nAF305220c\nn/a HA, NA, MP\na\nUnless otherwise indicated, all DNA subfragments derived from the indicated virus.",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 117,
+        "sentence": "of virus gene: DNAa\nHA NA MP Arrayed Hybridized\nA/New Jersey/8/76 H1N1 n/ab\nM27970 n/a HA1, NA1\nA/Denver/1/57 H1N1 AF305218c\nAF305216c\nAF305217c\nHA1, NA1, MP\nA/Japan/305/57 H2N2 L20406 n/a n/a HA2, NA2-3\nA/Victoria/3/75 H3N2 V01098 J02173 n/a HA3 HA3, NA2, MP\nA/Port Chalmers/1/73 H3N2 AF092062 n/a X08092 NA2-1, NA2-2, MP\nB/Maryland/1/59 K00424 M30633 n/a HA, NA, MP\nB/Hong Kong/5/72 AF305219c\nAF305220c\nn/a HA, NA, MP\na\nUnless otherwise indicated, all DNA subfragments derived from the indicated virus.",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 118,
+        "sentence": "of virus gene: DNAa\nHA NA MP Arrayed Hybridized\nA/New Jersey/8/76 H1N1 n/ab\nM27970 n/a HA1, NA1\nA/Denver/1/57 H1N1 AF305218c\nAF305216c\nAF305217c\nHA1, NA1, MP\nA/Japan/305/57 H2N2 L20406 n/a n/a HA2, NA2-3\nA/Victoria/3/75 H3N2 V01098 J02173 n/a HA3 HA3, NA2, MP\nA/Port Chalmers/1/73 H3N2 AF092062 n/a X08092 NA2-1, NA2-2, MP\nB/Maryland/1/59 K00424 M30633 n/a HA, NA, MP\nB/Hong Kong/5/72 AF305219c\nAF305220c\nn/a HA, NA, MP\na\nUnless otherwise indicated, all DNA subfragments derived from the indicated virus.",
+        "wordProcessed": "MP",
+        "senseFoundByLesk": "a member of the military police who polices soldiers and guards prisoners"
+    },
+    {
+        "id": 119,
+        "sentence": "of virus gene: DNAa\nHA NA MP Arrayed Hybridized\nA/New Jersey/8/76 H1N1 n/ab\nM27970 n/a HA1, NA1\nA/Denver/1/57 H1N1 AF305218c\nAF305216c\nAF305217c\nHA1, NA1, MP\nA/Japan/305/57 H2N2 L20406 n/a n/a HA2, NA2-3\nA/Victoria/3/75 H3N2 V01098 J02173 n/a HA3 HA3, NA2, MP\nA/Port Chalmers/1/73 H3N2 AF092062 n/a X08092 NA2-1, NA2-2, MP\nB/Maryland/1/59 K00424 M30633 n/a HA, NA, MP\nB/Hong Kong/5/72 AF305219c\nAF305220c\nn/a HA, NA, MP\na\nUnless otherwise indicated, all DNA subfragments derived from the indicated virus.",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 120,
+        "sentence": "of virus gene: DNAa\nHA NA MP Arrayed Hybridized\nA/New Jersey/8/76 H1N1 n/ab\nM27970 n/a HA1, NA1\nA/Denver/1/57 H1N1 AF305218c\nAF305216c\nAF305217c\nHA1, NA1, MP\nA/Japan/305/57 H2N2 L20406 n/a n/a HA2, NA2-3\nA/Victoria/3/75 H3N2 V01098 J02173 n/a HA3 HA3, NA2, MP\nA/Port Chalmers/1/73 H3N2 AF092062 n/a X08092 NA2-1, NA2-2, MP\nB/Maryland/1/59 K00424 M30633 n/a HA, NA, MP\nB/Hong Kong/5/72 AF305219c\nAF305220c\nn/a HA, NA, MP\na\nUnless otherwise indicated, all DNA subfragments derived from the indicated virus.",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 121,
+        "sentence": "of virus gene: DNAa\nHA NA MP Arrayed Hybridized\nA/New Jersey/8/76 H1N1 n/ab\nM27970 n/a HA1, NA1\nA/Denver/1/57 H1N1 AF305218c\nAF305216c\nAF305217c\nHA1, NA1, MP\nA/Japan/305/57 H2N2 L20406 n/a n/a HA2, NA2-3\nA/Victoria/3/75 H3N2 V01098 J02173 n/a HA3 HA3, NA2, MP\nA/Port Chalmers/1/73 H3N2 AF092062 n/a X08092 NA2-1, NA2-2, MP\nB/Maryland/1/59 K00424 M30633 n/a HA, NA, MP\nB/Hong Kong/5/72 AF305219c\nAF305220c\nn/a HA, NA, MP\na\nUnless otherwise indicated, all DNA subfragments derived from the indicated virus.",
+        "wordProcessed": "MP",
+        "senseFoundByLesk": "a member of the military police who polices soldiers and guards prisoners"
+    },
+    {
+        "id": 122,
+        "sentence": "of virus gene: DNAa\nHA NA MP Arrayed Hybridized\nA/New Jersey/8/76 H1N1 n/ab\nM27970 n/a HA1, NA1\nA/Denver/1/57 H1N1 AF305218c\nAF305216c\nAF305217c\nHA1, NA1, MP\nA/Japan/305/57 H2N2 L20406 n/a n/a HA2, NA2-3\nA/Victoria/3/75 H3N2 V01098 J02173 n/a HA3 HA3, NA2, MP\nA/Port Chalmers/1/73 H3N2 AF092062 n/a X08092 NA2-1, NA2-2, MP\nB/Maryland/1/59 K00424 M30633 n/a HA, NA, MP\nB/Hong Kong/5/72 AF305219c\nAF305220c\nn/a HA, NA, MP\na\nUnless otherwise indicated, all DNA subfragments derived from the indicated virus.",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 123,
+        "sentence": "b\nn/a, not available by April 2000.\nc\nNot available by April 2000.",
+        "wordProcessed": "April",
+        "senseFoundByLesk": "the month following March and preceding May"
+    },
+    {
+        "id": 124,
+        "sentence": "b\nn/a, not available by April 2000.\nc\nNot available by April 2000.",
+        "wordProcessed": "April",
+        "senseFoundByLesk": "the month following March and preceding May"
+    },
+    {
+        "id": 125,
+        "sentence": "Virus sequences used in primer design\nVirus gene\nRepresentative\nstrain\nAccession\nno.",
+        "wordProcessed": "Virus",
+        "senseFoundByLesk": "(virology) ultramicroscopic infectious agent that replicates itself only within cells of living hosts; many are pathogenic; a piece of nucleic acid (DNA or RNA) wrapped in a thin coat of protein"
+    },
+    {
+        "id": 126,
+        "sentence": "Virus sequences used in primer design\nVirus gene\nRepresentative\nstrain\nAccession\nno.",
+        "wordProcessed": "Virus",
+        "senseFoundByLesk": "(virology) ultramicroscopic infectious agent that replicates itself only within cells of living hosts; many are pathogenic; a piece of nucleic acid (DNA or RNA) wrapped in a thin coat of protein"
+    },
+    {
+        "id": 127,
+        "sentence": "Virus sequences used in primer design\nVirus gene\nRepresentative\nstrain\nAccession\nno.",
+        "wordProcessed": "Representative",
+        "senseFoundByLesk": "an advocate who represents someone else's policy or purpose"
+    },
+    {
+        "id": 128,
+        "sentence": "Virus sequences used in primer design\nVirus gene\nRepresentative\nstrain\nAccession\nno.",
+        "wordProcessed": "Accession",
+        "senseFoundByLesk": "the right to enter"
+    },
+    {
+        "id": 129,
+        "sentence": "Sequence\nidentity (%)a\nInfluenza A virus\nHA-1 A/Kiev/59/79 M38353 89\u00c2\u00ad98\nHA-2 A/Singapore/1/57 L20410 95\u00c2\u00ad99\nHA-3 A/Aichi/2/68 J02090 87\u00c2\u00ad99\nNA-1 A/WS/33 L25816 81\u00c2\u00ad99\nNA-2 A/Victoria/3/75 J02173 92\u00c2\u00ad99\nMP A/PR/8/34 V01099 89\u00c2\u00ad100\nInfluenza B virus\nHA B/Singapore/222/79 X00897 95\u00c2\u00ad99\nNA B/Hong Kong/8/73 M30631 93\u00c2\u00ad98\nMP B/Lee/40 J02094 91\u00c2\u00ad94\na\nDegree of nucleotide sequence variation compared with other influenza gene\nhomologs in the NCBI database.",
+        "wordProcessed": "Influenza",
+        "senseFoundByLesk": "an acute febrile highly contagious viral disease"
+    },
+    {
+        "id": 130,
+        "sentence": "Sequence\nidentity (%)a\nInfluenza A virus\nHA-1 A/Kiev/59/79 M38353 89\u00c2\u00ad98\nHA-2 A/Singapore/1/57 L20410 95\u00c2\u00ad99\nHA-3 A/Aichi/2/68 J02090 87\u00c2\u00ad99\nNA-1 A/WS/33 L25816 81\u00c2\u00ad99\nNA-2 A/Victoria/3/75 J02173 92\u00c2\u00ad99\nMP A/PR/8/34 V01099 89\u00c2\u00ad100\nInfluenza B virus\nHA B/Singapore/222/79 X00897 95\u00c2\u00ad99\nNA B/Hong Kong/8/73 M30631 93\u00c2\u00ad98\nMP B/Lee/40 J02094 91\u00c2\u00ad94\na\nDegree of nucleotide sequence variation compared with other influenza gene\nhomologs in the NCBI database.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 131,
+        "sentence": "Sequence\nidentity (%)a\nInfluenza A virus\nHA-1 A/Kiev/59/79 M38353 89\u00c2\u00ad98\nHA-2 A/Singapore/1/57 L20410 95\u00c2\u00ad99\nHA-3 A/Aichi/2/68 J02090 87\u00c2\u00ad99\nNA-1 A/WS/33 L25816 81\u00c2\u00ad99\nNA-2 A/Victoria/3/75 J02173 92\u00c2\u00ad99\nMP A/PR/8/34 V01099 89\u00c2\u00ad100\nInfluenza B virus\nHA B/Singapore/222/79 X00897 95\u00c2\u00ad99\nNA B/Hong Kong/8/73 M30631 93\u00c2\u00ad98\nMP B/Lee/40 J02094 91\u00c2\u00ad94\na\nDegree of nucleotide sequence variation compared with other influenza gene\nhomologs in the NCBI database.",
+        "wordProcessed": "MP",
+        "senseFoundByLesk": "a member of the military police who polices soldiers and guards prisoners"
+    },
+    {
+        "id": 132,
+        "sentence": "Sequence\nidentity (%)a\nInfluenza A virus\nHA-1 A/Kiev/59/79 M38353 89\u00c2\u00ad98\nHA-2 A/Singapore/1/57 L20410 95\u00c2\u00ad99\nHA-3 A/Aichi/2/68 J02090 87\u00c2\u00ad99\nNA-1 A/WS/33 L25816 81\u00c2\u00ad99\nNA-2 A/Victoria/3/75 J02173 92\u00c2\u00ad99\nMP A/PR/8/34 V01099 89\u00c2\u00ad100\nInfluenza B virus\nHA B/Singapore/222/79 X00897 95\u00c2\u00ad99\nNA B/Hong Kong/8/73 M30631 93\u00c2\u00ad98\nMP B/Lee/40 J02094 91\u00c2\u00ad94\na\nDegree of nucleotide sequence variation compared with other influenza gene\nhomologs in the NCBI database.",
+        "wordProcessed": "Influenza",
+        "senseFoundByLesk": "an acute febrile highly contagious viral disease"
+    },
+    {
+        "id": 133,
+        "sentence": "Sequence\nidentity (%)a\nInfluenza A virus\nHA-1 A/Kiev/59/79 M38353 89\u00c2\u00ad98\nHA-2 A/Singapore/1/57 L20410 95\u00c2\u00ad99\nHA-3 A/Aichi/2/68 J02090 87\u00c2\u00ad99\nNA-1 A/WS/33 L25816 81\u00c2\u00ad99\nNA-2 A/Victoria/3/75 J02173 92\u00c2\u00ad99\nMP A/PR/8/34 V01099 89\u00c2\u00ad100\nInfluenza B virus\nHA B/Singapore/222/79 X00897 95\u00c2\u00ad99\nNA B/Hong Kong/8/73 M30631 93\u00c2\u00ad98\nMP B/Lee/40 J02094 91\u00c2\u00ad94\na\nDegree of nucleotide sequence variation compared with other influenza gene\nhomologs in the NCBI database.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder"
+    },
+    {
+        "id": 134,
+        "sentence": "Sequence\nidentity (%)a\nInfluenza A virus\nHA-1 A/Kiev/59/79 M38353 89\u00c2\u00ad98\nHA-2 A/Singapore/1/57 L20410 95\u00c2\u00ad99\nHA-3 A/Aichi/2/68 J02090 87\u00c2\u00ad99\nNA-1 A/WS/33 L25816 81\u00c2\u00ad99\nNA-2 A/Victoria/3/75 J02173 92\u00c2\u00ad99\nMP A/PR/8/34 V01099 89\u00c2\u00ad100\nInfluenza B virus\nHA B/Singapore/222/79 X00897 95\u00c2\u00ad99\nNA B/Hong Kong/8/73 M30631 93\u00c2\u00ad98\nMP B/Lee/40 J02094 91\u00c2\u00ad94\na\nDegree of nucleotide sequence variation compared with other influenza gene\nhomologs in the NCBI database.",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 135,
+        "sentence": "Sequence\nidentity (%)a\nInfluenza A virus\nHA-1 A/Kiev/59/79 M38353 89\u00c2\u00ad98\nHA-2 A/Singapore/1/57 L20410 95\u00c2\u00ad99\nHA-3 A/Aichi/2/68 J02090 87\u00c2\u00ad99\nNA-1 A/WS/33 L25816 81\u00c2\u00ad99\nNA-2 A/Victoria/3/75 J02173 92\u00c2\u00ad99\nMP A/PR/8/34 V01099 89\u00c2\u00ad100\nInfluenza B virus\nHA B/Singapore/222/79 X00897 95\u00c2\u00ad99\nNA B/Hong Kong/8/73 M30631 93\u00c2\u00ad98\nMP B/Lee/40 J02094 91\u00c2\u00ad94\na\nDegree of nucleotide sequence variation compared with other influenza gene\nhomologs in the NCBI database.",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 136,
+        "sentence": "Sequence\nidentity (%)a\nInfluenza A virus\nHA-1 A/Kiev/59/79 M38353 89\u00c2\u00ad98\nHA-2 A/Singapore/1/57 L20410 95\u00c2\u00ad99\nHA-3 A/Aichi/2/68 J02090 87\u00c2\u00ad99\nNA-1 A/WS/33 L25816 81\u00c2\u00ad99\nNA-2 A/Victoria/3/75 J02173 92\u00c2\u00ad99\nMP A/PR/8/34 V01099 89\u00c2\u00ad100\nInfluenza B virus\nHA B/Singapore/222/79 X00897 95\u00c2\u00ad99\nNA B/Hong Kong/8/73 M30631 93\u00c2\u00ad98\nMP B/Lee/40 J02094 91\u00c2\u00ad94\na\nDegree of nucleotide sequence variation compared with other influenza gene\nhomologs in the NCBI database.",
+        "wordProcessed": "MP",
+        "senseFoundByLesk": "a member of the military police who polices soldiers and guards prisoners"
+    },
+    {
+        "id": 137,
+        "sentence": "Sequence\nidentity (%)a\nInfluenza A virus\nHA-1 A/Kiev/59/79 M38353 89\u00c2\u00ad98\nHA-2 A/Singapore/1/57 L20410 95\u00c2\u00ad99\nHA-3 A/Aichi/2/68 J02090 87\u00c2\u00ad99\nNA-1 A/WS/33 L25816 81\u00c2\u00ad99\nNA-2 A/Victoria/3/75 J02173 92\u00c2\u00ad99\nMP A/PR/8/34 V01099 89\u00c2\u00ad100\nInfluenza B virus\nHA B/Singapore/222/79 X00897 95\u00c2\u00ad99\nNA B/Hong Kong/8/73 M30631 93\u00c2\u00ad98\nMP B/Lee/40 J02094 91\u00c2\u00ad94\na\nDegree of nucleotide sequence variation compared with other influenza gene\nhomologs in the NCBI database.",
+        "wordProcessed": "Degree",
+        "senseFoundByLesk": "the seriousness of something (e.g., a burn or crime)"
+    },
+    {
+        "id": 138,
+        "sentence": "39, 2001 DNA ARRAY DETECTION OF INFLUENZA VIRUSES 697\n\fFIG.",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 139,
+        "sentence": "39, 2001 DNA ARRAY DETECTION OF INFLUENZA VIRUSES 697\n\fFIG.",
+        "wordProcessed": "ARRAY",
+        "senseFoundByLesk": "an arrangement of aerials spaced to give desired directional characteristics"
+    },
+    {
+        "id": 140,
+        "sentence": "39, 2001 DNA ARRAY DETECTION OF INFLUENZA VIRUSES 697\n\fFIG.",
+        "wordProcessed": "DETECTION",
+        "senseFoundByLesk": "the detection that a signal is being received"
+    },
+    {
+        "id": 141,
+        "sentence": "39, 2001 DNA ARRAY DETECTION OF INFLUENZA VIRUSES 697\n\fFIG.",
+        "wordProcessed": "INFLUENZA",
+        "senseFoundByLesk": "an acute febrile highly contagious viral disease"
+    },
+    {
+        "id": 142,
+        "sentence": "39, 2001 DNA ARRAY DETECTION OF INFLUENZA VIRUSES 697\n\fFIG.",
+        "wordProcessed": "VIRUSES",
+        "senseFoundByLesk": "a software program capable of reproducing itself and usually capable of causing great harm to files or other programs on the same computer"
+    },
+    {
+        "id": 143,
+        "sentence": "39, 2001 DNA ARRAY DETECTION OF INFLUENZA VIRUSES 697\n\fFIG.",
+        "wordProcessed": "FIG",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 144,
+        "sentence": "DNA targets were spotted in duplicate in an eight-by-eight grid,\nand bound probes were detected using confocal fluorescence microscopy.",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 145,
+        "sentence": "The single array shown in panels 8 and 9 was hybridized to a mixture of Cy3-labeled\n698 LI ET AL.",
+        "wordProcessed": "LI",
+        "senseFoundByLesk": "a soft silver-white univalent element of the alkali metal group; the lightest metal known; occurs in several minerals"
+    },
+    {
+        "id": 146,
+        "sentence": "The single array shown in panels 8 and 9 was hybridized to a mixture of Cy3-labeled\n698 LI ET AL.",
+        "wordProcessed": "AL",
+        "senseFoundByLesk": "a state in the southeastern United States on the Gulf of Mexico; one of the Confederate states during the American Civil War"
+    },
+    {
+        "id": 147,
+        "sentence": "influenza virus strains also encode HA and NA genes, but only\na single major genetic variant of each is commonly encoun-\ntered.",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 148,
+        "sentence": "influenza virus strains also encode HA and NA genes, but only\na single major genetic variant of each is commonly encoun-\ntered.",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 149,
+        "sentence": "Thus the typing and subtyping of influenza A and B virus\nstrains require an ability to detect at least four HA and three\nNA genes plus their drifted allelic variants.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 150,
+        "sentence": "Thus the typing and subtyping of influenza A and B virus\nstrains require an ability to detect at least four HA and three\nNA genes plus their drifted allelic variants.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "(physics) a unit of nuclear cross section; the effective circular area that one particle presents to another as a target for an encounter"
+    },
+    {
+        "id": 151,
+        "sentence": "Thus the typing and subtyping of influenza A and B virus\nstrains require an ability to detect at least four HA and three\nNA genes plus their drifted allelic variants.",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 152,
+        "sentence": "Thus the typing and subtyping of influenza A and B virus\nstrains require an ability to detect at least four HA and three\nNA genes plus their drifted allelic variants.",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 153,
+        "sentence": "Other viral genes\nare also useful in differentiating influenza A and B virus strains\nand offer the advantage of being more genetically stable.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 154,
+        "sentence": "Other viral genes\nare also useful in differentiating influenza A and B virus strains\nand offer the advantage of being more genetically stable.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder"
+    },
+    {
+        "id": 155,
+        "sentence": "In\nthis regard we have previously used the influenza matrix pro-\ntein (MP) gene as a PCR target.",
+        "wordProcessed": "MP",
+        "senseFoundByLesk": "a member of the military police who polices soldiers and guards prisoners"
+    },
+    {
+        "id": 156,
+        "sentence": "Methods capable of differen-\ntiating a total of four HA, three NA, and two MP gene targets\nthus provide the capacity to type and subtype human influenza\nA and B virus strains with some degree of redundancy.",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 157,
+        "sentence": "Methods capable of differen-\ntiating a total of four HA, three NA, and two MP gene targets\nthus provide the capacity to type and subtype human influenza\nA and B virus strains with some degree of redundancy.",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 158,
+        "sentence": "Methods capable of differen-\ntiating a total of four HA, three NA, and two MP gene targets\nthus provide the capacity to type and subtype human influenza\nA and B virus strains with some degree of redundancy.",
+        "wordProcessed": "MP",
+        "senseFoundByLesk": "a member of the military police who polices soldiers and guards prisoners"
+    },
+    {
+        "id": 159,
+        "sentence": "Methods capable of differen-\ntiating a total of four HA, three NA, and two MP gene targets\nthus provide the capacity to type and subtype human influenza\nA and B virus strains with some degree of redundancy.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 160,
+        "sentence": "Methods capable of differen-\ntiating a total of four HA, three NA, and two MP gene targets\nthus provide the capacity to type and subtype human influenza\nA and B virus strains with some degree of redundancy.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder"
+    },
+    {
+        "id": 161,
+        "sentence": "We initially cloned mul-\ntiple separate fragments of genes for three influenza A virus\nHAs (A/HA1, A/HA2, and A/HA3), two influenza A virus NAs\n(A/NA1 and A/NA2), and an influenza A virus MP (A/MP) as\nwell as an influenza B virus HA (B/HA), NA (B/NA), and MP\n(B/MP).",
+        "wordProcessed": "HAs",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 162,
+        "sentence": "We initially cloned mul-\ntiple separate fragments of genes for three influenza A virus\nHAs (A/HA1, A/HA2, and A/HA3), two influenza A virus NAs\n(A/NA1 and A/NA2), and an influenza A virus MP (A/MP) as\nwell as an influenza B virus HA (B/HA), NA (B/NA), and MP\n(B/MP).",
+        "wordProcessed": "NAs",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 163,
+        "sentence": "We initially cloned mul-\ntiple separate fragments of genes for three influenza A virus\nHAs (A/HA1, A/HA2, and A/HA3), two influenza A virus NAs\n(A/NA1 and A/NA2), and an influenza A virus MP (A/MP) as\nwell as an influenza B virus HA (B/HA), NA (B/NA), and MP\n(B/MP).",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "any of several fat-soluble vitamins essential for normal vision; prevents night blindness or inflammation or dryness of the eyes"
+    },
+    {
+        "id": 164,
+        "sentence": "We initially cloned mul-\ntiple separate fragments of genes for three influenza A virus\nHAs (A/HA1, A/HA2, and A/HA3), two influenza A virus NAs\n(A/NA1 and A/NA2), and an influenza A virus MP (A/MP) as\nwell as an influenza B virus HA (B/HA), NA (B/NA), and MP\n(B/MP).",
+        "wordProcessed": "MP",
+        "senseFoundByLesk": "a member of the military police who polices soldiers and guards prisoners"
+    },
+    {
+        "id": 165,
+        "sentence": "We initially cloned mul-\ntiple separate fragments of genes for three influenza A virus\nHAs (A/HA1, A/HA2, and A/HA3), two influenza A virus NAs\n(A/NA1 and A/NA2), and an influenza A virus MP (A/MP) as\nwell as an influenza B virus HA (B/HA), NA (B/NA), and MP\n(B/MP).",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "(physics) a unit of nuclear cross section; the effective circular area that one particle presents to another as a target for an encounter"
+    },
+    {
+        "id": 166,
+        "sentence": "We initially cloned mul-\ntiple separate fragments of genes for three influenza A virus\nHAs (A/HA1, A/HA2, and A/HA3), two influenza A virus NAs\n(A/NA1 and A/NA2), and an influenza A virus MP (A/MP) as\nwell as an influenza B virus HA (B/HA), NA (B/NA), and MP\n(B/MP).",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 167,
+        "sentence": "We initially cloned mul-\ntiple separate fragments of genes for three influenza A virus\nHAs (A/HA1, A/HA2, and A/HA3), two influenza A virus NAs\n(A/NA1 and A/NA2), and an influenza A virus MP (A/MP) as\nwell as an influenza B virus HA (B/HA), NA (B/NA), and MP\n(B/MP).",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 168,
+        "sentence": "We initially cloned mul-\ntiple separate fragments of genes for three influenza A virus\nHAs (A/HA1, A/HA2, and A/HA3), two influenza A virus NAs\n(A/NA1 and A/NA2), and an influenza A virus MP (A/MP) as\nwell as an influenza B virus HA (B/HA), NA (B/NA), and MP\n(B/MP).",
+        "wordProcessed": "MP",
+        "senseFoundByLesk": "a member of the military police who polices soldiers and guards prisoners"
+    },
+    {
+        "id": 169,
+        "sentence": "Table 2 lists the nine DNA sequences used to initiate\nhomology searches and to design primers, and Table 3 shows\nthe 52 primers generated by this approach.",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 170,
+        "sentence": "Table 2 lists the nine DNA sequences used to initiate\nhomology searches and to design primers, and Table 3 shows\nthe 52 primers generated by this approach.",
+        "wordProcessed": "Table",
+        "senseFoundByLesk": "a piece of furniture having a smooth flat top that is usually supported by one or more vertical legs"
+    },
+    {
+        "id": 171,
+        "sentence": "A custom-built Stan-\nford-type DNA arrayer was used to spot DNA, in duplicate,\nonto activated silylated glass slides at densities of 1,100 or\n2,500 spots/cm2\n(300- or 200-m spacing, respectively).",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 172,
+        "sentence": "A custom-built Stan-\nford-type DNA arrayer was used to spot DNA, in duplicate,\nonto activated silylated glass slides at densities of 1,100 or\n2,500 spots/cm2\n(300- or 200-m spacing, respectively).",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 173,
+        "sentence": "In addition to virus cDNAs\nwe added control spots composed of Escherichia coli DNA and\n3 SSC buffer.",
+        "wordProcessed": "Escherichia",
+        "senseFoundByLesk": "a genus of enteric bacteria"
+    },
+    {
+        "id": 174,
+        "sentence": "In addition to virus cDNAs\nwe added control spots composed of Escherichia coli DNA and\n3 SSC buffer.",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 175,
+        "sentence": "Standard PCR mixtures\nwere supplemented with Cy3-dCTP and used to reamplify each\nof the cloned cDNAs.",
+        "wordProcessed": "Standard",
+        "senseFoundByLesk": "the ideal in terms of which something can be judged"
+    },
+    {
+        "id": 176,
+        "sentence": "These fluorescent probes were purified\nand individually hybridized to separate arrays, and then the\nhybridization signals were analyzed using Virtek or Axon chip\nreaders.",
+        "wordProcessed": "Axon",
+        "senseFoundByLesk": "long nerve fiber that conducts away from the cell body of the neuron"
+    },
+    {
+        "id": 177,
+        "sentence": "A selection of the resulting fluorescence images are\nshown in Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 178,
+        "sentence": "These can be decoded by\nnoting, for example, that a 520-bp A/HA3-1 probe (Table 3)\nproduced strong hybridization signals at duplicate spots lo-\ncated in row 3, columns 1 and 2 (Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 179,
+        "sentence": "Overall,\nduplicate hybridization signals were clearly detected at all of\nthe positions known to encode homologous DNA targets and\nlittle cross-hybridization to unrelated spots or background flu-\norescence was detected with these supports.",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 180,
+        "sentence": "This ef-\nfect was caused by the arraying pins blunting with use, causing\nthe spots to decrease in radius from 75 to 45 m. This\nshould reduce the quantity of bound DNA approximately\nthreefold (75/45\n2\n), which agreed well with the observed variation\nin fluorescence intensities.",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 181,
+        "sentence": "However, a significant\nconfounding factor appeared to be the size of the target DNA.",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 182,
+        "sentence": "For example, targets A/HA2-1 and A/HA2-2\nhave 202 bp of common sequence and, by hybridizing a probe\nderived from A/HA2-1 to these arrays, one can measure the\nrelative efficiency of probe binding to target A/HA2-1 (513\nhomologous base pairs) or to A/HA2-2 (202 homologous base\npairs) (Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 183,
+        "sentence": "The results derived from this\nanalysis are shown in Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 184,
+        "sentence": "39, 2001 DNA ARRAY DETECTION OF INFLUENZA VIRUSES 699\n\fsignals, suggesting that this represents the minimal length of\ntarget required under these conditions.",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 185,
+        "sentence": "39, 2001 DNA ARRAY DETECTION OF INFLUENZA VIRUSES 699\n\fsignals, suggesting that this represents the minimal length of\ntarget required under these conditions.",
+        "wordProcessed": "ARRAY",
+        "senseFoundByLesk": "an arrangement of aerials spaced to give desired directional characteristics"
+    },
+    {
+        "id": 186,
+        "sentence": "39, 2001 DNA ARRAY DETECTION OF INFLUENZA VIRUSES 699\n\fsignals, suggesting that this represents the minimal length of\ntarget required under these conditions.",
+        "wordProcessed": "DETECTION",
+        "senseFoundByLesk": "the detection that a signal is being received"
+    },
+    {
+        "id": 187,
+        "sentence": "39, 2001 DNA ARRAY DETECTION OF INFLUENZA VIRUSES 699\n\fsignals, suggesting that this represents the minimal length of\ntarget required under these conditions.",
+        "wordProcessed": "INFLUENZA",
+        "senseFoundByLesk": "an acute febrile highly contagious viral disease"
+    },
+    {
+        "id": 188,
+        "sentence": "39, 2001 DNA ARRAY DETECTION OF INFLUENZA VIRUSES 699\n\fsignals, suggesting that this represents the minimal length of\ntarget required under these conditions.",
+        "wordProcessed": "VIRUSES",
+        "senseFoundByLesk": "a software program capable of reproducing itself and usually capable of causing great harm to files or other programs on the same computer"
+    },
+    {
+        "id": 189,
+        "sentence": "To further test what effect longer targets have on signal\nintensity, we took advantage of the fact that other primer\ncombinations can be used to produce a cDNA fragment span-\nning two or more target DNAs in a single RT-PCR.",
+        "wordProcessed": "DNAs",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 190,
+        "sentence": "As expected, this now\nuniformly labeled DNA hybridized to all three homologous\ntargets on a single array (Fig.",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 191,
+        "sentence": "As expected, this now\nuniformly labeled DNA hybridized to all three homologous\ntargets on a single array (Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 192,
+        "sentence": "Therefore, as with traditional\nblotting technologies, DNA arrays produce hybridization sig-\nnals which are roughly proportional to target size.",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 193,
+        "sentence": "Control experiments\nshowed that a mixture of Cy3-labeled A/HA2-1 and B/NA-1\nprobes hybridized to the expected A/HA2-1 and B/NA-1 tar-\ngets in a single array (Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 194,
+        "sentence": "The two\nresulting images are shown in Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 195,
+        "sentence": "Multiplex PCR.",
+        "wordProcessed": "Multiplex",
+        "senseFoundByLesk": "a movie theater than has several different auditoriums in the same building"
+    },
+    {
+        "id": 196,
+        "sentence": "For\nexample, primer mixture A (Table 5) amplified an 510-bp\nA/HA1-1 product in a PCR with a cloned A/HA1-1 template\n(Fig.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 197,
+        "sentence": "For\nexample, primer mixture A (Table 5) amplified an 510-bp\nA/HA1-1 product in a PCR with a cloned A/HA1-1 template\n(Fig.",
+        "wordProcessed": "Table",
+        "senseFoundByLesk": "a piece of furniture with tableware for a meal laid out on it"
+    },
+    {
+        "id": 198,
+        "sentence": "For\nexample, primer mixture A (Table 5) amplified an 510-bp\nA/HA1-1 product in a PCR with a cloned A/HA1-1 template\n(Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 199,
+        "sentence": "4, lane b) as well as 490-bp A/HA2-3, 700-bp\nA/HA3-3, and 530-bp B/MP-1 products in PCRs with\nA/HA2-3, A/HA3-3, and B/MP-1 templates, respectively (Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 200,
+        "sentence": "In a now more realistic test of this method\nFIG.",
+        "wordProcessed": "FIG",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 201,
+        "sentence": "FIG.",
+        "wordProcessed": "FIG",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 202,
+        "sentence": "700 LI ET AL.",
+        "wordProcessed": "LI",
+        "senseFoundByLesk": "a soft silver-white univalent element of the alkali metal group; the lightest metal known; occurs in several minerals"
+    },
+    {
+        "id": 203,
+        "sentence": "700 LI ET AL.",
+        "wordProcessed": "AL",
+        "senseFoundByLesk": "a silvery ductile metallic element found primarily in bauxite"
+    },
+    {
+        "id": 204,
+        "sentence": "Three viral RNA strains were tested (A/Denver/1/57 [H1N1],\nA/Victoria/3/75 [H3N2], and B/Hong Kong/5/72), with A/Den-\nver/1/57 and B/Hong Kong/5/72 being different from those\nstrains used to prepare arrayed targets (Table 1).",
+        "wordProcessed": "RNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer of nucleotides found in the nucleus but mainly in the cytoplasm of a cell where it is associated with microsomes; it transmits genetic information from DNA to the cytoplasm and controls certain chemical processes in the cell"
+    },
+    {
+        "id": 205,
+        "sentence": "None of the\nsequences targeted in strains A/Denver/1/57 and B/Hong\nKong/5/72 were known to us when the work started, nor was\nthe sequence of the MP gene of A/Victoria/3/75.",
+        "wordProcessed": "MP",
+        "senseFoundByLesk": "a member of the military police who polices soldiers and guards prisoners"
+    },
+    {
+        "id": 206,
+        "sentence": "Multiplex\nRT-PCR succeeded in producing all six of the six possible\nprobes from mixtures containing influenza A virus RNA\n(HA1-1, HA3-3, NA1-1, NA2-2, and two MP-1 gene frag-\nments) and two of the three possible probes from mixtures\ncontaining influenza B virus RNA (HA-1 and NA-1).",
+        "wordProcessed": "Multiplex",
+        "senseFoundByLesk": "a movie theater than has several different auditoriums in the same building"
+    },
+    {
+        "id": 207,
+        "sentence": "Multiplex\nRT-PCR succeeded in producing all six of the six possible\nprobes from mixtures containing influenza A virus RNA\n(HA1-1, HA3-3, NA1-1, NA2-2, and two MP-1 gene frag-\nments) and two of the three possible probes from mixtures\ncontaining influenza B virus RNA (HA-1 and NA-1).",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 208,
+        "sentence": "Multiplex\nRT-PCR succeeded in producing all six of the six possible\nprobes from mixtures containing influenza A virus RNA\n(HA1-1, HA3-3, NA1-1, NA2-2, and two MP-1 gene frag-\nments) and two of the three possible probes from mixtures\ncontaining influenza B virus RNA (HA-1 and NA-1).",
+        "wordProcessed": "RNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer of nucleotides found in the nucleus but mainly in the cytoplasm of a cell where it is associated with microsomes; it transmits genetic information from DNA to the cytoplasm and controls certain chemical processes in the cell"
+    },
+    {
+        "id": 209,
+        "sentence": "Multiplex\nRT-PCR succeeded in producing all six of the six possible\nprobes from mixtures containing influenza A virus RNA\n(HA1-1, HA3-3, NA1-1, NA2-2, and two MP-1 gene frag-\nments) and two of the three possible probes from mixtures\ncontaining influenza B virus RNA (HA-1 and NA-1).",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder"
+    },
+    {
+        "id": 210,
+        "sentence": "Multiplex\nRT-PCR succeeded in producing all six of the six possible\nprobes from mixtures containing influenza A virus RNA\n(HA1-1, HA3-3, NA1-1, NA2-2, and two MP-1 gene frag-\nments) and two of the three possible probes from mixtures\ncontaining influenza B virus RNA (HA-1 and NA-1).",
+        "wordProcessed": "RNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer of nucleotides found in the nucleus but mainly in the cytoplasm of a cell where it is associated with microsomes; it transmits genetic information from DNA to the cytoplasm and controls certain chemical processes in the cell"
+    },
+    {
+        "id": 211,
+        "sentence": "These cDNA probes correctly\nhybridized to targets specific for each particular type and sub-\ntype of virus (e.g., Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 212,
+        "sentence": "1, panels 11 and 12), and the hybrid-\nTABLE 3.",
+        "wordProcessed": "TABLE",
+        "senseFoundByLesk": "a set of data arranged in rows and columns"
+    },
+    {
+        "id": 213,
+        "sentence": "Primer pairs used to amplify influenza virus cDNAs\nFragment\nPrimer\nProduct\nsize (bp)\nNo.",
+        "wordProcessed": "Primer",
+        "senseFoundByLesk": "any igniter that is used to initiate the burning of a propellant"
+    },
+    {
+        "id": 214,
+        "sentence": "Primer pairs used to amplify influenza virus cDNAs\nFragment\nPrimer\nProduct\nsize (bp)\nNo.",
+        "wordProcessed": "Fragment",
+        "senseFoundByLesk": "a broken piece of a brittle artifact"
+    },
+    {
+        "id": 215,
+        "sentence": "Primer pairs used to amplify influenza virus cDNAs\nFragment\nPrimer\nProduct\nsize (bp)\nNo.",
+        "wordProcessed": "Primer",
+        "senseFoundByLesk": "any igniter that is used to initiate the burning of a propellant"
+    },
+    {
+        "id": 216,
+        "sentence": "Primer pairs used to amplify influenza virus cDNAs\nFragment\nPrimer\nProduct\nsize (bp)\nNo.",
+        "wordProcessed": "Product",
+        "senseFoundByLesk": "the set of elements common to two or more sets"
+    },
+    {
+        "id": 217,
+        "sentence": "Sequence (5\u00c2\u00ad3)\nLocation\n(nta\n)\nA/HA1-1 1 CAGATGCAGACACAATATGTATAGG 74\u00c2\u00ad587 513\n2 GTTGTTTACATAGGACTTGCTCAG\nA/HA1-2 3 ACAGAAATTTGCTATGGCTGAC 515\u00c2\u00ad910 395\n4 TCACATTCATCCATTGATGCATTTG\nA/HA1-3 5 ATGGTATGCTTTCGCACTGA 834\u00c2\u00ad1644 810\n6 CGACAGTTGAATAGATCGCCA\nA/HA2-1 7 GCAAAAGCAGGGGTTATACCA 1\u00c2\u00ad555 554\n8 AATTTGATTCTTTCTTTGTCAGCCA\nA/HA2-2 9 TGTGTTACCCAGGCAGTTTC 353\u00c2\u00ad874 521\n10 CCTGAACTTCCTCTCTTCGATATT\nA/HA2-3 11 AATATCGAAAAGAGGAAGCTCAGG 849\u00c2\u00ad1340 491\n12 CCACACATCTAGAAATCCATC\nA/HA2-4 13 TGAATAGTGTGAAAAATGGAAC 1508\u00c2\u00ad1662 154\n14 CCAGTGACAGAGAACCTGCTAC\nA/HA3-1 15 CATCATGCAGTGCCAAA 125\u00c2\u00ad645 520\n16 TTGGTCCGTGCTCGGGT\nA/HA3-2 17 TTGGGGGGTTCACCACC 613\u00c2\u00ad1057 444\n18 GTTTCTCTGGTACATTCCGCA\nA/HA3-3 19 GCAACAGGAATGCGGAA 1025\u00c2\u00ad1732 707\n20 CTCAAATGCAAATGTTGCACCTAA\nA/NA1-1 21 ACTTCAGTGACATTAGCCGGCA 211\u00c2\u00ad747 536\n22 CGATCTTGAAAATTCTGTATGAGG\nA/NA1-2 23 TGGCATGGGTTGGCTAA 528\u00c2\u00ad1190 662\n24 GAAACTCCCGCTGTATCC\nA/NA1-3 25 TGGCAATAACTGATTGGTC 1151\u00c2\u00ad1380 229\n26 ACTTGTCAATGGTGAATGGCA\nA/NA2-1 27 TTGCCATCCTGGCAACTACTGT 95\u00c2\u00ad580 495\n28 CAGCCATGCTTTTCCATCGTG\nA/NA2-2 29 AACCCCTTATCGAACCCT 474\u00c2\u00ad938 464\n30 ATTTATATCTACGACCGGCCTATT\nA/NA2-3 31 TGTTCCTGTTACCCTCGATATCC 850\u00c2\u00ad1461 566\n32 GATTGATGTCCGCTCCATCAG\nA/MP-1 33 TGAAAGATGAGCCTTCTAACCGA 19\u00c2\u00ad596 577\n34 CTCCATAGCCTTAGCCGTAGT\nA/MP-2 35 TGACAACAACCAACCCACTAA 521\u00c2\u00ad923 402\n36 TTTGGTACTCCTTCCGTAG\nB/HA-1 37 GTGACTGGTGTGATACCACTAAC 153\u00c2\u00ad665 512\n38 CGGTATCAGAGTGGAACCCC\nB/HA-2 39 AATGGCTTGGGCTGTCC 542\u00c2\u00ad1018 476\n40 TGCATGTTCTCCTGTGTAGTAAG\nB/HA-3 41 GAGCAAGGTAATAAAAGGGTCC 908\u00c2\u00ad1528 620\n42 GAAGCATCCATTCCCTATGTCTAC\nB/NA-1 43 CACTGTCATACTTATTGTATTCGGA 102\u00c2\u00ad721 619\n44 CGATGCAATTGCAGGCACTT\nB/NA-2 45 CAATTGCATCGGGGGAG 709\u00c2\u00ad1020 311\n46 GCTTCCATCATCTGGTCTGG\nB/NA-3 47 GGAAGCATAACAGGGCCTTG 1013\u00c2\u00ad1352 339\n48 GTTGCTGCTGAGTGCCAAGTC\nB/MP-1 49 TTACACTGTTGGTTCGGTGG 105\u00c2\u00ad630 525\n50 GCCAGTTTTTGGACGTCTTC\nB/MP-2 51 GGAAATACCTATAATGCTCGAACC 757\u00c2\u00ad1084 327\n52 CCTCCAAAACTGTTTCACCC\na\nnt, nucleotides.",
+        "wordProcessed": "Sequence",
+        "senseFoundByLesk": "several repetitions of a melodic phrase in different keys"
+    },
+    {
+        "id": 218,
+        "sentence": "39, 2001 DNA ARRAY DETECTION OF INFLUENZA VIRUSES 701\n\fization signals were again well above the background detected\nat nonhomologous spots (Fig.",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 219,
+        "sentence": "39, 2001 DNA ARRAY DETECTION OF INFLUENZA VIRUSES 701\n\fization signals were again well above the background detected\nat nonhomologous spots (Fig.",
+        "wordProcessed": "ARRAY",
+        "senseFoundByLesk": "an arrangement of aerials spaced to give desired directional characteristics"
+    },
+    {
+        "id": 220,
+        "sentence": "39, 2001 DNA ARRAY DETECTION OF INFLUENZA VIRUSES 701\n\fization signals were again well above the background detected\nat nonhomologous spots (Fig.",
+        "wordProcessed": "DETECTION",
+        "senseFoundByLesk": "the detection that a signal is being received"
+    },
+    {
+        "id": 221,
+        "sentence": "39, 2001 DNA ARRAY DETECTION OF INFLUENZA VIRUSES 701\n\fization signals were again well above the background detected\nat nonhomologous spots (Fig.",
+        "wordProcessed": "INFLUENZA",
+        "senseFoundByLesk": "an acute febrile highly contagious viral disease"
+    },
+    {
+        "id": 222,
+        "sentence": "39, 2001 DNA ARRAY DETECTION OF INFLUENZA VIRUSES 701\n\fization signals were again well above the background detected\nat nonhomologous spots (Fig.",
+        "wordProcessed": "VIRUSES",
+        "senseFoundByLesk": "a software program capable of reproducing itself and usually capable of causing great harm to files or other programs on the same computer"
+    },
+    {
+        "id": 223,
+        "sentence": "39, 2001 DNA ARRAY DETECTION OF INFLUENZA VIRUSES 701\n\fization signals were again well above the background detected\nat nonhomologous spots (Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 224,
+        "sentence": "DISCUSSION\nAlthough DNA arrays have been most widely utilized by the\ngenomics research community to study gene expression pat-\nterns and identify new genes, many authorities have speculated\nthat they might also prove useful in DNA-based diagnostics.",
+        "wordProcessed": "DISCUSSION",
+        "senseFoundByLesk": "an exchange of views on some topic"
+    },
+    {
+        "id": 225,
+        "sentence": "DISCUSSION\nAlthough DNA arrays have been most widely utilized by the\ngenomics research community to study gene expression pat-\nterns and identify new genes, many authorities have speculated\nthat they might also prove useful in DNA-based diagnostics.",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 226,
+        "sentence": "In\nthis paper we have shown that robotically spotted DNA chips,\nwhen used in conjunction with multiplex PCR methods, can be\nused to facilitate typing and subtyping human influenza viruses.",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 227,
+        "sentence": "Since the method exploits the specificity of both PCR and\nDNA hybridization reactions, it offers a degree of accuracy\nsuperior to those of many other methods commonly used to\ndetect PCR-amplified DNAs.",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 228,
+        "sentence": "Since the method exploits the specificity of both PCR and\nDNA hybridization reactions, it offers a degree of accuracy\nsuperior to those of many other methods commonly used to\ndetect PCR-amplified DNAs.",
+        "wordProcessed": "DNAs",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 229,
+        "sentence": "The method is obviously applicable to any pathogen\nthat can be cloned and arrayed and offers the advantage that\none can detect and differentiate DNAs contained in mixtures\nof fluorescent PCR products (Fig.",
+        "wordProcessed": "DNAs",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 230,
+        "sentence": "The method is obviously applicable to any pathogen\nthat can be cloned and arrayed and offers the advantage that\none can detect and differentiate DNAs contained in mixtures\nof fluorescent PCR products (Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 231,
+        "sentence": "This suggests\nthat DNA arrays could streamline the detection of multiple\nagents through parallel analysis of pools of PCR-amplified\nDNAs.",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 232,
+        "sentence": "This suggests\nthat DNA arrays could streamline the detection of multiple\nagents through parallel analysis of pools of PCR-amplified\nDNAs.",
+        "wordProcessed": "DNAs",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 233,
+        "sentence": "First, PCR is well\nknown for its extraordinary sensitivity and can be used to\ngenerate large quantities of probe DNA.",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 234,
+        "sentence": "Third, these dyes are\nintensely fluorescent and hybridization is easily detected at\nlevels well above background using modern confocally based\narray readers.",
+        "wordProcessed": "Third",
+        "senseFoundByLesk": "the fielding position of the player on a baseball team who is stationed near the third of the bases in the infield (counting counterclockwise from home plate)"
+    },
+    {
+        "id": 235,
+        "sentence": "Finally, the hybridization and wash protocols\nFIG.",
+        "wordProcessed": "FIG",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 236,
+        "sentence": "Multiplex PCR amplification of influenza A and B virus\nstrains.",
+        "wordProcessed": "Multiplex",
+        "senseFoundByLesk": "a movie theater than has several different auditoriums in the same building"
+    },
+    {
+        "id": 237,
+        "sentence": "Multiplex PCR amplification of influenza A and B virus\nstrains.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 238,
+        "sentence": "Multiplex PCR amplification of influenza A and B virus\nstrains.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder"
+    },
+    {
+        "id": 239,
+        "sentence": "The three multiplex primer sets described in Table 5 were\ntested for the capacity to amplify a single, appropriately sized, DNA\nproduct in reactions with the indicated cloned templates.",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 240,
+        "sentence": "For example,\nprimer mixture A (Table 5) produced a 510-bp product in a reaction\nwith an A/HA1-1 template (lane b), a 490-bp product in a reaction with\nan A/HA2-3 template (lane e), primarily a 710-bp product in a reaction\nwith an A/HA3-3 template (lane h), and a 530-bp product in a reaction\nwith B/MP-1 template (lane k).",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 241,
+        "sentence": "For example,\nprimer mixture A (Table 5) produced a 510-bp product in a reaction\nwith an A/HA1-1 template (lane b), a 490-bp product in a reaction with\nan A/HA2-3 template (lane e), primarily a 710-bp product in a reaction\nwith an A/HA3-3 template (lane h), and a 530-bp product in a reaction\nwith B/MP-1 template (lane k).",
+        "wordProcessed": "Table",
+        "senseFoundByLesk": "a set of data arranged in rows and columns"
+    },
+    {
+        "id": 242,
+        "sentence": "FIG.",
+        "wordProcessed": "FIG",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 243,
+        "sentence": "RT-PCR detection and differentiation of influenza virus\nRNA templates.",
+        "wordProcessed": "RNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer of nucleotides found in the nucleus but mainly in the cytoplasm of a cell where it is associated with microsomes; it transmits genetic information from DNA to the cytoplasm and controls certain chemical processes in the cell"
+    },
+    {
+        "id": 244,
+        "sentence": "Probes were prepared in reaction mixtures containing crude\nviral RNA, Cy3-dCTP, and an appropriate multiplex primer mixture\nand hybridized overnight to microarrays.",
+        "wordProcessed": "RNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer of nucleotides found in the nucleus but mainly in the cytoplasm of a cell where it is associated with microsomes; it transmits genetic information from DNA to the cytoplasm and controls certain chemical processes in the cell"
+    },
+    {
+        "id": 245,
+        "sentence": "The signal intensity was cal-\nculated as described in Materials and Methods (n  4).",
+        "wordProcessed": "Materials",
+        "senseFoundByLesk": "a person judged suitable for admission or employment"
+    },
+    {
+        "id": 246,
+        "sentence": "The signal intensity was cal-\nculated as described in Materials and Methods (n  4).",
+        "wordProcessed": "Methods",
+        "senseFoundByLesk": "an acting technique introduced by Stanislavsky in which the actor recalls emotions or reactions from his or her own life and uses them to identify with the character being portrayed"
+    },
+    {
+        "id": 247,
+        "sentence": "Signals marked\nwith an asterisk derive from perfectly matched probe-and-target pairs\n(i.e., the probe is identical to the arrayed target), and the remaining\nsignals represent heterologous probe-and-target combinations (i.e.,\nthe target DNA came from a strain different from that tested in this\nexperiment).",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 248,
+        "sentence": "Fabrication of eight-by-eight influenza virus\ncDNA arrays\nVirus gene Row\nDNA spotted at each column position for:\nInfluenza A virus Influenza B virus\n1 and 2 3 and 4 5 and 6 7 and 8\nHA 1 HA1-1 HA1-3 HA2-1 HA-1\n2 HA2-2 HA2-3 HA2-4 HA-2\n3 HA3-1 HA3-2 HA3-3 HA-3\nNA 4 NA1-1 NA1-2 NA1-3 NA-1\n5 NA2-1 NA2-2 NA2-3 NA-2\n6 Buffer Buffer Buffer NA-3\nMP 7 MP-1 MP-1 Buffer MP-1\n8 MP-2 MP-2 Buffer E. coli\nTABLE 5.",
+        "wordProcessed": "Virus",
+        "senseFoundByLesk": "a software program capable of reproducing itself and usually capable of causing great harm to files or other programs on the same computer"
+    },
+    {
+        "id": 249,
+        "sentence": "Fabrication of eight-by-eight influenza virus\ncDNA arrays\nVirus gene Row\nDNA spotted at each column position for:\nInfluenza A virus Influenza B virus\n1 and 2 3 and 4 5 and 6 7 and 8\nHA 1 HA1-1 HA1-3 HA2-1 HA-1\n2 HA2-2 HA2-3 HA2-4 HA-2\n3 HA3-1 HA3-2 HA3-3 HA-3\nNA 4 NA1-1 NA1-2 NA1-3 NA-1\n5 NA2-1 NA2-2 NA2-3 NA-2\n6 Buffer Buffer Buffer NA-3\nMP 7 MP-1 MP-1 Buffer MP-1\n8 MP-2 MP-2 Buffer E. coli\nTABLE 5.",
+        "wordProcessed": "Row",
+        "senseFoundByLesk": "a linear array of numbers, letters, or symbols side by side"
+    },
+    {
+        "id": 250,
+        "sentence": "Fabrication of eight-by-eight influenza virus\ncDNA arrays\nVirus gene Row\nDNA spotted at each column position for:\nInfluenza A virus Influenza B virus\n1 and 2 3 and 4 5 and 6 7 and 8\nHA 1 HA1-1 HA1-3 HA2-1 HA-1\n2 HA2-2 HA2-3 HA2-4 HA-2\n3 HA3-1 HA3-2 HA3-3 HA-3\nNA 4 NA1-1 NA1-2 NA1-3 NA-1\n5 NA2-1 NA2-2 NA2-3 NA-2\n6 Buffer Buffer Buffer NA-3\nMP 7 MP-1 MP-1 Buffer MP-1\n8 MP-2 MP-2 Buffer E. coli\nTABLE 5.",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 251,
+        "sentence": "Fabrication of eight-by-eight influenza virus\ncDNA arrays\nVirus gene Row\nDNA spotted at each column position for:\nInfluenza A virus Influenza B virus\n1 and 2 3 and 4 5 and 6 7 and 8\nHA 1 HA1-1 HA1-3 HA2-1 HA-1\n2 HA2-2 HA2-3 HA2-4 HA-2\n3 HA3-1 HA3-2 HA3-3 HA-3\nNA 4 NA1-1 NA1-2 NA1-3 NA-1\n5 NA2-1 NA2-2 NA2-3 NA-2\n6 Buffer Buffer Buffer NA-3\nMP 7 MP-1 MP-1 Buffer MP-1\n8 MP-2 MP-2 Buffer E. coli\nTABLE 5.",
+        "wordProcessed": "Influenza",
+        "senseFoundByLesk": "an acute febrile highly contagious viral disease"
+    },
+    {
+        "id": 252,
+        "sentence": "Fabrication of eight-by-eight influenza virus\ncDNA arrays\nVirus gene Row\nDNA spotted at each column position for:\nInfluenza A virus Influenza B virus\n1 and 2 3 and 4 5 and 6 7 and 8\nHA 1 HA1-1 HA1-3 HA2-1 HA-1\n2 HA2-2 HA2-3 HA2-4 HA-2\n3 HA3-1 HA3-2 HA3-3 HA-3\nNA 4 NA1-1 NA1-2 NA1-3 NA-1\n5 NA2-1 NA2-2 NA2-3 NA-2\n6 Buffer Buffer Buffer NA-3\nMP 7 MP-1 MP-1 Buffer MP-1\n8 MP-2 MP-2 Buffer E. coli\nTABLE 5.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "any of several fat-soluble vitamins essential for normal vision; prevents night blindness or inflammation or dryness of the eyes"
+    },
+    {
+        "id": 253,
+        "sentence": "Fabrication of eight-by-eight influenza virus\ncDNA arrays\nVirus gene Row\nDNA spotted at each column position for:\nInfluenza A virus Influenza B virus\n1 and 2 3 and 4 5 and 6 7 and 8\nHA 1 HA1-1 HA1-3 HA2-1 HA-1\n2 HA2-2 HA2-3 HA2-4 HA-2\n3 HA3-1 HA3-2 HA3-3 HA-3\nNA 4 NA1-1 NA1-2 NA1-3 NA-1\n5 NA2-1 NA2-2 NA2-3 NA-2\n6 Buffer Buffer Buffer NA-3\nMP 7 MP-1 MP-1 Buffer MP-1\n8 MP-2 MP-2 Buffer E. coli\nTABLE 5.",
+        "wordProcessed": "Influenza",
+        "senseFoundByLesk": "an acute febrile highly contagious viral disease"
+    },
+    {
+        "id": 254,
+        "sentence": "Fabrication of eight-by-eight influenza virus\ncDNA arrays\nVirus gene Row\nDNA spotted at each column position for:\nInfluenza A virus Influenza B virus\n1 and 2 3 and 4 5 and 6 7 and 8\nHA 1 HA1-1 HA1-3 HA2-1 HA-1\n2 HA2-2 HA2-3 HA2-4 HA-2\n3 HA3-1 HA3-2 HA3-3 HA-3\nNA 4 NA1-1 NA1-2 NA1-3 NA-1\n5 NA2-1 NA2-2 NA2-3 NA-2\n6 Buffer Buffer Buffer NA-3\nMP 7 MP-1 MP-1 Buffer MP-1\n8 MP-2 MP-2 Buffer E. coli\nTABLE 5.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder"
+    },
+    {
+        "id": 255,
+        "sentence": "Fabrication of eight-by-eight influenza virus\ncDNA arrays\nVirus gene Row\nDNA spotted at each column position for:\nInfluenza A virus Influenza B virus\n1 and 2 3 and 4 5 and 6 7 and 8\nHA 1 HA1-1 HA1-3 HA2-1 HA-1\n2 HA2-2 HA2-3 HA2-4 HA-2\n3 HA3-1 HA3-2 HA3-3 HA-3\nNA 4 NA1-1 NA1-2 NA1-3 NA-1\n5 NA2-1 NA2-2 NA2-3 NA-2\n6 Buffer Buffer Buffer NA-3\nMP 7 MP-1 MP-1 Buffer MP-1\n8 MP-2 MP-2 Buffer E. coli\nTABLE 5.",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 256,
+        "sentence": "Fabrication of eight-by-eight influenza virus\ncDNA arrays\nVirus gene Row\nDNA spotted at each column position for:\nInfluenza A virus Influenza B virus\n1 and 2 3 and 4 5 and 6 7 and 8\nHA 1 HA1-1 HA1-3 HA2-1 HA-1\n2 HA2-2 HA2-3 HA2-4 HA-2\n3 HA3-1 HA3-2 HA3-3 HA-3\nNA 4 NA1-1 NA1-2 NA1-3 NA-1\n5 NA2-1 NA2-2 NA2-3 NA-2\n6 Buffer Buffer Buffer NA-3\nMP 7 MP-1 MP-1 Buffer MP-1\n8 MP-2 MP-2 Buffer E. coli\nTABLE 5.",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 257,
+        "sentence": "Fabrication of eight-by-eight influenza virus\ncDNA arrays\nVirus gene Row\nDNA spotted at each column position for:\nInfluenza A virus Influenza B virus\n1 and 2 3 and 4 5 and 6 7 and 8\nHA 1 HA1-1 HA1-3 HA2-1 HA-1\n2 HA2-2 HA2-3 HA2-4 HA-2\n3 HA3-1 HA3-2 HA3-3 HA-3\nNA 4 NA1-1 NA1-2 NA1-3 NA-1\n5 NA2-1 NA2-2 NA2-3 NA-2\n6 Buffer Buffer Buffer NA-3\nMP 7 MP-1 MP-1 Buffer MP-1\n8 MP-2 MP-2 Buffer E. coli\nTABLE 5.",
+        "wordProcessed": "Buffer",
+        "senseFoundByLesk": "an inclined metal frame at the front of a locomotive to clear the track"
+    },
+    {
+        "id": 258,
+        "sentence": "Fabrication of eight-by-eight influenza virus\ncDNA arrays\nVirus gene Row\nDNA spotted at each column position for:\nInfluenza A virus Influenza B virus\n1 and 2 3 and 4 5 and 6 7 and 8\nHA 1 HA1-1 HA1-3 HA2-1 HA-1\n2 HA2-2 HA2-3 HA2-4 HA-2\n3 HA3-1 HA3-2 HA3-3 HA-3\nNA 4 NA1-1 NA1-2 NA1-3 NA-1\n5 NA2-1 NA2-2 NA2-3 NA-2\n6 Buffer Buffer Buffer NA-3\nMP 7 MP-1 MP-1 Buffer MP-1\n8 MP-2 MP-2 Buffer E. coli\nTABLE 5.",
+        "wordProcessed": "Buffer",
+        "senseFoundByLesk": "an inclined metal frame at the front of a locomotive to clear the track"
+    },
+    {
+        "id": 259,
+        "sentence": "Fabrication of eight-by-eight influenza virus\ncDNA arrays\nVirus gene Row\nDNA spotted at each column position for:\nInfluenza A virus Influenza B virus\n1 and 2 3 and 4 5 and 6 7 and 8\nHA 1 HA1-1 HA1-3 HA2-1 HA-1\n2 HA2-2 HA2-3 HA2-4 HA-2\n3 HA3-1 HA3-2 HA3-3 HA-3\nNA 4 NA1-1 NA1-2 NA1-3 NA-1\n5 NA2-1 NA2-2 NA2-3 NA-2\n6 Buffer Buffer Buffer NA-3\nMP 7 MP-1 MP-1 Buffer MP-1\n8 MP-2 MP-2 Buffer E. coli\nTABLE 5.",
+        "wordProcessed": "Buffer",
+        "senseFoundByLesk": "an inclined metal frame at the front of a locomotive to clear the track"
+    },
+    {
+        "id": 260,
+        "sentence": "Fabrication of eight-by-eight influenza virus\ncDNA arrays\nVirus gene Row\nDNA spotted at each column position for:\nInfluenza A virus Influenza B virus\n1 and 2 3 and 4 5 and 6 7 and 8\nHA 1 HA1-1 HA1-3 HA2-1 HA-1\n2 HA2-2 HA2-3 HA2-4 HA-2\n3 HA3-1 HA3-2 HA3-3 HA-3\nNA 4 NA1-1 NA1-2 NA1-3 NA-1\n5 NA2-1 NA2-2 NA2-3 NA-2\n6 Buffer Buffer Buffer NA-3\nMP 7 MP-1 MP-1 Buffer MP-1\n8 MP-2 MP-2 Buffer E. coli\nTABLE 5.",
+        "wordProcessed": "MP",
+        "senseFoundByLesk": "a member of the military police who polices soldiers and guards prisoners"
+    },
+    {
+        "id": 261,
+        "sentence": "Fabrication of eight-by-eight influenza virus\ncDNA arrays\nVirus gene Row\nDNA spotted at each column position for:\nInfluenza A virus Influenza B virus\n1 and 2 3 and 4 5 and 6 7 and 8\nHA 1 HA1-1 HA1-3 HA2-1 HA-1\n2 HA2-2 HA2-3 HA2-4 HA-2\n3 HA3-1 HA3-2 HA3-3 HA-3\nNA 4 NA1-1 NA1-2 NA1-3 NA-1\n5 NA2-1 NA2-2 NA2-3 NA-2\n6 Buffer Buffer Buffer NA-3\nMP 7 MP-1 MP-1 Buffer MP-1\n8 MP-2 MP-2 Buffer E. coli\nTABLE 5.",
+        "wordProcessed": "Buffer",
+        "senseFoundByLesk": "an inclined metal frame at the front of a locomotive to clear the track"
+    },
+    {
+        "id": 262,
+        "sentence": "Fabrication of eight-by-eight influenza virus\ncDNA arrays\nVirus gene Row\nDNA spotted at each column position for:\nInfluenza A virus Influenza B virus\n1 and 2 3 and 4 5 and 6 7 and 8\nHA 1 HA1-1 HA1-3 HA2-1 HA-1\n2 HA2-2 HA2-3 HA2-4 HA-2\n3 HA3-1 HA3-2 HA3-3 HA-3\nNA 4 NA1-1 NA1-2 NA1-3 NA-1\n5 NA2-1 NA2-2 NA2-3 NA-2\n6 Buffer Buffer Buffer NA-3\nMP 7 MP-1 MP-1 Buffer MP-1\n8 MP-2 MP-2 Buffer E. coli\nTABLE 5.",
+        "wordProcessed": "Buffer",
+        "senseFoundByLesk": "an inclined metal frame at the front of a locomotive to clear the track"
+    },
+    {
+        "id": 263,
+        "sentence": "Fabrication of eight-by-eight influenza virus\ncDNA arrays\nVirus gene Row\nDNA spotted at each column position for:\nInfluenza A virus Influenza B virus\n1 and 2 3 and 4 5 and 6 7 and 8\nHA 1 HA1-1 HA1-3 HA2-1 HA-1\n2 HA2-2 HA2-3 HA2-4 HA-2\n3 HA3-1 HA3-2 HA3-3 HA-3\nNA 4 NA1-1 NA1-2 NA1-3 NA-1\n5 NA2-1 NA2-2 NA2-3 NA-2\n6 Buffer Buffer Buffer NA-3\nMP 7 MP-1 MP-1 Buffer MP-1\n8 MP-2 MP-2 Buffer E. coli\nTABLE 5.",
+        "wordProcessed": "TABLE",
+        "senseFoundByLesk": "a company of people assembled at a table for a meal or game"
+    },
+    {
+        "id": 264,
+        "sentence": "Multiplex PCR primer combinations and\nexpected PCR products\nInfluenza\nvirus target\n(virus type/\nsubtype)\nPCR product generated by each primer mixture:\nA (A/HA1-1, A/HA2-3,\nA/HA3-3, B/MP-1)\nB (A/NA1-1,\nA/NA2-2, B/NA-1)\nC (A/MP-1,\nB/HA-1)\nA/H1N1a\nA/HA1-1b\nA/NA1-1b\nA/MP-1b\nA/H1N2 A/HA1-1 A/NA2-2 A/MP-1\nA/H2N1 A/HA2-3 A/NA1-1 A/MP-1\nA/H2N2a\nA/HA2-3b\nA/NA2-2b\nA/MP-1b\nA/H3N1 A/HA3-3 A/NA1-1 A/MP-1\nA/H3N2a\nA/HA3-3b\nA/NA2-2b\nA/MP-1b\nBa\nB/MP-1b\nB/NA-1b\nB/HA-1b\na\nVirus typed and subtyped in this study.",
+        "wordProcessed": "Multiplex",
+        "senseFoundByLesk": "a movie theater than has several different auditoriums in the same building"
+    },
+    {
+        "id": 265,
+        "sentence": "Multiplex PCR primer combinations and\nexpected PCR products\nInfluenza\nvirus target\n(virus type/\nsubtype)\nPCR product generated by each primer mixture:\nA (A/HA1-1, A/HA2-3,\nA/HA3-3, B/MP-1)\nB (A/NA1-1,\nA/NA2-2, B/NA-1)\nC (A/MP-1,\nB/HA-1)\nA/H1N1a\nA/HA1-1b\nA/NA1-1b\nA/MP-1b\nA/H1N2 A/HA1-1 A/NA2-2 A/MP-1\nA/H2N1 A/HA2-3 A/NA1-1 A/MP-1\nA/H2N2a\nA/HA2-3b\nA/NA2-2b\nA/MP-1b\nA/H3N1 A/HA3-3 A/NA1-1 A/MP-1\nA/H3N2a\nA/HA3-3b\nA/NA2-2b\nA/MP-1b\nBa\nB/MP-1b\nB/NA-1b\nB/HA-1b\na\nVirus typed and subtyped in this study.",
+        "wordProcessed": "Influenza",
+        "senseFoundByLesk": "an acute febrile highly contagious viral disease"
+    },
+    {
+        "id": 266,
+        "sentence": "Multiplex PCR primer combinations and\nexpected PCR products\nInfluenza\nvirus target\n(virus type/\nsubtype)\nPCR product generated by each primer mixture:\nA (A/HA1-1, A/HA2-3,\nA/HA3-3, B/MP-1)\nB (A/NA1-1,\nA/NA2-2, B/NA-1)\nC (A/MP-1,\nB/HA-1)\nA/H1N1a\nA/HA1-1b\nA/NA1-1b\nA/MP-1b\nA/H1N2 A/HA1-1 A/NA2-2 A/MP-1\nA/H2N1 A/HA2-3 A/NA1-1 A/MP-1\nA/H2N2a\nA/HA2-3b\nA/NA2-2b\nA/MP-1b\nA/H3N1 A/HA3-3 A/NA1-1 A/MP-1\nA/H3N2a\nA/HA3-3b\nA/NA2-2b\nA/MP-1b\nBa\nB/MP-1b\nB/NA-1b\nB/HA-1b\na\nVirus typed and subtyped in this study.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder"
+    },
+    {
+        "id": 267,
+        "sentence": "Multiplex PCR primer combinations and\nexpected PCR products\nInfluenza\nvirus target\n(virus type/\nsubtype)\nPCR product generated by each primer mixture:\nA (A/HA1-1, A/HA2-3,\nA/HA3-3, B/MP-1)\nB (A/NA1-1,\nA/NA2-2, B/NA-1)\nC (A/MP-1,\nB/HA-1)\nA/H1N1a\nA/HA1-1b\nA/NA1-1b\nA/MP-1b\nA/H1N2 A/HA1-1 A/NA2-2 A/MP-1\nA/H2N1 A/HA2-3 A/NA1-1 A/MP-1\nA/H2N2a\nA/HA2-3b\nA/NA2-2b\nA/MP-1b\nA/H3N1 A/HA3-3 A/NA1-1 A/MP-1\nA/H3N2a\nA/HA3-3b\nA/NA2-2b\nA/MP-1b\nBa\nB/MP-1b\nB/NA-1b\nB/HA-1b\na\nVirus typed and subtyped in this study.",
+        "wordProcessed": "C",
+        "senseFoundByLesk": "the speed at which light travels in a vacuum; the constancy and universality of the speed of light is recognized by defining it to be exactly 299,792,458 meters per second"
+    },
+    {
+        "id": 268,
+        "sentence": "Multiplex PCR primer combinations and\nexpected PCR products\nInfluenza\nvirus target\n(virus type/\nsubtype)\nPCR product generated by each primer mixture:\nA (A/HA1-1, A/HA2-3,\nA/HA3-3, B/MP-1)\nB (A/NA1-1,\nA/NA2-2, B/NA-1)\nC (A/MP-1,\nB/HA-1)\nA/H1N1a\nA/HA1-1b\nA/NA1-1b\nA/MP-1b\nA/H1N2 A/HA1-1 A/NA2-2 A/MP-1\nA/H2N1 A/HA2-3 A/NA1-1 A/MP-1\nA/H2N2a\nA/HA2-3b\nA/NA2-2b\nA/MP-1b\nA/H3N1 A/HA3-3 A/NA1-1 A/MP-1\nA/H3N2a\nA/HA3-3b\nA/NA2-2b\nA/MP-1b\nBa\nB/MP-1b\nB/NA-1b\nB/HA-1b\na\nVirus typed and subtyped in this study.",
+        "wordProcessed": "Ba",
+        "senseFoundByLesk": "a bachelor's degree in arts and sciences"
+    },
+    {
+        "id": 269,
+        "sentence": "Multiplex PCR primer combinations and\nexpected PCR products\nInfluenza\nvirus target\n(virus type/\nsubtype)\nPCR product generated by each primer mixture:\nA (A/HA1-1, A/HA2-3,\nA/HA3-3, B/MP-1)\nB (A/NA1-1,\nA/NA2-2, B/NA-1)\nC (A/MP-1,\nB/HA-1)\nA/H1N1a\nA/HA1-1b\nA/NA1-1b\nA/MP-1b\nA/H1N2 A/HA1-1 A/NA2-2 A/MP-1\nA/H2N1 A/HA2-3 A/NA1-1 A/MP-1\nA/H2N2a\nA/HA2-3b\nA/NA2-2b\nA/MP-1b\nA/H3N1 A/HA3-3 A/NA1-1 A/MP-1\nA/H3N2a\nA/HA3-3b\nA/NA2-2b\nA/MP-1b\nBa\nB/MP-1b\nB/NA-1b\nB/HA-1b\na\nVirus typed and subtyped in this study.",
+        "wordProcessed": "Virus",
+        "senseFoundByLesk": "a software program capable of reproducing itself and usually capable of causing great harm to files or other programs on the same computer"
+    },
+    {
+        "id": 270,
+        "sentence": "b\nSee Fig.",
+        "wordProcessed": "See",
+        "senseFoundByLesk": "the seat within a bishop's diocese where his cathedral is located"
+    },
+    {
+        "id": 271,
+        "sentence": "b\nSee Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 272,
+        "sentence": "702 LI ET AL.",
+        "wordProcessed": "LI",
+        "senseFoundByLesk": "a soft silver-white univalent element of the alkali metal group; the lightest metal known; occurs in several minerals"
+    },
+    {
+        "id": 273,
+        "sentence": "702 LI ET AL.",
+        "wordProcessed": "AL",
+        "senseFoundByLesk": "a silvery ductile metallic element found primarily in bauxite"
+    },
+    {
+        "id": 274,
+        "sentence": "The preparation of DNA arrays used now fairly standard\ntechnology.",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 275,
+        "sentence": "We fixed DNA to the slide surface using a 5-\namine-tagged oligonucleotide and carbodiimide cross-linker.",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 276,
+        "sentence": "In such situations we have employed non-\ncovalent binding methods with comparable success (J. Li and\nD. H. Evans, unpublished data).",
+        "wordProcessed": "Li",
+        "senseFoundByLesk": "a soft silver-white univalent element of the alkali metal group; the lightest metal known; occurs in several minerals"
+    },
+    {
+        "id": 277,
+        "sentence": "In such situations we have employed non-\ncovalent binding methods with comparable success (J. Li and\nD. H. Evans, unpublished data).",
+        "wordProcessed": "Evans",
+        "senseFoundByLesk": "United States anatomist who identified four pituitary hormones and discovered vitamin E (1882-1971)"
+    },
+    {
+        "id": 278,
+        "sentence": "To prepare DNA arrays ca-\npable of typing and subtyping human influenza A and B virus\nstrains, we designed 52 primers theoretically capable of ampli-\nfying 26 different portions of the influenza A and B virus HA,\nNA, and MP genes (Table 3).",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 279,
+        "sentence": "To prepare DNA arrays ca-\npable of typing and subtyping human influenza A and B virus\nstrains, we designed 52 primers theoretically capable of ampli-\nfying 26 different portions of the influenza A and B virus HA,\nNA, and MP genes (Table 3).",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 280,
+        "sentence": "To prepare DNA arrays ca-\npable of typing and subtyping human influenza A and B virus\nstrains, we designed 52 primers theoretically capable of ampli-\nfying 26 different portions of the influenza A and B virus HA,\nNA, and MP genes (Table 3).",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder"
+    },
+    {
+        "id": 281,
+        "sentence": "To prepare DNA arrays ca-\npable of typing and subtyping human influenza A and B virus\nstrains, we designed 52 primers theoretically capable of ampli-\nfying 26 different portions of the influenza A and B virus HA,\nNA, and MP genes (Table 3).",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 282,
+        "sentence": "To prepare DNA arrays ca-\npable of typing and subtyping human influenza A and B virus\nstrains, we designed 52 primers theoretically capable of ampli-\nfying 26 different portions of the influenza A and B virus HA,\nNA, and MP genes (Table 3).",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder"
+    },
+    {
+        "id": 283,
+        "sentence": "To prepare DNA arrays ca-\npable of typing and subtyping human influenza A and B virus\nstrains, we designed 52 primers theoretically capable of ampli-\nfying 26 different portions of the influenza A and B virus HA,\nNA, and MP genes (Table 3).",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 284,
+        "sentence": "To prepare DNA arrays ca-\npable of typing and subtyping human influenza A and B virus\nstrains, we designed 52 primers theoretically capable of ampli-\nfying 26 different portions of the influenza A and B virus HA,\nNA, and MP genes (Table 3).",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 285,
+        "sentence": "To prepare DNA arrays ca-\npable of typing and subtyping human influenza A and B virus\nstrains, we designed 52 primers theoretically capable of ampli-\nfying 26 different portions of the influenza A and B virus HA,\nNA, and MP genes (Table 3).",
+        "wordProcessed": "MP",
+        "senseFoundByLesk": "a member of the military police who polices soldiers and guards prisoners"
+    },
+    {
+        "id": 286,
+        "sentence": "These arrayed DNAs, each about 500 bp long, were readily\nhybridized to probes prepared using the same cDNA templates\n(Fig.",
+        "wordProcessed": "DNAs",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 287,
+        "sentence": "These arrayed DNAs, each about 500 bp long, were readily\nhybridized to probes prepared using the same cDNA templates\n(Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 288,
+        "sentence": "1 and 2), with signal-to-background ratios ranging from 6\nto 30 (Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 289,
+        "sentence": "Further anal-\nysis of this phenomenon showed that 100 bp of homology was\nrequired to produce any detectable binding (Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 290,
+        "sentence": "We also\nnoted that sensitivity was improved by increasing the size of the\ntarget spot and by increasing the length of the fluorescent\nprobe (Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 291,
+        "sentence": "Using perfectly matched probes (i.e.,\nprobes derived from the same cDNA clones as target DNAs)\nwe noted signal-to-noise ratios varying from 6 to 30 over a\nvariety of gene fragments (Fig.",
+        "wordProcessed": "DNAs",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 292,
+        "sentence": "Using perfectly matched probes (i.e.,\nprobes derived from the same cDNA clones as target DNAs)\nwe noted signal-to-noise ratios varying from 6 to 30 over a\nvariety of gene fragments (Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 293,
+        "sentence": "A similar range of signal-\nto-noise ratios (5 to 24) was noted when heterologous probes\nwere prepared from viral isolates belonging only to the same\nviral type and subtype as the target virus cDNAs (Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 294,
+        "sentence": "Analyzing the cause of this variation is difficult because it is\nhard to measure the specific activities of fluorescent probes\nand because there also appear to be target-specific variations\nin hybridization efficiency even with identical probe-target\npairs (Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 295,
+        "sentence": "Upon the conclusion of these experiments we directly\nsequenced portions of these A/Denver/1/57-derived probes\nand found that the sequenced portions had 86% sequence\nidentity with the target DNAs (GenBank accession no.",
+        "wordProcessed": "DNAs",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 296,
+        "sentence": "ACKNOWLEDGMENTS\nWe thank A. Hollis and B. Cooney for DNA sequencing.",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 297,
+        "sentence": "This work was supported by an OMAFRA special research grant,\nthe Ontario Innovation Trust, and the Canadian Foundation for In-\nnovation.",
+        "wordProcessed": "Ontario",
+        "senseFoundByLesk": "a prosperous and industrialized province in central Canada"
+    },
+    {
+        "id": 298,
+        "sentence": "This work was supported by an OMAFRA special research grant,\nthe Ontario Innovation Trust, and the Canadian Foundation for In-\nnovation.",
+        "wordProcessed": "Innovation",
+        "senseFoundByLesk": "the act of starting something for the first time; introducing something new"
+    },
+    {
+        "id": 299,
+        "sentence": "This work was supported by an OMAFRA special research grant,\nthe Ontario Innovation Trust, and the Canadian Foundation for In-\nnovation.",
+        "wordProcessed": "Trust",
+        "senseFoundByLesk": "a consortium of independent organizations formed to limit competition by controlling the production and distribution of a product or service"
+    },
+    {
+        "id": 300,
+        "sentence": "This work was supported by an OMAFRA special research grant,\nthe Ontario Innovation Trust, and the Canadian Foundation for In-\nnovation.",
+        "wordProcessed": "Canadian",
+        "senseFoundByLesk": "a river rising in northeastern New Mexico and flowing eastward across the Texas panhandle to become a tributary of the Arkansas River in Oklahoma"
+    },
+    {
+        "id": 301,
+        "sentence": "This work was supported by an OMAFRA special research grant,\nthe Ontario Innovation Trust, and the Canadian Foundation for In-\nnovation.",
+        "wordProcessed": "Foundation",
+        "senseFoundByLesk": "an institution supported by an endowment"
+    },
+    {
+        "id": 302,
+        "sentence": "Anthony, R. M., T. J.",
+        "wordProcessed": "Anthony",
+        "senseFoundByLesk": "Roman general under Julius Caesar in the Gallic wars; repudiated his wife for the Egyptian queen Cleopatra; they were defeated by Octavian at Actium (83-30 BC)"
+    },
+    {
+        "id": 303,
+        "sentence": "Anthony, R. M., T. J.",
+        "wordProcessed": "J",
+        "senseFoundByLesk": "a unit of electrical energy equal to the work done when a current of one ampere passes through a resistance of one ohm for one second"
+    },
+    {
+        "id": 304,
+        "sentence": "Brown, and G. L. French.",
+        "wordProcessed": "Brown",
+        "senseFoundByLesk": "an orange of low brightness and saturation"
+    },
+    {
+        "id": 305,
+        "sentence": "Brown, and G. L. French.",
+        "wordProcessed": "French",
+        "senseFoundByLesk": "the Romance language spoken in France and in countries colonized by France"
+    },
+    {
+        "id": 306,
+        "sentence": "Com-\nparison of reverse transcription-PCR with tissue culture and other rapid\ndiagnostic assays for detection of type A influenza virus.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "any of several fat-soluble vitamins essential for normal vision; prevents night blindness or inflammation or dryness of the eyes"
+    },
+    {
+        "id": 307,
+        "sentence": "Genet.",
+        "wordProcessed": "Genet",
+        "senseFoundByLesk": "agile Old World viverrine having a spotted coat and long ringed tail"
+    },
+    {
+        "id": 308,
+        "sentence": "Res.",
+        "wordProcessed": "Res",
+        "senseFoundByLesk": "a rare heavy polyvalent metallic element that resembles manganese chemically and is used in some alloys; is obtained as a by-product in refining molybdenum"
+    },
+    {
+        "id": 309,
+        "sentence": "Brown, E. G. 2000.",
+        "wordProcessed": "Brown",
+        "senseFoundByLesk": "a university in Rhode Island"
+    },
+    {
+        "id": 310,
+        "sentence": "Influenza virus genetics.",
+        "wordProcessed": "Influenza",
+        "senseFoundByLesk": "an acute febrile highly contagious viral disease"
+    },
+    {
+        "id": 311,
+        "sentence": "Genet.",
+        "wordProcessed": "Genet",
+        "senseFoundByLesk": "agile Old World viverrine having a spotted coat and long ringed tail"
+    },
+    {
+        "id": 312,
+        "sentence": "Duggan, D. J., M. Bittner, Y. Chen, P. Meltzer, and J. M. Trent.",
+        "wordProcessed": "Chen",
+        "senseFoundByLesk": "wild goose having white adult plumage"
+    },
+    {
+        "id": 313,
+        "sentence": "Duggan, D. J., M. Bittner, Y. Chen, P. Meltzer, and J. M. Trent.",
+        "wordProcessed": "Trent",
+        "senseFoundByLesk": "a city in northern Italy (northwest of Venice) on the River Adige; the site of the Council of Trent"
+    },
+    {
+        "id": 314,
+        "sentence": "Genet.",
+        "wordProcessed": "Genet",
+        "senseFoundByLesk": "agile Old World viverrine having a spotted coat and long ringed tail"
+    },
+    {
+        "id": 315,
+        "sentence": "Favis, R., J. P. Day, N. P. Gerry, C. Phelan, S. Narod, and F. Barany.",
+        "wordProcessed": "Day",
+        "senseFoundByLesk": "the time after sunrise and before sunset while it is light outside"
+    },
+    {
+        "id": 316,
+        "sentence": "Favis, R., J. P. Day, N. P. Gerry, C. Phelan, S. Narod, and F. Barany.",
+        "wordProcessed": "Barany",
+        "senseFoundByLesk": "Austrian physician who developed a rotational method for testing the middle ear (1876-1936)"
+    },
+    {
+        "id": 317,
+        "sentence": "Universal DNA array detection of small insertions and deletions in BRCA1\nand BRCA2.",
+        "wordProcessed": "Universal",
+        "senseFoundByLesk": "coupling that connects two rotating shafts allowing freedom of movement in all directions"
+    },
+    {
+        "id": 318,
+        "sentence": "Universal DNA array detection of small insertions and deletions in BRCA1\nand BRCA2.",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 319,
+        "sentence": "Gerry, N. P., N. E. Witowski, J.",
+        "wordProcessed": "J",
+        "senseFoundByLesk": "a unit of electrical energy equal to the work done when a current of one ampere passes through a resistance of one ohm for one second"
+    },
+    {
+        "id": 320,
+        "sentence": "Day, R. P. Hammer, G. Barany, and F.\nBarany.",
+        "wordProcessed": "Day",
+        "senseFoundByLesk": "the time after sunrise and before sunset while it is light outside"
+    },
+    {
+        "id": 321,
+        "sentence": "Day, R. P. Hammer, G. Barany, and F.\nBarany.",
+        "wordProcessed": "Hammer",
+        "senseFoundByLesk": "a striker that is covered in felt and that causes the piano strings to vibrate"
+    },
+    {
+        "id": 322,
+        "sentence": "Day, R. P. Hammer, G. Barany, and F.\nBarany.",
+        "wordProcessed": "Barany",
+        "senseFoundByLesk": "Austrian physician who developed a rotational method for testing the middle ear (1876-1936)"
+    },
+    {
+        "id": 323,
+        "sentence": "Day, R. P. Hammer, G. Barany, and F.\nBarany.",
+        "wordProcessed": "Barany",
+        "senseFoundByLesk": "Austrian physician who developed a rotational method for testing the middle ear (1876-1936)"
+    },
+    {
+        "id": 324,
+        "sentence": "Universal DNA microarray method for multiplex detection of\nlow abundance point mutations.",
+        "wordProcessed": "Universal",
+        "senseFoundByLesk": "coupling that connects two rotating shafts allowing freedom of movement in all directions"
+    },
+    {
+        "id": 325,
+        "sentence": "Universal DNA microarray method for multiplex detection of\nlow abundance point mutations.",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 326,
+        "sentence": "J. Mol.",
+        "wordProcessed": "Mol",
+        "senseFoundByLesk": "the molecular weight of a substance expressed in grams; the basic unit of amount of substance adopted under the Systeme International d'Unites"
+    },
+    {
+        "id": 327,
+        "sentence": "Genet.",
+        "wordProcessed": "Genet",
+        "senseFoundByLesk": "agile Old World viverrine having a spotted coat and long ringed tail"
+    },
+    {
+        "id": 328,
+        "sentence": "Hacia, J. G., J.",
+        "wordProcessed": "J",
+        "senseFoundByLesk": "a unit of electrical energy equal to the work done when a current of one ampere passes through a resistance of one ohm for one second"
+    },
+    {
+        "id": 329,
+        "sentence": "B.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "the blood group whose red cells carry the B antigen"
+    },
+    {
+        "id": 330,
+        "sentence": "Fan, O. Ryder, L. Jin, K. Edgemon, G. Ghandour, R. A.\nMayer, B.",
+        "wordProcessed": "Fan",
+        "senseFoundByLesk": "an enthusiastic devotee of sports"
+    },
+    {
+        "id": 331,
+        "sentence": "Fan, O. Ryder, L. Jin, K. Edgemon, G. Ghandour, R. A.\nMayer, B.",
+        "wordProcessed": "Mayer",
+        "senseFoundByLesk": "United States filmmaker (born in Russia) who founded his own film company and later merged with Samuel Goldwyn (1885-1957)"
+    },
+    {
+        "id": 332,
+        "sentence": "Fan, O. Ryder, L. Jin, K. Edgemon, G. Ghandour, R. A.\nMayer, B.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "the blood group whose red cells carry the B antigen"
+    },
+    {
+        "id": 333,
+        "sentence": "Sun, L. Hsie, C. M. Robbins, L. C. Brody, D. Wang, E. S. Lander,\nR. Lipshutz, S. P. Fodor, and F. S. Collins.",
+        "wordProcessed": "Sun",
+        "senseFoundByLesk": "first day of the week; observed as a day of rest and worship by most Christians"
+    },
+    {
+        "id": 334,
+        "sentence": "Sun, L. Hsie, C. M. Robbins, L. C. Brody, D. Wang, E. S. Lander,\nR. Lipshutz, S. P. Fodor, and F. S. Collins.",
+        "wordProcessed": "Robbins",
+        "senseFoundByLesk": "United States choreographer who brought human emotion to classical ballet and spirited reality to Broadway musicals (1918-1998)"
+    },
+    {
+        "id": 335,
+        "sentence": "Sun, L. Hsie, C. M. Robbins, L. C. Brody, D. Wang, E. S. Lander,\nR. Lipshutz, S. P. Fodor, and F. S. Collins.",
+        "wordProcessed": "Lander",
+        "senseFoundByLesk": "a space vehicle that is designed to land on the moon or another planet"
+    },
+    {
+        "id": 336,
+        "sentence": "Sun, L. Hsie, C. M. Robbins, L. C. Brody, D. Wang, E. S. Lander,\nR. Lipshutz, S. P. Fodor, and F. S. Collins.",
+        "wordProcessed": "Collins",
+        "senseFoundByLesk": "tall iced drink of liquor (usually gin) with fruit juice"
+    },
+    {
+        "id": 337,
+        "sentence": "Genet.",
+        "wordProcessed": "Genet",
+        "senseFoundByLesk": "agile Old World viverrine having a spotted coat and long ringed tail"
+    },
+    {
+        "id": 338,
+        "sentence": "Hughes, T. R., C. J. Roberts, H. Dai, A. R. Jones, M. R. Meyer, D. Slade,\nJ. Burchard, S. Dow, T. R. Ward, M. J. Kidd, S. H. Friend, and M. J.\nMarton.",
+        "wordProcessed": "Hughes",
+        "senseFoundByLesk": "United States industrialist who was an aviator and a film producer; during the last years of his life he was a total recluse (1905-1976)"
+    },
+    {
+        "id": 339,
+        "sentence": "Hughes, T. R., C. J. Roberts, H. Dai, A. R. Jones, M. R. Meyer, D. Slade,\nJ. Burchard, S. Dow, T. R. Ward, M. J. Kidd, S. H. Friend, and M. J.\nMarton.",
+        "wordProcessed": "Roberts",
+        "senseFoundByLesk": "United States parliamentary authority and author (in 1876) of Robert's Rules of Order (1837-1923)"
+    },
+    {
+        "id": 340,
+        "sentence": "Hughes, T. R., C. J. Roberts, H. Dai, A. R. Jones, M. R. Meyer, D. Slade,\nJ. Burchard, S. Dow, T. R. Ward, M. J. Kidd, S. H. Friend, and M. J.\nMarton.",
+        "wordProcessed": "Jones",
+        "senseFoundByLesk": "one of the first great English architects and a theater designer (1573-1652)"
+    },
+    {
+        "id": 341,
+        "sentence": "Hughes, T. R., C. J. Roberts, H. Dai, A. R. Jones, M. R. Meyer, D. Slade,\nJ. Burchard, S. Dow, T. R. Ward, M. J. Kidd, S. H. Friend, and M. J.\nMarton.",
+        "wordProcessed": "Ward",
+        "senseFoundByLesk": "English economist and conservationist (1914-1981)"
+    },
+    {
+        "id": 342,
+        "sentence": "Hughes, T. R., C. J. Roberts, H. Dai, A. R. Jones, M. R. Meyer, D. Slade,\nJ. Burchard, S. Dow, T. R. Ward, M. J. Kidd, S. H. Friend, and M. J.\nMarton.",
+        "wordProcessed": "Kidd",
+        "senseFoundByLesk": "Scottish sea captain who was hired to protect British shipping in the Indian Ocean and then was accused of piracy and hanged (1645-1701)"
+    },
+    {
+        "id": 343,
+        "sentence": "Hughes, T. R., C. J. Roberts, H. Dai, A. R. Jones, M. R. Meyer, D. Slade,\nJ. Burchard, S. Dow, T. R. Ward, M. J. Kidd, S. H. Friend, and M. J.\nMarton.",
+        "wordProcessed": "Friend",
+        "senseFoundByLesk": "a person you know well and regard with affection and trust"
+    },
+    {
+        "id": 344,
+        "sentence": "Widespread aneuploidy revealed by DNA microarray expres-\nVOL.",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 345,
+        "sentence": "39, 2001 DNA ARRAY DETECTION OF INFLUENZA VIRUSES 703\n\fsion profiling.",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 346,
+        "sentence": "39, 2001 DNA ARRAY DETECTION OF INFLUENZA VIRUSES 703\n\fsion profiling.",
+        "wordProcessed": "ARRAY",
+        "senseFoundByLesk": "an arrangement of aerials spaced to give desired directional characteristics"
+    },
+    {
+        "id": 347,
+        "sentence": "39, 2001 DNA ARRAY DETECTION OF INFLUENZA VIRUSES 703\n\fsion profiling.",
+        "wordProcessed": "DETECTION",
+        "senseFoundByLesk": "the detection that a signal is being received"
+    },
+    {
+        "id": 348,
+        "sentence": "39, 2001 DNA ARRAY DETECTION OF INFLUENZA VIRUSES 703\n\fsion profiling.",
+        "wordProcessed": "INFLUENZA",
+        "senseFoundByLesk": "an acute febrile highly contagious viral disease"
+    },
+    {
+        "id": 349,
+        "sentence": "39, 2001 DNA ARRAY DETECTION OF INFLUENZA VIRUSES 703\n\fsion profiling.",
+        "wordProcessed": "VIRUSES",
+        "senseFoundByLesk": "a software program capable of reproducing itself and usually capable of causing great harm to files or other programs on the same computer"
+    },
+    {
+        "id": 350,
+        "sentence": "Genet.",
+        "wordProcessed": "Genet",
+        "senseFoundByLesk": "agile Old World viverrine having a spotted coat and long ringed tail"
+    },
+    {
+        "id": 351,
+        "sentence": "Kozal, M. J., N. Shah, N. Shen, R. Yang, R. Fucini, T. C. Merigan, D. D.\nRichman, D. Morris, E. Hubbell, M. Chee, and T. R. Gingeras.",
+        "wordProcessed": "Shah",
+        "senseFoundByLesk": "title for the former hereditary monarch of Iran"
+    },
+    {
+        "id": 352,
+        "sentence": "Kozal, M. J., N. Shah, N. Shen, R. Yang, R. Fucini, T. C. Merigan, D. D.\nRichman, D. Morris, E. Hubbell, M. Chee, and T. R. Gingeras.",
+        "wordProcessed": "Yang",
+        "senseFoundByLesk": "the bright positive masculine principle in Chinese dualistic cosmology"
+    },
+    {
+        "id": 353,
+        "sentence": "Kozal, M. J., N. Shah, N. Shen, R. Yang, R. Fucini, T. C. Merigan, D. D.\nRichman, D. Morris, E. Hubbell, M. Chee, and T. R. Gingeras.",
+        "wordProcessed": "Morris",
+        "senseFoundByLesk": "leader of the American Revolution who signed the Declaration of Independence and raised money for the Continental Army (1734-1806)"
+    },
+    {
+        "id": 354,
+        "sentence": "Ex-\ntensive polymorphisms observed in HIV-1 clade B protease gene using\nhigh-density oligonucleotide arrays.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder"
+    },
+    {
+        "id": 355,
+        "sentence": "Med.",
+        "wordProcessed": "Med",
+        "senseFoundByLesk": "a master's degree in education"
+    },
+    {
+        "id": 356,
+        "sentence": "Comparison of two\nnested PCR, cell culture, and antigen detection for the diagnosis of upper\nrespiratory tract infections due to influenza viruses.",
+        "wordProcessed": "Comparison",
+        "senseFoundByLesk": "the act of examining resemblances"
+    },
+    {
+        "id": 357,
+        "sentence": "J. Med.",
+        "wordProcessed": "Med",
+        "senseFoundByLesk": "a master's degree in education"
+    },
+    {
+        "id": 358,
+        "sentence": "Pease, A. C., D. Solas, E. J. Sullivan, M. T. Cronin, C. P. Holmes, and S. P.\nFodor.",
+        "wordProcessed": "Pease",
+        "senseFoundByLesk": "a leguminous plant of the genus Pisum with small white flowers and long green pods containing edible green seeds"
+    },
+    {
+        "id": 359,
+        "sentence": "Pease, A. C., D. Solas, E. J. Sullivan, M. T. Cronin, C. P. Holmes, and S. P.\nFodor.",
+        "wordProcessed": "Sullivan",
+        "senseFoundByLesk": "United States educator who was the teacher and lifelong companion of Helen Keller (1866-1936)"
+    },
+    {
+        "id": 360,
+        "sentence": "Pease, A. C., D. Solas, E. J. Sullivan, M. T. Cronin, C. P. Holmes, and S. P.\nFodor.",
+        "wordProcessed": "Holmes",
+        "senseFoundByLesk": "English geologist and supporter of the theory of continental drift (1890-1965)"
+    },
+    {
+        "id": 361,
+        "sentence": "Light-generated oligonucleotide arrays for rapid DNA se-\nquence analysis.",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 362,
+        "sentence": "USA 91:5022\u00c2\u00ad5026.",
+        "wordProcessed": "USA",
+        "senseFoundByLesk": "the army of the United States of America; the agency that organizes and trains soldiers for land warfare"
+    },
+    {
+        "id": 363,
+        "sentence": "Schena, M., D. Shalon, R. W. Davis, and P. O.",
+        "wordProcessed": "Davis",
+        "senseFoundByLesk": "United States tennis player who donated the Davis Cup for international team tennis competition (1879-1945)"
+    },
+    {
+        "id": 364,
+        "sentence": "Schena, M., D. Shalon, R. W. Davis, and P. O.",
+        "wordProcessed": "O",
+        "senseFoundByLesk": "a nonmetallic bivalent element that is normally a colorless odorless tasteless nonflammable diatomic gas; constitutes 21 percent of the atmosphere by volume; the most abundant element in the earth's crust"
+    },
+    {
+        "id": 365,
+        "sentence": "Brown.",
+        "wordProcessed": "Brown",
+        "senseFoundByLesk": "a university in Rhode Island"
+    },
+    {
+        "id": 366,
+        "sentence": "Quantitative\nmonitoring of gene expression patterns with a complementary DNA mi-\ncroarray.",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 367,
+        "sentence": "Schena, M., D. Shalon, R. Heller, A. Chai, P. O.",
+        "wordProcessed": "Heller",
+        "senseFoundByLesk": "a rowdy or mischievous person (usually a young man)"
+    },
+    {
+        "id": 368,
+        "sentence": "Schena, M., D. Shalon, R. Heller, A. Chai, P. O.",
+        "wordProcessed": "O",
+        "senseFoundByLesk": "the blood group whose red cells carry neither the A nor B antigens"
+    },
+    {
+        "id": 369,
+        "sentence": "Brown, and R. W. Davis.",
+        "wordProcessed": "Brown",
+        "senseFoundByLesk": "an orange of low brightness and saturation"
+    },
+    {
+        "id": 370,
+        "sentence": "Brown, and R. W. Davis.",
+        "wordProcessed": "Davis",
+        "senseFoundByLesk": "United States tennis player who donated the Davis Cup for international team tennis competition (1879-1945)"
+    },
+    {
+        "id": 371,
+        "sentence": "Parallel human genome analysis: microarray-based expression moni-\ntoring of 1000 genes.",
+        "wordProcessed": "Parallel",
+        "senseFoundByLesk": "(mathematics) one of a set of parallel geometric figures (parallel lines or planes)"
+    },
+    {
+        "id": 372,
+        "sentence": "USA 93:10614\u00c2\u00ad10619.",
+        "wordProcessed": "USA",
+        "senseFoundByLesk": "the army of the United States of America; the agency that organizes and trains soldiers for land warfare"
+    },
+    {
+        "id": 373,
+        "sentence": "Use of polymerase chain\nreaction to detect swine influenza virus in nasal swab specimens.",
+        "wordProcessed": "Use",
+        "senseFoundByLesk": "(psychology) an automatic pattern of behavior in reaction to a specific situation; may be inherited or acquired through frequent repetition"
+    },
+    {
+        "id": 374,
+        "sentence": "Am.",
+        "wordProcessed": "Am",
+        "senseFoundByLesk": "a master's degree in arts and sciences"
+    },
+    {
+        "id": 375,
+        "sentence": "J. Vet.",
+        "wordProcessed": "Vet",
+        "senseFoundByLesk": "a doctor who practices veterinary medicine"
+    },
+    {
+        "id": 376,
+        "sentence": "Res.",
+        "wordProcessed": "Res",
+        "senseFoundByLesk": "a rare heavy polyvalent metallic element that resembles manganese chemically and is used in some alloys; is obtained as a by-product in refining molybdenum"
+    },
+    {
+        "id": 377,
+        "sentence": "Schweiger, B., I. Zadow, R. Heckler, H. Timm, and G. Pauli.",
+        "wordProcessed": "Heckler",
+        "senseFoundByLesk": "someone who tries to embarrass you with gibes and questions and objections"
+    },
+    {
+        "id": 378,
+        "sentence": "Schweiger, B., I. Zadow, R. Heckler, H. Timm, and G. Pauli.",
+        "wordProcessed": "Pauli",
+        "senseFoundByLesk": "United States physicist (born in Austria) who proposed the exclusion principle (thus providing a theoretical basis for the periodic table) (1900-1958)"
+    },
+    {
+        "id": 379,
+        "sentence": "Shalon, D., S. J. Smith, and P. O.",
+        "wordProcessed": "Smith",
+        "senseFoundByLesk": "someone who works metal (especially by hammering it when it is hot and malleable)"
+    },
+    {
+        "id": 380,
+        "sentence": "Shalon, D., S. J. Smith, and P. O.",
+        "wordProcessed": "O",
+        "senseFoundByLesk": "a nonmetallic bivalent element that is normally a colorless odorless tasteless nonflammable diatomic gas; constitutes 21 percent of the atmosphere by volume; the most abundant element in the earth's crust"
+    },
+    {
+        "id": 381,
+        "sentence": "Brown.",
+        "wordProcessed": "Brown",
+        "senseFoundByLesk": "a university in Rhode Island"
+    },
+    {
+        "id": 382,
+        "sentence": "A DNA microarray system\nfor analyzing complex DNA samples using two-color fluorescent probe hy-\nbridization.",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 383,
+        "sentence": "Genome Res.",
+        "wordProcessed": "Genome",
+        "senseFoundByLesk": "the ordering of genes in a haploid set of chromosomes of a particular organism; the full DNA sequence of an organism"
+    },
+    {
+        "id": 384,
+        "sentence": "Genome Res.",
+        "wordProcessed": "Res",
+        "senseFoundByLesk": "a rare heavy polyvalent metallic element that resembles manganese chemically and is used in some alloys; is obtained as a by-product in refining molybdenum"
+    },
+    {
+        "id": 385,
+        "sentence": "Stockton, J., J. S. Ellis, M. Saville, J. P. Clewley, and M. C. Zambon.",
+        "wordProcessed": "Stockton",
+        "senseFoundByLesk": "United States writer (1834-1902)"
+    },
+    {
+        "id": 386,
+        "sentence": "Stockton, J., J. S. Ellis, M. Saville, J. P. Clewley, and M. C. Zambon.",
+        "wordProcessed": "Ellis",
+        "senseFoundByLesk": "(Norse mythology) goddess of old age who defeated Thor in a wrestling match"
+    },
+    {
+        "id": 387,
+        "sentence": "Multiplex PCR for typing and subtyping influenza and respiratory syncytial\nviruses.",
+        "wordProcessed": "Multiplex",
+        "senseFoundByLesk": "a movie theater than has several different auditoriums in the same building"
+    },
+    {
+        "id": 388,
+        "sentence": "Taubenberger, J. K., A. H. Reid, A. E. Krafft, K. E. Bijwaard, and T. G.\nFanning.",
+        "wordProcessed": "Reid",
+        "senseFoundByLesk": "Scottish philosopher of common sense who opposed the ideas of David Hume (1710-1796)"
+    },
+    {
+        "id": 389,
+        "sentence": "Willer, D. O., G. McFadden, and D. H. Evans.",
+        "wordProcessed": "Evans",
+        "senseFoundByLesk": "United States anatomist who identified four pituitary hormones and discovered vitamin E (1882-1971)"
+    },
+    {
+        "id": 390,
+        "sentence": "Virology 264:319\u00c2\u00ad343.",
+        "wordProcessed": "Virology",
+        "senseFoundByLesk": "the branch of medical science that studies viruses and viral diseases"
+    },
+    {
+        "id": 391,
+        "sentence": "Wilson, J. W., P. Bean, T. Robins, F. Graziano, and D. H. Persing.",
+        "wordProcessed": "Wilson",
+        "senseFoundByLesk": "28th President of the United States; led the United States in World War I and secured the formation of the League of Nations (1856-1924)"
+    },
+    {
+        "id": 392,
+        "sentence": "Wilson, J. W., P. Bean, T. Robins, F. Graziano, and D. H. Persing.",
+        "wordProcessed": "Bean",
+        "senseFoundByLesk": "any of various leguminous plants grown for their edible seeds and pods"
+    },
+    {
+        "id": 393,
+        "sentence": "Wilson, J. W., P. Bean, T. Robins, F. Graziano, and D. H. Persing.",
+        "wordProcessed": "Robins",
+        "senseFoundByLesk": "large American thrush having a rust-red breast and abdomen"
+    },
+    {
+        "id": 394,
+        "sentence": "Comparative evaluation of three human immunodeficiency virus genotyping\nsystems: the HIV-GenotypR method, the HIV PRT GeneChip assay, and\nthe HIV-1 RT line probe assay.",
+        "wordProcessed": "HIV",
+        "senseFoundByLesk": "infection by the human immunodeficiency virus"
+    },
+    {
+        "id": 395,
+        "sentence": "Wright, K. E., G. A. Wilson, D. Novosad, C. Dimock, D. Tan, and J. M.\nWeber.",
+        "wordProcessed": "Wright",
+        "senseFoundByLesk": "someone who makes or repairs something (usually used in combination)"
+    },
+    {
+        "id": 396,
+        "sentence": "Wright, K. E., G. A. Wilson, D. Novosad, C. Dimock, D. Tan, and J. M.\nWeber.",
+        "wordProcessed": "Wilson",
+        "senseFoundByLesk": "28th President of the United States; led the United States in World War I and secured the formation of the League of Nations (1856-1924)"
+    },
+    {
+        "id": 397,
+        "sentence": "Wright, K. E., G. A. Wilson, D. Novosad, C. Dimock, D. Tan, and J. M.\nWeber.",
+        "wordProcessed": "Tan",
+        "senseFoundByLesk": "ratio of the opposite to the adjacent side of a right-angled triangle"
+    },
+    {
+        "id": 398,
+        "sentence": "Wright, K. E., G. A. Wilson, D. Novosad, C. Dimock, D. Tan, and J. M.\nWeber.",
+        "wordProcessed": "Weber",
+        "senseFoundByLesk": "German physiologist who studied sensory responses to stimuli and is considered the father of psychophysics (1795-1878)"
+    },
+    {
+        "id": 399,
+        "sentence": "B):3\u00c2\u00ad9.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "the blood group whose red cells carry the B antigen"
+    },
+    {
+        "id": 400,
+        "sentence": "Zhang, W., and D. H. Evans.",
+        "wordProcessed": "Evans",
+        "senseFoundByLesk": "United States anatomist who identified four pituitary hormones and discovered vitamin E (1882-1971)"
+    },
+    {
+        "id": 401,
+        "sentence": "PCR detection and differentiation of\ninfluenza virus A, B, and C strains, p. 374\u00c2\u00ad382.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 402,
+        "sentence": "PCR detection and differentiation of\ninfluenza virus A, B, and C strains, p. 374\u00c2\u00ad382.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder"
+    },
+    {
+        "id": 403,
+        "sentence": "PCR detection and differentiation of\ninfluenza virus A, B, and C strains, p. 374\u00c2\u00ad382.",
+        "wordProcessed": "C",
+        "senseFoundByLesk": "the speed at which light travels in a vacuum; the constancy and universality of the speed of light is recognized by defining it to be exactly 299,792,458 meters per second"
+    },
+    {
+        "id": 404,
+        "sentence": "In D. H. Persing, T. Smith,\nF. Tenover, and T. White (ed.",
+        "wordProcessed": "Smith",
+        "senseFoundByLesk": "someone who works metal (especially by hammering it when it is hot and malleable)"
+    },
+    {
+        "id": 405,
+        "sentence": "In D. H. Persing, T. Smith,\nF. Tenover, and T. White (ed.",
+        "wordProcessed": "White",
+        "senseFoundByLesk": "a tributary of the Mississippi River that flows southeastward through northern Arkansas and southern Missouri"
+    },
+    {
+        "id": 406,
+        "sentence": "Amer-\nican Society for Microbiology, Washington, D.C.\n29.",
+        "wordProcessed": "Society",
+        "senseFoundByLesk": "the fashionable elite"
+    },
+    {
+        "id": 407,
+        "sentence": "Amer-\nican Society for Microbiology, Washington, D.C.\n29.",
+        "wordProcessed": "Microbiology",
+        "senseFoundByLesk": "the branch of biology that studies microorganisms and their effects on humans"
+    },
+    {
+        "id": 408,
+        "sentence": "Amer-\nican Society for Microbiology, Washington, D.C.\n29.",
+        "wordProcessed": "Washington",
+        "senseFoundByLesk": "the capital of the United States in the District of Columbia and a tourist mecca; George Washington commissioned Charles L'Enfant to lay out the city in 1791"
+    },
+    {
+        "id": 409,
+        "sentence": "Amer-\nican Society for Microbiology, Washington, D.C.\n29.",
+        "wordProcessed": "D.C.",
+        "senseFoundByLesk": "the district occupied entirely by the city of Washington; chosen by George Washington as the site of the capital of the United States and created out of land ceded by Maryland and Virginia"
+    },
+    {
+        "id": 410,
+        "sentence": "Zhang, W. D., and D. H. Evans.",
+        "wordProcessed": "Evans",
+        "senseFoundByLesk": "United States anatomist who identified four pituitary hormones and discovered vitamin E (1882-1971)"
+    },
+    {
+        "id": 411,
+        "sentence": "704 LI ET AL.",
+        "wordProcessed": "LI",
+        "senseFoundByLesk": "a soft silver-white univalent element of the alkali metal group; the lightest metal known; occurs in several minerals"
+    },
+    {
+        "id": 412,
+        "sentence": "704 LI ET AL.",
+        "wordProcessed": "AL",
+        "senseFoundByLesk": "a silvery ductile metallic element found primarily in bauxite"
+    }
+]
