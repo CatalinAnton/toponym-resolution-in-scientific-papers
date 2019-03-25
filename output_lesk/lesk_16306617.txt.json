@@ -1,0 +1,2522 @@
+[
+    {
+        "id": 0,
+        "sentence": "\u00ef\u00bb\u00bfJOURNAL OF VIROLOGY, Dec. 2005, p. 15460\u00c2\u00ad15466 Vol.",
+        "wordProcessed": "VIROLOGY",
+        "senseFoundByLesk": "the branch of medical science that studies viruses and viral diseases"
+    },
+    {
+        "id": 1,
+        "sentence": "24\n0022-538X/05/$08.000 doi:10.1128/JVI.79.24.15460\u00c2\u00ad15466.2005\nCopyright \u00c2\u00a9 2005, American Society for Microbiology.",
+        "wordProcessed": "Copyright",
+        "senseFoundByLesk": "a document granting exclusive right to publish and sell literary or musical or artistic work"
+    },
+    {
+        "id": 2,
+        "sentence": "24\n0022-538X/05/$08.000 doi:10.1128/JVI.79.24.15460\u00c2\u00ad15466.2005\nCopyright \u00c2\u00a9 2005, American Society for Microbiology.",
+        "wordProcessed": "American",
+        "senseFoundByLesk": "a native or inhabitant of a North American or Central American or South American country"
+    },
+    {
+        "id": 3,
+        "sentence": "24\n0022-538X/05/$08.000 doi:10.1128/JVI.79.24.15460\u00c2\u00ad15466.2005\nCopyright \u00c2\u00a9 2005, American Society for Microbiology.",
+        "wordProcessed": "Society",
+        "senseFoundByLesk": "the fashionable elite"
+    },
+    {
+        "id": 4,
+        "sentence": "24\n0022-538X/05/$08.000 doi:10.1128/JVI.79.24.15460\u00c2\u00ad15466.2005\nCopyright \u00c2\u00a9 2005, American Society for Microbiology.",
+        "wordProcessed": "Microbiology",
+        "senseFoundByLesk": "the branch of biology that studies microorganisms and their effects on humans"
+    },
+    {
+        "id": 5,
+        "sentence": "All Rights Reserved.",
+        "wordProcessed": "Rights",
+        "senseFoundByLesk": "the piece of ground in the outfield on the catcher's right"
+    },
+    {
+        "id": 6,
+        "sentence": "New Genotype of Avian Influenza H5N1 Viruses Isolated from\nTree Sparrows in China\nZ. Kou,1\nF. M. Lei,2\n* J. Yu,3\nZ. J. Fan,1\nZ. H. Yin,2\nC. X. Jia,2\nK. J. Xiong,1\nY. H. Sun ,2\nX. W. Zhang,3\nX. M. Wu,4\nX.",
+        "wordProcessed": "Genotype",
+        "senseFoundByLesk": "the particular alleles at specified loci present in an organism"
+    },
+    {
+        "id": 7,
+        "sentence": "New Genotype of Avian Influenza H5N1 Viruses Isolated from\nTree Sparrows in China\nZ. Kou,1\nF. M. Lei,2\n* J. Yu,3\nZ. J. Fan,1\nZ. H. Yin,2\nC. X. Jia,2\nK. J. Xiong,1\nY. H. Sun ,2\nX. W. Zhang,3\nX. M. Wu,4\nX.",
+        "wordProcessed": "Influenza",
+        "senseFoundByLesk": "an acute febrile highly contagious viral disease"
+    },
+    {
+        "id": 8,
+        "sentence": "New Genotype of Avian Influenza H5N1 Viruses Isolated from\nTree Sparrows in China\nZ. Kou,1\nF. M. Lei,2\n* J. Yu,3\nZ. J. Fan,1\nZ. H. Yin,2\nC. X. Jia,2\nK. J. Xiong,1\nY. H. Sun ,2\nX. W. Zhang,3\nX. M. Wu,4\nX.",
+        "wordProcessed": "Viruses",
+        "senseFoundByLesk": "(virology) ultramicroscopic infectious agent that replicates itself only within cells of living hosts; many are pathogenic; a piece of nucleic acid (DNA or RNA) wrapped in a thin coat of protein"
+    },
+    {
+        "id": 9,
+        "sentence": "New Genotype of Avian Influenza H5N1 Viruses Isolated from\nTree Sparrows in China\nZ. Kou,1\nF. M. Lei,2\n* J. Yu,3\nZ. J. Fan,1\nZ. H. Yin,2\nC. X. Jia,2\nK. J. Xiong,1\nY. H. Sun ,2\nX. W. Zhang,3\nX. M. Wu,4\nX.",
+        "wordProcessed": "Tree",
+        "senseFoundByLesk": "English actor and theatrical producer noted for his lavish productions of Shakespeare (1853-1917)"
+    },
+    {
+        "id": 10,
+        "sentence": "New Genotype of Avian Influenza H5N1 Viruses Isolated from\nTree Sparrows in China\nZ. Kou,1\nF. M. Lei,2\n* J. Yu,3\nZ. J. Fan,1\nZ. H. Yin,2\nC. X. Jia,2\nK. J. Xiong,1\nY. H. Sun ,2\nX. W. Zhang,3\nX. M. Wu,4\nX.",
+        "wordProcessed": "Sparrows",
+        "senseFoundByLesk": "any of several small dull-colored singing birds feeding on seeds or insects"
+    },
+    {
+        "id": 11,
+        "sentence": "New Genotype of Avian Influenza H5N1 Viruses Isolated from\nTree Sparrows in China\nZ. Kou,1\nF. M. Lei,2\n* J. Yu,3\nZ. J. Fan,1\nZ. H. Yin,2\nC. X. Jia,2\nK. J. Xiong,1\nY. H. Sun ,2\nX. W. Zhang,3\nX. M. Wu,4\nX.",
+        "wordProcessed": "China",
+        "senseFoundByLesk": "a government on the island of Taiwan established in 1949 by Chiang Kai-shek after the conquest of mainland China by the Communists led by Mao Zedong"
+    },
+    {
+        "id": 12,
+        "sentence": "New Genotype of Avian Influenza H5N1 Viruses Isolated from\nTree Sparrows in China\nZ. Kou,1\nF. M. Lei,2\n* J. Yu,3\nZ. J. Fan,1\nZ. H. Yin,2\nC. X. Jia,2\nK. J. Xiong,1\nY. H. Sun ,2\nX. W. Zhang,3\nX. M. Wu,4\nX.",
+        "wordProcessed": "Sun",
+        "senseFoundByLesk": "the star that is the source of light and heat for the planets in the solar system"
+    },
+    {
+        "id": 13,
+        "sentence": "New Genotype of Avian Influenza H5N1 Viruses Isolated from\nTree Sparrows in China\nZ. Kou,1\nF. M. Lei,2\n* J. Yu,3\nZ. J. Fan,1\nZ. H. Yin,2\nC. X. Jia,2\nK. J. Xiong,1\nY. H. Sun ,2\nX. W. Zhang,3\nX. M. Wu,4\nX.",
+        "wordProcessed": "X",
+        "senseFoundByLesk": "the 24th letter of the Roman alphabet"
+    },
+    {
+        "id": 14,
+        "sentence": "B. Gao,4\nand T. X. Li1\n*\nState Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 430071 China1\n;\nInstitute of Zoology, Chinese Academy of Sciences, Beijing, 100080 China2\n; Beijing Genomics Institute,\nChinese Academy of Sciences, Beijing, 101300 China3\n; and\nShaanxi Institute of Zoology, Xi'an, 710032 China4\nReceived 28 June 2005/Accepted 27 September 2005\nThe 2004 outbreaks of highly pathogenic avian influenza H5N1 disease in China led to a great poultry loss\nand society attention.",
+        "wordProcessed": "State",
+        "senseFoundByLesk": "(chemistry) the three traditional states of matter are solids (fixed shape and volume) and liquids (fixed volume and shaped by the container) and gases (filling the container)"
+    },
+    {
+        "id": 15,
+        "sentence": "B. Gao,4\nand T. X. Li1\n*\nState Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 430071 China1\n;\nInstitute of Zoology, Chinese Academy of Sciences, Beijing, 100080 China2\n; Beijing Genomics Institute,\nChinese Academy of Sciences, Beijing, 101300 China3\n; and\nShaanxi Institute of Zoology, Xi'an, 710032 China4\nReceived 28 June 2005/Accepted 27 September 2005\nThe 2004 outbreaks of highly pathogenic avian influenza H5N1 disease in China led to a great poultry loss\nand society attention.",
+        "wordProcessed": "Key",
+        "senseFoundByLesk": "United States lawyer and poet who wrote a poem after witnessing the British attack on Baltimore during the War of 1812; the poem was later set to music and entitled `The Star-Spangled Banner' (1779-1843)"
+    },
+    {
+        "id": 16,
+        "sentence": "B. Gao,4\nand T. X. Li1\n*\nState Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 430071 China1\n;\nInstitute of Zoology, Chinese Academy of Sciences, Beijing, 100080 China2\n; Beijing Genomics Institute,\nChinese Academy of Sciences, Beijing, 101300 China3\n; and\nShaanxi Institute of Zoology, Xi'an, 710032 China4\nReceived 28 June 2005/Accepted 27 September 2005\nThe 2004 outbreaks of highly pathogenic avian influenza H5N1 disease in China led to a great poultry loss\nand society attention.",
+        "wordProcessed": "Laboratory",
+        "senseFoundByLesk": "a region resembling a laboratory inasmuch as it offers opportunities for observation and practice and experimentation"
+    },
+    {
+        "id": 17,
+        "sentence": "B. Gao,4\nand T. X. Li1\n*\nState Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 430071 China1\n;\nInstitute of Zoology, Chinese Academy of Sciences, Beijing, 100080 China2\n; Beijing Genomics Institute,\nChinese Academy of Sciences, Beijing, 101300 China3\n; and\nShaanxi Institute of Zoology, Xi'an, 710032 China4\nReceived 28 June 2005/Accepted 27 September 2005\nThe 2004 outbreaks of highly pathogenic avian influenza H5N1 disease in China led to a great poultry loss\nand society attention.",
+        "wordProcessed": "Virology",
+        "senseFoundByLesk": "the branch of medical science that studies viruses and viral diseases"
+    },
+    {
+        "id": 18,
+        "sentence": "B. Gao,4\nand T. X. Li1\n*\nState Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 430071 China1\n;\nInstitute of Zoology, Chinese Academy of Sciences, Beijing, 100080 China2\n; Beijing Genomics Institute,\nChinese Academy of Sciences, Beijing, 101300 China3\n; and\nShaanxi Institute of Zoology, Xi'an, 710032 China4\nReceived 28 June 2005/Accepted 27 September 2005\nThe 2004 outbreaks of highly pathogenic avian influenza H5N1 disease in China led to a great poultry loss\nand society attention.",
+        "wordProcessed": "Wuhan",
+        "senseFoundByLesk": "a city of central China on the Chang Jiang; the commercial and industrial center of central China"
+    },
+    {
+        "id": 19,
+        "sentence": "B. Gao,4\nand T. X. Li1\n*\nState Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 430071 China1\n;\nInstitute of Zoology, Chinese Academy of Sciences, Beijing, 100080 China2\n; Beijing Genomics Institute,\nChinese Academy of Sciences, Beijing, 101300 China3\n; and\nShaanxi Institute of Zoology, Xi'an, 710032 China4\nReceived 28 June 2005/Accepted 27 September 2005\nThe 2004 outbreaks of highly pathogenic avian influenza H5N1 disease in China led to a great poultry loss\nand society attention.",
+        "wordProcessed": "Institute",
+        "senseFoundByLesk": "an association organized to promote art or science or education"
+    },
+    {
+        "id": 20,
+        "sentence": "B. Gao,4\nand T. X. Li1\n*\nState Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 430071 China1\n;\nInstitute of Zoology, Chinese Academy of Sciences, Beijing, 100080 China2\n; Beijing Genomics Institute,\nChinese Academy of Sciences, Beijing, 101300 China3\n; and\nShaanxi Institute of Zoology, Xi'an, 710032 China4\nReceived 28 June 2005/Accepted 27 September 2005\nThe 2004 outbreaks of highly pathogenic avian influenza H5N1 disease in China led to a great poultry loss\nand society attention.",
+        "wordProcessed": "Virology",
+        "senseFoundByLesk": "the branch of medical science that studies viruses and viral diseases"
+    },
+    {
+        "id": 21,
+        "sentence": "B. Gao,4\nand T. X. Li1\n*\nState Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 430071 China1\n;\nInstitute of Zoology, Chinese Academy of Sciences, Beijing, 100080 China2\n; Beijing Genomics Institute,\nChinese Academy of Sciences, Beijing, 101300 China3\n; and\nShaanxi Institute of Zoology, Xi'an, 710032 China4\nReceived 28 June 2005/Accepted 27 September 2005\nThe 2004 outbreaks of highly pathogenic avian influenza H5N1 disease in China led to a great poultry loss\nand society attention.",
+        "wordProcessed": "Chinese",
+        "senseFoundByLesk": "any of the Sino-Tibetan languages spoken in China; regarded as dialects of a single language (even though they are mutually unintelligible) because they share an ideographic writing system"
+    },
+    {
+        "id": 22,
+        "sentence": "B. Gao,4\nand T. X. Li1\n*\nState Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 430071 China1\n;\nInstitute of Zoology, Chinese Academy of Sciences, Beijing, 100080 China2\n; Beijing Genomics Institute,\nChinese Academy of Sciences, Beijing, 101300 China3\n; and\nShaanxi Institute of Zoology, Xi'an, 710032 China4\nReceived 28 June 2005/Accepted 27 September 2005\nThe 2004 outbreaks of highly pathogenic avian influenza H5N1 disease in China led to a great poultry loss\nand society attention.",
+        "wordProcessed": "Academy",
+        "senseFoundByLesk": "a learned establishment for the advancement of knowledge"
+    },
+    {
+        "id": 23,
+        "sentence": "B. Gao,4\nand T. X. Li1\n*\nState Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 430071 China1\n;\nInstitute of Zoology, Chinese Academy of Sciences, Beijing, 100080 China2\n; Beijing Genomics Institute,\nChinese Academy of Sciences, Beijing, 101300 China3\n; and\nShaanxi Institute of Zoology, Xi'an, 710032 China4\nReceived 28 June 2005/Accepted 27 September 2005\nThe 2004 outbreaks of highly pathogenic avian influenza H5N1 disease in China led to a great poultry loss\nand society attention.",
+        "wordProcessed": "Sciences",
+        "senseFoundByLesk": "ability to produce solutions in some problem domain"
+    },
+    {
+        "id": 24,
+        "sentence": "B. Gao,4\nand T. X. Li1\n*\nState Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 430071 China1\n;\nInstitute of Zoology, Chinese Academy of Sciences, Beijing, 100080 China2\n; Beijing Genomics Institute,\nChinese Academy of Sciences, Beijing, 101300 China3\n; and\nShaanxi Institute of Zoology, Xi'an, 710032 China4\nReceived 28 June 2005/Accepted 27 September 2005\nThe 2004 outbreaks of highly pathogenic avian influenza H5N1 disease in China led to a great poultry loss\nand society attention.",
+        "wordProcessed": "Wuhan",
+        "senseFoundByLesk": "a city of central China on the Chang Jiang; the commercial and industrial center of central China"
+    },
+    {
+        "id": 25,
+        "sentence": "B. Gao,4\nand T. X. Li1\n*\nState Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 430071 China1\n;\nInstitute of Zoology, Chinese Academy of Sciences, Beijing, 100080 China2\n; Beijing Genomics Institute,\nChinese Academy of Sciences, Beijing, 101300 China3\n; and\nShaanxi Institute of Zoology, Xi'an, 710032 China4\nReceived 28 June 2005/Accepted 27 September 2005\nThe 2004 outbreaks of highly pathogenic avian influenza H5N1 disease in China led to a great poultry loss\nand society attention.",
+        "wordProcessed": "Institute",
+        "senseFoundByLesk": "an association organized to promote art or science or education"
+    },
+    {
+        "id": 26,
+        "sentence": "B. Gao,4\nand T. X. Li1\n*\nState Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 430071 China1\n;\nInstitute of Zoology, Chinese Academy of Sciences, Beijing, 100080 China2\n; Beijing Genomics Institute,\nChinese Academy of Sciences, Beijing, 101300 China3\n; and\nShaanxi Institute of Zoology, Xi'an, 710032 China4\nReceived 28 June 2005/Accepted 27 September 2005\nThe 2004 outbreaks of highly pathogenic avian influenza H5N1 disease in China led to a great poultry loss\nand society attention.",
+        "wordProcessed": "Zoology",
+        "senseFoundByLesk": "all the animal life in a particular region or period"
+    },
+    {
+        "id": 27,
+        "sentence": "B. Gao,4\nand T. X. Li1\n*\nState Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 430071 China1\n;\nInstitute of Zoology, Chinese Academy of Sciences, Beijing, 100080 China2\n; Beijing Genomics Institute,\nChinese Academy of Sciences, Beijing, 101300 China3\n; and\nShaanxi Institute of Zoology, Xi'an, 710032 China4\nReceived 28 June 2005/Accepted 27 September 2005\nThe 2004 outbreaks of highly pathogenic avian influenza H5N1 disease in China led to a great poultry loss\nand society attention.",
+        "wordProcessed": "Chinese",
+        "senseFoundByLesk": "any of the Sino-Tibetan languages spoken in China; regarded as dialects of a single language (even though they are mutually unintelligible) because they share an ideographic writing system"
+    },
+    {
+        "id": 28,
+        "sentence": "B. Gao,4\nand T. X. Li1\n*\nState Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 430071 China1\n;\nInstitute of Zoology, Chinese Academy of Sciences, Beijing, 100080 China2\n; Beijing Genomics Institute,\nChinese Academy of Sciences, Beijing, 101300 China3\n; and\nShaanxi Institute of Zoology, Xi'an, 710032 China4\nReceived 28 June 2005/Accepted 27 September 2005\nThe 2004 outbreaks of highly pathogenic avian influenza H5N1 disease in China led to a great poultry loss\nand society attention.",
+        "wordProcessed": "Academy",
+        "senseFoundByLesk": "a learned establishment for the advancement of knowledge"
+    },
+    {
+        "id": 29,
+        "sentence": "B. Gao,4\nand T. X. Li1\n*\nState Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 430071 China1\n;\nInstitute of Zoology, Chinese Academy of Sciences, Beijing, 100080 China2\n; Beijing Genomics Institute,\nChinese Academy of Sciences, Beijing, 101300 China3\n; and\nShaanxi Institute of Zoology, Xi'an, 710032 China4\nReceived 28 June 2005/Accepted 27 September 2005\nThe 2004 outbreaks of highly pathogenic avian influenza H5N1 disease in China led to a great poultry loss\nand society attention.",
+        "wordProcessed": "Sciences",
+        "senseFoundByLesk": "ability to produce solutions in some problem domain"
+    },
+    {
+        "id": 30,
+        "sentence": "B. Gao,4\nand T. X. Li1\n*\nState Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 430071 China1\n;\nInstitute of Zoology, Chinese Academy of Sciences, Beijing, 100080 China2\n; Beijing Genomics Institute,\nChinese Academy of Sciences, Beijing, 101300 China3\n; and\nShaanxi Institute of Zoology, Xi'an, 710032 China4\nReceived 28 June 2005/Accepted 27 September 2005\nThe 2004 outbreaks of highly pathogenic avian influenza H5N1 disease in China led to a great poultry loss\nand society attention.",
+        "wordProcessed": "Beijing",
+        "senseFoundByLesk": "capital of the People's Republic of China in the Hebei province in northeastern China; 2nd largest Chinese city"
+    },
+    {
+        "id": 31,
+        "sentence": "B. Gao,4\nand T. X. Li1\n*\nState Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 430071 China1\n;\nInstitute of Zoology, Chinese Academy of Sciences, Beijing, 100080 China2\n; Beijing Genomics Institute,\nChinese Academy of Sciences, Beijing, 101300 China3\n; and\nShaanxi Institute of Zoology, Xi'an, 710032 China4\nReceived 28 June 2005/Accepted 27 September 2005\nThe 2004 outbreaks of highly pathogenic avian influenza H5N1 disease in China led to a great poultry loss\nand society attention.",
+        "wordProcessed": "Beijing",
+        "senseFoundByLesk": "capital of the People's Republic of China in the Hebei province in northeastern China; 2nd largest Chinese city"
+    },
+    {
+        "id": 32,
+        "sentence": "B. Gao,4\nand T. X. Li1\n*\nState Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 430071 China1\n;\nInstitute of Zoology, Chinese Academy of Sciences, Beijing, 100080 China2\n; Beijing Genomics Institute,\nChinese Academy of Sciences, Beijing, 101300 China3\n; and\nShaanxi Institute of Zoology, Xi'an, 710032 China4\nReceived 28 June 2005/Accepted 27 September 2005\nThe 2004 outbreaks of highly pathogenic avian influenza H5N1 disease in China led to a great poultry loss\nand society attention.",
+        "wordProcessed": "Genomics",
+        "senseFoundByLesk": "the branch of genetics that studies organisms in terms of their genomes (their full DNA sequences)"
+    },
+    {
+        "id": 33,
+        "sentence": "B. Gao,4\nand T. X. Li1\n*\nState Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 430071 China1\n;\nInstitute of Zoology, Chinese Academy of Sciences, Beijing, 100080 China2\n; Beijing Genomics Institute,\nChinese Academy of Sciences, Beijing, 101300 China3\n; and\nShaanxi Institute of Zoology, Xi'an, 710032 China4\nReceived 28 June 2005/Accepted 27 September 2005\nThe 2004 outbreaks of highly pathogenic avian influenza H5N1 disease in China led to a great poultry loss\nand society attention.",
+        "wordProcessed": "Institute",
+        "senseFoundByLesk": "an association organized to promote art or science or education"
+    },
+    {
+        "id": 34,
+        "sentence": "B. Gao,4\nand T. X. Li1\n*\nState Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 430071 China1\n;\nInstitute of Zoology, Chinese Academy of Sciences, Beijing, 100080 China2\n; Beijing Genomics Institute,\nChinese Academy of Sciences, Beijing, 101300 China3\n; and\nShaanxi Institute of Zoology, Xi'an, 710032 China4\nReceived 28 June 2005/Accepted 27 September 2005\nThe 2004 outbreaks of highly pathogenic avian influenza H5N1 disease in China led to a great poultry loss\nand society attention.",
+        "wordProcessed": "Chinese",
+        "senseFoundByLesk": "any of the Sino-Tibetan languages spoken in China; regarded as dialects of a single language (even though they are mutually unintelligible) because they share an ideographic writing system"
+    },
+    {
+        "id": 35,
+        "sentence": "B. Gao,4\nand T. X. Li1\n*\nState Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 430071 China1\n;\nInstitute of Zoology, Chinese Academy of Sciences, Beijing, 100080 China2\n; Beijing Genomics Institute,\nChinese Academy of Sciences, Beijing, 101300 China3\n; and\nShaanxi Institute of Zoology, Xi'an, 710032 China4\nReceived 28 June 2005/Accepted 27 September 2005\nThe 2004 outbreaks of highly pathogenic avian influenza H5N1 disease in China led to a great poultry loss\nand society attention.",
+        "wordProcessed": "Academy",
+        "senseFoundByLesk": "a learned establishment for the advancement of knowledge"
+    },
+    {
+        "id": 36,
+        "sentence": "B. Gao,4\nand T. X. Li1\n*\nState Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 430071 China1\n;\nInstitute of Zoology, Chinese Academy of Sciences, Beijing, 100080 China2\n; Beijing Genomics Institute,\nChinese Academy of Sciences, Beijing, 101300 China3\n; and\nShaanxi Institute of Zoology, Xi'an, 710032 China4\nReceived 28 June 2005/Accepted 27 September 2005\nThe 2004 outbreaks of highly pathogenic avian influenza H5N1 disease in China led to a great poultry loss\nand society attention.",
+        "wordProcessed": "Sciences",
+        "senseFoundByLesk": "ability to produce solutions in some problem domain"
+    },
+    {
+        "id": 37,
+        "sentence": "B. Gao,4\nand T. X. Li1\n*\nState Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 430071 China1\n;\nInstitute of Zoology, Chinese Academy of Sciences, Beijing, 100080 China2\n; Beijing Genomics Institute,\nChinese Academy of Sciences, Beijing, 101300 China3\n; and\nShaanxi Institute of Zoology, Xi'an, 710032 China4\nReceived 28 June 2005/Accepted 27 September 2005\nThe 2004 outbreaks of highly pathogenic avian influenza H5N1 disease in China led to a great poultry loss\nand society attention.",
+        "wordProcessed": "Beijing",
+        "senseFoundByLesk": "capital of the People's Republic of China in the Hebei province in northeastern China; 2nd largest Chinese city"
+    },
+    {
+        "id": 38,
+        "sentence": "B. Gao,4\nand T. X. Li1\n*\nState Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 430071 China1\n;\nInstitute of Zoology, Chinese Academy of Sciences, Beijing, 100080 China2\n; Beijing Genomics Institute,\nChinese Academy of Sciences, Beijing, 101300 China3\n; and\nShaanxi Institute of Zoology, Xi'an, 710032 China4\nReceived 28 June 2005/Accepted 27 September 2005\nThe 2004 outbreaks of highly pathogenic avian influenza H5N1 disease in China led to a great poultry loss\nand society attention.",
+        "wordProcessed": "Institute",
+        "senseFoundByLesk": "an association organized to promote art or science or education"
+    },
+    {
+        "id": 39,
+        "sentence": "B. Gao,4\nand T. X. Li1\n*\nState Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 430071 China1\n;\nInstitute of Zoology, Chinese Academy of Sciences, Beijing, 100080 China2\n; Beijing Genomics Institute,\nChinese Academy of Sciences, Beijing, 101300 China3\n; and\nShaanxi Institute of Zoology, Xi'an, 710032 China4\nReceived 28 June 2005/Accepted 27 September 2005\nThe 2004 outbreaks of highly pathogenic avian influenza H5N1 disease in China led to a great poultry loss\nand society attention.",
+        "wordProcessed": "Zoology",
+        "senseFoundByLesk": "all the animal life in a particular region or period"
+    },
+    {
+        "id": 40,
+        "sentence": "B. Gao,4\nand T. X. Li1\n*\nState Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 430071 China1\n;\nInstitute of Zoology, Chinese Academy of Sciences, Beijing, 100080 China2\n; Beijing Genomics Institute,\nChinese Academy of Sciences, Beijing, 101300 China3\n; and\nShaanxi Institute of Zoology, Xi'an, 710032 China4\nReceived 28 June 2005/Accepted 27 September 2005\nThe 2004 outbreaks of highly pathogenic avian influenza H5N1 disease in China led to a great poultry loss\nand society attention.",
+        "wordProcessed": "June",
+        "senseFoundByLesk": "the month following May and preceding July"
+    },
+    {
+        "id": 41,
+        "sentence": "B. Gao,4\nand T. X. Li1\n*\nState Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 430071 China1\n;\nInstitute of Zoology, Chinese Academy of Sciences, Beijing, 100080 China2\n; Beijing Genomics Institute,\nChinese Academy of Sciences, Beijing, 101300 China3\n; and\nShaanxi Institute of Zoology, Xi'an, 710032 China4\nReceived 28 June 2005/Accepted 27 September 2005\nThe 2004 outbreaks of highly pathogenic avian influenza H5N1 disease in China led to a great poultry loss\nand society attention.",
+        "wordProcessed": "September",
+        "senseFoundByLesk": "the month following August and preceding October"
+    },
+    {
+        "id": 42,
+        "sentence": "B. Gao,4\nand T. X. Li1\n*\nState Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 430071 China1\n;\nInstitute of Zoology, Chinese Academy of Sciences, Beijing, 100080 China2\n; Beijing Genomics Institute,\nChinese Academy of Sciences, Beijing, 101300 China3\n; and\nShaanxi Institute of Zoology, Xi'an, 710032 China4\nReceived 28 June 2005/Accepted 27 September 2005\nThe 2004 outbreaks of highly pathogenic avian influenza H5N1 disease in China led to a great poultry loss\nand society attention.",
+        "wordProcessed": "China",
+        "senseFoundByLesk": "a government on the island of Taiwan established in 1949 by Chiang Kai-shek after the conquest of mainland China by the Communists led by Mao Zedong"
+    },
+    {
+        "id": 43,
+        "sentence": "A survey of avian influenza viruses was conducted on tree sparrows (Passer montanus)\ncollected in China in 2004.",
+        "wordProcessed": "Passer",
+        "senseFoundByLesk": "type genus of the Passeridae"
+    },
+    {
+        "id": 44,
+        "sentence": "A survey of avian influenza viruses was conducted on tree sparrows (Passer montanus)\ncollected in China in 2004.",
+        "wordProcessed": "China",
+        "senseFoundByLesk": "a government on the island of Taiwan established in 1949 by Chiang Kai-shek after the conquest of mainland China by the Communists led by Mao Zedong"
+    },
+    {
+        "id": 45,
+        "sentence": "The four tree sparrow viruses were different from the 2003 tree\nsparrow strain (genotype Z) in Hong Kong.",
+        "wordProcessed": "Z",
+        "senseFoundByLesk": "the 26th letter of the Roman alphabet"
+    },
+    {
+        "id": 46,
+        "sentence": "The Hong Kong influenza H5N1 virus that infected humans in\n1997 was confirmed to be a reassortant virus that had acquired\nthe hemagglutinin (HA) gene from A/goose/GuanGdong/1/96\n(Gs/Gd/96; H5N1)-like viruses, the neuraminidase (NA) gene\nfrom A/teal/HongKong/W312/97 (Teal/HK/W312/97; H6N1)-\nlike viruses, and the internal genes from A/quail/HongKong/\nG1/97(Qa/HK/G1/97; H9N2)-like or Teal/HK/W312/97 viruses\n(1, 5).",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 47,
+        "sentence": "The Hong Kong influenza H5N1 virus that infected humans in\n1997 was confirmed to be a reassortant virus that had acquired\nthe hemagglutinin (HA) gene from A/goose/GuanGdong/1/96\n(Gs/Gd/96; H5N1)-like viruses, the neuraminidase (NA) gene\nfrom A/teal/HongKong/W312/97 (Teal/HK/W312/97; H6N1)-\nlike viruses, and the internal genes from A/quail/HongKong/\nG1/97(Qa/HK/G1/97; H9N2)-like or Teal/HK/W312/97 viruses\n(1, 5).",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 48,
+        "sentence": "Multiple genotypes of H5N1 were detected from 2001 to\n2004, which were designated A, B, C, D, E, V, W, X, Y, Z, and\nZ (6, 12).",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 49,
+        "sentence": "Multiple genotypes of H5N1 were detected from 2001 to\n2004, which were designated A, B, C, D, E, V, W, X, Y, Z, and\nZ (6, 12).",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder"
+    },
+    {
+        "id": 50,
+        "sentence": "Multiple genotypes of H5N1 were detected from 2001 to\n2004, which were designated A, B, C, D, E, V, W, X, Y, Z, and\nZ (6, 12).",
+        "wordProcessed": "C",
+        "senseFoundByLesk": "the speed at which light travels in a vacuum; the constancy and universality of the speed of light is recognized by defining it to be exactly 299,792,458 meters per second"
+    },
+    {
+        "id": 51,
+        "sentence": "Multiple genotypes of H5N1 were detected from 2001 to\n2004, which were designated A, B, C, D, E, V, W, X, Y, Z, and\nZ (6, 12).",
+        "wordProcessed": "D",
+        "senseFoundByLesk": "the cardinal number that is the product of one hundred and five"
+    },
+    {
+        "id": 52,
+        "sentence": "Multiple genotypes of H5N1 were detected from 2001 to\n2004, which were designated A, B, C, D, E, V, W, X, Y, Z, and\nZ (6, 12).",
+        "wordProcessed": "E",
+        "senseFoundByLesk": "the base of the natural system of logarithms; approximately equal to 2.718282..."
+    },
+    {
+        "id": 53,
+        "sentence": "Multiple genotypes of H5N1 were detected from 2001 to\n2004, which were designated A, B, C, D, E, V, W, X, Y, Z, and\nZ (6, 12).",
+        "wordProcessed": "V",
+        "senseFoundByLesk": "a unit of potential equal to the potential difference between two points on a conductor carrying a current of 1 ampere when the power dissipated between the two points is 1 watt; equivalent to the potential difference across a resistance of 1 ohm when 1 ampere of current flows through it"
+    },
+    {
+        "id": 54,
+        "sentence": "Multiple genotypes of H5N1 were detected from 2001 to\n2004, which were designated A, B, C, D, E, V, W, X, Y, Z, and\nZ (6, 12).",
+        "wordProcessed": "W",
+        "senseFoundByLesk": "a unit of power equal to 1 joule per second; the power dissipated by a current of 1 ampere flowing across a resistance of 1 ohm"
+    },
+    {
+        "id": 55,
+        "sentence": "Multiple genotypes of H5N1 were detected from 2001 to\n2004, which were designated A, B, C, D, E, V, W, X, Y, Z, and\nZ (6, 12).",
+        "wordProcessed": "X",
+        "senseFoundByLesk": "the cardinal number that is the sum of nine and one; the base of the decimal system"
+    },
+    {
+        "id": 56,
+        "sentence": "Multiple genotypes of H5N1 were detected from 2001 to\n2004, which were designated A, B, C, D, E, V, W, X, Y, Z, and\nZ (6, 12).",
+        "wordProcessed": "Y",
+        "senseFoundByLesk": "a silvery metallic element that is common in rare-earth minerals; used in magnesium and aluminum alloys"
+    },
+    {
+        "id": 57,
+        "sentence": "Multiple genotypes of H5N1 were detected from 2001 to\n2004, which were designated A, B, C, D, E, V, W, X, Y, Z, and\nZ (6, 12).",
+        "wordProcessed": "Z",
+        "senseFoundByLesk": "the 26th letter of the Roman alphabet"
+    },
+    {
+        "id": 58,
+        "sentence": "Multiple genotypes of H5N1 were detected from 2001 to\n2004, which were designated A, B, C, D, E, V, W, X, Y, Z, and\nZ (6, 12).",
+        "wordProcessed": "Z",
+        "senseFoundByLesk": "the 26th letter of the Roman alphabet"
+    },
+    {
+        "id": 59,
+        "sentence": "Since 2002, genotype Z has been the dominant\nH5N1 virus in southern China and was responsible for the\n2003-2004 outbreaks in Asia (12).",
+        "wordProcessed": "Z",
+        "senseFoundByLesk": "the 26th letter of the Roman alphabet"
+    },
+    {
+        "id": 60,
+        "sentence": "Since 2002, genotype Z has been the dominant\nH5N1 virus in southern China and was responsible for the\n2003-2004 outbreaks in Asia (12).",
+        "wordProcessed": "China",
+        "senseFoundByLesk": "a government on the island of Taiwan established in 1949 by Chiang Kai-shek after the conquest of mainland China by the Communists led by Mao Zedong"
+    },
+    {
+        "id": 61,
+        "sentence": "Since 2002, genotype Z has been the dominant\nH5N1 virus in southern China and was responsible for the\n2003-2004 outbreaks in Asia (12).",
+        "wordProcessed": "Asia",
+        "senseFoundByLesk": "the nations of the Asian continent collectively"
+    },
+    {
+        "id": 62,
+        "sentence": "From\n2002 to 2004, genotype Z viruses were isolated from a feral\npigeon (Columba livia), a tree sparrow (Passer montanus), and\na peregrine falcon (Falco peregrinus) (12), and two genotype V\nviruses were isolated from crows in Japan (13).",
+        "wordProcessed": "Z",
+        "senseFoundByLesk": "the ending of a series or sequence"
+    },
+    {
+        "id": 63,
+        "sentence": "From\n2002 to 2004, genotype Z viruses were isolated from a feral\npigeon (Columba livia), a tree sparrow (Passer montanus), and\na peregrine falcon (Falco peregrinus) (12), and two genotype V\nviruses were isolated from crows in Japan (13).",
+        "wordProcessed": "Columba",
+        "senseFoundByLesk": "a constellation in the southern hemisphere near Puppis and Caelum"
+    },
+    {
+        "id": 64,
+        "sentence": "From\n2002 to 2004, genotype Z viruses were isolated from a feral\npigeon (Columba livia), a tree sparrow (Passer montanus), and\na peregrine falcon (Falco peregrinus) (12), and two genotype V\nviruses were isolated from crows in Japan (13).",
+        "wordProcessed": "Passer",
+        "senseFoundByLesk": "(football) a ball carrier who tries to gain ground by throwing a forward pass"
+    },
+    {
+        "id": 65,
+        "sentence": "From\n2002 to 2004, genotype Z viruses were isolated from a feral\npigeon (Columba livia), a tree sparrow (Passer montanus), and\na peregrine falcon (Falco peregrinus) (12), and two genotype V\nviruses were isolated from crows in Japan (13).",
+        "wordProcessed": "Falco",
+        "senseFoundByLesk": "a genus of Falconidae"
+    },
+    {
+        "id": 66,
+        "sentence": "From\n2002 to 2004, genotype Z viruses were isolated from a feral\npigeon (Columba livia), a tree sparrow (Passer montanus), and\na peregrine falcon (Falco peregrinus) (12), and two genotype V\nviruses were isolated from crows in Japan (13).",
+        "wordProcessed": "V",
+        "senseFoundByLesk": "a unit of potential equal to the potential difference between two points on a conductor carrying a current of 1 ampere when the power dissipated between the two points is 1 watt; equivalent to the potential difference across a resistance of 1 ohm when 1 ampere of current flows through it"
+    },
+    {
+        "id": 67,
+        "sentence": "From\n2002 to 2004, genotype Z viruses were isolated from a feral\npigeon (Columba livia), a tree sparrow (Passer montanus), and\na peregrine falcon (Falco peregrinus) (12), and two genotype V\nviruses were isolated from crows in Japan (13).",
+        "wordProcessed": "Japan",
+        "senseFoundByLesk": "a string of more than 3,000 islands to the east of Asia extending 1,300 miles between the Sea of Japan and the western Pacific Ocean"
+    },
+    {
+        "id": 68,
+        "sentence": "As the tree sparrow is a very\ncommon terrestrial bird in China and has frequent contact with\nhumans, we conducted a survey of epidemic avian influenza\nviruses in tree sparrows in the Henan province of China in\n2004.",
+        "wordProcessed": "China",
+        "senseFoundByLesk": "a government on the island of Taiwan established in 1949 by Chiang Kai-shek after the conquest of mainland China by the Communists led by Mao Zedong"
+    },
+    {
+        "id": 69,
+        "sentence": "As the tree sparrow is a very\ncommon terrestrial bird in China and has frequent contact with\nhumans, we conducted a survey of epidemic avian influenza\nviruses in tree sparrows in the Henan province of China in\n2004.",
+        "wordProcessed": "China",
+        "senseFoundByLesk": "a government on the island of Taiwan established in 1949 by Chiang Kai-shek after the conquest of mainland China by the Communists led by Mao Zedong"
+    },
+    {
+        "id": 70,
+        "sentence": "MATERIALS AND METHODS\nVirus isolation.",
+        "wordProcessed": "MATERIALS",
+        "senseFoundByLesk": "a person judged suitable for admission or employment"
+    },
+    {
+        "id": 71,
+        "sentence": "MATERIALS AND METHODS\nVirus isolation.",
+        "wordProcessed": "METHODS",
+        "senseFoundByLesk": "an acting technique introduced by Stanislavsky in which the actor recalls emotions or reactions from his or her own life and uses them to identify with the character being portrayed"
+    },
+    {
+        "id": 72,
+        "sentence": "MATERIALS AND METHODS\nVirus isolation.",
+        "wordProcessed": "Virus",
+        "senseFoundByLesk": "a software program capable of reproducing itself and usually capable of causing great harm to files or other programs on the same computer"
+    },
+    {
+        "id": 73,
+        "sentence": "A survey of epidemic avian influenza virus in tree sparrows was\nconducted in Pingyu country in the Henan province of China in May 2004.",
+        "wordProcessed": "China",
+        "senseFoundByLesk": "a government on the island of Taiwan established in 1949 by Chiang Kai-shek after the conquest of mainland China by the Communists led by Mao Zedong"
+    },
+    {
+        "id": 74,
+        "sentence": "A survey of epidemic avian influenza virus in tree sparrows was\nconducted in Pingyu country in the Henan province of China in May 2004.",
+        "wordProcessed": "May",
+        "senseFoundByLesk": "thorny Eurasian shrub of small tree having dense clusters of white to scarlet flowers followed by deep red berries; established as an escape in eastern North America"
+    },
+    {
+        "id": 75,
+        "sentence": "Cloacal swabs were collected from 38 captured free-living tree sparrows and were\neluted with 0.5 ml of phosphate-buffered saline (PBS).",
+        "wordProcessed": "PBS",
+        "senseFoundByLesk": "a solution containing a phosphate buffer"
+    },
+    {
+        "id": 76,
+        "sentence": "After centrifugation at\n6,000  g/min for 5 min at 4\u00c2\u00b0C, the supernatant was identified by sandwich\nenzyme-linked immunosorbent assay with an avian influenza virus antigen de-\ntection kit (Keqian Ltd.).",
+        "wordProcessed": "Ltd.",
+        "senseFoundByLesk": "a company that is organized to give its owners limited liability"
+    },
+    {
+        "id": 77,
+        "sentence": "The antigen-positive supernatant of cloacal swabs was\nmixed with an equal volume of PBS containing antibiotics (penicillin G, 4,000\nU/ml; streptomycin sulfate, 800 U/ml) for 4 h at 4\u00c2\u00b0C and was inoculated into the\nallantoic cavities of 10-day-old, specific-pathogen-free, embryonated eggs (Bei-\njing MERIAL Ltd.).",
+        "wordProcessed": "PBS",
+        "senseFoundByLesk": "a unit of information equal to 1024 tebibytes or 2^50 bytes"
+    },
+    {
+        "id": 78,
+        "sentence": "The antigen-positive supernatant of cloacal swabs was\nmixed with an equal volume of PBS containing antibiotics (penicillin G, 4,000\nU/ml; streptomycin sulfate, 800 U/ml) for 4 h at 4\u00c2\u00b0C and was inoculated into the\nallantoic cavities of 10-day-old, specific-pathogen-free, embryonated eggs (Bei-\njing MERIAL Ltd.).",
+        "wordProcessed": "G",
+        "senseFoundByLesk": "the cardinal number that is the product of 10 and 100"
+    },
+    {
+        "id": 79,
+        "sentence": "The antigen-positive supernatant of cloacal swabs was\nmixed with an equal volume of PBS containing antibiotics (penicillin G, 4,000\nU/ml; streptomycin sulfate, 800 U/ml) for 4 h at 4\u00c2\u00b0C and was inoculated into the\nallantoic cavities of 10-day-old, specific-pathogen-free, embryonated eggs (Bei-\njing MERIAL Ltd.).",
+        "wordProcessed": "Ltd.",
+        "senseFoundByLesk": "a company that is organized to give its owners limited liability"
+    },
+    {
+        "id": 80,
+        "sentence": "Fifty percent egg infectious dose (EID50)\ntiters were calculated by the method of Reed-Muench.",
+        "wordProcessed": "Fifty",
+        "senseFoundByLesk": "the cardinal number that is the product of ten and five"
+    },
+    {
+        "id": 81,
+        "sentence": "RNA extraction and nucleotide sequencing.",
+        "wordProcessed": "RNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer of nucleotides found in the nucleus but mainly in the cytoplasm of a cell where it is associated with microsomes; it transmits genetic information from DNA to the cytoplasm and controls certain chemical processes in the cell"
+    },
+    {
+        "id": 82,
+        "sentence": "Viral RNA was extracted from\nvirus-infected allantoic fluid with Trizol reagent (Invitrogen).",
+        "wordProcessed": "RNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer of nucleotides found in the nucleus but mainly in the cytoplasm of a cell where it is associated with microsomes; it transmits genetic information from DNA to the cytoplasm and controls certain chemical processes in the cell"
+    },
+    {
+        "id": 83,
+        "sentence": "After being purified with Montage PCR cleanup filter plates (Mil-\nlipore Corporation), the PCR products were used for sequencing with an Am-\nersham ET dye terminator kit (Amersham Pharmacia Bio) and ABI PRISM 370\nDNA sequencer (PE Applied Biosystems).",
+        "wordProcessed": "Montage",
+        "senseFoundByLesk": "a paste-up made by sticking together pieces of paper or photographs to form an artistic image"
+    },
+    {
+        "id": 84,
+        "sentence": "After being purified with Montage PCR cleanup filter plates (Mil-\nlipore Corporation), the PCR products were used for sequencing with an Am-\nersham ET dye terminator kit (Amersham Pharmacia Bio) and ABI PRISM 370\nDNA sequencer (PE Applied Biosystems).",
+        "wordProcessed": "Corporation",
+        "senseFoundByLesk": "slang for a paunch"
+    },
+    {
+        "id": 85,
+        "sentence": "After being purified with Montage PCR cleanup filter plates (Mil-\nlipore Corporation), the PCR products were used for sequencing with an Am-\nersham ET dye terminator kit (Amersham Pharmacia Bio) and ABI PRISM 370\nDNA sequencer (PE Applied Biosystems).",
+        "wordProcessed": "PRISM",
+        "senseFoundByLesk": "optical device having a triangular shape and made of glass or quartz; used to deviate a beam or invert an image"
+    },
+    {
+        "id": 86,
+        "sentence": "After being purified with Montage PCR cleanup filter plates (Mil-\nlipore Corporation), the PCR products were used for sequencing with an Am-\nersham ET dye terminator kit (Amersham Pharmacia Bio) and ABI PRISM 370\nDNA sequencer (PE Applied Biosystems).",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 87,
+        "sentence": "After being purified with Montage PCR cleanup filter plates (Mil-\nlipore Corporation), the PCR products were used for sequencing with an Am-\nersham ET dye terminator kit (Amersham Pharmacia Bio) and ABI PRISM 370\nDNA sequencer (PE Applied Biosystems).",
+        "wordProcessed": "PE",
+        "senseFoundByLesk": "the 17th letter of the Hebrew alphabet"
+    },
+    {
+        "id": 88,
+        "sentence": "All sequence data\nwere edited by BioEdit version 5.0.9 and aligned by Clustal X (version 1.8).",
+        "wordProcessed": "X",
+        "senseFoundByLesk": "the cardinal number that is the sum of nine and one; the base of the decimal system"
+    },
+    {
+        "id": 89,
+        "sentence": "Groups of eight specific-\npathogen-free, 6-week-old chickens (Beijing MERIAL Ltd.) were tested accord-\ning to the recommendation of the Office International des E\n\u00c2\u00b4pizooties (OIE).",
+        "wordProcessed": "Groups",
+        "senseFoundByLesk": "(chemistry) two or more atoms bound together as a single unit and forming part of a molecule"
+    },
+    {
+        "id": 90,
+        "sentence": "Groups of eight specific-\npathogen-free, 6-week-old chickens (Beijing MERIAL Ltd.) were tested accord-\ning to the recommendation of the Office International des E\n\u00c2\u00b4pizooties (OIE).",
+        "wordProcessed": "Beijing",
+        "senseFoundByLesk": "capital of the People's Republic of China in the Hebei province in northeastern China; 2nd largest Chinese city"
+    },
+    {
+        "id": 91,
+        "sentence": "Groups of eight specific-\npathogen-free, 6-week-old chickens (Beijing MERIAL Ltd.) were tested accord-\ning to the recommendation of the Office International des E\n\u00c2\u00b4pizooties (OIE).",
+        "wordProcessed": "Ltd.",
+        "senseFoundByLesk": "a company that is organized to give its owners limited liability"
+    },
+    {
+        "id": 92,
+        "sentence": "Groups of eight specific-\npathogen-free, 6-week-old chickens (Beijing MERIAL Ltd.) were tested accord-\ning to the recommendation of the Office International des E\n\u00c2\u00b4pizooties (OIE).",
+        "wordProcessed": "Office",
+        "senseFoundByLesk": "the actions and activities assigned to or required or expected of a person or group"
+    },
+    {
+        "id": 93,
+        "sentence": "Groups of eight specific-\npathogen-free, 6-week-old chickens (Beijing MERIAL Ltd.) were tested accord-\ning to the recommendation of the Office International des E\n\u00c2\u00b4pizooties (OIE).",
+        "wordProcessed": "International",
+        "senseFoundByLesk": "any of several international socialist organizations"
+    },
+    {
+        "id": 94,
+        "sentence": "Groups of eight specific-\npathogen-free, 6-week-old chickens (Beijing MERIAL Ltd.) were tested accord-\ning to the recommendation of the Office International des E\n\u00c2\u00b4pizooties (OIE).",
+        "wordProcessed": "E",
+        "senseFoundByLesk": "the base of the natural system of logarithms; approximately equal to 2.718282..."
+    },
+    {
+        "id": 95,
+        "sentence": "Groups\nof eight 3-week-old ducks were inoculated intranasally with 0.1 ml of allantoic\nfluid, and mortality was also observed over a 10-day period.",
+        "wordProcessed": "Groups",
+        "senseFoundByLesk": "(chemistry) two or more atoms bound together as a single unit and forming part of a molecule"
+    },
+    {
+        "id": 96,
+        "sentence": "Groups of 10 6- to\n* Corresponding author.",
+        "wordProcessed": "Groups",
+        "senseFoundByLesk": "(chemistry) two or more atoms bound together as a single unit and forming part of a molecule"
+    },
+    {
+        "id": 97,
+        "sentence": "Mailing address for T. X. Li: State Key\nLaboratory of Virology, Wuhan Institute of Virology, Chinese Acad-\nemy of Sciences, Wuhan, 430071 China.",
+        "wordProcessed": "Li",
+        "senseFoundByLesk": "a soft silver-white univalent element of the alkali metal group; the lightest metal known; occurs in several minerals"
+    },
+    {
+        "id": 98,
+        "sentence": "Mailing address for T. X. Li: State Key\nLaboratory of Virology, Wuhan Institute of Virology, Chinese Acad-\nemy of Sciences, Wuhan, 430071 China.",
+        "wordProcessed": "State",
+        "senseFoundByLesk": "(chemistry) the three traditional states of matter are solids (fixed shape and volume) and liquids (fixed volume and shaped by the container) and gases (filling the container)"
+    },
+    {
+        "id": 99,
+        "sentence": "Mailing address for T. X. Li: State Key\nLaboratory of Virology, Wuhan Institute of Virology, Chinese Acad-\nemy of Sciences, Wuhan, 430071 China.",
+        "wordProcessed": "Key",
+        "senseFoundByLesk": "a generic term for any device whose possession entitles the holder to a means of access"
+    },
+    {
+        "id": 100,
+        "sentence": "Mailing address for T. X. Li: State Key\nLaboratory of Virology, Wuhan Institute of Virology, Chinese Acad-\nemy of Sciences, Wuhan, 430071 China.",
+        "wordProcessed": "Laboratory",
+        "senseFoundByLesk": "a workplace for the conduct of scientific research"
+    },
+    {
+        "id": 101,
+        "sentence": "Mailing address for T. X. Li: State Key\nLaboratory of Virology, Wuhan Institute of Virology, Chinese Acad-\nemy of Sciences, Wuhan, 430071 China.",
+        "wordProcessed": "Virology",
+        "senseFoundByLesk": "the branch of medical science that studies viruses and viral diseases"
+    },
+    {
+        "id": 102,
+        "sentence": "Mailing address for T. X. Li: State Key\nLaboratory of Virology, Wuhan Institute of Virology, Chinese Acad-\nemy of Sciences, Wuhan, 430071 China.",
+        "wordProcessed": "Wuhan",
+        "senseFoundByLesk": "a city of central China on the Chang Jiang; the commercial and industrial center of central China"
+    },
+    {
+        "id": 103,
+        "sentence": "Mailing address for T. X. Li: State Key\nLaboratory of Virology, Wuhan Institute of Virology, Chinese Acad-\nemy of Sciences, Wuhan, 430071 China.",
+        "wordProcessed": "Institute",
+        "senseFoundByLesk": "an association organized to promote art or science or education"
+    },
+    {
+        "id": 104,
+        "sentence": "Mailing address for T. X. Li: State Key\nLaboratory of Virology, Wuhan Institute of Virology, Chinese Acad-\nemy of Sciences, Wuhan, 430071 China.",
+        "wordProcessed": "Virology",
+        "senseFoundByLesk": "the branch of medical science that studies viruses and viral diseases"
+    },
+    {
+        "id": 105,
+        "sentence": "Mailing address for T. X. Li: State Key\nLaboratory of Virology, Wuhan Institute of Virology, Chinese Acad-\nemy of Sciences, Wuhan, 430071 China.",
+        "wordProcessed": "Wuhan",
+        "senseFoundByLesk": "a city of central China on the Chang Jiang; the commercial and industrial center of central China"
+    },
+    {
+        "id": 106,
+        "sentence": "Mailing address for T. X. Li: State Key\nLaboratory of Virology, Wuhan Institute of Virology, Chinese Acad-\nemy of Sciences, Wuhan, 430071 China.",
+        "wordProcessed": "China",
+        "senseFoundByLesk": "a government on the island of Taiwan established in 1949 by Chiang Kai-shek after the conquest of mainland China by the Communists led by Mao Zedong"
+    },
+    {
+        "id": 107,
+        "sentence": "Mailing address for F. M. Lei:\nInstitute of Zoology, Chinese Academy of Sciences, Beijing, 100080\nChina.",
+        "wordProcessed": "Lei",
+        "senseFoundByLesk": "flower arrangement consisting of a circular band of foliage or flowers for ornamental purposes"
+    },
+    {
+        "id": 108,
+        "sentence": "Mailing address for F. M. Lei:\nInstitute of Zoology, Chinese Academy of Sciences, Beijing, 100080\nChina.",
+        "wordProcessed": "Institute",
+        "senseFoundByLesk": "an association organized to promote art or science or education"
+    },
+    {
+        "id": 109,
+        "sentence": "Mailing address for F. M. Lei:\nInstitute of Zoology, Chinese Academy of Sciences, Beijing, 100080\nChina.",
+        "wordProcessed": "Zoology",
+        "senseFoundByLesk": "the branch of biology that studies animals"
+    },
+    {
+        "id": 110,
+        "sentence": "Mailing address for F. M. Lei:\nInstitute of Zoology, Chinese Academy of Sciences, Beijing, 100080\nChina.",
+        "wordProcessed": "Chinese",
+        "senseFoundByLesk": "a native or inhabitant of Communist China or of Nationalist China"
+    },
+    {
+        "id": 111,
+        "sentence": "Mailing address for F. M. Lei:\nInstitute of Zoology, Chinese Academy of Sciences, Beijing, 100080\nChina.",
+        "wordProcessed": "Academy",
+        "senseFoundByLesk": "a learned establishment for the advancement of knowledge"
+    },
+    {
+        "id": 112,
+        "sentence": "Mailing address for F. M. Lei:\nInstitute of Zoology, Chinese Academy of Sciences, Beijing, 100080\nChina.",
+        "wordProcessed": "Sciences",
+        "senseFoundByLesk": "a particular branch of scientific knowledge"
+    },
+    {
+        "id": 113,
+        "sentence": "Mailing address for F. M. Lei:\nInstitute of Zoology, Chinese Academy of Sciences, Beijing, 100080\nChina.",
+        "wordProcessed": "Beijing",
+        "senseFoundByLesk": "capital of the People's Republic of China in the Hebei province in northeastern China; 2nd largest Chinese city"
+    },
+    {
+        "id": 114,
+        "sentence": "Mailing address for F. M. Lei:\nInstitute of Zoology, Chinese Academy of Sciences, Beijing, 100080\nChina.",
+        "wordProcessed": "China",
+        "senseFoundByLesk": "a government on the island of Taiwan established in 1949 by Chiang Kai-shek after the conquest of mainland China by the Communists led by Mao Zedong"
+    },
+    {
+        "id": 115,
+        "sentence": "E-mail: leifm\n@ioz.ac.cn\n15460\n\f8-week-old female BALB/c mice (Experimental Animal Center of Hubei Control\nDisease Center, Wuhan, China) were inoculated intranasally with the virus-\nallantoic fluid in a volume of 50 l and were observed daily for 14 days for signs\nof disease.",
+        "wordProcessed": "Animal",
+        "senseFoundByLesk": "a living organism characterized by voluntary movement"
+    },
+    {
+        "id": 116,
+        "sentence": "E-mail: leifm\n@ioz.ac.cn\n15460\n\f8-week-old female BALB/c mice (Experimental Animal Center of Hubei Control\nDisease Center, Wuhan, China) were inoculated intranasally with the virus-\nallantoic fluid in a volume of 50 l and were observed daily for 14 days for signs\nof disease.",
+        "wordProcessed": "Center",
+        "senseFoundByLesk": "mercantile establishment consisting of a carefully landscaped complex of shops representing leading merchandisers; usually includes restaurants and a convenient parking area; a modern version of the traditional marketplace"
+    },
+    {
+        "id": 117,
+        "sentence": "E-mail: leifm\n@ioz.ac.cn\n15460\n\f8-week-old female BALB/c mice (Experimental Animal Center of Hubei Control\nDisease Center, Wuhan, China) were inoculated intranasally with the virus-\nallantoic fluid in a volume of 50 l and were observed daily for 14 days for signs\nof disease.",
+        "wordProcessed": "Control",
+        "senseFoundByLesk": "a mechanism that controls the operation of a machine"
+    },
+    {
+        "id": 118,
+        "sentence": "E-mail: leifm\n@ioz.ac.cn\n15460\n\f8-week-old female BALB/c mice (Experimental Animal Center of Hubei Control\nDisease Center, Wuhan, China) were inoculated intranasally with the virus-\nallantoic fluid in a volume of 50 l and were observed daily for 14 days for signs\nof disease.",
+        "wordProcessed": "Disease",
+        "senseFoundByLesk": "an impairment of health or a condition of abnormal functioning"
+    },
+    {
+        "id": 119,
+        "sentence": "E-mail: leifm\n@ioz.ac.cn\n15460\n\f8-week-old female BALB/c mice (Experimental Animal Center of Hubei Control\nDisease Center, Wuhan, China) were inoculated intranasally with the virus-\nallantoic fluid in a volume of 50 l and were observed daily for 14 days for signs\nof disease.",
+        "wordProcessed": "Center",
+        "senseFoundByLesk": "mercantile establishment consisting of a carefully landscaped complex of shops representing leading merchandisers; usually includes restaurants and a convenient parking area; a modern version of the traditional marketplace"
+    },
+    {
+        "id": 120,
+        "sentence": "E-mail: leifm\n@ioz.ac.cn\n15460\n\f8-week-old female BALB/c mice (Experimental Animal Center of Hubei Control\nDisease Center, Wuhan, China) were inoculated intranasally with the virus-\nallantoic fluid in a volume of 50 l and were observed daily for 14 days for signs\nof disease.",
+        "wordProcessed": "Wuhan",
+        "senseFoundByLesk": "a city of central China on the Chang Jiang; the commercial and industrial center of central China"
+    },
+    {
+        "id": 121,
+        "sentence": "E-mail: leifm\n@ioz.ac.cn\n15460\n\f8-week-old female BALB/c mice (Experimental Animal Center of Hubei Control\nDisease Center, Wuhan, China) were inoculated intranasally with the virus-\nallantoic fluid in a volume of 50 l and were observed daily for 14 days for signs\nof disease.",
+        "wordProcessed": "China",
+        "senseFoundByLesk": "a government on the island of Taiwan established in 1949 by Chiang Kai-shek after the conquest of mainland China by the Communists led by Mao Zedong"
+    },
+    {
+        "id": 122,
+        "sentence": "Control groups of chickens, ducks, and\nmice were inoculated with PBS.",
+        "wordProcessed": "Control",
+        "senseFoundByLesk": "great skillfulness and knowledge of some subject or activity"
+    },
+    {
+        "id": 123,
+        "sentence": "Control groups of chickens, ducks, and\nmice were inoculated with PBS.",
+        "wordProcessed": "PBS",
+        "senseFoundByLesk": "a unit of information equal to 1024 tebibytes or 2^50 bytes"
+    },
+    {
+        "id": 124,
+        "sentence": "Nucleotide sequence accession numbers.",
+        "wordProcessed": "Nucleotide",
+        "senseFoundByLesk": "a phosphoric ester of a nucleoside; the basic structural unit of nucleic acids (DNA or RNA)"
+    },
+    {
+        "id": 125,
+        "sentence": "RESULTS\nVirus isolation and molecular characterization.",
+        "wordProcessed": "RESULTS",
+        "senseFoundByLesk": "a phenomenon that follows and is caused by some previous phenomenon"
+    },
+    {
+        "id": 126,
+        "sentence": "RESULTS\nVirus isolation and molecular characterization.",
+        "wordProcessed": "Virus",
+        "senseFoundByLesk": "a software program capable of reproducing itself and usually capable of causing great harm to files or other programs on the same computer"
+    },
+    {
+        "id": 127,
+        "sentence": "The four isolates shared a high homology with each\nother (96% to 99%), except in their NA and PB2 genes.",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 128,
+        "sentence": "For\nthe NA gene, only Ts/HN/4/04 did not contain a 20-amino-acid\n(aa) deletion in the stalk of the NA molecule, so the homology\nbetween Ts/HN/4/04 and other sparrow viruses was low (91%\nto 92%).",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 129,
+        "sentence": "For\nthe NA gene, only Ts/HN/4/04 did not contain a 20-amino-acid\n(aa) deletion in the stalk of the NA molecule, so the homology\nbetween Ts/HN/4/04 and other sparrow viruses was low (91%\nto 92%).",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 130,
+        "sentence": "Nucleotide sequence analysis revealed that they origi-\nnated from different sources (Table 1.).",
+        "wordProcessed": "Nucleotide",
+        "senseFoundByLesk": "a phosphoric ester of a nucleoside; the basic structural unit of nucleic acids (DNA or RNA)"
+    },
+    {
+        "id": 131,
+        "sentence": "The HA genes from the four tree sparrows all have the same\nmultiple basic amino acids (RRKKR) at the connecting pep-\ntide between HA1 and HA2, which was considered a charac-\nteristic of influenza viruses that are highly pathogenic for\nchickens (11).",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 132,
+        "sentence": "The HA protein of Ts/HN/1/04, Ts/HN/2/04, and Ts/HN/\n3/04 had an additional glycosylation site (aa 170 to 172) at the\nhead of the HA molecule and contained a 20-aa deletion in the\nstalk of the NA molecule, while Ts/HN/4/04 did not.",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 133,
+        "sentence": "The HA protein of Ts/HN/1/04, Ts/HN/2/04, and Ts/HN/\n3/04 had an additional glycosylation site (aa 170 to 172) at the\nhead of the HA molecule and contained a 20-aa deletion in the\nstalk of the NA molecule, while Ts/HN/4/04 did not.",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 134,
+        "sentence": "The HA protein of Ts/HN/1/04, Ts/HN/2/04, and Ts/HN/\n3/04 had an additional glycosylation site (aa 170 to 172) at the\nhead of the HA molecule and contained a 20-aa deletion in the\nstalk of the NA molecule, while Ts/HN/4/04 did not.",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 135,
+        "sentence": "The ad-\nditional glycosylation site in the HA protein and the deletion of\n20 aa in the NA protein were also dominant in other 2004\nviruses isolated from poultry and human, which was suggested\nto be connected with the adaptation of viruses for spreading\nmore efficiently in terrestrial domestic poultry (15).",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 136,
+        "sentence": "The ad-\nditional glycosylation site in the HA protein and the deletion of\n20 aa in the NA protein were also dominant in other 2004\nviruses isolated from poultry and human, which was suggested\nto be connected with the adaptation of viruses for spreading\nmore efficiently in terrestrial domestic poultry (15).",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 137,
+        "sentence": "Four tree sparrow viruses had a 5-aa deletion (aa 80 to 84)\nin the middle of the NS molecule but did not have a mutation\nof Glu92 in the NS1 protein or Lys627 in the PB2 protein,\nwhich had been suggested to be associated with the increased\nvirulence of H5N1 viruses in mice (4, 8).",
+        "wordProcessed": "NS",
+        "senseFoundByLesk": "a unit of force equal to the force that imparts an acceleration of 1 m/sec/sec to a mass of 1 kilogram; equal to 100,000 dynes"
+    },
+    {
+        "id": 138,
+        "sentence": "Moreover, the four\nviruses did not have mutations at the amino acids Ser31,\nLeu26, Val27, and Ala30 in the transmembrane region of the\nM2 protein, which occur in many genotype Z viruses and which\nhave been proved to be associated with amantadine resistance\n(18).",
+        "wordProcessed": "M2",
+        "senseFoundByLesk": "a measure of the money supply; M1 plus net time deposits (other than large certificates of deposit)"
+    },
+    {
+        "id": 139,
+        "sentence": "Moreover, the four\nviruses did not have mutations at the amino acids Ser31,\nLeu26, Val27, and Ala30 in the transmembrane region of the\nM2 protein, which occur in many genotype Z viruses and which\nhave been proved to be associated with amantadine resistance\n(18).",
+        "wordProcessed": "Z",
+        "senseFoundByLesk": "the 26th letter of the Roman alphabet"
+    },
+    {
+        "id": 140,
+        "sentence": "Phylogenetic analysis revealed that\nthe HA genes of tree sparrows formed a branch in the phylo-\ngenetic tree with 2000-2004 isolates from Asia (genotypes Z,\nZ, Y, A, B, C, D, E, and X).",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 141,
+        "sentence": "Phylogenetic analysis revealed that\nthe HA genes of tree sparrows formed a branch in the phylo-\ngenetic tree with 2000-2004 isolates from Asia (genotypes Z,\nZ, Y, A, B, C, D, E, and X).",
+        "wordProcessed": "Asia",
+        "senseFoundByLesk": "the largest continent with 60% of the earth's population; it is joined to Europe on the west to form Eurasia; it is the site of some of the world's earliest civilizations"
+    },
+    {
+        "id": 142,
+        "sentence": "Phylogenetic analysis revealed that\nthe HA genes of tree sparrows formed a branch in the phylo-\ngenetic tree with 2000-2004 isolates from Asia (genotypes Z,\nZ, Y, A, B, C, D, E, and X).",
+        "wordProcessed": "Z",
+        "senseFoundByLesk": "the ending of a series or sequence"
+    },
+    {
+        "id": 143,
+        "sentence": "Phylogenetic analysis revealed that\nthe HA genes of tree sparrows formed a branch in the phylo-\ngenetic tree with 2000-2004 isolates from Asia (genotypes Z,\nZ, Y, A, B, C, D, E, and X).",
+        "wordProcessed": "Z",
+        "senseFoundByLesk": "the ending of a series or sequence"
+    },
+    {
+        "id": 144,
+        "sentence": "Phylogenetic analysis revealed that\nthe HA genes of tree sparrows formed a branch in the phylo-\ngenetic tree with 2000-2004 isolates from Asia (genotypes Z,\nZ, Y, A, B, C, D, E, and X).",
+        "wordProcessed": "Y",
+        "senseFoundByLesk": "a silvery metallic element that is common in rare-earth minerals; used in magnesium and aluminum alloys"
+    },
+    {
+        "id": 145,
+        "sentence": "Phylogenetic analysis revealed that\nthe HA genes of tree sparrows formed a branch in the phylo-\ngenetic tree with 2000-2004 isolates from Asia (genotypes Z,\nZ, Y, A, B, C, D, E, and X).",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 146,
+        "sentence": "Phylogenetic analysis revealed that\nthe HA genes of tree sparrows formed a branch in the phylo-\ngenetic tree with 2000-2004 isolates from Asia (genotypes Z,\nZ, Y, A, B, C, D, E, and X).",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder"
+    },
+    {
+        "id": 147,
+        "sentence": "Phylogenetic analysis revealed that\nthe HA genes of tree sparrows formed a branch in the phylo-\ngenetic tree with 2000-2004 isolates from Asia (genotypes Z,\nZ, Y, A, B, C, D, E, and X).",
+        "wordProcessed": "C",
+        "senseFoundByLesk": "the speed at which light travels in a vacuum; the constancy and universality of the speed of light is recognized by defining it to be exactly 299,792,458 meters per second"
+    },
+    {
+        "id": 148,
+        "sentence": "Phylogenetic analysis revealed that\nthe HA genes of tree sparrows formed a branch in the phylo-\ngenetic tree with 2000-2004 isolates from Asia (genotypes Z,\nZ, Y, A, B, C, D, E, and X).",
+        "wordProcessed": "D",
+        "senseFoundByLesk": "the cardinal number that is the product of one hundred and five"
+    },
+    {
+        "id": 149,
+        "sentence": "Phylogenetic analysis revealed that\nthe HA genes of tree sparrows formed a branch in the phylo-\ngenetic tree with 2000-2004 isolates from Asia (genotypes Z,\nZ, Y, A, B, C, D, E, and X).",
+        "wordProcessed": "E",
+        "senseFoundByLesk": "a fat-soluble vitamin that is essential for normal reproduction; an important antioxidant that neutralizes free radicals in the body"
+    },
+    {
+        "id": 150,
+        "sentence": "Phylogenetic analysis revealed that\nthe HA genes of tree sparrows formed a branch in the phylo-\ngenetic tree with 2000-2004 isolates from Asia (genotypes Z,\nZ, Y, A, B, C, D, E, and X).",
+        "wordProcessed": "X",
+        "senseFoundByLesk": "the cardinal number that is the sum of nine and one; the base of the decimal system"
+    },
+    {
+        "id": 151,
+        "sentence": "Both branches originated from Gs/Gd/96-like\nviruses (Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 152,
+        "sentence": "The NA gene tree showed that tree sparrows branched with\ngenotypes A, B, C, D, E, X, Y, Z, and Z and with Gs/Gd/96\nand formed a branch of avian influenza viruses.",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 153,
+        "sentence": "The NA gene tree showed that tree sparrows branched with\ngenotypes A, B, C, D, E, X, Y, Z, and Z and with Gs/Gd/96\nand formed a branch of avian influenza viruses.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 154,
+        "sentence": "The NA gene tree showed that tree sparrows branched with\ngenotypes A, B, C, D, E, X, Y, Z, and Z and with Gs/Gd/96\nand formed a branch of avian influenza viruses.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder"
+    },
+    {
+        "id": 155,
+        "sentence": "The NA gene tree showed that tree sparrows branched with\ngenotypes A, B, C, D, E, X, Y, Z, and Z and with Gs/Gd/96\nand formed a branch of avian influenza viruses.",
+        "wordProcessed": "C",
+        "senseFoundByLesk": "the speed at which light travels in a vacuum; the constancy and universality of the speed of light is recognized by defining it to be exactly 299,792,458 meters per second"
+    },
+    {
+        "id": 156,
+        "sentence": "The NA gene tree showed that tree sparrows branched with\ngenotypes A, B, C, D, E, X, Y, Z, and Z and with Gs/Gd/96\nand formed a branch of avian influenza viruses.",
+        "wordProcessed": "D",
+        "senseFoundByLesk": "the cardinal number that is the product of one hundred and five"
+    },
+    {
+        "id": 157,
+        "sentence": "The NA gene tree showed that tree sparrows branched with\ngenotypes A, B, C, D, E, X, Y, Z, and Z and with Gs/Gd/96\nand formed a branch of avian influenza viruses.",
+        "wordProcessed": "E",
+        "senseFoundByLesk": "a fat-soluble vitamin that is essential for normal reproduction; an important antioxidant that neutralizes free radicals in the body"
+    },
+    {
+        "id": 158,
+        "sentence": "The NA gene tree showed that tree sparrows branched with\ngenotypes A, B, C, D, E, X, Y, Z, and Z and with Gs/Gd/96\nand formed a branch of avian influenza viruses.",
+        "wordProcessed": "X",
+        "senseFoundByLesk": "the cardinal number that is the sum of nine and one; the base of the decimal system"
+    },
+    {
+        "id": 159,
+        "sentence": "The NA gene tree showed that tree sparrows branched with\ngenotypes A, B, C, D, E, X, Y, Z, and Z and with Gs/Gd/96\nand formed a branch of avian influenza viruses.",
+        "wordProcessed": "Y",
+        "senseFoundByLesk": "a silvery metallic element that is common in rare-earth minerals; used in magnesium and aluminum alloys"
+    },
+    {
+        "id": 160,
+        "sentence": "The NA gene tree showed that tree sparrows branched with\ngenotypes A, B, C, D, E, X, Y, Z, and Z and with Gs/Gd/96\nand formed a branch of avian influenza viruses.",
+        "wordProcessed": "Z",
+        "senseFoundByLesk": "the ending of a series or sequence"
+    },
+    {
+        "id": 161,
+        "sentence": "The NA gene tree showed that tree sparrows branched with\ngenotypes A, B, C, D, E, X, Y, Z, and Z and with Gs/Gd/96\nand formed a branch of avian influenza viruses.",
+        "wordProcessed": "Z",
+        "senseFoundByLesk": "the ending of a series or sequence"
+    },
+    {
+        "id": 162,
+        "sentence": "Unlike the other three tree\nsparrow isolates, Ts/HN/02 clustered into the branch of geno-\ntype Y, Z, and Z viruses of 2002 to 2004 (Fig.",
+        "wordProcessed": "Y",
+        "senseFoundByLesk": "the 25th letter of the Roman alphabet"
+    },
+    {
+        "id": 163,
+        "sentence": "Unlike the other three tree\nsparrow isolates, Ts/HN/02 clustered into the branch of geno-\ntype Y, Z, and Z viruses of 2002 to 2004 (Fig.",
+        "wordProcessed": "Z",
+        "senseFoundByLesk": "the 26th letter of the Roman alphabet"
+    },
+    {
+        "id": 164,
+        "sentence": "Unlike the other three tree\nsparrow isolates, Ts/HN/02 clustered into the branch of geno-\ntype Y, Z, and Z viruses of 2002 to 2004 (Fig.",
+        "wordProcessed": "Z",
+        "senseFoundByLesk": "the 26th letter of the Roman alphabet"
+    },
+    {
+        "id": 165,
+        "sentence": "Unlike the other three tree\nsparrow isolates, Ts/HN/02 clustered into the branch of geno-\ntype Y, Z, and Z viruses of 2002 to 2004 (Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 166,
+        "sentence": "Ts/HN/1/04 and Ts/HN/4/04 formed a branch to-\ngether with genotypes A, B, C, D, E, Y, Z, Z, and X and with\nGs/Gd/96.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 167,
+        "sentence": "Ts/HN/1/04 and Ts/HN/4/04 formed a branch to-\ngether with genotypes A, B, C, D, E, Y, Z, Z, and X and with\nGs/Gd/96.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "originally thought to be a single vitamin but now separated into several B vitamins"
+    },
+    {
+        "id": 168,
+        "sentence": "Ts/HN/1/04 and Ts/HN/4/04 formed a branch to-\ngether with genotypes A, B, C, D, E, Y, Z, Z, and X and with\nGs/Gd/96.",
+        "wordProcessed": "C",
+        "senseFoundByLesk": "the speed at which light travels in a vacuum; the constancy and universality of the speed of light is recognized by defining it to be exactly 299,792,458 meters per second"
+    },
+    {
+        "id": 169,
+        "sentence": "Ts/HN/1/04 and Ts/HN/4/04 formed a branch to-\ngether with genotypes A, B, C, D, E, Y, Z, Z, and X and with\nGs/Gd/96.",
+        "wordProcessed": "D",
+        "senseFoundByLesk": "a fat-soluble vitamin that prevents rickets"
+    },
+    {
+        "id": 170,
+        "sentence": "Ts/HN/1/04 and Ts/HN/4/04 formed a branch to-\ngether with genotypes A, B, C, D, E, Y, Z, Z, and X and with\nGs/Gd/96.",
+        "wordProcessed": "E",
+        "senseFoundByLesk": "a radioactive transuranic element produced by bombarding plutonium with neutrons"
+    },
+    {
+        "id": 171,
+        "sentence": "Ts/HN/1/04 and Ts/HN/4/04 formed a branch to-\ngether with genotypes A, B, C, D, E, Y, Z, Z, and X and with\nGs/Gd/96.",
+        "wordProcessed": "Y",
+        "senseFoundByLesk": "a silvery metallic element that is common in rare-earth minerals; used in magnesium and aluminum alloys"
+    },
+    {
+        "id": 172,
+        "sentence": "Ts/HN/1/04 and Ts/HN/4/04 formed a branch to-\ngether with genotypes A, B, C, D, E, Y, Z, Z, and X and with\nGs/Gd/96.",
+        "wordProcessed": "Z",
+        "senseFoundByLesk": "the ending of a series or sequence"
+    },
+    {
+        "id": 173,
+        "sentence": "Ts/HN/1/04 and Ts/HN/4/04 formed a branch to-\ngether with genotypes A, B, C, D, E, Y, Z, Z, and X and with\nGs/Gd/96.",
+        "wordProcessed": "Z",
+        "senseFoundByLesk": "the ending of a series or sequence"
+    },
+    {
+        "id": 174,
+        "sentence": "Ts/HN/1/04 and Ts/HN/4/04 formed a branch to-\ngether with genotypes A, B, C, D, E, Y, Z, Z, and X and with\nGs/Gd/96.",
+        "wordProcessed": "X",
+        "senseFoundByLesk": "the cardinal number that is the sum of nine and one; the base of the decimal system"
+    },
+    {
+        "id": 175,
+        "sentence": "This branch was distinctly related to the branch of\nTs/HN/2/04 and Ts/HN/3/04 and the branch of H5N1/97 (Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 176,
+        "sentence": "Interestingly, the PB2 gene of DK/Yolohama/aq10/03,\nwhich was a genotypically unique H5N1 influenza virus iso-\nlated from duck meat in 2003 (14), was found to be most\nclosely related to that of the tree sparrows (Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 177,
+        "sentence": "In the phylogenetic tree of the PB1 gene, the four sparrow\nviruses formed a separate fork and clustered with the branch of\ngenotypes A, B, C, D, E, Y, Z, and Z and the branches of\nGs/Gd/96 and HK/97.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 178,
+        "sentence": "In the phylogenetic tree of the PB1 gene, the four sparrow\nviruses formed a separate fork and clustered with the branch of\ngenotypes A, B, C, D, E, Y, Z, and Z and the branches of\nGs/Gd/96 and HK/97.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder"
+    },
+    {
+        "id": 179,
+        "sentence": "In the phylogenetic tree of the PB1 gene, the four sparrow\nviruses formed a separate fork and clustered with the branch of\ngenotypes A, B, C, D, E, Y, Z, and Z and the branches of\nGs/Gd/96 and HK/97.",
+        "wordProcessed": "C",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 180,
+        "sentence": "In the phylogenetic tree of the PB1 gene, the four sparrow\nviruses formed a separate fork and clustered with the branch of\ngenotypes A, B, C, D, E, Y, Z, and Z and the branches of\nGs/Gd/96 and HK/97.",
+        "wordProcessed": "D",
+        "senseFoundByLesk": "the cardinal number that is the product of one hundred and five"
+    },
+    {
+        "id": 181,
+        "sentence": "In the phylogenetic tree of the PB1 gene, the four sparrow\nviruses formed a separate fork and clustered with the branch of\ngenotypes A, B, C, D, E, Y, Z, and Z and the branches of\nGs/Gd/96 and HK/97.",
+        "wordProcessed": "E",
+        "senseFoundByLesk": "a fat-soluble vitamin that is essential for normal reproduction; an important antioxidant that neutralizes free radicals in the body"
+    },
+    {
+        "id": 182,
+        "sentence": "In the phylogenetic tree of the PB1 gene, the four sparrow\nviruses formed a separate fork and clustered with the branch of\ngenotypes A, B, C, D, E, Y, Z, and Z and the branches of\nGs/Gd/96 and HK/97.",
+        "wordProcessed": "Y",
+        "senseFoundByLesk": "a silvery metallic element that is common in rare-earth minerals; used in magnesium and aluminum alloys"
+    },
+    {
+        "id": 183,
+        "sentence": "In the phylogenetic tree of the PB1 gene, the four sparrow\nviruses formed a separate fork and clustered with the branch of\ngenotypes A, B, C, D, E, Y, Z, and Z and the branches of\nGs/Gd/96 and HK/97.",
+        "wordProcessed": "Z",
+        "senseFoundByLesk": "the ending of a series or sequence"
+    },
+    {
+        "id": 184,
+        "sentence": "In the phylogenetic tree of the PB1 gene, the four sparrow\nviruses formed a separate fork and clustered with the branch of\ngenotypes A, B, C, D, E, Y, Z, and Z and the branches of\nGs/Gd/96 and HK/97.",
+        "wordProcessed": "Z",
+        "senseFoundByLesk": "the ending of a series or sequence"
+    },
+    {
+        "id": 185,
+        "sentence": "According to the phylogenetic tree, the\nPB1 gene of tree sparrows might be the ancestor of genotypes\nA, B, C, D, E, Y, Z, and Z and of Gs/Gd/96 and HK/97.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 186,
+        "sentence": "According to the phylogenetic tree, the\nPB1 gene of tree sparrows might be the ancestor of genotypes\nA, B, C, D, E, Y, Z, and Z and of Gs/Gd/96 and HK/97.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder"
+    },
+    {
+        "id": 187,
+        "sentence": "According to the phylogenetic tree, the\nPB1 gene of tree sparrows might be the ancestor of genotypes\nA, B, C, D, E, Y, Z, and Z and of Gs/Gd/96 and HK/97.",
+        "wordProcessed": "C",
+        "senseFoundByLesk": "the speed at which light travels in a vacuum; the constancy and universality of the speed of light is recognized by defining it to be exactly 299,792,458 meters per second"
+    },
+    {
+        "id": 188,
+        "sentence": "According to the phylogenetic tree, the\nPB1 gene of tree sparrows might be the ancestor of genotypes\nA, B, C, D, E, Y, Z, and Z and of Gs/Gd/96 and HK/97.",
+        "wordProcessed": "D",
+        "senseFoundByLesk": "the cardinal number that is the product of one hundred and five"
+    },
+    {
+        "id": 189,
+        "sentence": "According to the phylogenetic tree, the\nPB1 gene of tree sparrows might be the ancestor of genotypes\nA, B, C, D, E, Y, Z, and Z and of Gs/Gd/96 and HK/97.",
+        "wordProcessed": "E",
+        "senseFoundByLesk": "the base of the natural system of logarithms; approximately equal to 2.718282..."
+    },
+    {
+        "id": 190,
+        "sentence": "According to the phylogenetic tree, the\nPB1 gene of tree sparrows might be the ancestor of genotypes\nA, B, C, D, E, Y, Z, and Z and of Gs/Gd/96 and HK/97.",
+        "wordProcessed": "Y",
+        "senseFoundByLesk": "the 25th letter of the Roman alphabet"
+    },
+    {
+        "id": 191,
+        "sentence": "According to the phylogenetic tree, the\nPB1 gene of tree sparrows might be the ancestor of genotypes\nA, B, C, D, E, Y, Z, and Z and of Gs/Gd/96 and HK/97.",
+        "wordProcessed": "Z",
+        "senseFoundByLesk": "the 26th letter of the Roman alphabet"
+    },
+    {
+        "id": 192,
+        "sentence": "According to the phylogenetic tree, the\nPB1 gene of tree sparrows might be the ancestor of genotypes\nA, B, C, D, E, Y, Z, and Z and of Gs/Gd/96 and HK/97.",
+        "wordProcessed": "Z",
+        "senseFoundByLesk": "the 26th letter of the Roman alphabet"
+    },
+    {
+        "id": 193,
+        "sentence": "The\nPB1 gene of genotype X is distinctly related to those of all the\nabove-named genotypes (Fig.",
+        "wordProcessed": "X",
+        "senseFoundByLesk": "the cardinal number that is the sum of nine and one; the base of the decimal system"
+    },
+    {
+        "id": 194,
+        "sentence": "The\nPB1 gene of genotype X is distinctly related to those of all the\nabove-named genotypes (Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 195,
+        "sentence": "In the phylogenetic tree of the PA gene, the four sparrow\nviruses formed a separate branch.",
+        "wordProcessed": "PA",
+        "senseFoundByLesk": "a Mid-Atlantic state; one of the original 13 colonies"
+    },
+    {
+        "id": 196,
+        "sentence": "The branch was distinctly\nrelated to the branch of genotypes A, B, C, D, E, Y, Z, Z,\nand X and to the branch of Gs/Gd/96, the branch of H5N1/97,\nand that of Gf/HK/38/02 (Fig.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 197,
+        "sentence": "The branch was distinctly\nrelated to the branch of genotypes A, B, C, D, E, Y, Z, Z,\nand X and to the branch of Gs/Gd/96, the branch of H5N1/97,\nand that of Gf/HK/38/02 (Fig.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "(physics) a unit of nuclear cross section; the effective circular area that one particle presents to another as a target for an encounter"
+    },
+    {
+        "id": 198,
+        "sentence": "The branch was distinctly\nrelated to the branch of genotypes A, B, C, D, E, Y, Z, Z,\nand X and to the branch of Gs/Gd/96, the branch of H5N1/97,\nand that of Gf/HK/38/02 (Fig.",
+        "wordProcessed": "C",
+        "senseFoundByLesk": "the speed at which light travels in a vacuum; the constancy and universality of the speed of light is recognized by defining it to be exactly 299,792,458 meters per second"
+    },
+    {
+        "id": 199,
+        "sentence": "The branch was distinctly\nrelated to the branch of genotypes A, B, C, D, E, Y, Z, Z,\nand X and to the branch of Gs/Gd/96, the branch of H5N1/97,\nand that of Gf/HK/38/02 (Fig.",
+        "wordProcessed": "D",
+        "senseFoundByLesk": "the cardinal number that is the product of one hundred and five"
+    },
+    {
+        "id": 200,
+        "sentence": "The branch was distinctly\nrelated to the branch of genotypes A, B, C, D, E, Y, Z, Z,\nand X and to the branch of Gs/Gd/96, the branch of H5N1/97,\nand that of Gf/HK/38/02 (Fig.",
+        "wordProcessed": "E",
+        "senseFoundByLesk": "the base of the natural system of logarithms; approximately equal to 2.718282..."
+    },
+    {
+        "id": 201,
+        "sentence": "The branch was distinctly\nrelated to the branch of genotypes A, B, C, D, E, Y, Z, Z,\nand X and to the branch of Gs/Gd/96, the branch of H5N1/97,\nand that of Gf/HK/38/02 (Fig.",
+        "wordProcessed": "Y",
+        "senseFoundByLesk": "a silvery metallic element that is common in rare-earth minerals; used in magnesium and aluminum alloys"
+    },
+    {
+        "id": 202,
+        "sentence": "The branch was distinctly\nrelated to the branch of genotypes A, B, C, D, E, Y, Z, Z,\nand X and to the branch of Gs/Gd/96, the branch of H5N1/97,\nand that of Gf/HK/38/02 (Fig.",
+        "wordProcessed": "Z",
+        "senseFoundByLesk": "the 26th letter of the Roman alphabet"
+    },
+    {
+        "id": 203,
+        "sentence": "The branch was distinctly\nrelated to the branch of genotypes A, B, C, D, E, Y, Z, Z,\nand X and to the branch of Gs/Gd/96, the branch of H5N1/97,\nand that of Gf/HK/38/02 (Fig.",
+        "wordProcessed": "Z",
+        "senseFoundByLesk": "the 26th letter of the Roman alphabet"
+    },
+    {
+        "id": 204,
+        "sentence": "The branch was distinctly\nrelated to the branch of genotypes A, B, C, D, E, Y, Z, Z,\nand X and to the branch of Gs/Gd/96, the branch of H5N1/97,\nand that of Gf/HK/38/02 (Fig.",
+        "wordProcessed": "X",
+        "senseFoundByLesk": "the cardinal number that is the sum of nine and one; the base of the decimal system"
+    },
+    {
+        "id": 205,
+        "sentence": "The branch was distinctly\nrelated to the branch of genotypes A, B, C, D, E, Y, Z, Z,\nand X and to the branch of Gs/Gd/96, the branch of H5N1/97,\nand that of Gf/HK/38/02 (Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 206,
+        "sentence": "In the phylogenetic tree of the NP gene, the four sparrow\nviruses formed a separate fork and clustered with the branch of\ngenotypes B, C, E, Y, Z, Z, and X, the branch of HK/97, and\nthat of DK/Yolohama/aq10/03 (14).",
+        "wordProcessed": "NP",
+        "senseFoundByLesk": "a registered nurse who has received special training and can perform many of the duties of a physician"
+    },
+    {
+        "id": 207,
+        "sentence": "In the phylogenetic tree of the NP gene, the four sparrow\nviruses formed a separate fork and clustered with the branch of\ngenotypes B, C, E, Y, Z, Z, and X, the branch of HK/97, and\nthat of DK/Yolohama/aq10/03 (14).",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder"
+    },
+    {
+        "id": 208,
+        "sentence": "In the phylogenetic tree of the NP gene, the four sparrow\nviruses formed a separate fork and clustered with the branch of\ngenotypes B, C, E, Y, Z, Z, and X, the branch of HK/97, and\nthat of DK/Yolohama/aq10/03 (14).",
+        "wordProcessed": "C",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 209,
+        "sentence": "In the phylogenetic tree of the NP gene, the four sparrow\nviruses formed a separate fork and clustered with the branch of\ngenotypes B, C, E, Y, Z, Z, and X, the branch of HK/97, and\nthat of DK/Yolohama/aq10/03 (14).",
+        "wordProcessed": "E",
+        "senseFoundByLesk": "a fat-soluble vitamin that is essential for normal reproduction; an important antioxidant that neutralizes free radicals in the body"
+    },
+    {
+        "id": 210,
+        "sentence": "In the phylogenetic tree of the NP gene, the four sparrow\nviruses formed a separate fork and clustered with the branch of\ngenotypes B, C, E, Y, Z, Z, and X, the branch of HK/97, and\nthat of DK/Yolohama/aq10/03 (14).",
+        "wordProcessed": "Y",
+        "senseFoundByLesk": "a silvery metallic element that is common in rare-earth minerals; used in magnesium and aluminum alloys"
+    },
+    {
+        "id": 211,
+        "sentence": "In the phylogenetic tree of the NP gene, the four sparrow\nviruses formed a separate fork and clustered with the branch of\ngenotypes B, C, E, Y, Z, Z, and X, the branch of HK/97, and\nthat of DK/Yolohama/aq10/03 (14).",
+        "wordProcessed": "Z",
+        "senseFoundByLesk": "the ending of a series or sequence"
+    },
+    {
+        "id": 212,
+        "sentence": "In the phylogenetic tree of the NP gene, the four sparrow\nviruses formed a separate fork and clustered with the branch of\ngenotypes B, C, E, Y, Z, Z, and X, the branch of HK/97, and\nthat of DK/Yolohama/aq10/03 (14).",
+        "wordProcessed": "Z",
+        "senseFoundByLesk": "the ending of a series or sequence"
+    },
+    {
+        "id": 213,
+        "sentence": "In the phylogenetic tree of the NP gene, the four sparrow\nviruses formed a separate fork and clustered with the branch of\ngenotypes B, C, E, Y, Z, Z, and X, the branch of HK/97, and\nthat of DK/Yolohama/aq10/03 (14).",
+        "wordProcessed": "X",
+        "senseFoundByLesk": "the cardinal number that is the sum of nine and one; the base of the decimal system"
+    },
+    {
+        "id": 214,
+        "sentence": "The NP genes of the\nabove-named genotypes were similar to those of genotype A\nand Gs/Gd/96 but distinctly related to that of genotype D\n(Fig.",
+        "wordProcessed": "NP",
+        "senseFoundByLesk": "a registered nurse who has received special training and can perform many of the duties of a physician"
+    },
+    {
+        "id": 215,
+        "sentence": "The NP genes of the\nabove-named genotypes were similar to those of genotype A\nand Gs/Gd/96 but distinctly related to that of genotype D\n(Fig.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 216,
+        "sentence": "The NP genes of the\nabove-named genotypes were similar to those of genotype A\nand Gs/Gd/96 but distinctly related to that of genotype D\n(Fig.",
+        "wordProcessed": "D",
+        "senseFoundByLesk": "the cardinal number that is the product of one hundred and five"
+    },
+    {
+        "id": 217,
+        "sentence": "The NP genes of the\nabove-named genotypes were similar to those of genotype A\nand Gs/Gd/96 but distinctly related to that of genotype D\n(Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 218,
+        "sentence": "Percentages of sequence similarity between the tree\nsparrow virus isolates and other influenza viruses\nSegment Virus with the highest similaritya\n% Similarity\nPB2 A/Pheasant/Ireland/PV18/97 (H9N2) 94\nPB1 A/swine/Hong Kong/126/82 (H3N2) 94\nPA A/swine/Hong Kong/81/78 (H3N2) 94\nHA A/chicken/Jilin/9/04 (H5N1) 97\nNP A/Duck/Hong Kong/289/78 (H9N2) 98\nNA A/Duck/Guangxi/50/01 (H5N1) 96\nM A/Duck/Hong Kong/698/79 (H5N3) 98\nNS A/Duck/Hong Kong/610/79 (H9N2) 98\na\nPercentages of sequence similarity were calculated based on the nucleotide\nsequences of the complete open reading frames of eight genes, with Ts/HN/2/04\nas the representative strain.",
+        "wordProcessed": "Segment",
+        "senseFoundByLesk": "one of several parts or pieces that fit with others to constitute a whole object"
+    },
+    {
+        "id": 219,
+        "sentence": "Percentages of sequence similarity between the tree\nsparrow virus isolates and other influenza viruses\nSegment Virus with the highest similaritya\n% Similarity\nPB2 A/Pheasant/Ireland/PV18/97 (H9N2) 94\nPB1 A/swine/Hong Kong/126/82 (H3N2) 94\nPA A/swine/Hong Kong/81/78 (H3N2) 94\nHA A/chicken/Jilin/9/04 (H5N1) 97\nNP A/Duck/Hong Kong/289/78 (H9N2) 98\nNA A/Duck/Guangxi/50/01 (H5N1) 96\nM A/Duck/Hong Kong/698/79 (H5N3) 98\nNS A/Duck/Hong Kong/610/79 (H9N2) 98\na\nPercentages of sequence similarity were calculated based on the nucleotide\nsequences of the complete open reading frames of eight genes, with Ts/HN/2/04\nas the representative strain.",
+        "wordProcessed": "Virus",
+        "senseFoundByLesk": "a software program capable of reproducing itself and usually capable of causing great harm to files or other programs on the same computer"
+    },
+    {
+        "id": 220,
+        "sentence": "Percentages of sequence similarity between the tree\nsparrow virus isolates and other influenza viruses\nSegment Virus with the highest similaritya\n% Similarity\nPB2 A/Pheasant/Ireland/PV18/97 (H9N2) 94\nPB1 A/swine/Hong Kong/126/82 (H3N2) 94\nPA A/swine/Hong Kong/81/78 (H3N2) 94\nHA A/chicken/Jilin/9/04 (H5N1) 97\nNP A/Duck/Hong Kong/289/78 (H9N2) 98\nNA A/Duck/Guangxi/50/01 (H5N1) 96\nM A/Duck/Hong Kong/698/79 (H5N3) 98\nNS A/Duck/Hong Kong/610/79 (H9N2) 98\na\nPercentages of sequence similarity were calculated based on the nucleotide\nsequences of the complete open reading frames of eight genes, with Ts/HN/2/04\nas the representative strain.",
+        "wordProcessed": "Similarity",
+        "senseFoundByLesk": "a Gestalt principle of organization holding that (other things being equal) parts of a stimulus field that are similar to each other tend to be perceived as belonging together as a unit"
+    },
+    {
+        "id": 221,
+        "sentence": "Percentages of sequence similarity between the tree\nsparrow virus isolates and other influenza viruses\nSegment Virus with the highest similaritya\n% Similarity\nPB2 A/Pheasant/Ireland/PV18/97 (H9N2) 94\nPB1 A/swine/Hong Kong/126/82 (H3N2) 94\nPA A/swine/Hong Kong/81/78 (H3N2) 94\nHA A/chicken/Jilin/9/04 (H5N1) 97\nNP A/Duck/Hong Kong/289/78 (H9N2) 98\nNA A/Duck/Guangxi/50/01 (H5N1) 96\nM A/Duck/Hong Kong/698/79 (H5N3) 98\nNS A/Duck/Hong Kong/610/79 (H9N2) 98\na\nPercentages of sequence similarity were calculated based on the nucleotide\nsequences of the complete open reading frames of eight genes, with Ts/HN/2/04\nas the representative strain.",
+        "wordProcessed": "PA",
+        "senseFoundByLesk": "a Mid-Atlantic state; one of the original 13 colonies"
+    },
+    {
+        "id": 222,
+        "sentence": "Percentages of sequence similarity between the tree\nsparrow virus isolates and other influenza viruses\nSegment Virus with the highest similaritya\n% Similarity\nPB2 A/Pheasant/Ireland/PV18/97 (H9N2) 94\nPB1 A/swine/Hong Kong/126/82 (H3N2) 94\nPA A/swine/Hong Kong/81/78 (H3N2) 94\nHA A/chicken/Jilin/9/04 (H5N1) 97\nNP A/Duck/Hong Kong/289/78 (H9N2) 98\nNA A/Duck/Guangxi/50/01 (H5N1) 96\nM A/Duck/Hong Kong/698/79 (H5N3) 98\nNS A/Duck/Hong Kong/610/79 (H9N2) 98\na\nPercentages of sequence similarity were calculated based on the nucleotide\nsequences of the complete open reading frames of eight genes, with Ts/HN/2/04\nas the representative strain.",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 223,
+        "sentence": "Percentages of sequence similarity between the tree\nsparrow virus isolates and other influenza viruses\nSegment Virus with the highest similaritya\n% Similarity\nPB2 A/Pheasant/Ireland/PV18/97 (H9N2) 94\nPB1 A/swine/Hong Kong/126/82 (H3N2) 94\nPA A/swine/Hong Kong/81/78 (H3N2) 94\nHA A/chicken/Jilin/9/04 (H5N1) 97\nNP A/Duck/Hong Kong/289/78 (H9N2) 98\nNA A/Duck/Guangxi/50/01 (H5N1) 96\nM A/Duck/Hong Kong/698/79 (H5N3) 98\nNS A/Duck/Hong Kong/610/79 (H9N2) 98\na\nPercentages of sequence similarity were calculated based on the nucleotide\nsequences of the complete open reading frames of eight genes, with Ts/HN/2/04\nas the representative strain.",
+        "wordProcessed": "NP",
+        "senseFoundByLesk": "a registered nurse who has received special training and can perform many of the duties of a physician"
+    },
+    {
+        "id": 224,
+        "sentence": "Percentages of sequence similarity between the tree\nsparrow virus isolates and other influenza viruses\nSegment Virus with the highest similaritya\n% Similarity\nPB2 A/Pheasant/Ireland/PV18/97 (H9N2) 94\nPB1 A/swine/Hong Kong/126/82 (H3N2) 94\nPA A/swine/Hong Kong/81/78 (H3N2) 94\nHA A/chicken/Jilin/9/04 (H5N1) 97\nNP A/Duck/Hong Kong/289/78 (H9N2) 98\nNA A/Duck/Guangxi/50/01 (H5N1) 96\nM A/Duck/Hong Kong/698/79 (H5N3) 98\nNS A/Duck/Hong Kong/610/79 (H9N2) 98\na\nPercentages of sequence similarity were calculated based on the nucleotide\nsequences of the complete open reading frames of eight genes, with Ts/HN/2/04\nas the representative strain.",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 225,
+        "sentence": "Percentages of sequence similarity between the tree\nsparrow virus isolates and other influenza viruses\nSegment Virus with the highest similaritya\n% Similarity\nPB2 A/Pheasant/Ireland/PV18/97 (H9N2) 94\nPB1 A/swine/Hong Kong/126/82 (H3N2) 94\nPA A/swine/Hong Kong/81/78 (H3N2) 94\nHA A/chicken/Jilin/9/04 (H5N1) 97\nNP A/Duck/Hong Kong/289/78 (H9N2) 98\nNA A/Duck/Guangxi/50/01 (H5N1) 96\nM A/Duck/Hong Kong/698/79 (H5N3) 98\nNS A/Duck/Hong Kong/610/79 (H9N2) 98\na\nPercentages of sequence similarity were calculated based on the nucleotide\nsequences of the complete open reading frames of eight genes, with Ts/HN/2/04\nas the representative strain.",
+        "wordProcessed": "M",
+        "senseFoundByLesk": "the cardinal number that is the product of 10 and 100"
+    },
+    {
+        "id": 226,
+        "sentence": "Percentages of sequence similarity between the tree\nsparrow virus isolates and other influenza viruses\nSegment Virus with the highest similaritya\n% Similarity\nPB2 A/Pheasant/Ireland/PV18/97 (H9N2) 94\nPB1 A/swine/Hong Kong/126/82 (H3N2) 94\nPA A/swine/Hong Kong/81/78 (H3N2) 94\nHA A/chicken/Jilin/9/04 (H5N1) 97\nNP A/Duck/Hong Kong/289/78 (H9N2) 98\nNA A/Duck/Guangxi/50/01 (H5N1) 96\nM A/Duck/Hong Kong/698/79 (H5N3) 98\nNS A/Duck/Hong Kong/610/79 (H9N2) 98\na\nPercentages of sequence similarity were calculated based on the nucleotide\nsequences of the complete open reading frames of eight genes, with Ts/HN/2/04\nas the representative strain.",
+        "wordProcessed": "NS",
+        "senseFoundByLesk": "a common nonmetallic element that is normally a colorless odorless tasteless inert diatomic gas; constitutes 78 percent of the atmosphere by volume; a constituent of all living tissues"
+    },
+    {
+        "id": 227,
+        "sentence": "Percentages of sequence similarity between the tree\nsparrow virus isolates and other influenza viruses\nSegment Virus with the highest similaritya\n% Similarity\nPB2 A/Pheasant/Ireland/PV18/97 (H9N2) 94\nPB1 A/swine/Hong Kong/126/82 (H3N2) 94\nPA A/swine/Hong Kong/81/78 (H3N2) 94\nHA A/chicken/Jilin/9/04 (H5N1) 97\nNP A/Duck/Hong Kong/289/78 (H9N2) 98\nNA A/Duck/Guangxi/50/01 (H5N1) 96\nM A/Duck/Hong Kong/698/79 (H5N3) 98\nNS A/Duck/Hong Kong/610/79 (H9N2) 98\na\nPercentages of sequence similarity were calculated based on the nucleotide\nsequences of the complete open reading frames of eight genes, with Ts/HN/2/04\nas the representative strain.",
+        "wordProcessed": "Percentages",
+        "senseFoundByLesk": "a proportion in relation to a whole (which is usually the amount per hundred)"
+    },
+    {
+        "id": 228,
+        "sentence": "79, 2005 H5N1 VIRUSES ISOLATED FROM TREE SPARROWS IN CHINA 15461\n\f15462 KOU ET AL.",
+        "wordProcessed": "VIRUSES",
+        "senseFoundByLesk": "a software program capable of reproducing itself and usually capable of causing great harm to files or other programs on the same computer"
+    },
+    {
+        "id": 229,
+        "sentence": "79, 2005 H5N1 VIRUSES ISOLATED FROM TREE SPARROWS IN CHINA 15461\n\f15462 KOU ET AL.",
+        "wordProcessed": "TREE",
+        "senseFoundByLesk": "English actor and theatrical producer noted for his lavish productions of Shakespeare (1853-1917)"
+    },
+    {
+        "id": 230,
+        "sentence": "79, 2005 H5N1 VIRUSES ISOLATED FROM TREE SPARROWS IN CHINA 15461\n\f15462 KOU ET AL.",
+        "wordProcessed": "SPARROWS",
+        "senseFoundByLesk": "any of several small dull-colored singing birds feeding on seeds or insects"
+    },
+    {
+        "id": 231,
+        "sentence": "79, 2005 H5N1 VIRUSES ISOLATED FROM TREE SPARROWS IN CHINA 15461\n\f15462 KOU ET AL.",
+        "wordProcessed": "IN",
+        "senseFoundByLesk": "a rare soft silvery metallic element; occurs in small quantities in sphalerite"
+    },
+    {
+        "id": 232,
+        "sentence": "79, 2005 H5N1 VIRUSES ISOLATED FROM TREE SPARROWS IN CHINA 15461\n\f15462 KOU ET AL.",
+        "wordProcessed": "CHINA",
+        "senseFoundByLesk": "a government on the island of Taiwan established in 1949 by Chiang Kai-shek after the conquest of mainland China by the Communists led by Mao Zedong"
+    },
+    {
+        "id": 233,
+        "sentence": "79, 2005 H5N1 VIRUSES ISOLATED FROM TREE SPARROWS IN CHINA 15461\n\f15462 KOU ET AL.",
+        "wordProcessed": "AL",
+        "senseFoundByLesk": "a silvery ductile metallic element found primarily in bauxite"
+    },
+    {
+        "id": 234,
+        "sentence": "FIG.",
+        "wordProcessed": "FIG",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 235,
+        "sentence": "Phylogenetic\ntrees\nof\nvirus\ngenes\nisolated\nfrom\ntree\nsparrows\nin\nChina.",
+        "wordProcessed": "China",
+        "senseFoundByLesk": "a government on the island of Taiwan established in 1949 by Chiang Kai-shek after the conquest of mainland China by the Communists led by Mao Zedong"
+    },
+    {
+        "id": 236,
+        "sentence": "Analysis\nwas\nbased\non\nnucleotides\n1\nto\n1,012\n(1,012\nbp)\nof\nthe\nHA\ngene,\n1\nto\n1,055\n(1,055\nbp)\nof\nthe\nNA\ngene,\n1,058\nto\n2,227\n(1,170\nbp)\nof\nthe\nPB2\ngene,\n23\nto\n1,316\n(1,294\nbp)\nof\nthe\nPB1\ngene,\n1,450\nto\n2,148\n(699\nbp)\nof\nthe\nPA\ngene,\n22\nto\n976\n(955\nbp)\nof\nthe\nNP\ngene,\n25\nto\n759\n(725\nbp)\nof\nthe\nM\ngene,\nand\n46\nto\n685\n(640\nbp)\nof\nthe\nNS\ngene.",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 237,
+        "sentence": "Analysis\nwas\nbased\non\nnucleotides\n1\nto\n1,012\n(1,012\nbp)\nof\nthe\nHA\ngene,\n1\nto\n1,055\n(1,055\nbp)\nof\nthe\nNA\ngene,\n1,058\nto\n2,227\n(1,170\nbp)\nof\nthe\nPB2\ngene,\n23\nto\n1,316\n(1,294\nbp)\nof\nthe\nPB1\ngene,\n1,450\nto\n2,148\n(699\nbp)\nof\nthe\nPA\ngene,\n22\nto\n976\n(955\nbp)\nof\nthe\nNP\ngene,\n25\nto\n759\n(725\nbp)\nof\nthe\nM\ngene,\nand\n46\nto\n685\n(640\nbp)\nof\nthe\nNS\ngene.",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 238,
+        "sentence": "Analysis\nwas\nbased\non\nnucleotides\n1\nto\n1,012\n(1,012\nbp)\nof\nthe\nHA\ngene,\n1\nto\n1,055\n(1,055\nbp)\nof\nthe\nNA\ngene,\n1,058\nto\n2,227\n(1,170\nbp)\nof\nthe\nPB2\ngene,\n23\nto\n1,316\n(1,294\nbp)\nof\nthe\nPB1\ngene,\n1,450\nto\n2,148\n(699\nbp)\nof\nthe\nPA\ngene,\n22\nto\n976\n(955\nbp)\nof\nthe\nNP\ngene,\n25\nto\n759\n(725\nbp)\nof\nthe\nM\ngene,\nand\n46\nto\n685\n(640\nbp)\nof\nthe\nNS\ngene.",
+        "wordProcessed": "PA",
+        "senseFoundByLesk": "a Mid-Atlantic state; one of the original 13 colonies"
+    },
+    {
+        "id": 239,
+        "sentence": "Analysis\nwas\nbased\non\nnucleotides\n1\nto\n1,012\n(1,012\nbp)\nof\nthe\nHA\ngene,\n1\nto\n1,055\n(1,055\nbp)\nof\nthe\nNA\ngene,\n1,058\nto\n2,227\n(1,170\nbp)\nof\nthe\nPB2\ngene,\n23\nto\n1,316\n(1,294\nbp)\nof\nthe\nPB1\ngene,\n1,450\nto\n2,148\n(699\nbp)\nof\nthe\nPA\ngene,\n22\nto\n976\n(955\nbp)\nof\nthe\nNP\ngene,\n25\nto\n759\n(725\nbp)\nof\nthe\nM\ngene,\nand\n46\nto\n685\n(640\nbp)\nof\nthe\nNS\ngene.",
+        "wordProcessed": "NP",
+        "senseFoundByLesk": "a registered nurse who has received special training and can perform many of the duties of a physician"
+    },
+    {
+        "id": 240,
+        "sentence": "Analysis\nwas\nbased\non\nnucleotides\n1\nto\n1,012\n(1,012\nbp)\nof\nthe\nHA\ngene,\n1\nto\n1,055\n(1,055\nbp)\nof\nthe\nNA\ngene,\n1,058\nto\n2,227\n(1,170\nbp)\nof\nthe\nPB2\ngene,\n23\nto\n1,316\n(1,294\nbp)\nof\nthe\nPB1\ngene,\n1,450\nto\n2,148\n(699\nbp)\nof\nthe\nPA\ngene,\n22\nto\n976\n(955\nbp)\nof\nthe\nNP\ngene,\n25\nto\n759\n(725\nbp)\nof\nthe\nM\ngene,\nand\n46\nto\n685\n(640\nbp)\nof\nthe\nNS\ngene.",
+        "wordProcessed": "M",
+        "senseFoundByLesk": "the cardinal number that is the product of 10 and 100"
+    },
+    {
+        "id": 241,
+        "sentence": "Analysis\nwas\nbased\non\nnucleotides\n1\nto\n1,012\n(1,012\nbp)\nof\nthe\nHA\ngene,\n1\nto\n1,055\n(1,055\nbp)\nof\nthe\nNA\ngene,\n1,058\nto\n2,227\n(1,170\nbp)\nof\nthe\nPB2\ngene,\n23\nto\n1,316\n(1,294\nbp)\nof\nthe\nPB1\ngene,\n1,450\nto\n2,148\n(699\nbp)\nof\nthe\nPA\ngene,\n22\nto\n976\n(955\nbp)\nof\nthe\nNP\ngene,\n25\nto\n759\n(725\nbp)\nof\nthe\nM\ngene,\nand\n46\nto\n685\n(640\nbp)\nof\nthe\nNS\ngene.",
+        "wordProcessed": "NS",
+        "senseFoundByLesk": "a unit of force equal to the force that imparts an acceleration of 1 m/sec/sec to a mass of 1 kilogram; equal to 100,000 dynes"
+    },
+    {
+        "id": 242,
+        "sentence": "Th,\nThailand;\nVN,\nVietnam;\nIn,\nIndonesia;\nHK,\nHong\nKong;\nGd,\nGuangdong;\nYN,\nYunnan;\nSh,\nShanghai;\nSd,\nShandong;\nST,\nShantou;\nCk,\nchicken;\nDk,\nduck;\nQa,\nquail;\nGs,\nGoose;\nSCk,\nsilky\nchicken.",
+        "wordProcessed": "Th",
+        "senseFoundByLesk": "the fifth day of the week; the fourth working day"
+    },
+    {
+        "id": 243,
+        "sentence": "Th,\nThailand;\nVN,\nVietnam;\nIn,\nIndonesia;\nHK,\nHong\nKong;\nGd,\nGuangdong;\nYN,\nYunnan;\nSh,\nShanghai;\nSd,\nShandong;\nST,\nShantou;\nCk,\nchicken;\nDk,\nduck;\nQa,\nquail;\nGs,\nGoose;\nSCk,\nsilky\nchicken.",
+        "wordProcessed": "Thailand",
+        "senseFoundByLesk": "a country of southeastern Asia that extends southward along the Isthmus of Kra to the Malay Peninsula"
+    },
+    {
+        "id": 244,
+        "sentence": "Th,\nThailand;\nVN,\nVietnam;\nIn,\nIndonesia;\nHK,\nHong\nKong;\nGd,\nGuangdong;\nYN,\nYunnan;\nSh,\nShanghai;\nSd,\nShandong;\nST,\nShantou;\nCk,\nchicken;\nDk,\nduck;\nQa,\nquail;\nGs,\nGoose;\nSCk,\nsilky\nchicken.",
+        "wordProcessed": "Vietnam",
+        "senseFoundByLesk": "a prolonged war (1954-1975) between the communist armies of North Vietnam who were supported by the Chinese and the armies of South Vietnam who were supported by the United States"
+    },
+    {
+        "id": 245,
+        "sentence": "Th,\nThailand;\nVN,\nVietnam;\nIn,\nIndonesia;\nHK,\nHong\nKong;\nGd,\nGuangdong;\nYN,\nYunnan;\nSh,\nShanghai;\nSd,\nShandong;\nST,\nShantou;\nCk,\nchicken;\nDk,\nduck;\nQa,\nquail;\nGs,\nGoose;\nSCk,\nsilky\nchicken.",
+        "wordProcessed": "Indonesia",
+        "senseFoundByLesk": "a republic in southeastern Asia on an archipelago including more than 13,000 islands; achieved independence from the Netherlands in 1945; the principal oil producer in the Far East and Pacific regions"
+    },
+    {
+        "id": 246,
+        "sentence": "Th,\nThailand;\nVN,\nVietnam;\nIn,\nIndonesia;\nHK,\nHong\nKong;\nGd,\nGuangdong;\nYN,\nYunnan;\nSh,\nShanghai;\nSd,\nShandong;\nST,\nShantou;\nCk,\nchicken;\nDk,\nduck;\nQa,\nquail;\nGs,\nGoose;\nSCk,\nsilky\nchicken.",
+        "wordProcessed": "Gd",
+        "senseFoundByLesk": "a nerve agent easily absorbed into the body; a lethal cholinesterase inhibitor that is highly toxic when inhaled"
+    },
+    {
+        "id": 247,
+        "sentence": "Th,\nThailand;\nVN,\nVietnam;\nIn,\nIndonesia;\nHK,\nHong\nKong;\nGd,\nGuangdong;\nYN,\nYunnan;\nSh,\nShanghai;\nSd,\nShandong;\nST,\nShantou;\nCk,\nchicken;\nDk,\nduck;\nQa,\nquail;\nGs,\nGoose;\nSCk,\nsilky\nchicken.",
+        "wordProcessed": "Guangdong",
+        "senseFoundByLesk": "a province in southern China"
+    },
+    {
+        "id": 248,
+        "sentence": "Th,\nThailand;\nVN,\nVietnam;\nIn,\nIndonesia;\nHK,\nHong\nKong;\nGd,\nGuangdong;\nYN,\nYunnan;\nSh,\nShanghai;\nSd,\nShandong;\nST,\nShantou;\nCk,\nchicken;\nDk,\nduck;\nQa,\nquail;\nGs,\nGoose;\nSCk,\nsilky\nchicken.",
+        "wordProcessed": "Yunnan",
+        "senseFoundByLesk": "a province of southern China"
+    },
+    {
+        "id": 249,
+        "sentence": "Th,\nThailand;\nVN,\nVietnam;\nIn,\nIndonesia;\nHK,\nHong\nKong;\nGd,\nGuangdong;\nYN,\nYunnan;\nSh,\nShanghai;\nSd,\nShandong;\nST,\nShantou;\nCk,\nchicken;\nDk,\nduck;\nQa,\nquail;\nGs,\nGoose;\nSCk,\nsilky\nchicken.",
+        "wordProcessed": "Shanghai",
+        "senseFoundByLesk": "the largest city of China; located in the east on the Pacific; one of the largest ports in the world"
+    },
+    {
+        "id": 250,
+        "sentence": "Th,\nThailand;\nVN,\nVietnam;\nIn,\nIndonesia;\nHK,\nHong\nKong;\nGd,\nGuangdong;\nYN,\nYunnan;\nSh,\nShanghai;\nSd,\nShandong;\nST,\nShantou;\nCk,\nchicken;\nDk,\nduck;\nQa,\nquail;\nGs,\nGoose;\nSCk,\nsilky\nchicken.",
+        "wordProcessed": "Sd",
+        "senseFoundByLesk": "a state in north central United States"
+    },
+    {
+        "id": 251,
+        "sentence": "Th,\nThailand;\nVN,\nVietnam;\nIn,\nIndonesia;\nHK,\nHong\nKong;\nGd,\nGuangdong;\nYN,\nYunnan;\nSh,\nShanghai;\nSd,\nShandong;\nST,\nShantou;\nCk,\nchicken;\nDk,\nduck;\nQa,\nquail;\nGs,\nGoose;\nSCk,\nsilky\nchicken.",
+        "wordProcessed": "Gs",
+        "senseFoundByLesk": "the cardinal number that is the product of 10 and 100"
+    },
+    {
+        "id": 252,
+        "sentence": "Th,\nThailand;\nVN,\nVietnam;\nIn,\nIndonesia;\nHK,\nHong\nKong;\nGd,\nGuangdong;\nYN,\nYunnan;\nSh,\nShanghai;\nSd,\nShandong;\nST,\nShantou;\nCk,\nchicken;\nDk,\nduck;\nQa,\nquail;\nGs,\nGoose;\nSCk,\nsilky\nchicken.",
+        "wordProcessed": "Goose",
+        "senseFoundByLesk": "flesh of a goose (domestic or wild)"
+    },
+    {
+        "id": 253,
+        "sentence": "79, 2005 H5N1 VIRUSES ISOLATED FROM TREE SPARROWS IN CHINA 15463\n\fFIG.",
+        "wordProcessed": "VIRUSES",
+        "senseFoundByLesk": "a software program capable of reproducing itself and usually capable of causing great harm to files or other programs on the same computer"
+    },
+    {
+        "id": 254,
+        "sentence": "79, 2005 H5N1 VIRUSES ISOLATED FROM TREE SPARROWS IN CHINA 15463\n\fFIG.",
+        "wordProcessed": "TREE",
+        "senseFoundByLesk": "English actor and theatrical producer noted for his lavish productions of Shakespeare (1853-1917)"
+    },
+    {
+        "id": 255,
+        "sentence": "79, 2005 H5N1 VIRUSES ISOLATED FROM TREE SPARROWS IN CHINA 15463\n\fFIG.",
+        "wordProcessed": "SPARROWS",
+        "senseFoundByLesk": "any of several small dull-colored singing birds feeding on seeds or insects"
+    },
+    {
+        "id": 256,
+        "sentence": "79, 2005 H5N1 VIRUSES ISOLATED FROM TREE SPARROWS IN CHINA 15463\n\fFIG.",
+        "wordProcessed": "IN",
+        "senseFoundByLesk": "a rare soft silvery metallic element; occurs in small quantities in sphalerite"
+    },
+    {
+        "id": 257,
+        "sentence": "79, 2005 H5N1 VIRUSES ISOLATED FROM TREE SPARROWS IN CHINA 15463\n\fFIG.",
+        "wordProcessed": "CHINA",
+        "senseFoundByLesk": "a government on the island of Taiwan established in 1949 by Chiang Kai-shek after the conquest of mainland China by the Communists led by Mao Zedong"
+    },
+    {
+        "id": 258,
+        "sentence": "79, 2005 H5N1 VIRUSES ISOLATED FROM TREE SPARROWS IN CHINA 15463\n\fFIG.",
+        "wordProcessed": "FIG",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 259,
+        "sentence": "15464 KOU ET AL.",
+        "wordProcessed": "AL",
+        "senseFoundByLesk": "a silvery ductile metallic element found primarily in bauxite"
+    },
+    {
+        "id": 260,
+        "sentence": "In the phylogenetic tree of the M gene, the four sparrow\nviruses formed a separate branch with H3 and H6 subtype\nviruses.",
+        "wordProcessed": "M",
+        "senseFoundByLesk": "the cardinal number that is the product of 10 and 100"
+    },
+    {
+        "id": 261,
+        "sentence": "The branch was distinctly related to the branch of\ngenotypes A, B, C, D, E, X, Y, Z, and Z, that of Gs/Gd/96,\nand that of HK/97 (Fig.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 262,
+        "sentence": "The branch was distinctly related to the branch of\ngenotypes A, B, C, D, E, X, Y, Z, and Z, that of Gs/Gd/96,\nand that of HK/97 (Fig.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "(physics) a unit of nuclear cross section; the effective circular area that one particle presents to another as a target for an encounter"
+    },
+    {
+        "id": 263,
+        "sentence": "The branch was distinctly related to the branch of\ngenotypes A, B, C, D, E, X, Y, Z, and Z, that of Gs/Gd/96,\nand that of HK/97 (Fig.",
+        "wordProcessed": "C",
+        "senseFoundByLesk": "the speed at which light travels in a vacuum; the constancy and universality of the speed of light is recognized by defining it to be exactly 299,792,458 meters per second"
+    },
+    {
+        "id": 264,
+        "sentence": "The branch was distinctly related to the branch of\ngenotypes A, B, C, D, E, X, Y, Z, and Z, that of Gs/Gd/96,\nand that of HK/97 (Fig.",
+        "wordProcessed": "D",
+        "senseFoundByLesk": "the cardinal number that is the product of one hundred and five"
+    },
+    {
+        "id": 265,
+        "sentence": "The branch was distinctly related to the branch of\ngenotypes A, B, C, D, E, X, Y, Z, and Z, that of Gs/Gd/96,\nand that of HK/97 (Fig.",
+        "wordProcessed": "E",
+        "senseFoundByLesk": "the base of the natural system of logarithms; approximately equal to 2.718282..."
+    },
+    {
+        "id": 266,
+        "sentence": "The branch was distinctly related to the branch of\ngenotypes A, B, C, D, E, X, Y, Z, and Z, that of Gs/Gd/96,\nand that of HK/97 (Fig.",
+        "wordProcessed": "X",
+        "senseFoundByLesk": "the cardinal number that is the sum of nine and one; the base of the decimal system"
+    },
+    {
+        "id": 267,
+        "sentence": "The branch was distinctly related to the branch of\ngenotypes A, B, C, D, E, X, Y, Z, and Z, that of Gs/Gd/96,\nand that of HK/97 (Fig.",
+        "wordProcessed": "Y",
+        "senseFoundByLesk": "a silvery metallic element that is common in rare-earth minerals; used in magnesium and aluminum alloys"
+    },
+    {
+        "id": 268,
+        "sentence": "The branch was distinctly related to the branch of\ngenotypes A, B, C, D, E, X, Y, Z, and Z, that of Gs/Gd/96,\nand that of HK/97 (Fig.",
+        "wordProcessed": "Z",
+        "senseFoundByLesk": "the 26th letter of the Roman alphabet"
+    },
+    {
+        "id": 269,
+        "sentence": "The branch was distinctly related to the branch of\ngenotypes A, B, C, D, E, X, Y, Z, and Z, that of Gs/Gd/96,\nand that of HK/97 (Fig.",
+        "wordProcessed": "Z",
+        "senseFoundByLesk": "the 26th letter of the Roman alphabet"
+    },
+    {
+        "id": 270,
+        "sentence": "The branch was distinctly related to the branch of\ngenotypes A, B, C, D, E, X, Y, Z, and Z, that of Gs/Gd/96,\nand that of HK/97 (Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 271,
+        "sentence": "The NS genes of four tree sparrows\nwere distinctly related to that of genotypes A, B, C, D, E, X, Y,\nZ, and Z, that of H5N1/97, and that of the H3, H4, H6, H9,\nand H11 subtypes (Fig.",
+        "wordProcessed": "NS",
+        "senseFoundByLesk": "a unit of force equal to the force that imparts an acceleration of 1 m/sec/sec to a mass of 1 kilogram; equal to 100,000 dynes"
+    },
+    {
+        "id": 272,
+        "sentence": "The NS genes of four tree sparrows\nwere distinctly related to that of genotypes A, B, C, D, E, X, Y,\nZ, and Z, that of H5N1/97, and that of the H3, H4, H6, H9,\nand H11 subtypes (Fig.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 273,
+        "sentence": "The NS genes of four tree sparrows\nwere distinctly related to that of genotypes A, B, C, D, E, X, Y,\nZ, and Z, that of H5N1/97, and that of the H3, H4, H6, H9,\nand H11 subtypes (Fig.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "(physics) a unit of nuclear cross section; the effective circular area that one particle presents to another as a target for an encounter"
+    },
+    {
+        "id": 274,
+        "sentence": "The NS genes of four tree sparrows\nwere distinctly related to that of genotypes A, B, C, D, E, X, Y,\nZ, and Z, that of H5N1/97, and that of the H3, H4, H6, H9,\nand H11 subtypes (Fig.",
+        "wordProcessed": "C",
+        "senseFoundByLesk": "the speed at which light travels in a vacuum; the constancy and universality of the speed of light is recognized by defining it to be exactly 299,792,458 meters per second"
+    },
+    {
+        "id": 275,
+        "sentence": "The NS genes of four tree sparrows\nwere distinctly related to that of genotypes A, B, C, D, E, X, Y,\nZ, and Z, that of H5N1/97, and that of the H3, H4, H6, H9,\nand H11 subtypes (Fig.",
+        "wordProcessed": "D",
+        "senseFoundByLesk": "the cardinal number that is the product of one hundred and five"
+    },
+    {
+        "id": 276,
+        "sentence": "The NS genes of four tree sparrows\nwere distinctly related to that of genotypes A, B, C, D, E, X, Y,\nZ, and Z, that of H5N1/97, and that of the H3, H4, H6, H9,\nand H11 subtypes (Fig.",
+        "wordProcessed": "E",
+        "senseFoundByLesk": "the base of the natural system of logarithms; approximately equal to 2.718282..."
+    },
+    {
+        "id": 277,
+        "sentence": "The NS genes of four tree sparrows\nwere distinctly related to that of genotypes A, B, C, D, E, X, Y,\nZ, and Z, that of H5N1/97, and that of the H3, H4, H6, H9,\nand H11 subtypes (Fig.",
+        "wordProcessed": "X",
+        "senseFoundByLesk": "the cardinal number that is the sum of nine and one; the base of the decimal system"
+    },
+    {
+        "id": 278,
+        "sentence": "The NS genes of four tree sparrows\nwere distinctly related to that of genotypes A, B, C, D, E, X, Y,\nZ, and Z, that of H5N1/97, and that of the H3, H4, H6, H9,\nand H11 subtypes (Fig.",
+        "wordProcessed": "Y",
+        "senseFoundByLesk": "a silvery metallic element that is common in rare-earth minerals; used in magnesium and aluminum alloys"
+    },
+    {
+        "id": 279,
+        "sentence": "The NS genes of four tree sparrows\nwere distinctly related to that of genotypes A, B, C, D, E, X, Y,\nZ, and Z, that of H5N1/97, and that of the H3, H4, H6, H9,\nand H11 subtypes (Fig.",
+        "wordProcessed": "Z",
+        "senseFoundByLesk": "the 26th letter of the Roman alphabet"
+    },
+    {
+        "id": 280,
+        "sentence": "The NS genes of four tree sparrows\nwere distinctly related to that of genotypes A, B, C, D, E, X, Y,\nZ, and Z, that of H5N1/97, and that of the H3, H4, H6, H9,\nand H11 subtypes (Fig.",
+        "wordProcessed": "Z",
+        "senseFoundByLesk": "the 26th letter of the Roman alphabet"
+    },
+    {
+        "id": 281,
+        "sentence": "The NS genes of four tree sparrows\nwere distinctly related to that of genotypes A, B, C, D, E, X, Y,\nZ, and Z, that of H5N1/97, and that of the H3, H4, H6, H9,\nand H11 subtypes (Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 282,
+        "sentence": "They were reassortants of\nGs/Gd/96-like viruses; the outer genes are derived form Gs/\nGd/96-like viruses, and the inner genes are derived from un-\nknown influenza viruses resident in wild birds (Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 283,
+        "sentence": "DISCUSSION\nA survey of epidemic avian influenza viruses in tree sparrows\nwas conducted in Pingyu country, Henan province, China, in\nMay 2004.",
+        "wordProcessed": "DISCUSSION",
+        "senseFoundByLesk": "an exchange of views on some topic"
+    },
+    {
+        "id": 284,
+        "sentence": "DISCUSSION\nA survey of epidemic avian influenza viruses in tree sparrows\nwas conducted in Pingyu country, Henan province, China, in\nMay 2004.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 285,
+        "sentence": "DISCUSSION\nA survey of epidemic avian influenza viruses in tree sparrows\nwas conducted in Pingyu country, Henan province, China, in\nMay 2004.",
+        "wordProcessed": "China",
+        "senseFoundByLesk": "a government on the island of Taiwan established in 1949 by Chiang Kai-shek after the conquest of mainland China by the Communists led by Mao Zedong"
+    },
+    {
+        "id": 286,
+        "sentence": "DISCUSSION\nA survey of epidemic avian influenza viruses in tree sparrows\nwas conducted in Pingyu country, Henan province, China, in\nMay 2004.",
+        "wordProcessed": "May",
+        "senseFoundByLesk": "thorny Eurasian shrub of small tree having dense clusters of white to scarlet flowers followed by deep red berries; established as an escape in eastern North America"
+    },
+    {
+        "id": 287,
+        "sentence": "By molecular characterization\nand an analysis of phylogenetic relationships, their genetic\ncharacterizations were different from those of the dominant\ngenotype Z viruses and other H5N1 genotype viruses.",
+        "wordProcessed": "Z",
+        "senseFoundByLesk": "the 26th letter of the Roman alphabet"
+    },
+    {
+        "id": 288,
+        "sentence": "Accord-\ning to phylogenetic analysis results, only the HA, NA, and NP\ngenes were found connected with other reported genotypes\nviruses.",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 289,
+        "sentence": "Accord-\ning to phylogenetic analysis results, only the HA, NA, and NP\ngenes were found connected with other reported genotypes\nviruses.",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 290,
+        "sentence": "Accord-\ning to phylogenetic analysis results, only the HA, NA, and NP\ngenes were found connected with other reported genotypes\nviruses.",
+        "wordProcessed": "NP",
+        "senseFoundByLesk": "a registered nurse who has received special training and can perform many of the duties of a physician"
+    },
+    {
+        "id": 291,
+        "sentence": "The HA and NA genes are descended from Gs/Gd/\n96-like virus, while the NP gene might be from genotype A\nviruses (Fig.",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 292,
+        "sentence": "The HA and NA genes are descended from Gs/Gd/\n96-like virus, while the NP gene might be from genotype A\nviruses (Fig.",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 293,
+        "sentence": "The HA and NA genes are descended from Gs/Gd/\n96-like virus, while the NP gene might be from genotype A\nviruses (Fig.",
+        "wordProcessed": "NP",
+        "senseFoundByLesk": "a registered nurse who has received special training and can perform many of the duties of a physician"
+    },
+    {
+        "id": 294,
+        "sentence": "The HA and NA genes are descended from Gs/Gd/\n96-like virus, while the NP gene might be from genotype A\nviruses (Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 295,
+        "sentence": "But other inner genes, such as PB2, PB1,\nPA, M, and NS, were novel and might have originated from an\nunknown virus (Fig.",
+        "wordProcessed": "PA",
+        "senseFoundByLesk": "an electronic amplification system used as a communication system in public areas"
+    },
+    {
+        "id": 296,
+        "sentence": "But other inner genes, such as PB2, PB1,\nPA, M, and NS, were novel and might have originated from an\nunknown virus (Fig.",
+        "wordProcessed": "M",
+        "senseFoundByLesk": "the cardinal number that is the product of 10 and 100"
+    },
+    {
+        "id": 297,
+        "sentence": "But other inner genes, such as PB2, PB1,\nPA, M, and NS, were novel and might have originated from an\nunknown virus (Fig.",
+        "wordProcessed": "NS",
+        "senseFoundByLesk": "a unit of force equal to the force that imparts an acceleration of 1 m/sec/sec to a mass of 1 kilogram; equal to 100,000 dynes"
+    },
+    {
+        "id": 298,
+        "sentence": "But other inner genes, such as PB2, PB1,\nPA, M, and NS, were novel and might have originated from an\nunknown virus (Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 299,
+        "sentence": "The possible derivation of the tree sparrow viruses and their\nrelationship to other H5N1 genotypes are summarized in Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 300,
+        "sentence": "In 2003, an avian influenza H5N1 virus was isolated once\nfrom a tree sparrow in Hong Kong, and the genotype of this\nstrain was Z.",
+        "wordProcessed": "Z",
+        "senseFoundByLesk": "the ending of a series or sequence"
+    },
+    {
+        "id": 301,
+        "sentence": "The tree sparrow viruses that we isolated were\nquite different from the genotype Z virus.",
+        "wordProcessed": "Z",
+        "senseFoundByLesk": "the 26th letter of the Roman alphabet"
+    },
+    {
+        "id": 302,
+        "sentence": "Recently, genotype V and Z H5N1\nviruses were isolated from different terrestrial birds (12).",
+        "wordProcessed": "V",
+        "senseFoundByLesk": "a soft silvery white toxic metallic element used in steel alloys; it occurs in several complex minerals including carnotite and vanadinite"
+    },
+    {
+        "id": 303,
+        "sentence": "Recently, genotype V and Z H5N1\nviruses were isolated from different terrestrial birds (12).",
+        "wordProcessed": "Z",
+        "senseFoundByLesk": "the 26th letter of the Roman alphabet"
+    },
+    {
+        "id": 304,
+        "sentence": "Our\nFIG.",
+        "wordProcessed": "FIG",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 305,
+        "sentence": "The eight gene segments in\neach schematic virus particle are (from top to bottom) the PB2, PB1,\nPA, HA, NP, NA, M, and NS genes.",
+        "wordProcessed": "PA",
+        "senseFoundByLesk": "a short-lived radioactive metallic element formed from uranium and disintegrating into actinium and then into lead"
+    },
+    {
+        "id": 306,
+        "sentence": "The eight gene segments in\neach schematic virus particle are (from top to bottom) the PB2, PB1,\nPA, HA, NP, NA, M, and NS genes.",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 307,
+        "sentence": "The eight gene segments in\neach schematic virus particle are (from top to bottom) the PB2, PB1,\nPA, HA, NP, NA, M, and NS genes.",
+        "wordProcessed": "NP",
+        "senseFoundByLesk": "a registered nurse who has received special training and can perform many of the duties of a physician"
+    },
+    {
+        "id": 308,
+        "sentence": "The eight gene segments in\neach schematic virus particle are (from top to bottom) the PB2, PB1,\nPA, HA, NP, NA, M, and NS genes.",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 309,
+        "sentence": "The eight gene segments in\neach schematic virus particle are (from top to bottom) the PB2, PB1,\nPA, HA, NP, NA, M, and NS genes.",
+        "wordProcessed": "M",
+        "senseFoundByLesk": "the cardinal number that is the product of 10 and 100"
+    },
+    {
+        "id": 310,
+        "sentence": "The eight gene segments in\neach schematic virus particle are (from top to bottom) the PB2, PB1,\nPA, HA, NP, NA, M, and NS genes.",
+        "wordProcessed": "NS",
+        "senseFoundByLesk": "a unit of force equal to the force that imparts an acceleration of 1 m/sec/sec to a mass of 1 kilogram; equal to 100,000 dynes"
+    },
+    {
+        "id": 311,
+        "sentence": "The capital letters indicate the genotypes and\nSparrow 1 to Sparrow 4 indicate the four sparrow isolates.",
+        "wordProcessed": "Sparrow",
+        "senseFoundByLesk": "any of several small dull-colored singing birds feeding on seeds or insects"
+    },
+    {
+        "id": 312,
+        "sentence": "Results of animal infection experiments\nVirus\nTiter\n(log10 EID50)\nAvian infection\n(no.",
+        "wordProcessed": "Virus",
+        "senseFoundByLesk": "a software program capable of reproducing itself and usually capable of causing great harm to files or other programs on the same computer"
+    },
+    {
+        "id": 313,
+        "sentence": "Results of animal infection experiments\nVirus\nTiter\n(log10 EID50)\nAvian infection\n(no.",
+        "wordProcessed": "Titer",
+        "senseFoundByLesk": "the concentration of a solution as determined by titration"
+    },
+    {
+        "id": 314,
+        "sentence": "of days to death)\nMouse infection\nChicken Duck\nNo.",
+        "wordProcessed": "Mouse",
+        "senseFoundByLesk": "a swollen bruise caused by a blow to the eye"
+    },
+    {
+        "id": 315,
+        "sentence": "of days to death)\nMouse infection\nChicken Duck\nNo.",
+        "wordProcessed": "Chicken",
+        "senseFoundByLesk": "a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl"
+    },
+    {
+        "id": 316,
+        "sentence": "of days to death)\nMouse infection\nChicken Duck\nNo.",
+        "wordProcessed": "Duck",
+        "senseFoundByLesk": "a heavy cotton fabric of plain weave; used for clothing and tents"
+    },
+    {
+        "id": 317,
+        "sentence": "of days to death)\nMouse infection\nChicken Duck\nNo.",
+        "wordProcessed": "No",
+        "senseFoundByLesk": "a radioactive transuranic element synthesized by bombarding curium with carbon ions; 7 isotopes are known"
+    },
+    {
+        "id": 318,
+        "sentence": "inoculated\nVirus in lung\n(log10 EID50)\nVirus in brain\n(log10 EID50)\nTs/HN/1/04 6 8/8(2\u00c2\u00ad5) 0/8 0/10 1.4 No\nTs/HN/2/04 6 8/8(3\u00c2\u00ad4) 0/8 0/10 2.1 1.0\nTs/HN/3/04 5.5 7/8(6\u00c2\u00ad9) 0/8 0/10 1.8 No\nTs/HN/4/04 6.5 8/8(4\u00c2\u00ad5) 0/8 0/10 1.3 No\nVOL.",
+        "wordProcessed": "Virus",
+        "senseFoundByLesk": "(virology) ultramicroscopic infectious agent that replicates itself only within cells of living hosts; many are pathogenic; a piece of nucleic acid (DNA or RNA) wrapped in a thin coat of protein"
+    },
+    {
+        "id": 319,
+        "sentence": "inoculated\nVirus in lung\n(log10 EID50)\nVirus in brain\n(log10 EID50)\nTs/HN/1/04 6 8/8(2\u00c2\u00ad5) 0/8 0/10 1.4 No\nTs/HN/2/04 6 8/8(3\u00c2\u00ad4) 0/8 0/10 2.1 1.0\nTs/HN/3/04 5.5 7/8(6\u00c2\u00ad9) 0/8 0/10 1.8 No\nTs/HN/4/04 6.5 8/8(4\u00c2\u00ad5) 0/8 0/10 1.3 No\nVOL.",
+        "wordProcessed": "Virus",
+        "senseFoundByLesk": "(virology) ultramicroscopic infectious agent that replicates itself only within cells of living hosts; many are pathogenic; a piece of nucleic acid (DNA or RNA) wrapped in a thin coat of protein"
+    },
+    {
+        "id": 320,
+        "sentence": "inoculated\nVirus in lung\n(log10 EID50)\nVirus in brain\n(log10 EID50)\nTs/HN/1/04 6 8/8(2\u00c2\u00ad5) 0/8 0/10 1.4 No\nTs/HN/2/04 6 8/8(3\u00c2\u00ad4) 0/8 0/10 2.1 1.0\nTs/HN/3/04 5.5 7/8(6\u00c2\u00ad9) 0/8 0/10 1.8 No\nTs/HN/4/04 6.5 8/8(4\u00c2\u00ad5) 0/8 0/10 1.3 No\nVOL.",
+        "wordProcessed": "No",
+        "senseFoundByLesk": "a radioactive transuranic element synthesized by bombarding curium with carbon ions; 7 isotopes are known"
+    },
+    {
+        "id": 321,
+        "sentence": "inoculated\nVirus in lung\n(log10 EID50)\nVirus in brain\n(log10 EID50)\nTs/HN/1/04 6 8/8(2\u00c2\u00ad5) 0/8 0/10 1.4 No\nTs/HN/2/04 6 8/8(3\u00c2\u00ad4) 0/8 0/10 2.1 1.0\nTs/HN/3/04 5.5 7/8(6\u00c2\u00ad9) 0/8 0/10 1.8 No\nTs/HN/4/04 6.5 8/8(4\u00c2\u00ad5) 0/8 0/10 1.3 No\nVOL.",
+        "wordProcessed": "No",
+        "senseFoundByLesk": "a radioactive transuranic element synthesized by bombarding curium with carbon ions; 7 isotopes are known"
+    },
+    {
+        "id": 322,
+        "sentence": "79, 2005 H5N1 VIRUSES ISOLATED FROM TREE SPARROWS IN CHINA 15465\n\fresults indicated that a new genotype H5N1 virus was found in\ntree sparrows.",
+        "wordProcessed": "VIRUSES",
+        "senseFoundByLesk": "(virology) ultramicroscopic infectious agent that replicates itself only within cells of living hosts; many are pathogenic; a piece of nucleic acid (DNA or RNA) wrapped in a thin coat of protein"
+    },
+    {
+        "id": 323,
+        "sentence": "79, 2005 H5N1 VIRUSES ISOLATED FROM TREE SPARROWS IN CHINA 15465\n\fresults indicated that a new genotype H5N1 virus was found in\ntree sparrows.",
+        "wordProcessed": "TREE",
+        "senseFoundByLesk": "a figure that branches from a single root"
+    },
+    {
+        "id": 324,
+        "sentence": "79, 2005 H5N1 VIRUSES ISOLATED FROM TREE SPARROWS IN CHINA 15465\n\fresults indicated that a new genotype H5N1 virus was found in\ntree sparrows.",
+        "wordProcessed": "SPARROWS",
+        "senseFoundByLesk": "any of several small dull-colored singing birds feeding on seeds or insects"
+    },
+    {
+        "id": 325,
+        "sentence": "79, 2005 H5N1 VIRUSES ISOLATED FROM TREE SPARROWS IN CHINA 15465\n\fresults indicated that a new genotype H5N1 virus was found in\ntree sparrows.",
+        "wordProcessed": "IN",
+        "senseFoundByLesk": "a rare soft silvery metallic element; occurs in small quantities in sphalerite"
+    },
+    {
+        "id": 326,
+        "sentence": "79, 2005 H5N1 VIRUSES ISOLATED FROM TREE SPARROWS IN CHINA 15465\n\fresults indicated that a new genotype H5N1 virus was found in\ntree sparrows.",
+        "wordProcessed": "CHINA",
+        "senseFoundByLesk": "a communist nation that covers a vast territory in eastern Asia; the most populous country in the world"
+    },
+    {
+        "id": 327,
+        "sentence": "The simi-\nlarity of the HA and NA genes with those of Gs/Gd/96 indi-\ncated that they had some connection with aquatic birds.",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 328,
+        "sentence": "The simi-\nlarity of the HA and NA genes with those of Gs/Gd/96 indi-\ncated that they had some connection with aquatic birds.",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 329,
+        "sentence": "Highly pathogenic H5N1 avian influenza viruses resulted in\na windstorm of disease outbreaks in China and other Asian\ncountries in 2004.",
+        "wordProcessed": "China",
+        "senseFoundByLesk": "a government on the island of Taiwan established in 1949 by Chiang Kai-shek after the conquest of mainland China by the Communists led by Mao Zedong"
+    },
+    {
+        "id": 330,
+        "sentence": "Wild birds were\nconsidered to be significantly related to the increasing spread\nof the virus in Asia, and H5N1 viruses with pandemic potential\nbecome endemic in regions and were not easily eradicable\n(12).",
+        "wordProcessed": "Asia",
+        "senseFoundByLesk": "the largest continent with 60% of the earth's population; it is joined to Europe on the west to form Eurasia; it is the site of some of the world's earliest civilizations"
+    },
+    {
+        "id": 331,
+        "sentence": "Tree sparrows are residents and widespread in the whole\nof China and other Eurasian countries.",
+        "wordProcessed": "China",
+        "senseFoundByLesk": "a government on the island of Taiwan established in 1949 by Chiang Kai-shek after the conquest of mainland China by the Communists led by Mao Zedong"
+    },
+    {
+        "id": 332,
+        "sentence": "In the region of China where the\nH5N1 viruses in this study were isolated, pigs and ducks are\nhoused closely in farming villages.",
+        "wordProcessed": "China",
+        "senseFoundByLesk": "a government on the island of Taiwan established in 1949 by Chiang Kai-shek after the conquest of mainland China by the Communists led by Mao Zedong"
+    },
+    {
+        "id": 333,
+        "sentence": "ACKNOWLEDGMENTS\nThis research was supported by the Ministry of Science and Tech-\nnology of China program (grant no.",
+        "wordProcessed": "Ministry",
+        "senseFoundByLesk": "the work of a minister of religion"
+    },
+    {
+        "id": 334,
+        "sentence": "ACKNOWLEDGMENTS\nThis research was supported by the Ministry of Science and Tech-\nnology of China program (grant no.",
+        "wordProcessed": "Science",
+        "senseFoundByLesk": "a particular branch of scientific knowledge"
+    },
+    {
+        "id": 335,
+        "sentence": "ACKNOWLEDGMENTS\nThis research was supported by the Ministry of Science and Tech-\nnology of China program (grant no.",
+        "wordProcessed": "China",
+        "senseFoundByLesk": "a government on the island of Taiwan established in 1949 by Chiang Kai-shek after the conquest of mainland China by the Communists led by Mao Zedong"
+    },
+    {
+        "id": 336,
+        "sentence": "2004BA519A11), the 973 Project\n(grant no.",
+        "wordProcessed": "Project",
+        "senseFoundByLesk": "any piece of work that is undertaken or attempted"
+    },
+    {
+        "id": 337,
+        "sentence": "2005CB523000), the Innovation Program (grant no.",
+        "wordProcessed": "Innovation",
+        "senseFoundByLesk": "the creation of something in the mind"
+    },
+    {
+        "id": 338,
+        "sentence": "2005CB523000), the Innovation Program (grant no.",
+        "wordProcessed": "Program",
+        "senseFoundByLesk": "an announcement of the events that will occur as part of a theatrical or sporting event"
+    },
+    {
+        "id": 339,
+        "sentence": "INF105-SDB-3-A2) of the Chinese Academy of Sciences (CAS), the\n863 project (grant no.",
+        "wordProcessed": "Academy",
+        "senseFoundByLesk": "a learned establishment for the advancement of knowledge"
+    },
+    {
+        "id": 340,
+        "sentence": "INF105-SDB-3-A2) of the Chinese Academy of Sciences (CAS), the\n863 project (grant no.",
+        "wordProcessed": "Sciences",
+        "senseFoundByLesk": "a particular branch of scientific knowledge"
+    },
+    {
+        "id": 341,
+        "sentence": "INF105-SDB-3-A2) of the Chinese Academy of Sciences (CAS), the\n863 project (grant no.",
+        "wordProcessed": "CAS",
+        "senseFoundByLesk": "a white metallic element that burns with a brilliant light; the fifth most abundant element in the earth's crust; an important component of most plants and animals"
+    },
+    {
+        "id": 342,
+        "sentence": "2005 AA219070), and the Innovation Program\nof the Institute of Zoology, CAS.",
+        "wordProcessed": "Innovation",
+        "senseFoundByLesk": "the creation of something in the mind"
+    },
+    {
+        "id": 343,
+        "sentence": "2005 AA219070), and the Innovation Program\nof the Institute of Zoology, CAS.",
+        "wordProcessed": "Program",
+        "senseFoundByLesk": "a document stating the aims and principles of a political party"
+    },
+    {
+        "id": 344,
+        "sentence": "2005 AA219070), and the Innovation Program\nof the Institute of Zoology, CAS.",
+        "wordProcessed": "Institute",
+        "senseFoundByLesk": "an association organized to promote art or science or education"
+    },
+    {
+        "id": 345,
+        "sentence": "2005 AA219070), and the Innovation Program\nof the Institute of Zoology, CAS.",
+        "wordProcessed": "Zoology",
+        "senseFoundByLesk": "the branch of biology that studies animals"
+    },
+    {
+        "id": 346,
+        "sentence": "2005 AA219070), and the Innovation Program\nof the Institute of Zoology, CAS.",
+        "wordProcessed": "CAS",
+        "senseFoundByLesk": "a white metallic element that burns with a brilliant light; the fifth most abundant element in the earth's crust; an important component of most plants and animals"
+    },
+    {
+        "id": 347,
+        "sentence": "We appreciate the staff of the State Forestry Administration of\nChina and local Forestry Departments for their help in collecting\nwild-bird samples.",
+        "wordProcessed": "State",
+        "senseFoundByLesk": "(chemistry) the three traditional states of matter are solids (fixed shape and volume) and liquids (fixed volume and shaped by the container) and gases (filling the container)"
+    },
+    {
+        "id": 348,
+        "sentence": "We appreciate the staff of the State Forestry Administration of\nChina and local Forestry Departments for their help in collecting\nwild-bird samples.",
+        "wordProcessed": "Forestry",
+        "senseFoundByLesk": "the science of planting and caring for forests and the management of growing timber"
+    },
+    {
+        "id": 349,
+        "sentence": "We appreciate the staff of the State Forestry Administration of\nChina and local Forestry Departments for their help in collecting\nwild-bird samples.",
+        "wordProcessed": "Administration",
+        "senseFoundByLesk": "the persons (or committees or departments etc.) who make up a body for the purpose of administering something"
+    },
+    {
+        "id": 350,
+        "sentence": "We appreciate the staff of the State Forestry Administration of\nChina and local Forestry Departments for their help in collecting\nwild-bird samples.",
+        "wordProcessed": "China",
+        "senseFoundByLesk": "a government on the island of Taiwan established in 1949 by Chiang Kai-shek after the conquest of mainland China by the Communists led by Mao Zedong"
+    },
+    {
+        "id": 351,
+        "sentence": "We appreciate the staff of the State Forestry Administration of\nChina and local Forestry Departments for their help in collecting\nwild-bird samples.",
+        "wordProcessed": "Forestry",
+        "senseFoundByLesk": "the science of planting and caring for forests and the management of growing timber"
+    },
+    {
+        "id": 352,
+        "sentence": "We acknowledge S. L. Chen, Z. Zhang, Q. S. Yan,\nH. J. Hu, H. F. Zhao, F. S. Zou, H. P. Liu, and many others for field\nsample collection and assistance in the laboratory.",
+        "wordProcessed": "Chen",
+        "senseFoundByLesk": "wild goose having white adult plumage"
+    },
+    {
+        "id": 353,
+        "sentence": "Chin, P. S., E. Hoffmann, R. Webby, R. G. Webster, Y. Guan, M. Peiris, and\nK. F. Shortridge.",
+        "wordProcessed": "Chin",
+        "senseFoundByLesk": "Kamarupan languages spoken in western Burma and Bangladesh and easternmost India"
+    },
+    {
+        "id": 354,
+        "sentence": "Chin, P. S., E. Hoffmann, R. Webby, R. G. Webster, Y. Guan, M. Peiris, and\nK. F. Shortridge.",
+        "wordProcessed": "Hoffmann",
+        "senseFoundByLesk": "German writer of fantastic tales (1776-1822)"
+    },
+    {
+        "id": 355,
+        "sentence": "Chin, P. S., E. Hoffmann, R. Webby, R. G. Webster, Y. Guan, M. Peiris, and\nK. F. Shortridge.",
+        "wordProcessed": "Webster",
+        "senseFoundByLesk": "United States politician and orator (1782-1817)"
+    },
+    {
+        "id": 356,
+        "sentence": "Chin, P. S., E. Hoffmann, R. Webby, R. G. Webster, Y. Guan, M. Peiris, and\nK. F. Shortridge.",
+        "wordProcessed": "Guan",
+        "senseFoundByLesk": "any of several large turkey-like game birds of the family Cracidae; native to jungles of tropical America; resembling the curassows and valued as food"
+    },
+    {
+        "id": 357,
+        "sentence": "Molecular evolution of H6 influenza viruses from\npoultry in Southeastern China: prevalence of H6N1 influenza viruses pos-\nsessing seven A/Hong Kong/156/97 (H5N1)-like genes in poultry.",
+        "wordProcessed": "China",
+        "senseFoundByLesk": "a government on the island of Taiwan established in 1949 by Chiang Kai-shek after the conquest of mainland China by the Communists led by Mao Zedong"
+    },
+    {
+        "id": 358,
+        "sentence": "Cases of\ninfluenza A (H5N1)--Thailand, 2004.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "any of several fat-soluble vitamins essential for normal vision; prevents night blindness or inflammation or dryness of the eyes"
+    },
+    {
+        "id": 359,
+        "sentence": "Cases of\ninfluenza A (H5N1)--Thailand, 2004.",
+        "wordProcessed": "Thailand",
+        "senseFoundByLesk": "a country of southeastern Asia that extends southward along the Isthmus of Kra to the Malay Peninsula"
+    },
+    {
+        "id": 360,
+        "sentence": "Mortal.",
+        "wordProcessed": "Mortal",
+        "senseFoundByLesk": "a human being"
+    },
+    {
+        "id": 361,
+        "sentence": "Claas, E., A. D. Osterhaus, R. van Beek, J. C. De Jong, G. F. Rimmelzwaan,\nD. A. Senne, S. Krauss, K. F. Shortridge, and R. G. Webster.",
+        "wordProcessed": "De",
+        "senseFoundByLesk": "a Mid-Atlantic state; one of the original 13 colonies"
+    },
+    {
+        "id": 362,
+        "sentence": "Claas, E., A. D. Osterhaus, R. van Beek, J. C. De Jong, G. F. Rimmelzwaan,\nD. A. Senne, S. Krauss, K. F. Shortridge, and R. G. Webster.",
+        "wordProcessed": "Jong",
+        "senseFoundByLesk": "United States writer (born in 1942)"
+    },
+    {
+        "id": 363,
+        "sentence": "Claas, E., A. D. Osterhaus, R. van Beek, J. C. De Jong, G. F. Rimmelzwaan,\nD. A. Senne, S. Krauss, K. F. Shortridge, and R. G. Webster.",
+        "wordProcessed": "Webster",
+        "senseFoundByLesk": "United States politician and orator (1782-1817)"
+    },
+    {
+        "id": 364,
+        "sentence": "Human\ninfluenza A H5N1 virus related to a highly pathogenic avian influenza virus.",
+        "wordProcessed": "Human",
+        "senseFoundByLesk": "any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage"
+    },
+    {
+        "id": 365,
+        "sentence": "Human\ninfluenza A H5N1 virus related to a highly pathogenic avian influenza virus.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "a metric unit of length equal to one ten billionth of a meter (or 0.0001 micron); used to specify wavelengths of electromagnetic radiation"
+    },
+    {
+        "id": 366,
+        "sentence": "Lancet 351:472\u00c2\u00ad477.",
+        "wordProcessed": "Lancet",
+        "senseFoundByLesk": "an acutely pointed Gothic arch, like a lance"
+    },
+    {
+        "id": 367,
+        "sentence": "Fouchier, R. A., P. M. Schneeberger, F. W. Rozendaal, J. M. Broekman, S. A.\nKemink, V. Munster, T. Kuiken, G. F. Rimmelzwaan, M. Schutten, G. J.",
+        "wordProcessed": "J",
+        "senseFoundByLesk": "a unit of electrical energy equal to the work done when a current of one ampere passes through a resistance of one ohm for one second"
+    },
+    {
+        "id": 368,
+        "sentence": "Van\nDoornum, G. Koch, A. Bosman, M. Koopmans, and A. D. Osterhaus.",
+        "wordProcessed": "Van",
+        "senseFoundByLesk": "any creative group active in the innovation and application of new concepts and techniques in a given field (especially in the arts)"
+    },
+    {
+        "id": 369,
+        "sentence": "Van\nDoornum, G. Koch, A. Bosman, M. Koopmans, and A. D. Osterhaus.",
+        "wordProcessed": "Koch",
+        "senseFoundByLesk": "German bacteriologist who isolated the anthrax bacillus and the tubercle bacillus and the cholera bacillus (1843-1910)"
+    },
+    {
+        "id": 370,
+        "sentence": "Van\nDoornum, G. Koch, A. Bosman, M. Koopmans, and A. D. Osterhaus.",
+        "wordProcessed": "Koopmans",
+        "senseFoundByLesk": "United States economist (born in the Netherlands) (1910-1985)"
+    },
+    {
+        "id": 371,
+        "sentence": "Avian influenza A virus (H7N7) associated with human conjunctivitis and a\nfatal case of acute respiratory distress syndrome.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 372,
+        "sentence": "USA\n101:1356\u00c2\u00ad1361.",
+        "wordProcessed": "USA",
+        "senseFoundByLesk": "the army of the United States of America; the agency that organizes and trains soldiers for land warfare"
+    },
+    {
+        "id": 373,
+        "sentence": "Guan, Y., K. F. Shortridge, S. Krauss, and R. G. Webster.",
+        "wordProcessed": "Guan",
+        "senseFoundByLesk": "any of several large turkey-like game birds of the family Cracidae; native to jungles of tropical America; resembling the curassows and valued as food"
+    },
+    {
+        "id": 374,
+        "sentence": "Guan, Y., K. F. Shortridge, S. Krauss, and R. G. Webster.",
+        "wordProcessed": "Webster",
+        "senseFoundByLesk": "United States politician and orator (1782-1817)"
+    },
+    {
+        "id": 375,
+        "sentence": "USA\n96:9363\u00c2\u00ad9367.",
+        "wordProcessed": "USA",
+        "senseFoundByLesk": "the army of the United States of America; the agency that organizes and trains soldiers for land warfare"
+    },
+    {
+        "id": 376,
+        "sentence": "Guan, Y., J. S. Peiris, A. S. Lipatov, T. M. Ellis, K. C. Dyrting, S. Krauss,\nL. J. Zhang, R. G. Webster, and K. F. Shortridge.",
+        "wordProcessed": "Guan",
+        "senseFoundByLesk": "any of several large turkey-like game birds of the family Cracidae; native to jungles of tropical America; resembling the curassows and valued as food"
+    },
+    {
+        "id": 377,
+        "sentence": "Guan, Y., J. S. Peiris, A. S. Lipatov, T. M. Ellis, K. C. Dyrting, S. Krauss,\nL. J. Zhang, R. G. Webster, and K. F. Shortridge.",
+        "wordProcessed": "Ellis",
+        "senseFoundByLesk": "(Norse mythology) goddess of old age who defeated Thor in a wrestling match"
+    },
+    {
+        "id": 378,
+        "sentence": "Guan, Y., J. S. Peiris, A. S. Lipatov, T. M. Ellis, K. C. Dyrting, S. Krauss,\nL. J. Zhang, R. G. Webster, and K. F. Shortridge.",
+        "wordProcessed": "Webster",
+        "senseFoundByLesk": "United States politician and orator (1782-1817)"
+    },
+    {
+        "id": 379,
+        "sentence": "USA 99:8950\u00c2\u00ad8955.",
+        "wordProcessed": "USA",
+        "senseFoundByLesk": "the army of the United States of America; the agency that organizes and trains soldiers for land warfare"
+    },
+    {
+        "id": 380,
+        "sentence": "Ha, Y., D. J. Stevens, J. J. Skehel, and D. C. Wiley.",
+        "wordProcessed": "Ha",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 381,
+        "sentence": "Ha, Y., D. J. Stevens, J. J. Skehel, and D. C. Wiley.",
+        "wordProcessed": "Stevens",
+        "senseFoundByLesk": "United States psychologist and psychophysicist who proposed Stevens' power law to replace Fechner's law (1906-1973)"
+    },
+    {
+        "id": 382,
+        "sentence": "USA 98:11181\u00c2\u00ad11186.",
+        "wordProcessed": "USA",
+        "senseFoundByLesk": "the army of the United States of America; the agency that organizes and trains soldiers for land warfare"
+    },
+    {
+        "id": 383,
+        "sentence": "Hatta, M., P. Gao, P. Halfmann, and Y. Kawaoka.",
+        "wordProcessed": "Gao",
+        "senseFoundByLesk": "an independent nonpartisan federal agency that acts as the investigative arm of Congress making the executive branch accountable to Congress and the government accountable to citizens of the United States"
+    },
+    {
+        "id": 384,
+        "sentence": "Hien, T. T., N. T. Liem, N. T. Dung, et al.",
+        "wordProcessed": "Dung",
+        "senseFoundByLesk": "fecal matter of animals"
+    },
+    {
+        "id": 385,
+        "sentence": "Avian influenza A (H5N1)\nin 10 patients in Vietnam.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 386,
+        "sentence": "Avian influenza A (H5N1)\nin 10 patients in Vietnam.",
+        "wordProcessed": "Vietnam",
+        "senseFoundByLesk": "a prolonged war (1954-1975) between the communist armies of North Vietnam who were supported by the Chinese and the armies of South Vietnam who were supported by the United States"
+    },
+    {
+        "id": 387,
+        "sentence": "J. Med.",
+        "wordProcessed": "Med",
+        "senseFoundByLesk": "a master's degree in education"
+    },
+    {
+        "id": 388,
+        "sentence": "Hoffmann, E., J. Stech, Y. Guan, R. G. Webster, and D. R. Perez.",
+        "wordProcessed": "Hoffmann",
+        "senseFoundByLesk": "German writer of fantastic tales (1776-1822)"
+    },
+    {
+        "id": 389,
+        "sentence": "Hoffmann, E., J. Stech, Y. Guan, R. G. Webster, and D. R. Perez.",
+        "wordProcessed": "Guan",
+        "senseFoundByLesk": "any of several large turkey-like game birds of the family Cracidae; native to jungles of tropical America; resembling the curassows and valued as food"
+    },
+    {
+        "id": 390,
+        "sentence": "Hoffmann, E., J. Stech, Y. Guan, R. G. Webster, and D. R. Perez.",
+        "wordProcessed": "Webster",
+        "senseFoundByLesk": "United States politician and orator (1782-1817)"
+    },
+    {
+        "id": 391,
+        "sentence": "Arch.",
+        "wordProcessed": "Arch",
+        "senseFoundByLesk": "(architecture) a masonry construction (usually curved) for spanning an opening and supporting the weight above it"
+    },
+    {
+        "id": 392,
+        "sentence": "Li, K. S., Y. Guan, J. Wang, et al.",
+        "wordProcessed": "Li",
+        "senseFoundByLesk": "a soft silver-white univalent element of the alkali metal group; the lightest metal known; occurs in several minerals"
+    },
+    {
+        "id": 393,
+        "sentence": "Li, K. S., Y. Guan, J. Wang, et al.",
+        "wordProcessed": "Guan",
+        "senseFoundByLesk": "any of several large turkey-like game birds of the family Cracidae; native to jungles of tropical America; resembling the curassows and valued as food"
+    },
+    {
+        "id": 394,
+        "sentence": "Genesis of a highly pathogenic and\npotentially pandemic H5N1 influenza virus in eastern Asia.",
+        "wordProcessed": "Asia",
+        "senseFoundByLesk": "the nations of the Asian continent collectively"
+    },
+    {
+        "id": 395,
+        "sentence": "Mase, M., K. Tsukamoto, T. Imada, K. Imai, N. Tanimura, K. Nakamura, Y.\nYamamoto, T. Hitomi, T. Kira, T. Nakai, M. Kiso, T. Horimoto, Y. Kawaoka,\nand S. Yamaguchi.",
+        "wordProcessed": "Yamamoto",
+        "senseFoundByLesk": "Japanese admiral who planned the attack on Pearl Harbor in 1941 (1884-1943)"
+    },
+    {
+        "id": 396,
+        "sentence": "Characterization of H5N1 influenza A viruses\nisolated during the 2003-2004 influenza outbreaks in Japan.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 397,
+        "sentence": "Characterization of H5N1 influenza A viruses\nisolated during the 2003-2004 influenza outbreaks in Japan.",
+        "wordProcessed": "Japan",
+        "senseFoundByLesk": "a string of more than 3,000 islands to the east of Asia extending 1,300 miles between the Sea of Japan and the western Pacific Ocean"
+    },
+    {
+        "id": 398,
+        "sentence": "Isolation of a genotypically unique H5N1\ninfluenza virus from duck meat imported into Japan from China.",
+        "wordProcessed": "Japan",
+        "senseFoundByLesk": "a string of more than 3,000 islands to the east of Asia extending 1,300 miles between the Sea of Japan and the western Pacific Ocean"
+    },
+    {
+        "id": 399,
+        "sentence": "Isolation of a genotypically unique H5N1\ninfluenza virus from duck meat imported into Japan from China.",
+        "wordProcessed": "China",
+        "senseFoundByLesk": "a government on the island of Taiwan established in 1949 by Chiang Kai-shek after the conquest of mainland China by the Communists led by Mao Zedong"
+    },
+    {
+        "id": 400,
+        "sentence": "Virology\n339:101\u00c2\u00ad109.",
+        "wordProcessed": "Virology",
+        "senseFoundByLesk": "the branch of medical science that studies viruses and viral diseases"
+    },
+    {
+        "id": 401,
+        "sentence": "Molecular\ncharacterization of the complete genome of human influenza H5N1 virus\nisolates from Thailand.",
+        "wordProcessed": "Thailand",
+        "senseFoundByLesk": "a country of southeastern Asia that extends southward along the Isthmus of Kra to the Malay Peninsula"
+    },
+    {
+        "id": 402,
+        "sentence": "Sturm-Ramirez, K., T. Ellis, B. Bousfield, L. Bissett, K. Dyrting, J. Rehg, L.\nPoon, Y. Guan, M. Peiris, and R. G. Webster.",
+        "wordProcessed": "Ellis",
+        "senseFoundByLesk": "(Norse mythology) goddess of old age who defeated Thor in a wrestling match"
+    },
+    {
+        "id": 403,
+        "sentence": "Sturm-Ramirez, K., T. Ellis, B. Bousfield, L. Bissett, K. Dyrting, J. Rehg, L.\nPoon, Y. Guan, M. Peiris, and R. G. Webster.",
+        "wordProcessed": "Poon",
+        "senseFoundByLesk": "any of several East Indian trees of the genus Calophyllum having shiny leathery leaves and lightweight hard wood"
+    },
+    {
+        "id": 404,
+        "sentence": "Sturm-Ramirez, K., T. Ellis, B. Bousfield, L. Bissett, K. Dyrting, J. Rehg, L.\nPoon, Y. Guan, M. Peiris, and R. G. Webster.",
+        "wordProcessed": "Guan",
+        "senseFoundByLesk": "any of several large turkey-like game birds of the family Cracidae; native to jungles of tropical America; resembling the curassows and valued as food"
+    },
+    {
+        "id": 405,
+        "sentence": "Sturm-Ramirez, K., T. Ellis, B. Bousfield, L. Bissett, K. Dyrting, J. Rehg, L.\nPoon, Y. Guan, M. Peiris, and R. G. Webster.",
+        "wordProcessed": "Webster",
+        "senseFoundByLesk": "United States politician and orator (1782-1817)"
+    },
+    {
+        "id": 406,
+        "sentence": "Subbarao, K., and M. W. Shaw.",
+        "wordProcessed": "Shaw",
+        "senseFoundByLesk": "United States physician and suffragist (1847-1919)"
+    },
+    {
+        "id": 407,
+        "sentence": "Rev.",
+        "wordProcessed": "Rev",
+        "senseFoundByLesk": "rate of revolution of a motor"
+    },
+    {
+        "id": 408,
+        "sentence": "Med.",
+        "wordProcessed": "Med",
+        "senseFoundByLesk": "a master's degree in education"
+    },
+    {
+        "id": 409,
+        "sentence": "Emergence of amantadine-resistant influenza A viruses: epidemiological\nstudy.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "any of several fat-soluble vitamins essential for normal vision; prevents night blindness or inflammation or dryness of the eyes"
+    },
+    {
+        "id": 410,
+        "sentence": "Webby, R., S. Swenson, S. Krauss, P. Gerrish, S. Goyal, and R. G, Webster.",
+        "wordProcessed": "G",
+        "senseFoundByLesk": "the cardinal number that is the product of 10 and 100"
+    },
+    {
+        "id": 411,
+        "sentence": "Webby, R., S. Swenson, S. Krauss, P. Gerrish, S. Goyal, and R. G, Webster.",
+        "wordProcessed": "Webster",
+        "senseFoundByLesk": "United States politician and orator (1782-1817)"
+    },
+    {
+        "id": 412,
+        "sentence": "Evolution of swine H3N2 influenza viruses in the United States.",
+        "wordProcessed": "States",
+        "senseFoundByLesk": "the federal department in the United States that sets and maintains foreign policies"
+    },
+    {
+        "id": 413,
+        "sentence": "Webster, R. G., W. J. Bean, O. T. Gorman, T. M. Chambers, and Y.\nKawaoka.",
+        "wordProcessed": "Webster",
+        "senseFoundByLesk": "United States politician and orator (1782-1817)"
+    },
+    {
+        "id": 414,
+        "sentence": "Webster, R. G., W. J. Bean, O. T. Gorman, T. M. Chambers, and Y.\nKawaoka.",
+        "wordProcessed": "Bean",
+        "senseFoundByLesk": "any of various leguminous plants grown for their edible seeds and pods"
+    },
+    {
+        "id": 415,
+        "sentence": "Webster, R. G., W. J. Bean, O. T. Gorman, T. M. Chambers, and Y.\nKawaoka.",
+        "wordProcessed": "Chambers",
+        "senseFoundByLesk": "English architect (1723-1796)"
+    },
+    {
+        "id": 416,
+        "sentence": "Rev.",
+        "wordProcessed": "Rev",
+        "senseFoundByLesk": "rate of revolution of a motor"
+    },
+    {
+        "id": 417,
+        "sentence": "Zhou, N., D. Senne, J. Landgraf, S. Swenson, G. Erickson, K. Rossow, L. Liu,\nK. Yoon, S. Krauss, and R. G. Webster.",
+        "wordProcessed": "Zhou",
+        "senseFoundByLesk": "the imperial dynasty of China from 1122 to 221 BC; notable for the rise of Confucianism and Taoism"
+    },
+    {
+        "id": 418,
+        "sentence": "Zhou, N., D. Senne, J. Landgraf, S. Swenson, G. Erickson, K. Rossow, L. Liu,\nK. Yoon, S. Krauss, and R. G. Webster.",
+        "wordProcessed": "Webster",
+        "senseFoundByLesk": "United States politician and orator (1782-1817)"
+    },
+    {
+        "id": 419,
+        "sentence": "15466 KOU ET AL.",
+        "wordProcessed": "AL",
+        "senseFoundByLesk": "a silvery ductile metallic element found primarily in bauxite"
+    }
+]

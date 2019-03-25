@@ -1,0 +1,2648 @@
+[
+    {
+        "id": 0,
+        "sentence": "\u00ef\u00bb\u00bfJOURNAL OF VIROLOGY, Aug. 2003, p. 8418\u00c2\u00ad8425 Vol.",
+        "wordProcessed": "VIROLOGY",
+        "senseFoundByLesk": "the branch of medical science that studies viruses and viral diseases"
+    },
+    {
+        "id": 1,
+        "sentence": "15\n0022-538X/03/$08.000 DOI: 10.1128/JVI.77.15.8418\u00c2\u00ad8425.2003\nCopyright \u00c2\u00a9 2003, American Society for Microbiology.",
+        "wordProcessed": "DOI",
+        "senseFoundByLesk": "the United States federal department charged with conservation and the development of natural resources; created in 1849"
+    },
+    {
+        "id": 2,
+        "sentence": "15\n0022-538X/03/$08.000 DOI: 10.1128/JVI.77.15.8418\u00c2\u00ad8425.2003\nCopyright \u00c2\u00a9 2003, American Society for Microbiology.",
+        "wordProcessed": "Copyright",
+        "senseFoundByLesk": "a document granting exclusive right to publish and sell literary or musical or artistic work"
+    },
+    {
+        "id": 3,
+        "sentence": "15\n0022-538X/03/$08.000 DOI: 10.1128/JVI.77.15.8418\u00c2\u00ad8425.2003\nCopyright \u00c2\u00a9 2003, American Society for Microbiology.",
+        "wordProcessed": "American",
+        "senseFoundByLesk": "a native or inhabitant of a North American or Central American or South American country"
+    },
+    {
+        "id": 4,
+        "sentence": "15\n0022-538X/03/$08.000 DOI: 10.1128/JVI.77.15.8418\u00c2\u00ad8425.2003\nCopyright \u00c2\u00a9 2003, American Society for Microbiology.",
+        "wordProcessed": "Society",
+        "senseFoundByLesk": "the fashionable elite"
+    },
+    {
+        "id": 5,
+        "sentence": "15\n0022-538X/03/$08.000 DOI: 10.1128/JVI.77.15.8418\u00c2\u00ad8425.2003\nCopyright \u00c2\u00a9 2003, American Society for Microbiology.",
+        "wordProcessed": "Microbiology",
+        "senseFoundByLesk": "the branch of biology that studies microorganisms and their effects on humans"
+    },
+    {
+        "id": 6,
+        "sentence": "All Rights Reserved.",
+        "wordProcessed": "Rights",
+        "senseFoundByLesk": "the piece of ground in the outfield on the catcher's right"
+    },
+    {
+        "id": 7,
+        "sentence": "Overexpression of the -2,6-Sialyltransferase in MDCK Cells Increases\nInfluenza Virus Sensitivity to Neuraminidase Inhibitors\nMikhail Matrosovich,1,2\n* Tatyana Matrosovich,1\nJackie Carr,3\nNoel A. Roberts,3\nand\nHans-Dieter Klenk1\nInstitute of Virology, Philipps University, 35037 Marburg, Germany1\n; M.P.",
+        "wordProcessed": "Cells",
+        "senseFoundByLesk": "(biology) the basic structural and functional unit of all organisms; they may exist as independent units of life (as in monads) or may form colonies or tissues as in higher plants and animals"
+    },
+    {
+        "id": 8,
+        "sentence": "Overexpression of the -2,6-Sialyltransferase in MDCK Cells Increases\nInfluenza Virus Sensitivity to Neuraminidase Inhibitors\nMikhail Matrosovich,1,2\n* Tatyana Matrosovich,1\nJackie Carr,3\nNoel A. Roberts,3\nand\nHans-Dieter Klenk1\nInstitute of Virology, Philipps University, 35037 Marburg, Germany1\n; M.P.",
+        "wordProcessed": "Increases",
+        "senseFoundByLesk": "the act of increasing something"
+    },
+    {
+        "id": 9,
+        "sentence": "Overexpression of the -2,6-Sialyltransferase in MDCK Cells Increases\nInfluenza Virus Sensitivity to Neuraminidase Inhibitors\nMikhail Matrosovich,1,2\n* Tatyana Matrosovich,1\nJackie Carr,3\nNoel A. Roberts,3\nand\nHans-Dieter Klenk1\nInstitute of Virology, Philipps University, 35037 Marburg, Germany1\n; M.P.",
+        "wordProcessed": "Influenza",
+        "senseFoundByLesk": "an acute febrile highly contagious viral disease"
+    },
+    {
+        "id": 10,
+        "sentence": "Overexpression of the -2,6-Sialyltransferase in MDCK Cells Increases\nInfluenza Virus Sensitivity to Neuraminidase Inhibitors\nMikhail Matrosovich,1,2\n* Tatyana Matrosovich,1\nJackie Carr,3\nNoel A. Roberts,3\nand\nHans-Dieter Klenk1\nInstitute of Virology, Philipps University, 35037 Marburg, Germany1\n; M.P.",
+        "wordProcessed": "Virus",
+        "senseFoundByLesk": "a software program capable of reproducing itself and usually capable of causing great harm to files or other programs on the same computer"
+    },
+    {
+        "id": 11,
+        "sentence": "Overexpression of the -2,6-Sialyltransferase in MDCK Cells Increases\nInfluenza Virus Sensitivity to Neuraminidase Inhibitors\nMikhail Matrosovich,1,2\n* Tatyana Matrosovich,1\nJackie Carr,3\nNoel A. Roberts,3\nand\nHans-Dieter Klenk1\nInstitute of Virology, Philipps University, 35037 Marburg, Germany1\n; M.P.",
+        "wordProcessed": "Sensitivity",
+        "senseFoundByLesk": "the ability to respond to affective changes in your interpersonal environment"
+    },
+    {
+        "id": 12,
+        "sentence": "Overexpression of the -2,6-Sialyltransferase in MDCK Cells Increases\nInfluenza Virus Sensitivity to Neuraminidase Inhibitors\nMikhail Matrosovich,1,2\n* Tatyana Matrosovich,1\nJackie Carr,3\nNoel A. Roberts,3\nand\nHans-Dieter Klenk1\nInstitute of Virology, Philipps University, 35037 Marburg, Germany1\n; M.P.",
+        "wordProcessed": "Inhibitors",
+        "senseFoundByLesk": "a substance that retards or stops an activity"
+    },
+    {
+        "id": 13,
+        "sentence": "Overexpression of the -2,6-Sialyltransferase in MDCK Cells Increases\nInfluenza Virus Sensitivity to Neuraminidase Inhibitors\nMikhail Matrosovich,1,2\n* Tatyana Matrosovich,1\nJackie Carr,3\nNoel A. Roberts,3\nand\nHans-Dieter Klenk1\nInstitute of Virology, Philipps University, 35037 Marburg, Germany1\n; M.P.",
+        "wordProcessed": "Noel",
+        "senseFoundByLesk": "period extending from Dec. 24 to Jan. 6"
+    },
+    {
+        "id": 14,
+        "sentence": "Overexpression of the -2,6-Sialyltransferase in MDCK Cells Increases\nInfluenza Virus Sensitivity to Neuraminidase Inhibitors\nMikhail Matrosovich,1,2\n* Tatyana Matrosovich,1\nJackie Carr,3\nNoel A. Roberts,3\nand\nHans-Dieter Klenk1\nInstitute of Virology, Philipps University, 35037 Marburg, Germany1\n; M.P.",
+        "wordProcessed": "Institute",
+        "senseFoundByLesk": "an association organized to promote art or science or education"
+    },
+    {
+        "id": 15,
+        "sentence": "Overexpression of the -2,6-Sialyltransferase in MDCK Cells Increases\nInfluenza Virus Sensitivity to Neuraminidase Inhibitors\nMikhail Matrosovich,1,2\n* Tatyana Matrosovich,1\nJackie Carr,3\nNoel A. Roberts,3\nand\nHans-Dieter Klenk1\nInstitute of Virology, Philipps University, 35037 Marburg, Germany1\n; M.P.",
+        "wordProcessed": "Virology",
+        "senseFoundByLesk": "the branch of medical science that studies viruses and viral diseases"
+    },
+    {
+        "id": 16,
+        "sentence": "Overexpression of the -2,6-Sialyltransferase in MDCK Cells Increases\nInfluenza Virus Sensitivity to Neuraminidase Inhibitors\nMikhail Matrosovich,1,2\n* Tatyana Matrosovich,1\nJackie Carr,3\nNoel A. Roberts,3\nand\nHans-Dieter Klenk1\nInstitute of Virology, Philipps University, 35037 Marburg, Germany1\n; M.P.",
+        "wordProcessed": "University",
+        "senseFoundByLesk": "a large and diverse institution of higher learning created to educate for life and for a profession and to grant degrees"
+    },
+    {
+        "id": 17,
+        "sentence": "Chumakov Institute of Poliomyelitis and Viral\nEncephalitides, Moscow 142782, Russia2\n; and Roche Products Ltd., Welwyn Garden City,\nHerts AL7 3AY, United Kingdom3\nReceived 24 February 2003/Accepted 15 May 2003\nNo reliable cell culture assay is currently available for monitoring human influenza virus sensitivity to\nneuraminidase inhibitors (NAI).",
+        "wordProcessed": "Institute",
+        "senseFoundByLesk": "an association organized to promote art or science or education"
+    },
+    {
+        "id": 18,
+        "sentence": "Chumakov Institute of Poliomyelitis and Viral\nEncephalitides, Moscow 142782, Russia2\n; and Roche Products Ltd., Welwyn Garden City,\nHerts AL7 3AY, United Kingdom3\nReceived 24 February 2003/Accepted 15 May 2003\nNo reliable cell culture assay is currently available for monitoring human influenza virus sensitivity to\nneuraminidase inhibitors (NAI).",
+        "wordProcessed": "Poliomyelitis",
+        "senseFoundByLesk": "an acute viral disease marked by inflammation of nerve cells of the brain stem and spinal cord"
+    },
+    {
+        "id": 19,
+        "sentence": "Chumakov Institute of Poliomyelitis and Viral\nEncephalitides, Moscow 142782, Russia2\n; and Roche Products Ltd., Welwyn Garden City,\nHerts AL7 3AY, United Kingdom3\nReceived 24 February 2003/Accepted 15 May 2003\nNo reliable cell culture assay is currently available for monitoring human influenza virus sensitivity to\nneuraminidase inhibitors (NAI).",
+        "wordProcessed": "Encephalitides",
+        "senseFoundByLesk": "inflammation of the brain usually caused by a virus; symptoms include headache and neck pain and drowsiness and nausea and fever (`phrenitis' is no longer in scientific use)"
+    },
+    {
+        "id": 20,
+        "sentence": "Chumakov Institute of Poliomyelitis and Viral\nEncephalitides, Moscow 142782, Russia2\n; and Roche Products Ltd., Welwyn Garden City,\nHerts AL7 3AY, United Kingdom3\nReceived 24 February 2003/Accepted 15 May 2003\nNo reliable cell culture assay is currently available for monitoring human influenza virus sensitivity to\nneuraminidase inhibitors (NAI).",
+        "wordProcessed": "Moscow",
+        "senseFoundByLesk": "a city of central European Russia; formerly capital of both the Soviet Union and Soviet Russia; since 1991 the capital of the Russian Federation"
+    },
+    {
+        "id": 21,
+        "sentence": "Chumakov Institute of Poliomyelitis and Viral\nEncephalitides, Moscow 142782, Russia2\n; and Roche Products Ltd., Welwyn Garden City,\nHerts AL7 3AY, United Kingdom3\nReceived 24 February 2003/Accepted 15 May 2003\nNo reliable cell culture assay is currently available for monitoring human influenza virus sensitivity to\nneuraminidase inhibitors (NAI).",
+        "wordProcessed": "Products",
+        "senseFoundByLesk": "the set of elements common to two or more sets"
+    },
+    {
+        "id": 22,
+        "sentence": "Chumakov Institute of Poliomyelitis and Viral\nEncephalitides, Moscow 142782, Russia2\n; and Roche Products Ltd., Welwyn Garden City,\nHerts AL7 3AY, United Kingdom3\nReceived 24 February 2003/Accepted 15 May 2003\nNo reliable cell culture assay is currently available for monitoring human influenza virus sensitivity to\nneuraminidase inhibitors (NAI).",
+        "wordProcessed": "Ltd.",
+        "senseFoundByLesk": "a company that is organized to give its owners limited liability"
+    },
+    {
+        "id": 23,
+        "sentence": "Chumakov Institute of Poliomyelitis and Viral\nEncephalitides, Moscow 142782, Russia2\n; and Roche Products Ltd., Welwyn Garden City,\nHerts AL7 3AY, United Kingdom3\nReceived 24 February 2003/Accepted 15 May 2003\nNo reliable cell culture assay is currently available for monitoring human influenza virus sensitivity to\nneuraminidase inhibitors (NAI).",
+        "wordProcessed": "Garden",
+        "senseFoundByLesk": "a plot of ground where plants are cultivated"
+    },
+    {
+        "id": 24,
+        "sentence": "Chumakov Institute of Poliomyelitis and Viral\nEncephalitides, Moscow 142782, Russia2\n; and Roche Products Ltd., Welwyn Garden City,\nHerts AL7 3AY, United Kingdom3\nReceived 24 February 2003/Accepted 15 May 2003\nNo reliable cell culture assay is currently available for monitoring human influenza virus sensitivity to\nneuraminidase inhibitors (NAI).",
+        "wordProcessed": "City",
+        "senseFoundByLesk": "a large and densely populated urban area; may include several independent administrative districts"
+    },
+    {
+        "id": 25,
+        "sentence": "Chumakov Institute of Poliomyelitis and Viral\nEncephalitides, Moscow 142782, Russia2\n; and Roche Products Ltd., Welwyn Garden City,\nHerts AL7 3AY, United Kingdom3\nReceived 24 February 2003/Accepted 15 May 2003\nNo reliable cell culture assay is currently available for monitoring human influenza virus sensitivity to\nneuraminidase inhibitors (NAI).",
+        "wordProcessed": "February",
+        "senseFoundByLesk": "the month following January and preceding March"
+    },
+    {
+        "id": 26,
+        "sentence": "Chumakov Institute of Poliomyelitis and Viral\nEncephalitides, Moscow 142782, Russia2\n; and Roche Products Ltd., Welwyn Garden City,\nHerts AL7 3AY, United Kingdom3\nReceived 24 February 2003/Accepted 15 May 2003\nNo reliable cell culture assay is currently available for monitoring human influenza virus sensitivity to\nneuraminidase inhibitors (NAI).",
+        "wordProcessed": "May",
+        "senseFoundByLesk": "thorny Eurasian shrub of small tree having dense clusters of white to scarlet flowers followed by deep red berries; established as an escape in eastern North America"
+    },
+    {
+        "id": 27,
+        "sentence": "Chumakov Institute of Poliomyelitis and Viral\nEncephalitides, Moscow 142782, Russia2\n; and Roche Products Ltd., Welwyn Garden City,\nHerts AL7 3AY, United Kingdom3\nReceived 24 February 2003/Accepted 15 May 2003\nNo reliable cell culture assay is currently available for monitoring human influenza virus sensitivity to\nneuraminidase inhibitors (NAI).",
+        "wordProcessed": "No",
+        "senseFoundByLesk": "a radioactive transuranic element synthesized by bombarding curium with carbon ions; 7 isotopes are known"
+    },
+    {
+        "id": 28,
+        "sentence": "This can be explained by the observation that because of a low concentration\nof sialyl-2,6-galactose (Sia[2,6]Gal)-containing virus receptors in conventional cell lines, replication of\nhuman virus isolates shows little dependency on viral neuraminidase.",
+        "wordProcessed": "Gal",
+        "senseFoundByLesk": "a unit of gravitational acceleration equal to one centimeter per second per second (named after Galileo)"
+    },
+    {
+        "id": 29,
+        "sentence": "To test whether overexpression of\nSia(2,6)Gal moieties in cultured cells could make them suitable for testing human influenza virus sensitivity\nto NAI, we stably transfected MDCK cells with cDNA of human 2,6-sialyltransferase (SIAT1).",
+        "wordProcessed": "Gal",
+        "senseFoundByLesk": "a unit of gravitational acceleration equal to one centimeter per second per second (named after Galileo)"
+    },
+    {
+        "id": 30,
+        "sentence": "Transfected cells\nexpressed twofold-higher amounts of 6-linked sialic acids and twofold-lower amounts of 3-linked sialic acids\nthan parent MDCK cells as judged by staining with Sambucus nigra agglutinin and Maackia amurensis\nagglutinin, respectively.",
+        "wordProcessed": "Sambucus",
+        "senseFoundByLesk": "elder; elderberry"
+    },
+    {
+        "id": 31,
+        "sentence": "The\nsensitivity of human influenza A and B viruses to the neuraminidase inhibitor oseltamivir carboxylate was\nsubstantially improved in the SIAT1-transfected cell line and was consistent with their sensitivity in neur-\naminidase enzyme assay and with the hemagglutinin (HA) receptor-binding phenotype.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 32,
+        "sentence": "The\nsensitivity of human influenza A and B viruses to the neuraminidase inhibitor oseltamivir carboxylate was\nsubstantially improved in the SIAT1-transfected cell line and was consistent with their sensitivity in neur-\naminidase enzyme assay and with the hemagglutinin (HA) receptor-binding phenotype.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder"
+    },
+    {
+        "id": 33,
+        "sentence": "The\nsensitivity of human influenza A and B viruses to the neuraminidase inhibitor oseltamivir carboxylate was\nsubstantially improved in the SIAT1-transfected cell line and was consistent with their sensitivity in neur-\naminidase enzyme assay and with the hemagglutinin (HA) receptor-binding phenotype.",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 34,
+        "sentence": "The neuraminidase (NA) of influenza A and B viruses\ncleaves the -glycosidic linkages between sialic acid and the\nadjacent sugar and thus destroys virus receptors on the cell\nsurface, extracellular inhibitors, and viral glycoproteins (re-\nviewed in references 2 and 8).",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 35,
+        "sentence": "The neuraminidase (NA) of influenza A and B viruses\ncleaves the -glycosidic linkages between sialic acid and the\nadjacent sugar and thus destroys virus receptors on the cell\nsurface, extracellular inhibitors, and viral glycoproteins (re-\nviewed in references 2 and 8).",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 36,
+        "sentence": "The neuraminidase (NA) of influenza A and B viruses\ncleaves the -glycosidic linkages between sialic acid and the\nadjacent sugar and thus destroys virus receptors on the cell\nsurface, extracellular inhibitors, and viral glycoproteins (re-\nviewed in references 2 and 8).",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder"
+    },
+    {
+        "id": 37,
+        "sentence": "The NA activity is believed to be\nparticularly important at the late stages of infection by pre-\nventing hemagglutinin (HA)-mediated self-aggregation and fa-\ncilitating release of progeny virions from cells.",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 38,
+        "sentence": "The NA activity is believed to be\nparticularly important at the late stages of infection by pre-\nventing hemagglutinin (HA)-mediated self-aggregation and fa-\ncilitating release of progeny virions from cells.",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 39,
+        "sentence": "Interaction of\nvirions with cell-associated and soluble sialylglycoconjugates of\nthe host is mediated by HA and NA in an antagonistic manner,\nwhich has to be carefully balanced to allow efficient virus rep-\nlication (reviewed in reference 36).",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 40,
+        "sentence": "Interaction of\nvirions with cell-associated and soluble sialylglycoconjugates of\nthe host is mediated by HA and NA in an antagonistic manner,\nwhich has to be carefully balanced to allow efficient virus rep-\nlication (reviewed in reference 36).",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 41,
+        "sentence": "In\ncell culture experiments, resistance to NAI results from muta-\ntion of either HA, NA, or both glycoproteins.",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 42,
+        "sentence": "In\ncell culture experiments, resistance to NAI results from muta-\ntion of either HA, NA, or both glycoproteins.",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 43,
+        "sentence": "Mutations in HA\nusually precede NA mutations and reduce virus affinity for\nsialic acid-containing receptors, thereby decreasing the depen-\ndency of the virus on NA function, whereas mutations in NA\ndecrease the binding affinity of the inhibitor to the catalytic site\n(reviewed in references 19, 29, and 30).",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 44,
+        "sentence": "Mutations in HA\nusually precede NA mutations and reduce virus affinity for\nsialic acid-containing receptors, thereby decreasing the depen-\ndency of the virus on NA function, whereas mutations in NA\ndecrease the binding affinity of the inhibitor to the catalytic site\n(reviewed in references 19, 29, and 30).",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 45,
+        "sentence": "Mutations in HA\nusually precede NA mutations and reduce virus affinity for\nsialic acid-containing receptors, thereby decreasing the depen-\ndency of the virus on NA function, whereas mutations in NA\ndecrease the binding affinity of the inhibitor to the catalytic site\n(reviewed in references 19, 29, and 30).",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 46,
+        "sentence": "Mutations in HA\nusually precede NA mutations and reduce virus affinity for\nsialic acid-containing receptors, thereby decreasing the depen-\ndency of the virus on NA function, whereas mutations in NA\ndecrease the binding affinity of the inhibitor to the catalytic site\n(reviewed in references 19, 29, and 30).",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 47,
+        "sentence": "Since the\npossibility cannot be excluded that the loss of sensitivity to NAI\nin humans occurs also as a result of HA mutations (18, 20), it\nis necessary to develop techniques to study this type of resis-\ntance in low-passage-number clinical isolates.",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 48,
+        "sentence": "The sensitivity of clinical\nvirus isolates to NA inhibitors can vary in cell culture assays\ndramatically (up to complete insensitivity) despite a uniform\nhigh sensitivity of the enzyme in NA-inhibition tests (1, 3,37).",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 49,
+        "sentence": "Mailing address: Institute of Virology,\nPhilipps University, Robert Koch str.",
+        "wordProcessed": "Institute",
+        "senseFoundByLesk": "an association organized to promote art or science or education"
+    },
+    {
+        "id": 50,
+        "sentence": "Mailing address: Institute of Virology,\nPhilipps University, Robert Koch str.",
+        "wordProcessed": "Virology",
+        "senseFoundByLesk": "the branch of medical science that studies viruses and viral diseases"
+    },
+    {
+        "id": 51,
+        "sentence": "Mailing address: Institute of Virology,\nPhilipps University, Robert Koch str.",
+        "wordProcessed": "University",
+        "senseFoundByLesk": "a large and diverse institution of higher learning created to educate for life and for a profession and to grant degrees"
+    },
+    {
+        "id": 52,
+        "sentence": "Mailing address: Institute of Virology,\nPhilipps University, Robert Koch str.",
+        "wordProcessed": "Robert",
+        "senseFoundByLesk": "United States parliamentary authority and author (in 1876) of Robert's Rules of Order (1837-1923)"
+    },
+    {
+        "id": 53,
+        "sentence": "Mailing address: Institute of Virology,\nPhilipps University, Robert Koch str.",
+        "wordProcessed": "Koch",
+        "senseFoundByLesk": "German bacteriologist who isolated the anthrax bacillus and the tubercle bacillus and the cholera bacillus (1843-1910)"
+    },
+    {
+        "id": 54,
+        "sentence": "17, 35037 Marburg, Germany.",
+        "wordProcessed": "Germany",
+        "senseFoundByLesk": "a republic in central Europe; split into East Germany and West Germany after World War II and reunited in 1990"
+    },
+    {
+        "id": 55,
+        "sentence": "To this end, we permanently\ntransfected MDCK cells with the gene of the human CMP-N-\nacetylneuraminate beta-galactoside -2,6-sialyltransferase\n(SIAT1) [EC 2.4.99.1; other acronyms used in the literature\nare ST6Gal I and ST6(N)], an enzyme that catalyzes the -2,6-\nsialylation of N-acetyllactosamine moieties of glycoproteins\nand glycolipids (see references 11 and 35 for a review).",
+        "wordProcessed": "EC",
+        "senseFoundByLesk": "an international organization of European countries formed after World War II to reduce trade barriers and increase cooperation among its members"
+    },
+    {
+        "id": 56,
+        "sentence": "To this end, we permanently\ntransfected MDCK cells with the gene of the human CMP-N-\nacetylneuraminate beta-galactoside -2,6-sialyltransferase\n(SIAT1) [EC 2.4.99.1; other acronyms used in the literature\nare ST6Gal I and ST6(N)], an enzyme that catalyzes the -2,6-\nsialylation of N-acetyllactosamine moieties of glycoproteins\nand glycolipids (see references 11 and 35 for a review).",
+        "wordProcessed": "N",
+        "senseFoundByLesk": "a unit of force equal to the force that imparts an acceleration of 1 m/sec/sec to a mass of 1 kilogram; equal to 100,000 dynes"
+    },
+    {
+        "id": 57,
+        "sentence": "Based\non previous reports on successful overexpression of SIAT1 in\nmammalian cells (6, 10, 12, 24, 25), we expected that transfec-\ntion with SIAT1 would increase -2,6-sialylation of the cellular\nand viral glycoconjugates and, thus, would increase a virus\ndependency on a neuraminidase activity and, hence, sensitivity\nto NA inhibitors.",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 58,
+        "sentence": "Furthermore, we hoped that transfection\nwould decrease -2,3-sialylation in the cells due to a competi-\ntion between SIAT1 and 2,3-specific sialyltransferases for the\nsame precursor substrate [Gal(1,4)GlcNAc-R] (6, 24).",
+        "wordProcessed": "Gal",
+        "senseFoundByLesk": "United States liquid unit equal to 4 quarts or 3.785 liters"
+    },
+    {
+        "id": 59,
+        "sentence": "MATERIALS AND METHODS\nViruses.",
+        "wordProcessed": "MATERIALS",
+        "senseFoundByLesk": "a person judged suitable for admission or employment"
+    },
+    {
+        "id": 60,
+        "sentence": "MATERIALS AND METHODS\nViruses.",
+        "wordProcessed": "METHODS",
+        "senseFoundByLesk": "an acting technique introduced by Stanislavsky in which the actor recalls emotions or reactions from his or her own life and uses them to identify with the character being portrayed"
+    },
+    {
+        "id": 61,
+        "sentence": "MATERIALS AND METHODS\nViruses.",
+        "wordProcessed": "Viruses",
+        "senseFoundByLesk": "a software program capable of reproducing itself and usually capable of causing great harm to files or other programs on the same computer"
+    },
+    {
+        "id": 62,
+        "sentence": "Clinical isolates in MDCK cells of A/Memphis/14/96 (H1N1) and\nB/Memphis/25/99 at passage level 2 were kindly provided by Robert Webster (St.\nJude Children's Hospital).",
+        "wordProcessed": "Robert",
+        "senseFoundByLesk": "United States parliamentary authority and author (in 1876) of Robert's Rules of Order (1837-1923)"
+    },
+    {
+        "id": 63,
+        "sentence": "Clinical isolates in MDCK cells of A/Memphis/14/96 (H1N1) and\nB/Memphis/25/99 at passage level 2 were kindly provided by Robert Webster (St.\nJude Children's Hospital).",
+        "wordProcessed": "Webster",
+        "senseFoundByLesk": "United States politician and orator (1782-1817)"
+    },
+    {
+        "id": 64,
+        "sentence": "Clinical isolates in MDCK cells of A/Memphis/14/96 (H1N1) and\nB/Memphis/25/99 at passage level 2 were kindly provided by Robert Webster (St.\nJude Children's Hospital).",
+        "wordProcessed": "Jude",
+        "senseFoundByLesk": "(New Testament) supposed brother of St. James; one of the Apostles who is invoked in prayer when a situation seems hopeless"
+    },
+    {
+        "id": 65,
+        "sentence": "Clinical isolates in MDCK cells of A/Memphis/14/96 (H1N1) and\nB/Memphis/25/99 at passage level 2 were kindly provided by Robert Webster (St.\nJude Children's Hospital).",
+        "wordProcessed": "Children",
+        "senseFoundByLesk": "a member of a clan or tribe"
+    },
+    {
+        "id": 66,
+        "sentence": "Clinical isolates in MDCK cells of A/Memphis/14/96 (H1N1) and\nB/Memphis/25/99 at passage level 2 were kindly provided by Robert Webster (St.\nJude Children's Hospital).",
+        "wordProcessed": "Hospital",
+        "senseFoundByLesk": "a medical institution where sick or injured people are given medical or surgical care"
+    },
+    {
+        "id": 67,
+        "sentence": "The Memphis/14/96 virus was plaqued in MDCK\ncells; two plaques of different size were picked, amplified in MDCK cells, and\ndesignated variants M and M1.",
+        "wordProcessed": "M",
+        "senseFoundByLesk": "the cardinal number that is the product of 10 and 100"
+    },
+    {
+        "id": 68,
+        "sentence": "The Memphis/14/96 virus was plaqued in MDCK\ncells; two plaques of different size were picked, amplified in MDCK cells, and\ndesignated variants M and M1.",
+        "wordProcessed": "M1",
+        "senseFoundByLesk": "a measure of the money supply; includes currency in circulation plus demand deposits or checking account balances"
+    },
+    {
+        "id": 69,
+        "sentence": "The virus progeny from two dif-\nferent eggs were plaque purified in MDCK cells, amplified in MDCK cells, and\ndesignated variants E and E1.",
+        "wordProcessed": "E",
+        "senseFoundByLesk": "a fat-soluble vitamin that is essential for normal reproduction; an important antioxidant that neutralizes free radicals in the body"
+    },
+    {
+        "id": 70,
+        "sentence": "The complete HA genes of the variants were\nsequenced by the dideoxy method, using an automatic sequencer (Perkin-\nElmer).",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 71,
+        "sentence": "A clinical isolate of A/Sydney/5/97-like virus (H3N2) isolated and propagated\nin MDCK cells and its oseltamivir-resistant variant with an R292K mutation in\nNA obtained from a patient on the treatment arm of a phase III efficacy study for\noseltamivir phosphate were described previously (7).",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 72,
+        "sentence": "A clinical isolate of A/Sydney/5/97-like virus (H3N2) isolated and propagated\nin MDCK cells and its oseltamivir-resistant variant with an R292K mutation in\nNA obtained from a patient on the treatment arm of a phase III efficacy study for\noseltamivir phosphate were described previously (7).",
+        "wordProcessed": "III",
+        "senseFoundByLesk": "the cardinal number that is the sum of one and one and one"
+    },
+    {
+        "id": 73,
+        "sentence": "A clinical isolate of A/Wu-\nhan/359/95-like virus (H3N2) and its oseltamivir-resistant variant with mutation\nE119V in NA were described previously (22).",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 74,
+        "sentence": "The MDCK cells used were originally obtained from Alan Hay\nat the National Institute of Medical Research, London, United Kingdom, and\npassaged in Frederick Hayden's Laboratory at the University of Virginia Health\nSciences Center, using standard laboratory procedures prior to distribution to\nRoche Discovery Welwyn.",
+        "wordProcessed": "Hay",
+        "senseFoundByLesk": "grass mowed and cured for use as fodder"
+    },
+    {
+        "id": 75,
+        "sentence": "The MDCK cells used were originally obtained from Alan Hay\nat the National Institute of Medical Research, London, United Kingdom, and\npassaged in Frederick Hayden's Laboratory at the University of Virginia Health\nSciences Center, using standard laboratory procedures prior to distribution to\nRoche Discovery Welwyn.",
+        "wordProcessed": "National",
+        "senseFoundByLesk": "a person who owes allegiance to that nation"
+    },
+    {
+        "id": 76,
+        "sentence": "The MDCK cells used were originally obtained from Alan Hay\nat the National Institute of Medical Research, London, United Kingdom, and\npassaged in Frederick Hayden's Laboratory at the University of Virginia Health\nSciences Center, using standard laboratory procedures prior to distribution to\nRoche Discovery Welwyn.",
+        "wordProcessed": "Institute",
+        "senseFoundByLesk": "an association organized to promote art or science or education"
+    },
+    {
+        "id": 77,
+        "sentence": "The MDCK cells used were originally obtained from Alan Hay\nat the National Institute of Medical Research, London, United Kingdom, and\npassaged in Frederick Hayden's Laboratory at the University of Virginia Health\nSciences Center, using standard laboratory procedures prior to distribution to\nRoche Discovery Welwyn.",
+        "wordProcessed": "Medical",
+        "senseFoundByLesk": "a thorough physical examination; includes a variety of tests depending on the age and sex and health of the person"
+    },
+    {
+        "id": 78,
+        "sentence": "The MDCK cells used were originally obtained from Alan Hay\nat the National Institute of Medical Research, London, United Kingdom, and\npassaged in Frederick Hayden's Laboratory at the University of Virginia Health\nSciences Center, using standard laboratory procedures prior to distribution to\nRoche Discovery Welwyn.",
+        "wordProcessed": "Research",
+        "senseFoundByLesk": "systematic investigation to establish facts"
+    },
+    {
+        "id": 79,
+        "sentence": "The MDCK cells used were originally obtained from Alan Hay\nat the National Institute of Medical Research, London, United Kingdom, and\npassaged in Frederick Hayden's Laboratory at the University of Virginia Health\nSciences Center, using standard laboratory procedures prior to distribution to\nRoche Discovery Welwyn.",
+        "wordProcessed": "London",
+        "senseFoundByLesk": "United States writer of novels based on experiences in the Klondike gold rush (1876-1916)"
+    },
+    {
+        "id": 80,
+        "sentence": "The MDCK cells used were originally obtained from Alan Hay\nat the National Institute of Medical Research, London, United Kingdom, and\npassaged in Frederick Hayden's Laboratory at the University of Virginia Health\nSciences Center, using standard laboratory procedures prior to distribution to\nRoche Discovery Welwyn.",
+        "wordProcessed": "Kingdom",
+        "senseFoundByLesk": "the highest taxonomic group into which organisms are grouped; one of five biological categories: Monera or Protoctista or Plantae or Fungi or Animalia"
+    },
+    {
+        "id": 81,
+        "sentence": "The MDCK cells used were originally obtained from Alan Hay\nat the National Institute of Medical Research, London, United Kingdom, and\npassaged in Frederick Hayden's Laboratory at the University of Virginia Health\nSciences Center, using standard laboratory procedures prior to distribution to\nRoche Discovery Welwyn.",
+        "wordProcessed": "Frederick",
+        "senseFoundByLesk": "a town in northern Maryland to the west of Baltimore"
+    },
+    {
+        "id": 82,
+        "sentence": "The MDCK cells used were originally obtained from Alan Hay\nat the National Institute of Medical Research, London, United Kingdom, and\npassaged in Frederick Hayden's Laboratory at the University of Virginia Health\nSciences Center, using standard laboratory procedures prior to distribution to\nRoche Discovery Welwyn.",
+        "wordProcessed": "University",
+        "senseFoundByLesk": "the body of faculty and students at a university"
+    },
+    {
+        "id": 83,
+        "sentence": "The MDCK cells used were originally obtained from Alan Hay\nat the National Institute of Medical Research, London, United Kingdom, and\npassaged in Frederick Hayden's Laboratory at the University of Virginia Health\nSciences Center, using standard laboratory procedures prior to distribution to\nRoche Discovery Welwyn.",
+        "wordProcessed": "Virginia",
+        "senseFoundByLesk": "a state in the eastern United States; one of the original 13 colonies; one of the Confederate States in the American Civil War"
+    },
+    {
+        "id": 84,
+        "sentence": "The MDCK cells used were originally obtained from Alan Hay\nat the National Institute of Medical Research, London, United Kingdom, and\npassaged in Frederick Hayden's Laboratory at the University of Virginia Health\nSciences Center, using standard laboratory procedures prior to distribution to\nRoche Discovery Welwyn.",
+        "wordProcessed": "Health",
+        "senseFoundByLesk": "the general condition of body and mind"
+    },
+    {
+        "id": 85,
+        "sentence": "The MDCK cells used were originally obtained from Alan Hay\nat the National Institute of Medical Research, London, United Kingdom, and\npassaged in Frederick Hayden's Laboratory at the University of Virginia Health\nSciences Center, using standard laboratory procedures prior to distribution to\nRoche Discovery Welwyn.",
+        "wordProcessed": "Sciences",
+        "senseFoundByLesk": "ability to produce solutions in some problem domain"
+    },
+    {
+        "id": 86,
+        "sentence": "The MDCK cells used were originally obtained from Alan Hay\nat the National Institute of Medical Research, London, United Kingdom, and\npassaged in Frederick Hayden's Laboratory at the University of Virginia Health\nSciences Center, using standard laboratory procedures prior to distribution to\nRoche Discovery Welwyn.",
+        "wordProcessed": "Center",
+        "senseFoundByLesk": "the position on a hockey team of the player who participates in the face off at the beginning of the game"
+    },
+    {
+        "id": 87,
+        "sentence": "The MDCK cells used were originally obtained from Alan Hay\nat the National Institute of Medical Research, London, United Kingdom, and\npassaged in Frederick Hayden's Laboratory at the University of Virginia Health\nSciences Center, using standard laboratory procedures prior to distribution to\nRoche Discovery Welwyn.",
+        "wordProcessed": "Discovery",
+        "senseFoundByLesk": "(law) compulsory pretrial disclosure of documents relevant to a case; enables one side in a litigation to elicit information from the other side concerning the facts in the case"
+    },
+    {
+        "id": 88,
+        "sentence": "In this study, the original and SIAT1-transfected cells\nwere passaged in Dulbecco's modified Eagle medium (Gibco BRL) supple-\nmented with 10% fetal calf serum.",
+        "wordProcessed": "Eagle",
+        "senseFoundByLesk": "a former gold coin in the United States worth 10 dollars"
+    },
+    {
+        "id": 89,
+        "sentence": "Expression vector pIRESneo-SIAT1 and stable transfection of MDCK cells.",
+        "wordProcessed": "Expression",
+        "senseFoundByLesk": "a group of words that form a constituent of a sentence and are considered as a single unit"
+    },
+    {
+        "id": 90,
+        "sentence": "The cDNA clone of human SIAT1 in the pcDNA3.1GS expression vector was\nobtained from the GeneStorm human clone collection (GeneStorm clone H-\nX17247 M; Invitrogen).",
+        "wordProcessed": "M",
+        "senseFoundByLesk": "the cardinal number that is the product of 10 and 100"
+    },
+    {
+        "id": 91,
+        "sentence": "MDCK cells were transfected with pIRESneo-SIAT1 and pIRESneo-SIAT1-\ndel plasmids using Lipofectamine 2000 (Life Technologies) according to the\nmanufacturer's instructions.",
+        "wordProcessed": "Life",
+        "senseFoundByLesk": "the period between birth and the present time"
+    },
+    {
+        "id": 92,
+        "sentence": "MDCK cells were transfected with pIRESneo-SIAT1 and pIRESneo-SIAT1-\ndel plasmids using Lipofectamine 2000 (Life Technologies) according to the\nmanufacturer's instructions.",
+        "wordProcessed": "Technologies",
+        "senseFoundByLesk": "the discipline dealing with the art or science of applying scientific knowledge to practical problems"
+    },
+    {
+        "id": 93,
+        "sentence": "Terminal plating of the cells for the infection experiments,\nisolation of plasma membranes, and lectin staining were performed without\nG418.",
+        "wordProcessed": "Terminal",
+        "senseFoundByLesk": "electronic equipment consisting of a device providing access to a computer; has a keyboard and display"
+    },
+    {
+        "id": 94,
+        "sentence": "Cell surface expression of sialic\nacids in two different types of linkages was quantified by using digoxigenin\n(DIG)-labeled lectins Sambucus nigra agglutinin (SNA) specific for 6-linked\nsialic acids, Maackia amurensis agglutinin (MAA) specific for 3-linked sialic\nacids, and either fluorescein isothiocyanate-labeled or peroxidase-labeled anti-\nDIG antibodies from the DIG-glycan differentiation kit (Boehringer Mannheim,\nMannheim, Germany).",
+        "wordProcessed": "Cell",
+        "senseFoundByLesk": "(biology) the basic structural and functional unit of all organisms; they may exist as independent units of life (as in monads) or may form colonies or tissues as in higher plants and animals"
+    },
+    {
+        "id": 95,
+        "sentence": "Cell surface expression of sialic\nacids in two different types of linkages was quantified by using digoxigenin\n(DIG)-labeled lectins Sambucus nigra agglutinin (SNA) specific for 6-linked\nsialic acids, Maackia amurensis agglutinin (MAA) specific for 3-linked sialic\nacids, and either fluorescein isothiocyanate-labeled or peroxidase-labeled anti-\nDIG antibodies from the DIG-glycan differentiation kit (Boehringer Mannheim,\nMannheim, Germany).",
+        "wordProcessed": "DIG",
+        "senseFoundByLesk": "the act of touching someone suddenly with your finger or elbow"
+    },
+    {
+        "id": 96,
+        "sentence": "Cell surface expression of sialic\nacids in two different types of linkages was quantified by using digoxigenin\n(DIG)-labeled lectins Sambucus nigra agglutinin (SNA) specific for 6-linked\nsialic acids, Maackia amurensis agglutinin (MAA) specific for 3-linked sialic\nacids, and either fluorescein isothiocyanate-labeled or peroxidase-labeled anti-\nDIG antibodies from the DIG-glycan differentiation kit (Boehringer Mannheim,\nMannheim, Germany).",
+        "wordProcessed": "Sambucus",
+        "senseFoundByLesk": "elder; elderberry"
+    },
+    {
+        "id": 97,
+        "sentence": "Cell surface expression of sialic\nacids in two different types of linkages was quantified by using digoxigenin\n(DIG)-labeled lectins Sambucus nigra agglutinin (SNA) specific for 6-linked\nsialic acids, Maackia amurensis agglutinin (MAA) specific for 3-linked sialic\nacids, and either fluorescein isothiocyanate-labeled or peroxidase-labeled anti-\nDIG antibodies from the DIG-glycan differentiation kit (Boehringer Mannheim,\nMannheim, Germany).",
+        "wordProcessed": "DIG",
+        "senseFoundByLesk": "the act of touching someone suddenly with your finger or elbow"
+    },
+    {
+        "id": 98,
+        "sentence": "Cell surface expression of sialic\nacids in two different types of linkages was quantified by using digoxigenin\n(DIG)-labeled lectins Sambucus nigra agglutinin (SNA) specific for 6-linked\nsialic acids, Maackia amurensis agglutinin (MAA) specific for 3-linked sialic\nacids, and either fluorescein isothiocyanate-labeled or peroxidase-labeled anti-\nDIG antibodies from the DIG-glycan differentiation kit (Boehringer Mannheim,\nMannheim, Germany).",
+        "wordProcessed": "Mannheim",
+        "senseFoundByLesk": "a city in southwestern Germany at the confluence of the Rhine and Neckar rivers"
+    },
+    {
+        "id": 99,
+        "sentence": "Cell surface expression of sialic\nacids in two different types of linkages was quantified by using digoxigenin\n(DIG)-labeled lectins Sambucus nigra agglutinin (SNA) specific for 6-linked\nsialic acids, Maackia amurensis agglutinin (MAA) specific for 3-linked sialic\nacids, and either fluorescein isothiocyanate-labeled or peroxidase-labeled anti-\nDIG antibodies from the DIG-glycan differentiation kit (Boehringer Mannheim,\nMannheim, Germany).",
+        "wordProcessed": "Mannheim",
+        "senseFoundByLesk": "a city in southwestern Germany at the confluence of the Rhine and Neckar rivers"
+    },
+    {
+        "id": 100,
+        "sentence": "Cell surface expression of sialic\nacids in two different types of linkages was quantified by using digoxigenin\n(DIG)-labeled lectins Sambucus nigra agglutinin (SNA) specific for 6-linked\nsialic acids, Maackia amurensis agglutinin (MAA) specific for 3-linked sialic\nacids, and either fluorescein isothiocyanate-labeled or peroxidase-labeled anti-\nDIG antibodies from the DIG-glycan differentiation kit (Boehringer Mannheim,\nMannheim, Germany).",
+        "wordProcessed": "Germany",
+        "senseFoundByLesk": "a republic in central Europe; split into East Germany and West Germany after World War II and reunited in 1990"
+    },
+    {
+        "id": 101,
+        "sentence": "Fluorescence-activated cell sorter (FACS) analysis of the\ncells stained with lectins was performed as described previously (17) using a\nFACScan fluorospectrometer (Becton Dickinson).",
+        "wordProcessed": "Dickinson",
+        "senseFoundByLesk": "United States poet noted for her mystical and unrhymed poems (1830-1886)"
+    },
+    {
+        "id": 102,
+        "sentence": "Membrane preparations were sus-\npended in phosphate-buffered saline (PBS) to a final protein concentration of 2\ng/ml, and 0.05-ml aliquots were incubated in the wells of a polystyrene 96-well\nmicroplate overnight at 4\u00c2\u00b0C.",
+        "wordProcessed": "Membrane",
+        "senseFoundByLesk": "a pliable sheet of tissue that covers or lines or connects the organs or cells of animals or plants"
+    },
+    {
+        "id": 103,
+        "sentence": "Membrane preparations were sus-\npended in phosphate-buffered saline (PBS) to a final protein concentration of 2\ng/ml, and 0.05-ml aliquots were incubated in the wells of a polystyrene 96-well\nmicroplate overnight at 4\u00c2\u00b0C.",
+        "wordProcessed": "PBS",
+        "senseFoundByLesk": "a unit of information equal to 1024 tebibytes or 2^50 bytes"
+    },
+    {
+        "id": 104,
+        "sentence": "Wells incubated with PBS served as a control of the\nbackground binding.",
+        "wordProcessed": "Wells",
+        "senseFoundByLesk": "an open shaft through the floors of a building (as for a stairway)"
+    },
+    {
+        "id": 105,
+        "sentence": "Wells incubated with PBS served as a control of the\nbackground binding.",
+        "wordProcessed": "PBS",
+        "senseFoundByLesk": "a unit of information equal to 1024 tebibytes or 2^50 bytes"
+    },
+    {
+        "id": 106,
+        "sentence": "The plate was washed with PBS and blocked with 0.1 ml of\na 0.04% solution of bovine serum albumin (BSA) in PBS for 1 h at 37\u00c2\u00b0C.",
+        "wordProcessed": "PBS",
+        "senseFoundByLesk": "a solution containing a phosphate buffer"
+    },
+    {
+        "id": 107,
+        "sentence": "The plate was washed with PBS and blocked with 0.1 ml of\na 0.04% solution of bovine serum albumin (BSA) in PBS for 1 h at 37\u00c2\u00b0C.",
+        "wordProcessed": "PBS",
+        "senseFoundByLesk": "a solution containing a phosphate buffer"
+    },
+    {
+        "id": 108,
+        "sentence": "After washing with PBS, the plate was incubated with 0.05 ml of peroxidase-\nlabeled anti-DIG antibodies/well in LBB for 1 h at 4\u00c2\u00b0C.",
+        "wordProcessed": "PBS",
+        "senseFoundByLesk": "a unit of information equal to 1024 tebibytes or 2^50 bytes"
+    },
+    {
+        "id": 109,
+        "sentence": "Binding of virus to cell membranes.",
+        "wordProcessed": "Binding",
+        "senseFoundByLesk": "one of a pair of mechanical devices that are attached to a ski and that will grip a ski boot; the bindings should release in case of a fall"
+    },
+    {
+        "id": 110,
+        "sentence": "Virus attachment to cell membranes was\nassayed by using the microplate adsorption method (14).",
+        "wordProcessed": "Virus",
+        "senseFoundByLesk": "a software program capable of reproducing itself and usually capable of causing great harm to files or other programs on the same computer"
+    },
+    {
+        "id": 111,
+        "sentence": "In brief, viruses were\nclarified by low-speed centrifugation, pelleted by high-speed centrifugation\nthrough a 25% sucrose cushion, and resuspended in 0.1 M Tris-HCl buffer (pH\n7.3).",
+        "wordProcessed": "M",
+        "senseFoundByLesk": "the cardinal number that is the product of 10 and 100"
+    },
+    {
+        "id": 112,
+        "sentence": "The plates were washed with ice-cold washing\nsolution (PBS-T) (0.02% Tween 80 in PBS) and incubated with sheep antiserum\nagainst influenza virus A/Taiwan/1/86 (H1N1) (Centers for Disease Control and\nPrevention, Atlanta, Ga.) for 1 h at 4\u00c2\u00b0C, followed by washing (PBS-T) and\nincubation with peroxidase-labeled anti-sheep antibodies (DAKO) for an addi-\ntional hour at 4\u00c2\u00b0C.",
+        "wordProcessed": "PBS",
+        "senseFoundByLesk": "a solution containing a phosphate buffer"
+    },
+    {
+        "id": 113,
+        "sentence": "The plates were washed with ice-cold washing\nsolution (PBS-T) (0.02% Tween 80 in PBS) and incubated with sheep antiserum\nagainst influenza virus A/Taiwan/1/86 (H1N1) (Centers for Disease Control and\nPrevention, Atlanta, Ga.) for 1 h at 4\u00c2\u00b0C, followed by washing (PBS-T) and\nincubation with peroxidase-labeled anti-sheep antibodies (DAKO) for an addi-\ntional hour at 4\u00c2\u00b0C.",
+        "wordProcessed": "Centers",
+        "senseFoundByLesk": "the position on a hockey team of the player who participates in the face off at the beginning of the game"
+    },
+    {
+        "id": 114,
+        "sentence": "The plates were washed with ice-cold washing\nsolution (PBS-T) (0.02% Tween 80 in PBS) and incubated with sheep antiserum\nagainst influenza virus A/Taiwan/1/86 (H1N1) (Centers for Disease Control and\nPrevention, Atlanta, Ga.) for 1 h at 4\u00c2\u00b0C, followed by washing (PBS-T) and\nincubation with peroxidase-labeled anti-sheep antibodies (DAKO) for an addi-\ntional hour at 4\u00c2\u00b0C.",
+        "wordProcessed": "Disease",
+        "senseFoundByLesk": "an impairment of health or a condition of abnormal functioning"
+    },
+    {
+        "id": 115,
+        "sentence": "The plates were washed with ice-cold washing\nsolution (PBS-T) (0.02% Tween 80 in PBS) and incubated with sheep antiserum\nagainst influenza virus A/Taiwan/1/86 (H1N1) (Centers for Disease Control and\nPrevention, Atlanta, Ga.) for 1 h at 4\u00c2\u00b0C, followed by washing (PBS-T) and\nincubation with peroxidase-labeled anti-sheep antibodies (DAKO) for an addi-\ntional hour at 4\u00c2\u00b0C.",
+        "wordProcessed": "Control",
+        "senseFoundByLesk": "discipline in personal and social activities"
+    },
+    {
+        "id": 116,
+        "sentence": "The plates were washed with ice-cold washing\nsolution (PBS-T) (0.02% Tween 80 in PBS) and incubated with sheep antiserum\nagainst influenza virus A/Taiwan/1/86 (H1N1) (Centers for Disease Control and\nPrevention, Atlanta, Ga.) for 1 h at 4\u00c2\u00b0C, followed by washing (PBS-T) and\nincubation with peroxidase-labeled anti-sheep antibodies (DAKO) for an addi-\ntional hour at 4\u00c2\u00b0C.",
+        "wordProcessed": "Prevention",
+        "senseFoundByLesk": "the act of preventing"
+    },
+    {
+        "id": 117,
+        "sentence": "The plates were washed with ice-cold washing\nsolution (PBS-T) (0.02% Tween 80 in PBS) and incubated with sheep antiserum\nagainst influenza virus A/Taiwan/1/86 (H1N1) (Centers for Disease Control and\nPrevention, Atlanta, Ga.) for 1 h at 4\u00c2\u00b0C, followed by washing (PBS-T) and\nincubation with peroxidase-labeled anti-sheep antibodies (DAKO) for an addi-\ntional hour at 4\u00c2\u00b0C.",
+        "wordProcessed": "Atlanta",
+        "senseFoundByLesk": "a siege in which Federal troops under Sherman cut off the railroads supplying the city and then burned it; 1864"
+    },
+    {
+        "id": 118,
+        "sentence": "PBS containing 1% BSA and 0.05% Tween 80 was used for\nthe preparation of working dilutions of immunoreagents.",
+        "wordProcessed": "PBS",
+        "senseFoundByLesk": "a solution containing a phosphate buffer"
+    },
+    {
+        "id": 119,
+        "sentence": "The absorbency at 490 nm\nwas measured, and the data were converted to Scatchard plots (A490 versus\nA490/C), where the concentration of the viruses (C) was expressed in hemagglu-\ntination units.",
+        "wordProcessed": "C",
+        "senseFoundByLesk": "the speed at which light travels in a vacuum; the constancy and universality of the speed of light is recognized by defining it to be exactly 299,792,458 meters per second"
+    },
+    {
+        "id": 120,
+        "sentence": "To prepare monospecific fetuin-horse-\nradish peroxidase (HRP) conjugates containing either 6-linked- or 3-linked sialic\nacid moieties, bovine asialofetuin (Sigma, St. Louis, Mo.)",
+        "wordProcessed": "Sigma",
+        "senseFoundByLesk": "the 18th letter of the Greek alphabet"
+    },
+    {
+        "id": 121,
+        "sentence": "To prepare monospecific fetuin-horse-\nradish peroxidase (HRP) conjugates containing either 6-linked- or 3-linked sialic\nacid moieties, bovine asialofetuin (Sigma, St. Louis, Mo.)",
+        "wordProcessed": "Louis",
+        "senseFoundByLesk": "United States prizefighter who was world heavyweight champion for 12 years (1914-1981)"
+    },
+    {
+        "id": 122,
+        "sentence": "To prepare monospecific fetuin-horse-\nradish peroxidase (HRP) conjugates containing either 6-linked- or 3-linked sialic\nacid moieties, bovine asialofetuin (Sigma, St. Louis, Mo.)",
+        "wordProcessed": "Mo",
+        "senseFoundByLesk": "an indefinitely short time"
+    },
+    {
+        "id": 123,
+        "sentence": "Solutions in phosphate buffer (0.1\nM, pH 7.0) containing 8 mg of asialofetuin-HRP conjugate/ml, 1.5 mM CMP-\nNeu5Ac (Boehringer), 2 mM MgCl2, and either 80 mU of -2,6-sialyltransferase\nfrom rat liver (WAKO Chemicals)/ml or 8.5 mU of rat recombinant -2,3-(N)-\nsialyltransferase (Calbiochem)/ml were incubated at 37\u00c2\u00b0C for 20 h. Resialylated\nconjugates were dialyzed against 0.1 M Tris-HCl buffer (pH 7.3), diluted with an\nequal volume of glycerol, and stored at 20\u00c2\u00b0C.",
+        "wordProcessed": "M",
+        "senseFoundByLesk": "a unit of information equal to 1024 kibibytes or 2^20 (1,048,576) bytes"
+    },
+    {
+        "id": 124,
+        "sentence": "Solutions in phosphate buffer (0.1\nM, pH 7.0) containing 8 mg of asialofetuin-HRP conjugate/ml, 1.5 mM CMP-\nNeu5Ac (Boehringer), 2 mM MgCl2, and either 80 mU of -2,6-sialyltransferase\nfrom rat liver (WAKO Chemicals)/ml or 8.5 mU of rat recombinant -2,3-(N)-\nsialyltransferase (Calbiochem)/ml were incubated at 37\u00c2\u00b0C for 20 h. Resialylated\nconjugates were dialyzed against 0.1 M Tris-HCl buffer (pH 7.3), diluted with an\nequal volume of glycerol, and stored at 20\u00c2\u00b0C.",
+        "wordProcessed": "Chemicals",
+        "senseFoundByLesk": "material produced by or used in a reaction involving changes in atoms or molecules"
+    },
+    {
+        "id": 125,
+        "sentence": "Solutions in phosphate buffer (0.1\nM, pH 7.0) containing 8 mg of asialofetuin-HRP conjugate/ml, 1.5 mM CMP-\nNeu5Ac (Boehringer), 2 mM MgCl2, and either 80 mU of -2,6-sialyltransferase\nfrom rat liver (WAKO Chemicals)/ml or 8.5 mU of rat recombinant -2,3-(N)-\nsialyltransferase (Calbiochem)/ml were incubated at 37\u00c2\u00b0C for 20 h. Resialylated\nconjugates were dialyzed against 0.1 M Tris-HCl buffer (pH 7.3), diluted with an\nequal volume of glycerol, and stored at 20\u00c2\u00b0C.",
+        "wordProcessed": "N",
+        "senseFoundByLesk": "a unit of force equal to the force that imparts an acceleration of 1 m/sec/sec to a mass of 1 kilogram; equal to 100,000 dynes"
+    },
+    {
+        "id": 126,
+        "sentence": "Solutions in phosphate buffer (0.1\nM, pH 7.0) containing 8 mg of asialofetuin-HRP conjugate/ml, 1.5 mM CMP-\nNeu5Ac (Boehringer), 2 mM MgCl2, and either 80 mU of -2,6-sialyltransferase\nfrom rat liver (WAKO Chemicals)/ml or 8.5 mU of rat recombinant -2,3-(N)-\nsialyltransferase (Calbiochem)/ml were incubated at 37\u00c2\u00b0C for 20 h. Resialylated\nconjugates were dialyzed against 0.1 M Tris-HCl buffer (pH 7.3), diluted with an\nequal volume of glycerol, and stored at 20\u00c2\u00b0C.",
+        "wordProcessed": "M",
+        "senseFoundByLesk": "a unit of information equal to 1024 kibibytes or 2^20 (1,048,576) bytes"
+    },
+    {
+        "id": 127,
+        "sentence": "In brief,\nviruses adsorbed in the wells of 96-well EIA microplates (Greiner) were incu-\nbated with serial dilutions of HRP-labeled resialylated fetuins in PBS supple-\nmented with 0.02% BSA, 0.02% Tween 80, and a 2 M concentration of the\nneuraminidase inhibitor oseltamivir carboxylate.",
+        "wordProcessed": "PBS",
+        "senseFoundByLesk": "a unit of information equal to 1024 tebibytes or 2^50 bytes"
+    },
+    {
+        "id": 128,
+        "sentence": "In brief,\nviruses adsorbed in the wells of 96-well EIA microplates (Greiner) were incu-\nbated with serial dilutions of HRP-labeled resialylated fetuins in PBS supple-\nmented with 0.02% BSA, 0.02% Tween 80, and a 2 M concentration of the\nneuraminidase inhibitor oseltamivir carboxylate.",
+        "wordProcessed": "M",
+        "senseFoundByLesk": "the cardinal number that is the product of 10 and 100"
+    },
+    {
+        "id": 129,
+        "sentence": "Focus reduction assay.",
+        "wordProcessed": "Focus",
+        "senseFoundByLesk": "special emphasis attached to something"
+    },
+    {
+        "id": 130,
+        "sentence": "Cell cultures in 96-well plates (Greiner) were inocu-\nlated with 0.05 ml of either infection medium (IM) (0.1% BSA in Dulbecco's\nmodified Eagle medium) or serial 10-fold dilutions of oseltamivir carboxylate in\nIM (concentration range from 2 nM to 200 M)/well.",
+        "wordProcessed": "Cell",
+        "senseFoundByLesk": "(biology) the basic structural and functional unit of all organisms; they may exist as independent units of life (as in monads) or may form colonies or tissues as in higher plants and animals"
+    },
+    {
+        "id": 131,
+        "sentence": "Cell cultures in 96-well plates (Greiner) were inocu-\nlated with 0.05 ml of either infection medium (IM) (0.1% BSA in Dulbecco's\nmodified Eagle medium) or serial 10-fold dilutions of oseltamivir carboxylate in\nIM (concentration range from 2 nM to 200 M)/well.",
+        "wordProcessed": "Eagle",
+        "senseFoundByLesk": "a former gold coin in the United States worth 10 dollars"
+    },
+    {
+        "id": 132,
+        "sentence": "Cell cultures in 96-well plates (Greiner) were inocu-\nlated with 0.05 ml of either infection medium (IM) (0.1% BSA in Dulbecco's\nmodified Eagle medium) or serial 10-fold dilutions of oseltamivir carboxylate in\nIM (concentration range from 2 nM to 200 M)/well.",
+        "wordProcessed": "M",
+        "senseFoundByLesk": "a unit of information equal to 1024 kibibytes or 2^20 (1,048,576) bytes"
+    },
+    {
+        "id": 133,
+        "sentence": "After 24 to 48 h of incubation at 35\u00c2\u00b0C, the cells\nwere fixed with 4% paraformaldehyde for 1 h and permeabilized with 0.2%\nsolution of Triton X-100 in PBS for 20 min.",
+        "wordProcessed": "Triton",
+        "senseFoundByLesk": "the largest moon of Neptune"
+    },
+    {
+        "id": 134,
+        "sentence": "After 24 to 48 h of incubation at 35\u00c2\u00b0C, the cells\nwere fixed with 4% paraformaldehyde for 1 h and permeabilized with 0.2%\nsolution of Triton X-100 in PBS for 20 min.",
+        "wordProcessed": "PBS",
+        "senseFoundByLesk": "a unit of information equal to 1024 tebibytes or 2^50 bytes"
+    },
+    {
+        "id": 135,
+        "sentence": "77, 2003 ALTERATION OF INFLUENZA VIRUS RECEPTORS IN MDCK CELLS 8419\n\fof the cells were performed at room temperature.",
+        "wordProcessed": "ALTERATION",
+        "senseFoundByLesk": "the act of revising or altering (involving reconsideration and modification)"
+    },
+    {
+        "id": 136,
+        "sentence": "77, 2003 ALTERATION OF INFLUENZA VIRUS RECEPTORS IN MDCK CELLS 8419\n\fof the cells were performed at room temperature.",
+        "wordProcessed": "INFLUENZA",
+        "senseFoundByLesk": "an acute febrile highly contagious viral disease"
+    },
+    {
+        "id": 137,
+        "sentence": "77, 2003 ALTERATION OF INFLUENZA VIRUS RECEPTORS IN MDCK CELLS 8419\n\fof the cells were performed at room temperature.",
+        "wordProcessed": "VIRUS",
+        "senseFoundByLesk": "a software program capable of reproducing itself and usually capable of causing great harm to files or other programs on the same computer"
+    },
+    {
+        "id": 138,
+        "sentence": "77, 2003 ALTERATION OF INFLUENZA VIRUS RECEPTORS IN MDCK CELLS 8419\n\fof the cells were performed at room temperature.",
+        "wordProcessed": "RECEPTORS",
+        "senseFoundByLesk": "an organ having nerve endings (in the skin or viscera or eye or ear or nose or mouth) that respond to stimulation"
+    },
+    {
+        "id": 139,
+        "sentence": "77, 2003 ALTERATION OF INFLUENZA VIRUS RECEPTORS IN MDCK CELLS 8419\n\fof the cells were performed at room temperature.",
+        "wordProcessed": "IN",
+        "senseFoundByLesk": "a unit of length equal to one twelfth of a foot"
+    },
+    {
+        "id": 140,
+        "sentence": "77, 2003 ALTERATION OF INFLUENZA VIRUS RECEPTORS IN MDCK CELLS 8419\n\fof the cells were performed at room temperature.",
+        "wordProcessed": "CELLS",
+        "senseFoundByLesk": "a small unit serving as part of or as the nucleus of a larger political movement"
+    },
+    {
+        "id": 141,
+        "sentence": "Fixed cultures were immuno-\nstained for the expression of viral nucleoprotein by incubating for 1 h with\nmonoclonal antibodies specific for the nucleoprotein of either influenza A virus\n(kindly provided by Alexander Klimov at Centers for Disease Control) or influ-\nenza B virus (Serotec) followed by 1 h of incubation with peroxidase-labeled\nanti-mouse antibodies (Sigma) and 30 min of incubation with precipitate-form-\ning peroxidase substrate (True Blue; KPL).",
+        "wordProcessed": "Alexander",
+        "senseFoundByLesk": "king of Macedon; conqueror of Greece and Egypt and Persia; founder of Alexandria (356-323 BC)"
+    },
+    {
+        "id": 142,
+        "sentence": "Fixed cultures were immuno-\nstained for the expression of viral nucleoprotein by incubating for 1 h with\nmonoclonal antibodies specific for the nucleoprotein of either influenza A virus\n(kindly provided by Alexander Klimov at Centers for Disease Control) or influ-\nenza B virus (Serotec) followed by 1 h of incubation with peroxidase-labeled\nanti-mouse antibodies (Sigma) and 30 min of incubation with precipitate-form-\ning peroxidase substrate (True Blue; KPL).",
+        "wordProcessed": "Centers",
+        "senseFoundByLesk": "mercantile establishment consisting of a carefully landscaped complex of shops representing leading merchandisers; usually includes restaurants and a convenient parking area; a modern version of the traditional marketplace"
+    },
+    {
+        "id": 143,
+        "sentence": "Fixed cultures were immuno-\nstained for the expression of viral nucleoprotein by incubating for 1 h with\nmonoclonal antibodies specific for the nucleoprotein of either influenza A virus\n(kindly provided by Alexander Klimov at Centers for Disease Control) or influ-\nenza B virus (Serotec) followed by 1 h of incubation with peroxidase-labeled\nanti-mouse antibodies (Sigma) and 30 min of incubation with precipitate-form-\ning peroxidase substrate (True Blue; KPL).",
+        "wordProcessed": "Disease",
+        "senseFoundByLesk": "an impairment of health or a condition of abnormal functioning"
+    },
+    {
+        "id": 144,
+        "sentence": "Fixed cultures were immuno-\nstained for the expression of viral nucleoprotein by incubating for 1 h with\nmonoclonal antibodies specific for the nucleoprotein of either influenza A virus\n(kindly provided by Alexander Klimov at Centers for Disease Control) or influ-\nenza B virus (Serotec) followed by 1 h of incubation with peroxidase-labeled\nanti-mouse antibodies (Sigma) and 30 min of incubation with precipitate-form-\ning peroxidase substrate (True Blue; KPL).",
+        "wordProcessed": "Control",
+        "senseFoundByLesk": "the economic policy of controlling or limiting or curbing prices or wages etc."
+    },
+    {
+        "id": 145,
+        "sentence": "Fixed cultures were immuno-\nstained for the expression of viral nucleoprotein by incubating for 1 h with\nmonoclonal antibodies specific for the nucleoprotein of either influenza A virus\n(kindly provided by Alexander Klimov at Centers for Disease Control) or influ-\nenza B virus (Serotec) followed by 1 h of incubation with peroxidase-labeled\nanti-mouse antibodies (Sigma) and 30 min of incubation with precipitate-form-\ning peroxidase substrate (True Blue; KPL).",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder"
+    },
+    {
+        "id": 146,
+        "sentence": "Fixed cultures were immuno-\nstained for the expression of viral nucleoprotein by incubating for 1 h with\nmonoclonal antibodies specific for the nucleoprotein of either influenza A virus\n(kindly provided by Alexander Klimov at Centers for Disease Control) or influ-\nenza B virus (Serotec) followed by 1 h of incubation with peroxidase-labeled\nanti-mouse antibodies (Sigma) and 30 min of incubation with precipitate-form-\ning peroxidase substrate (True Blue; KPL).",
+        "wordProcessed": "Sigma",
+        "senseFoundByLesk": "the 18th letter of the Greek alphabet"
+    },
+    {
+        "id": 147,
+        "sentence": "Fixed cultures were immuno-\nstained for the expression of viral nucleoprotein by incubating for 1 h with\nmonoclonal antibodies specific for the nucleoprotein of either influenza A virus\n(kindly provided by Alexander Klimov at Centers for Disease Control) or influ-\nenza B virus (Serotec) followed by 1 h of incubation with peroxidase-labeled\nanti-mouse antibodies (Sigma) and 30 min of incubation with precipitate-form-\ning peroxidase substrate (True Blue; KPL).",
+        "wordProcessed": "True",
+        "senseFoundByLesk": "proper alignment; the property possessed by something that is in correct or proper alignment"
+    },
+    {
+        "id": 148,
+        "sentence": "Fixed cultures were immuno-\nstained for the expression of viral nucleoprotein by incubating for 1 h with\nmonoclonal antibodies specific for the nucleoprotein of either influenza A virus\n(kindly provided by Alexander Klimov at Centers for Disease Control) or influ-\nenza B virus (Serotec) followed by 1 h of incubation with peroxidase-labeled\nanti-mouse antibodies (Sigma) and 30 min of incubation with precipitate-form-\ning peroxidase substrate (True Blue; KPL).",
+        "wordProcessed": "Blue",
+        "senseFoundByLesk": "blue color or pigment; resembling the color of the clear sky in the daytime"
+    },
+    {
+        "id": 149,
+        "sentence": "Ten-percent horse serum plus 0.05%\nTween 80 in PBS was used for the preparation of working dilutions of immu-\nnoreagents.",
+        "wordProcessed": "PBS",
+        "senseFoundByLesk": "a unit of information equal to 1024 tebibytes or 2^50 bytes"
+    },
+    {
+        "id": 150,
+        "sentence": "Stained plates were scanned on a flatbed scanner with the data\nacquired by Adobe Photoshop 7.0 software.",
+        "wordProcessed": "Adobe",
+        "senseFoundByLesk": "the clay from which adobe bricks are made"
+    },
+    {
+        "id": 151,
+        "sentence": "Ninety percent inhibitory concentrations\npresented in Table 1 were estimated by visual observation of cultures infected at\na MOI of 20 to 40 focus-forming units per well.",
+        "wordProcessed": "Ninety",
+        "senseFoundByLesk": "the cardinal number that is the product of ten and nine"
+    },
+    {
+        "id": 152,
+        "sentence": "RESULTS\nTransfection of MDCK cells with SIAT1 alters surface ex-\npression of 6-linked and 3-linked sialic acids and enhances\nbinding of a human influenza virus.",
+        "wordProcessed": "RESULTS",
+        "senseFoundByLesk": "a phenomenon that follows and is caused by some previous phenomenon"
+    },
+    {
+        "id": 153,
+        "sentence": "FACS analysis\nindicated that transfection with the pIRESneo-SIAT1 plasmid\nenhanced expression of 6-linked sialic acids and simulta-\nneously lowered expression of 3-linked sialic acids (Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 154,
+        "sentence": "In a solid-phase lectin binding assay, the binding of\nSNA to the plasma membrane of transfected cells increased\nabout twofold, and the binding of MAA decreased by about\n50% (Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 155,
+        "sentence": "As\na control, we used MDCK cells permanently transfected with a\npIRESneo-SIAT1-del plasmid which contained a frame shift\ndeletion in the SIAT1 gene (see Materials and Methods).",
+        "wordProcessed": "Methods",
+        "senseFoundByLesk": "an acting technique introduced by Stanislavsky in which the actor recalls emotions or reactions from his or her own life and uses them to identify with the character being portrayed"
+    },
+    {
+        "id": 156,
+        "sentence": "To test whether changes in sialylation of SIAT1-transfected\ncells affected the strength of virus binding to these cells, we\nused two influenza viruses with distinct receptor-binding phe-\nFIG.",
+        "wordProcessed": "FIG",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 157,
+        "sentence": "Bottom panel, preparations of cell\nplasma membranes adsorbed in the wells of a 96-well plate were\nincubated with DIG-labeled lectins followed by incubation with per-\noxidase-labeled anti-DIG-antibodies.",
+        "wordProcessed": "Bottom",
+        "senseFoundByLesk": "a depression forming the ground under a body of water"
+    },
+    {
+        "id": 158,
+        "sentence": "Receptor-binding characteristics and sensitivities to oseltamivir carboxylate of HA variants of A/Memphis/14/96 (H1N1)\nVariant\nAmino acid\nsubstitution\nin the HAa\nBinding affinityc\n, Kass (ml/U)\nSensitivity to oseltamivir\ncarboxylate, IC90 (M)d\n2,6-Fetuin-HRP 2,3-Fetuin-HRP 24 h 48 h\nM 3.3  0.10 0.046  0.021 0.1 1.0\nM1 E156K 4.9  0.58 0.70  0.30 NDe\n0.01\nE N129Kb\n4.8  0.60 0.48  0.20 0.01 NTf\nE1 Q226R 0.09  0.02 0.85  0.31 100 100\na\nWith respect to HA sequence of variant M. H3 numbering system.",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 159,
+        "sentence": "Receptor-binding characteristics and sensitivities to oseltamivir carboxylate of HA variants of A/Memphis/14/96 (H1N1)\nVariant\nAmino acid\nsubstitution\nin the HAa\nBinding affinityc\n, Kass (ml/U)\nSensitivity to oseltamivir\ncarboxylate, IC90 (M)d\n2,6-Fetuin-HRP 2,3-Fetuin-HRP 24 h 48 h\nM 3.3  0.10 0.046  0.021 0.1 1.0\nM1 E156K 4.9  0.58 0.70  0.30 NDe\n0.01\nE N129Kb\n4.8  0.60 0.48  0.20 0.01 NTf\nE1 Q226R 0.09  0.02 0.85  0.31 100 100\na\nWith respect to HA sequence of variant M. H3 numbering system.",
+        "wordProcessed": "Variant",
+        "senseFoundByLesk": "something a little different from others of the same type"
+    },
+    {
+        "id": 160,
+        "sentence": "Receptor-binding characteristics and sensitivities to oseltamivir carboxylate of HA variants of A/Memphis/14/96 (H1N1)\nVariant\nAmino acid\nsubstitution\nin the HAa\nBinding affinityc\n, Kass (ml/U)\nSensitivity to oseltamivir\ncarboxylate, IC90 (M)d\n2,6-Fetuin-HRP 2,3-Fetuin-HRP 24 h 48 h\nM 3.3  0.10 0.046  0.021 0.1 1.0\nM1 E156K 4.9  0.58 0.70  0.30 NDe\n0.01\nE N129Kb\n4.8  0.60 0.48  0.20 0.01 NTf\nE1 Q226R 0.09  0.02 0.85  0.31 100 100\na\nWith respect to HA sequence of variant M. H3 numbering system.",
+        "wordProcessed": "Amino",
+        "senseFoundByLesk": "the radical -NH2"
+    },
+    {
+        "id": 161,
+        "sentence": "Receptor-binding characteristics and sensitivities to oseltamivir carboxylate of HA variants of A/Memphis/14/96 (H1N1)\nVariant\nAmino acid\nsubstitution\nin the HAa\nBinding affinityc\n, Kass (ml/U)\nSensitivity to oseltamivir\ncarboxylate, IC90 (M)d\n2,6-Fetuin-HRP 2,3-Fetuin-HRP 24 h 48 h\nM 3.3  0.10 0.046  0.021 0.1 1.0\nM1 E156K 4.9  0.58 0.70  0.30 NDe\n0.01\nE N129Kb\n4.8  0.60 0.48  0.20 0.01 NTf\nE1 Q226R 0.09  0.02 0.85  0.31 100 100\na\nWith respect to HA sequence of variant M. H3 numbering system.",
+        "wordProcessed": "Binding",
+        "senseFoundByLesk": "one of a pair of mechanical devices that are attached to a ski and that will grip a ski boot; the bindings should release in case of a fall"
+    },
+    {
+        "id": 162,
+        "sentence": "Receptor-binding characteristics and sensitivities to oseltamivir carboxylate of HA variants of A/Memphis/14/96 (H1N1)\nVariant\nAmino acid\nsubstitution\nin the HAa\nBinding affinityc\n, Kass (ml/U)\nSensitivity to oseltamivir\ncarboxylate, IC90 (M)d\n2,6-Fetuin-HRP 2,3-Fetuin-HRP 24 h 48 h\nM 3.3  0.10 0.046  0.021 0.1 1.0\nM1 E156K 4.9  0.58 0.70  0.30 NDe\n0.01\nE N129Kb\n4.8  0.60 0.48  0.20 0.01 NTf\nE1 Q226R 0.09  0.02 0.85  0.31 100 100\na\nWith respect to HA sequence of variant M. H3 numbering system.",
+        "wordProcessed": "Kass",
+        "senseFoundByLesk": "unknown god; an epithet of Prajapati and Brahma"
+    },
+    {
+        "id": 163,
+        "sentence": "Receptor-binding characteristics and sensitivities to oseltamivir carboxylate of HA variants of A/Memphis/14/96 (H1N1)\nVariant\nAmino acid\nsubstitution\nin the HAa\nBinding affinityc\n, Kass (ml/U)\nSensitivity to oseltamivir\ncarboxylate, IC90 (M)d\n2,6-Fetuin-HRP 2,3-Fetuin-HRP 24 h 48 h\nM 3.3  0.10 0.046  0.021 0.1 1.0\nM1 E156K 4.9  0.58 0.70  0.30 NDe\n0.01\nE N129Kb\n4.8  0.60 0.48  0.20 0.01 NTf\nE1 Q226R 0.09  0.02 0.85  0.31 100 100\na\nWith respect to HA sequence of variant M. H3 numbering system.",
+        "wordProcessed": "M",
+        "senseFoundByLesk": "the cardinal number that is the product of 10 and 100"
+    },
+    {
+        "id": 164,
+        "sentence": "Receptor-binding characteristics and sensitivities to oseltamivir carboxylate of HA variants of A/Memphis/14/96 (H1N1)\nVariant\nAmino acid\nsubstitution\nin the HAa\nBinding affinityc\n, Kass (ml/U)\nSensitivity to oseltamivir\ncarboxylate, IC90 (M)d\n2,6-Fetuin-HRP 2,3-Fetuin-HRP 24 h 48 h\nM 3.3  0.10 0.046  0.021 0.1 1.0\nM1 E156K 4.9  0.58 0.70  0.30 NDe\n0.01\nE N129Kb\n4.8  0.60 0.48  0.20 0.01 NTf\nE1 Q226R 0.09  0.02 0.85  0.31 100 100\na\nWith respect to HA sequence of variant M. H3 numbering system.",
+        "wordProcessed": "M",
+        "senseFoundByLesk": "the cardinal number that is the product of 10 and 100"
+    },
+    {
+        "id": 165,
+        "sentence": "Receptor-binding characteristics and sensitivities to oseltamivir carboxylate of HA variants of A/Memphis/14/96 (H1N1)\nVariant\nAmino acid\nsubstitution\nin the HAa\nBinding affinityc\n, Kass (ml/U)\nSensitivity to oseltamivir\ncarboxylate, IC90 (M)d\n2,6-Fetuin-HRP 2,3-Fetuin-HRP 24 h 48 h\nM 3.3  0.10 0.046  0.021 0.1 1.0\nM1 E156K 4.9  0.58 0.70  0.30 NDe\n0.01\nE N129Kb\n4.8  0.60 0.48  0.20 0.01 NTf\nE1 Q226R 0.09  0.02 0.85  0.31 100 100\na\nWith respect to HA sequence of variant M. H3 numbering system.",
+        "wordProcessed": "M1",
+        "senseFoundByLesk": "a measure of the money supply; includes currency in circulation plus demand deposits or checking account balances"
+    },
+    {
+        "id": 166,
+        "sentence": "Receptor-binding characteristics and sensitivities to oseltamivir carboxylate of HA variants of A/Memphis/14/96 (H1N1)\nVariant\nAmino acid\nsubstitution\nin the HAa\nBinding affinityc\n, Kass (ml/U)\nSensitivity to oseltamivir\ncarboxylate, IC90 (M)d\n2,6-Fetuin-HRP 2,3-Fetuin-HRP 24 h 48 h\nM 3.3  0.10 0.046  0.021 0.1 1.0\nM1 E156K 4.9  0.58 0.70  0.30 NDe\n0.01\nE N129Kb\n4.8  0.60 0.48  0.20 0.01 NTf\nE1 Q226R 0.09  0.02 0.85  0.31 100 100\na\nWith respect to HA sequence of variant M. H3 numbering system.",
+        "wordProcessed": "E",
+        "senseFoundByLesk": "the base of the natural system of logarithms; approximately equal to 2.718282..."
+    },
+    {
+        "id": 167,
+        "sentence": "Receptor-binding characteristics and sensitivities to oseltamivir carboxylate of HA variants of A/Memphis/14/96 (H1N1)\nVariant\nAmino acid\nsubstitution\nin the HAa\nBinding affinityc\n, Kass (ml/U)\nSensitivity to oseltamivir\ncarboxylate, IC90 (M)d\n2,6-Fetuin-HRP 2,3-Fetuin-HRP 24 h 48 h\nM 3.3  0.10 0.046  0.021 0.1 1.0\nM1 E156K 4.9  0.58 0.70  0.30 NDe\n0.01\nE N129Kb\n4.8  0.60 0.48  0.20 0.01 NTf\nE1 Q226R 0.09  0.02 0.85  0.31 100 100\na\nWith respect to HA sequence of variant M. H3 numbering system.",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 168,
+        "sentence": "b\nThe mutation destroys a glycosylation sequon in the HA.",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 169,
+        "sentence": "c\nAffinity of virus binding to HRP-labeled resialylated fetuins containing either 6-linked or 3-linked sialic acid moieties.",
+        "wordProcessed": "Affinity",
+        "senseFoundByLesk": "a natural attraction or feeling of kinship"
+    },
+    {
+        "id": 170,
+        "sentence": "The higher values of association constants\n(Kass) reflect higher affinities.",
+        "wordProcessed": "Kass",
+        "senseFoundByLesk": "unknown god; an epithet of Prajapati and Brahma"
+    },
+    {
+        "id": 171,
+        "sentence": "d\nFocus reduction assay in MDCK-SIATI cells was performed on two different occasions, with infection times of 24 and 48 h, respectively (see the text).",
+        "wordProcessed": "Focus",
+        "senseFoundByLesk": "a fixed reference point on the concave side of a conic section"
+    },
+    {
+        "id": 172,
+        "sentence": "e\nND, not determined.",
+        "wordProcessed": "ND",
+        "senseFoundByLesk": "a state of north central United States bordering on Canada"
+    },
+    {
+        "id": 173,
+        "sentence": "IC90 of MI variant could not be determined due to a poor virus spread 24 h postinfection.",
+        "wordProcessed": "MI",
+        "senseFoundByLesk": "a former British unit of length equivalent to 6,080 feet (1,853.184 meters); 800 feet longer than a statute mile"
+    },
+    {
+        "id": 174,
+        "sentence": "f\nNT, not tested.",
+        "wordProcessed": "NT",
+        "senseFoundByLesk": "an organization concerned to preserve historic monuments and buildings and places of historical interest or natural beauty; founded in 1895 and supported by endowment and private subscription"
+    },
+    {
+        "id": 175,
+        "sentence": "8420 MATROSOVICH ET AL.",
+        "wordProcessed": "AL",
+        "senseFoundByLesk": "a silvery ductile metallic element found primarily in bauxite"
+    },
+    {
+        "id": 176,
+        "sentence": "The egg-\nadapted variant E1 of this virus had the opposite receptor\nspecificity due to a point mutation Q226R in the HA (see\nTable 1).",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 177,
+        "sentence": "The egg-\nadapted variant E1 of this virus had the opposite receptor\nspecificity due to a point mutation Q226R in the HA (see\nTable 1).",
+        "wordProcessed": "Table",
+        "senseFoundByLesk": "a set of data arranged in rows and columns"
+    },
+    {
+        "id": 178,
+        "sentence": "The M virus bound to membranes isolated from\nMDCK-SIAT1 cells significantly better than it bound to mem-\nbranes of parent MDCK cells (Fig.",
+        "wordProcessed": "M",
+        "senseFoundByLesk": "a unit of information equal to 1024 kibibytes or 2^20 (1,048,576) bytes"
+    },
+    {
+        "id": 179,
+        "sentence": "The M virus bound to membranes isolated from\nMDCK-SIAT1 cells significantly better than it bound to mem-\nbranes of parent MDCK cells (Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 180,
+        "sentence": "On the\ncontrary, the egg-adapted mutant bound to transfected cells\nmore weakly than to MDCK cells (Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 181,
+        "sentence": "2, bottom panel), al-\nthough the difference in binding was less pronounced than in\nthe case of M virus.",
+        "wordProcessed": "M",
+        "senseFoundByLesk": "the cardinal number that is the product of 10 and 100"
+    },
+    {
+        "id": 182,
+        "sentence": "Because influenza viruses did not\nproduce clearly visible plaques in MDCK-SIAT1 cells, we used\na focus reduction assay to compare virus sensitivity to NA\ninhibitors in the parent MDCK cells and in the SIAT1-trans-\nfected cells.",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 183,
+        "sentence": "Parallel cultures of two cell lines in 96-well plates\nwere infected with serial virus dilutions in the presence or\nabsence of oseltamivir carboxylate and immunostained for the\nexpression of virus nucleoprotein.",
+        "wordProcessed": "Parallel",
+        "senseFoundByLesk": "(mathematics) one of a set of parallel geometric figures (parallel lines or planes)"
+    },
+    {
+        "id": 184,
+        "sentence": "Results of one representative exper-\niment are shown in Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 185,
+        "sentence": "In MDCK-SIAT1 cells, 0.001, 0.01,\nand 0.1 M concentrations of the drug markedly decreased the\nsize of infectious foci formed by H3N2, H1N1, and type B\nviruses, respectively.",
+        "wordProcessed": "M",
+        "senseFoundByLesk": "the cardinal number that is the product of 10 and 100"
+    },
+    {
+        "id": 186,
+        "sentence": "In MDCK-SIAT1 cells, 0.001, 0.01,\nand 0.1 M concentrations of the drug markedly decreased the\nsize of infectious foci formed by H3N2, H1N1, and type B\nviruses, respectively.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder"
+    },
+    {
+        "id": 187,
+        "sentence": "Thus, MDCK-SIAT1 cells provide a more sensi-\ntive system than MDCK cells for testing the susceptibility of\nhuman influenza A and B viruses to NAI.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 188,
+        "sentence": "Thus, MDCK-SIAT1 cells provide a more sensi-\ntive system than MDCK cells for testing the susceptibility of\nhuman influenza A and B viruses to NAI.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "(physics) a unit of nuclear cross section; the effective circular area that one particle presents to another as a target for an encounter"
+    },
+    {
+        "id": 189,
+        "sentence": "To check whether a focus reduction assay with MDCK-\nSIAT1 cells could clearly identify viruses with drug-resistant\nmutations in NA, we compared two drug-sensitive clinical virus\nisolates with their oseltamivir treatment-selected drug-resis-\ntant mutants (Fig.",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 190,
+        "sentence": "To check whether a focus reduction assay with MDCK-\nSIAT1 cells could clearly identify viruses with drug-resistant\nmutations in NA, we compared two drug-sensitive clinical virus\nisolates with their oseltamivir treatment-selected drug-resis-\ntant mutants (Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 191,
+        "sentence": "A 0.1 M concentration of oseltamivir\ncarboxylate substantially inhibited spread of a wild-type A/Syd-\nFIG.",
+        "wordProcessed": "M",
+        "senseFoundByLesk": "concentration measured by the number of moles of solute per liter of solution"
+    },
+    {
+        "id": 192,
+        "sentence": "A 0.1 M concentration of oseltamivir\ncarboxylate substantially inhibited spread of a wild-type A/Syd-\nFIG.",
+        "wordProcessed": "FIG",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 193,
+        "sentence": "Data points rep-\nresent results of two replicate experiments performed on the same\nplate as described in Materials and Methods.",
+        "wordProcessed": "Data",
+        "senseFoundByLesk": "an item of factual information derived from measurement or research"
+    },
+    {
+        "id": 194,
+        "sentence": "FIG.",
+        "wordProcessed": "FIG",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 195,
+        "sentence": "Effect of oseltamivir carboxylate on the formation of virus\nfoci in parallel cultures of MDCK (M) and MDCK-SIAT1 cells (ST)\ninfected with the same virus multiplicity.",
+        "wordProcessed": "M",
+        "senseFoundByLesk": "the cardinal number that is the product of 10 and 100"
+    },
+    {
+        "id": 196,
+        "sentence": "The\ninfection time was 24 h for the type A viruses and 48 h for the type B\nvirus.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "any of several fat-soluble vitamins essential for normal vision; prevents night blindness or inflammation or dryness of the eyes"
+    },
+    {
+        "id": 197,
+        "sentence": "The\ninfection time was 24 h for the type A viruses and 48 h for the type B\nvirus.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder"
+    },
+    {
+        "id": 198,
+        "sentence": "77, 2003 ALTERATION OF INFLUENZA VIRUS RECEPTORS IN MDCK CELLS 8421\n\fney/97-like virus (Fig.",
+        "wordProcessed": "ALTERATION",
+        "senseFoundByLesk": "the act of revising or altering (involving reconsideration and modification)"
+    },
+    {
+        "id": 199,
+        "sentence": "77, 2003 ALTERATION OF INFLUENZA VIRUS RECEPTORS IN MDCK CELLS 8421\n\fney/97-like virus (Fig.",
+        "wordProcessed": "INFLUENZA",
+        "senseFoundByLesk": "an acute febrile highly contagious viral disease"
+    },
+    {
+        "id": 200,
+        "sentence": "77, 2003 ALTERATION OF INFLUENZA VIRUS RECEPTORS IN MDCK CELLS 8421\n\fney/97-like virus (Fig.",
+        "wordProcessed": "VIRUS",
+        "senseFoundByLesk": "a software program capable of reproducing itself and usually capable of causing great harm to files or other programs on the same computer"
+    },
+    {
+        "id": 201,
+        "sentence": "77, 2003 ALTERATION OF INFLUENZA VIRUS RECEPTORS IN MDCK CELLS 8421\n\fney/97-like virus (Fig.",
+        "wordProcessed": "RECEPTORS",
+        "senseFoundByLesk": "an organ having nerve endings (in the skin or viscera or eye or ear or nose or mouth) that respond to stimulation"
+    },
+    {
+        "id": 202,
+        "sentence": "77, 2003 ALTERATION OF INFLUENZA VIRUS RECEPTORS IN MDCK CELLS 8421\n\fney/97-like virus (Fig.",
+        "wordProcessed": "IN",
+        "senseFoundByLesk": "a rare soft silvery metallic element; occurs in small quantities in sphalerite"
+    },
+    {
+        "id": 203,
+        "sentence": "77, 2003 ALTERATION OF INFLUENZA VIRUS RECEPTORS IN MDCK CELLS 8421\n\fney/97-like virus (Fig.",
+        "wordProcessed": "CELLS",
+        "senseFoundByLesk": "a hand-held mobile radiotelephone for use in an area divided into small sections, each with its own short-range transmitter/receiver"
+    },
+    {
+        "id": 204,
+        "sentence": "77, 2003 ALTERATION OF INFLUENZA VIRUS RECEPTORS IN MDCK CELLS 8421\n\fney/97-like virus (Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 205,
+        "sentence": "By contrast, a 100-fold-higher con-\ncentration of the drug (10 M) was required for a detectable\ninhibition of the drug-resistant variant with an R292K muta-\ntion in NA.",
+        "wordProcessed": "M",
+        "senseFoundByLesk": "the cardinal number that is the product of 10 and 100"
+    },
+    {
+        "id": 206,
+        "sentence": "By contrast, a 100-fold-higher con-\ncentration of the drug (10 M) was required for a detectable\ninhibition of the drug-resistant variant with an R292K muta-\ntion in NA.",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 207,
+        "sentence": "Interestingly, the infectious foci of the mutant in\nthe absence of the drug were smaller that those of the wild-type\nvirus, suggesting that the NA mutation impaired spread of the\nvirus in MDCK-SIAT1 cells.",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 208,
+        "sentence": "This effect is consistent with the\nreported compromised infectivity of the R292K NA mutant in\nvivo (7).",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 209,
+        "sentence": "Because of a slower spread of the NA mutant, this\nvirus produced very small foci 24 h postinfection, making it\nimpossible to assess a reduction in focus size in the presence of\nNA inhibitor (data not shown).",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 210,
+        "sentence": "Because of a slower spread of the NA mutant, this\nvirus produced very small foci 24 h postinfection, making it\nimpossible to assess a reduction in focus size in the presence of\nNA inhibitor (data not shown).",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 211,
+        "sentence": "To solve this problem, we used\nlonger infection times for comparison of wild-type viruses and\nNA mutants.",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 212,
+        "sentence": "For example, 0.001 and 0.1 M\nconcentrations of the drug were required, respectively, for a\nsubstantial inhibition of wild-type virus spread during 24 h\n(Fig.",
+        "wordProcessed": "M",
+        "senseFoundByLesk": "the cardinal number that is the product of 10 and 100"
+    },
+    {
+        "id": 213,
+        "sentence": "For example, 0.001 and 0.1 M\nconcentrations of the drug were required, respectively, for a\nsubstantial inhibition of wild-type virus spread during 24 h\n(Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 214,
+        "sentence": "3) and 40 h of infection (Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 215,
+        "sentence": "However, in MDCK-SIAT1\ncells, the wild-type virus can be clearly differentiated from its\ndrug-resistant mutant with an E119V mutation in the NA.",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 216,
+        "sentence": "Sensitivity to NA inhibitor in MDCK-SIAT1 cells correlates\nwith virus affinity for 6-linked sialic acids.",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 217,
+        "sentence": "To address the\nquestion of whether HA-mediated drug resistance could be\nadequately assayed in MDCK-SIAT1 cells, we needed a panel\nof virus variants which differ by the receptor-binding charac-\nteristics of their HAs.",
+        "wordProcessed": "HAs",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 218,
+        "sentence": "To generate such variants, we selected\ntwo receptor-binding mutants (E and E1) of the clinical H1N1\nvirus isolate A/Memphis/14/96 by adaptation of the virus to\nembryonated hen's eggs.",
+        "wordProcessed": "E",
+        "senseFoundByLesk": "the base of the natural system of logarithms; approximately equal to 2.718282..."
+    },
+    {
+        "id": 219,
+        "sentence": "Furthermore, during the plaque pu-\nrification of the original human virus in MDCK cells, two\nMDCK-derived variants were obtained, M and M1.",
+        "wordProcessed": "M",
+        "senseFoundByLesk": "the cardinal number that is the product of 10 and 100"
+    },
+    {
+        "id": 220,
+        "sentence": "Furthermore, during the plaque pu-\nrification of the original human virus in MDCK cells, two\nMDCK-derived variants were obtained, M and M1.",
+        "wordProcessed": "M1",
+        "senseFoundByLesk": "a measure of the money supply; includes currency in circulation plus demand deposits or checking account balances"
+    },
+    {
+        "id": 221,
+        "sentence": "The com-\nplete HA genes of four virus variants were sequenced, and\ntheir receptor-binding characteristics were determined using\nresialylated fetuin, which carried either 3- or 6-linked sialic\nacids (Table 1).",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 222,
+        "sentence": "Among both MDCK-derived viruses, only variant M dis-\nplayed a typical receptor-binding phenotype of clinical human\nisolates, namely, a high affinity for 6-linked sialic acids and a\nlack of binding to 3-linked sialic acids (13, 15).",
+        "wordProcessed": "M",
+        "senseFoundByLesk": "a unit of information equal to 1024 kibibytes or 2^20 (1,048,576) bytes"
+    },
+    {
+        "id": 223,
+        "sentence": "Variant M1\ndiffered from variant M by the amino acid substitution E156K,\nwhich increased a positive charge of the globular head of HA\nby two units of charge and enhanced the virus binding affinity\nfor both 3-linked and 6-linked sialic acids.",
+        "wordProcessed": "Variant",
+        "senseFoundByLesk": "something a little different from others of the same type"
+    },
+    {
+        "id": 224,
+        "sentence": "Variant M1\ndiffered from variant M by the amino acid substitution E156K,\nwhich increased a positive charge of the globular head of HA\nby two units of charge and enhanced the virus binding affinity\nfor both 3-linked and 6-linked sialic acids.",
+        "wordProcessed": "M1",
+        "senseFoundByLesk": "a measure of the money supply; includes currency in circulation plus demand deposits or checking account balances"
+    },
+    {
+        "id": 225,
+        "sentence": "Variant M1\ndiffered from variant M by the amino acid substitution E156K,\nwhich increased a positive charge of the globular head of HA\nby two units of charge and enhanced the virus binding affinity\nfor both 3-linked and 6-linked sialic acids.",
+        "wordProcessed": "M",
+        "senseFoundByLesk": "the cardinal number that is the product of 10 and 100"
+    },
+    {
+        "id": 226,
+        "sentence": "Variant M1\ndiffered from variant M by the amino acid substitution E156K,\nwhich increased a positive charge of the globular head of HA\nby two units of charge and enhanced the virus binding affinity\nfor both 3-linked and 6-linked sialic acids.",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 227,
+        "sentence": "Analysis of the HA\nsequences in the Influenza Sequence Database (26) indicated\nthat the A/Memphis/14/96 strain used in this study was phylo-\ngenetically closely related to H1N1 viruses isolated in 1995 to\n1996.",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 228,
+        "sentence": "Analysis of the HA\nsequences in the Influenza Sequence Database (26) indicated\nthat the A/Memphis/14/96 strain used in this study was phylo-\ngenetically closely related to H1N1 viruses isolated in 1995 to\n1996.",
+        "wordProcessed": "Influenza",
+        "senseFoundByLesk": "an acute febrile highly contagious viral disease"
+    },
+    {
+        "id": 229,
+        "sentence": "Analysis of the HA\nsequences in the Influenza Sequence Database (26) indicated\nthat the A/Memphis/14/96 strain used in this study was phylo-\ngenetically closely related to H1N1 viruses isolated in 1995 to\n1996.",
+        "wordProcessed": "Sequence",
+        "senseFoundByLesk": "film consisting of a succession of related shots that develop a given subject in a movie"
+    },
+    {
+        "id": 230,
+        "sentence": "Analysis of the HA\nsequences in the Influenza Sequence Database (26) indicated\nthat the A/Memphis/14/96 strain used in this study was phylo-\ngenetically closely related to H1N1 viruses isolated in 1995 to\n1996.",
+        "wordProcessed": "Database",
+        "senseFoundByLesk": "an organized body of related information"
+    },
+    {
+        "id": 231,
+        "sentence": "Among about 30 H1 HA sequences from this time pe-\nriod, three sequences carry 156G and the rest carry 156E.",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 232,
+        "sentence": "Based\non the results of sequence comparison and on receptor-binding\ncharacteristics, we conclude that variant M represents the orig-\ninal clinical human virus, whereas M1 is a receptor-binding\nmutant selected in MDCK cells.",
+        "wordProcessed": "M",
+        "senseFoundByLesk": "the cardinal number that is the product of 10 and 100"
+    },
+    {
+        "id": 233,
+        "sentence": "Based\non the results of sequence comparison and on receptor-binding\ncharacteristics, we conclude that variant M represents the orig-\ninal clinical human virus, whereas M1 is a receptor-binding\nmutant selected in MDCK cells.",
+        "wordProcessed": "M1",
+        "senseFoundByLesk": "a measure of the money supply; includes currency in circulation plus demand deposits or checking account balances"
+    },
+    {
+        "id": 234,
+        "sentence": "Egg adaptation of human viruses is based on selection of HA\nmutants with enhanced affinity for 3-linked sialic acids and, as\na rule, leads to accompanying changes in the affinity for\n6-linked sialic acids (13, 15, 21).",
+        "wordProcessed": "Egg",
+        "senseFoundByLesk": "animal reproductive body consisting of an ovum or embryo together with nutritive and protective envelopes; especially the thin-shelled reproductive body laid by e.g. female birds"
+    },
+    {
+        "id": 235,
+        "sentence": "Egg adaptation of human viruses is based on selection of HA\nmutants with enhanced affinity for 3-linked sialic acids and, as\na rule, leads to accompanying changes in the affinity for\n6-linked sialic acids (13, 15, 21).",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 236,
+        "sentence": "Accordingly, the egg-adapted\nvariants E and E1 demonstrated significantly enhanced binding\nto fetuin carrying 3-linked sialic acids compared to the binding\nof the original M variant (Table 1).",
+        "wordProcessed": "E",
+        "senseFoundByLesk": "the base of the natural system of logarithms; approximately equal to 2.718282..."
+    },
+    {
+        "id": 237,
+        "sentence": "Accordingly, the egg-adapted\nvariants E and E1 demonstrated significantly enhanced binding\nto fetuin carrying 3-linked sialic acids compared to the binding\nof the original M variant (Table 1).",
+        "wordProcessed": "M",
+        "senseFoundByLesk": "the cardinal number that is the product of 10 and 100"
+    },
+    {
+        "id": 238,
+        "sentence": "In the case of variant E, the\nHA mutation N129K, responsible for the adaptation, increased\nthe positive charge of HA, destroyed a glycosylation sequon\nnear the receptor binding site, and enhanced the virus affinity\nfor both 3-linked and 6-linked sialic acids.",
+        "wordProcessed": "E",
+        "senseFoundByLesk": "a fat-soluble vitamin that is essential for normal reproduction; an important antioxidant that neutralizes free radicals in the body"
+    },
+    {
+        "id": 239,
+        "sentence": "In the case of variant E, the\nHA mutation N129K, responsible for the adaptation, increased\nthe positive charge of HA, destroyed a glycosylation sequon\nnear the receptor binding site, and enhanced the virus affinity\nfor both 3-linked and 6-linked sialic acids.",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 240,
+        "sentence": "In the case of variant E, the\nHA mutation N129K, responsible for the adaptation, increased\nthe positive charge of HA, destroyed a glycosylation sequon\nnear the receptor binding site, and enhanced the virus affinity\nfor both 3-linked and 6-linked sialic acids.",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 241,
+        "sentence": "Interestingly, the amino\nacid in position 226 is crucial for the recognition of the Sia-Gal\nlinkage by H2 and H3 subtype HAs (reference 28 and refer-\nences therein).",
+        "wordProcessed": "HAs",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 242,
+        "sentence": "In the first experiment, the cells were fixed 24 h after\nFIG.",
+        "wordProcessed": "FIG",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 243,
+        "sentence": "Comparison of clinical isolates (wt) and their drug-resistant\nvariants with NA mutations (mut) by focus reduction assay.",
+        "wordProcessed": "Comparison",
+        "senseFoundByLesk": "relation based on similarities and differences"
+    },
+    {
+        "id": 244,
+        "sentence": "Comparison of clinical isolates (wt) and their drug-resistant\nvariants with NA mutations (mut) by focus reduction assay.",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 245,
+        "sentence": "Infection time was 40 h. (b) A/Wuhan/\n359/95-like virus (H3N2) and its variant with NA mutation E119V\nassayed in parallel in MDCK cells (two upper rows) and in MDCK-\nSIAT1 cells (two lower rows).",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 246,
+        "sentence": "Infection time was 48 h.\n8422 MATROSOVICH ET AL.",
+        "wordProcessed": "AL",
+        "senseFoundByLesk": "a silvery ductile metallic element found primarily in bauxite"
+    },
+    {
+        "id": 247,
+        "sentence": "Under these conditions, 0.1 and 0.01 M concentra-\ntions of the drug were required to inhibit the spread of M and\nE variants by 90%, respectively, whereas E1 virus was not\ninhibited to any significant extent at the highest concentration\nof oseltamivir carboxylate tested (100 M).",
+        "wordProcessed": "M",
+        "senseFoundByLesk": "the cardinal number that is the product of 10 and 100"
+    },
+    {
+        "id": 248,
+        "sentence": "Under these conditions, 0.1 and 0.01 M concentra-\ntions of the drug were required to inhibit the spread of M and\nE variants by 90%, respectively, whereas E1 virus was not\ninhibited to any significant extent at the highest concentration\nof oseltamivir carboxylate tested (100 M).",
+        "wordProcessed": "M",
+        "senseFoundByLesk": "the cardinal number that is the product of 10 and 100"
+    },
+    {
+        "id": 249,
+        "sentence": "Under these conditions, 0.1 and 0.01 M concentra-\ntions of the drug were required to inhibit the spread of M and\nE variants by 90%, respectively, whereas E1 virus was not\ninhibited to any significant extent at the highest concentration\nof oseltamivir carboxylate tested (100 M).",
+        "wordProcessed": "E",
+        "senseFoundByLesk": "the cardinal compass point that is at 90 degrees"
+    },
+    {
+        "id": 250,
+        "sentence": "Under these conditions, 0.1 and 0.01 M concentra-\ntions of the drug were required to inhibit the spread of M and\nE variants by 90%, respectively, whereas E1 virus was not\ninhibited to any significant extent at the highest concentration\nof oseltamivir carboxylate tested (100 M).",
+        "wordProcessed": "M",
+        "senseFoundByLesk": "the cardinal number that is the product of 10 and 100"
+    },
+    {
+        "id": 251,
+        "sentence": "Because the M1\nvariant produced very tiny foci 24 h postinfection, precluding\nunambiguous detection of inhibition, the assay was repeated\nfor M, M1, and E1 viruses using a 48-h incubation time.",
+        "wordProcessed": "M1",
+        "senseFoundByLesk": "a measure of the money supply; includes currency in circulation plus demand deposits or checking account balances"
+    },
+    {
+        "id": 252,
+        "sentence": "Because the M1\nvariant produced very tiny foci 24 h postinfection, precluding\nunambiguous detection of inhibition, the assay was repeated\nfor M, M1, and E1 viruses using a 48-h incubation time.",
+        "wordProcessed": "M",
+        "senseFoundByLesk": "the cardinal number that is the product of 10 and 100"
+    },
+    {
+        "id": 253,
+        "sentence": "Because the M1\nvariant produced very tiny foci 24 h postinfection, precluding\nunambiguous detection of inhibition, the assay was repeated\nfor M, M1, and E1 viruses using a 48-h incubation time.",
+        "wordProcessed": "M1",
+        "senseFoundByLesk": "a measure of the money supply; includes currency in circulation plus demand deposits or checking account balances"
+    },
+    {
+        "id": 254,
+        "sentence": "In this\ncase, the M1 variant was 100-fold more sensitive to the NA\ninhibitor than the original M virus.",
+        "wordProcessed": "M1",
+        "senseFoundByLesk": "a measure of the money supply; includes currency in circulation plus demand deposits or checking account balances"
+    },
+    {
+        "id": 255,
+        "sentence": "In this\ncase, the M1 variant was 100-fold more sensitive to the NA\ninhibitor than the original M virus.",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 256,
+        "sentence": "In this\ncase, the M1 variant was 100-fold more sensitive to the NA\ninhibitor than the original M virus.",
+        "wordProcessed": "M",
+        "senseFoundByLesk": "the cardinal number that is the product of 10 and 100"
+    },
+    {
+        "id": 257,
+        "sentence": "Namely,\nE and M1 mutants with enhanced binding affinity for 6-linked\nreceptors were more sensitive to oseltamivir carboxylate than\nthe wild-type virus, whereas the E1 variant was completely\nresistant, in correlation with its inability to bind to 6-linked\nsialic acids and despite its highest affinity for 3-linked sialic\nacids.",
+        "wordProcessed": "E",
+        "senseFoundByLesk": "a fat-soluble vitamin that is essential for normal reproduction; an important antioxidant that neutralizes free radicals in the body"
+    },
+    {
+        "id": 258,
+        "sentence": "Namely,\nE and M1 mutants with enhanced binding affinity for 6-linked\nreceptors were more sensitive to oseltamivir carboxylate than\nthe wild-type virus, whereas the E1 variant was completely\nresistant, in correlation with its inability to bind to 6-linked\nsialic acids and despite its highest affinity for 3-linked sialic\nacids.",
+        "wordProcessed": "M1",
+        "senseFoundByLesk": "a measure of the money supply; includes currency in circulation plus demand deposits or checking account balances"
+    },
+    {
+        "id": 259,
+        "sentence": "Thus, a high sensitivity to oseltamivir of the M1 variant com-\npared to that of the E variant correlated with a higher affinity\nof the former virus for 2,3-fetuin.",
+        "wordProcessed": "M1",
+        "senseFoundByLesk": "a measure of the money supply; includes currency in circulation plus demand deposits or checking account balances"
+    },
+    {
+        "id": 260,
+        "sentence": "Thus, a high sensitivity to oseltamivir of the M1 variant com-\npared to that of the E variant correlated with a higher affinity\nof the former virus for 2,3-fetuin.",
+        "wordProcessed": "E",
+        "senseFoundByLesk": "a fat-soluble vitamin that is essential for normal reproduction; an important antioxidant that neutralizes free radicals in the body"
+    },
+    {
+        "id": 261,
+        "sentence": "DISCUSSION\nLow-passage-number clinical influenza virus isolates often\nappear insensitive to NAI when tested in MDCK or other\nlaboratory cell lines.",
+        "wordProcessed": "DISCUSSION",
+        "senseFoundByLesk": "an exchange of views on some topic"
+    },
+    {
+        "id": 262,
+        "sentence": "SIAT1 catalyses synthesis of 6-sialyl\n(N-acetyllactosamine) [Neu5Ac(2,6)Gal(1,4)GlcNAc], the\ncommon high-affinity receptor determinant of human influ-\nenza A and B viruses (13).",
+        "wordProcessed": "Gal",
+        "senseFoundByLesk": "United States liquid unit equal to 4 quarts or 3.785 liters"
+    },
+    {
+        "id": 263,
+        "sentence": "SIAT1 catalyses synthesis of 6-sialyl\n(N-acetyllactosamine) [Neu5Ac(2,6)Gal(1,4)GlcNAc], the\ncommon high-affinity receptor determinant of human influ-\nenza A and B viruses (13).",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 264,
+        "sentence": "SIAT1 catalyses synthesis of 6-sialyl\n(N-acetyllactosamine) [Neu5Ac(2,6)Gal(1,4)GlcNAc], the\ncommon high-affinity receptor determinant of human influ-\nenza A and B viruses (13).",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder"
+    },
+    {
+        "id": 265,
+        "sentence": "Representative clinical isolates of H1N1 and H3N2 influ-\nenza A viruses and type B viruses were substantially more\nsensitive to the NA inhibitor oseltamivir carboxylate in SIAT1-\ntransfected cells than in parent cells.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 266,
+        "sentence": "Representative clinical isolates of H1N1 and H3N2 influ-\nenza A viruses and type B viruses were substantially more\nsensitive to the NA inhibitor oseltamivir carboxylate in SIAT1-\ntransfected cells than in parent cells.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder"
+    },
+    {
+        "id": 267,
+        "sentence": "Representative clinical isolates of H1N1 and H3N2 influ-\nenza A viruses and type B viruses were substantially more\nsensitive to the NA inhibitor oseltamivir carboxylate in SIAT1-\ntransfected cells than in parent cells.",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 268,
+        "sentence": "As a consequence, a\nhigher level of NA activity would be needed to desialylate viral\nHA and NA to a degree that prevents self-aggregation of the\nprogeny virions.",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 269,
+        "sentence": "As a consequence, a\nhigher level of NA activity would be needed to desialylate viral\nHA and NA to a degree that prevents self-aggregation of the\nprogeny virions.",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 270,
+        "sentence": "As a consequence, a\nhigher level of NA activity would be needed to desialylate viral\nHA and NA to a degree that prevents self-aggregation of the\nprogeny virions.",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 271,
+        "sentence": "For example, an\ninfluenza B virus isolate recovered from an immunocompro-\nmised child after 12 days of treatment with zanamivir was\nhighly sensitive to the drug in MDCK cells despite a drug-\nresistant phenotype in the NA enzyme inhibition assay (18).",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "(physics) a unit of nuclear cross section; the effective circular area that one particle presents to another as a target for an encounter"
+    },
+    {
+        "id": 272,
+        "sentence": "For example, an\ninfluenza B virus isolate recovered from an immunocompro-\nmised child after 12 days of treatment with zanamivir was\nhighly sensitive to the drug in MDCK cells despite a drug-\nresistant phenotype in the NA enzyme inhibition assay (18).",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 273,
+        "sentence": "Compared to the pretreatment isolate, this virus had a drug-\nresistant mutation in the NA catalytic site (R152K) and a\nmutation in the region of the HA receptor-binding site\n(T198I).",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 274,
+        "sentence": "Compared to the pretreatment isolate, this virus had a drug-\nresistant mutation in the NA catalytic site (R152K) and a\nmutation in the region of the HA receptor-binding site\n(T198I).",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 275,
+        "sentence": "The HA mutation increased the virus binding to\n3-linked receptors and, as a result, to MDCK cells which ex-\npress high quantities of 3-linked sialic acids (21, 33).",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 276,
+        "sentence": "Enhanced\nbinding to cells increased the virus dependence on the NA\nactivity, thereby masking the drug-resistant effect of the NA\nmutation.",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 277,
+        "sentence": "Enhanced\nbinding to cells increased the virus dependence on the NA\nactivity, thereby masking the drug-resistant effect of the NA\nmutation.",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 278,
+        "sentence": "In view of this\nhypothesis, we hoped that permanent expression of the SIAT1\ngene in MDCK cells could decrease -2,3-sialylation in these\ncells due to competition between SIAT1 and -2,3-sialyltrans-\nferases which utilize the same substrate [Gal(1,4)GlcNAc]\n(for example, ST3Gal III and ST3Gal IV [35]).",
+        "wordProcessed": "Gal",
+        "senseFoundByLesk": "United States liquid unit equal to 4 quarts or 3.785 liters"
+    },
+    {
+        "id": 279,
+        "sentence": "In view of this\nhypothesis, we hoped that permanent expression of the SIAT1\ngene in MDCK cells could decrease -2,3-sialylation in these\ncells due to competition between SIAT1 and -2,3-sialyltrans-\nferases which utilize the same substrate [Gal(1,4)GlcNAc]\n(for example, ST3Gal III and ST3Gal IV [35]).",
+        "wordProcessed": "III",
+        "senseFoundByLesk": "the cardinal number that is the sum of one and one and one"
+    },
+    {
+        "id": 280,
+        "sentence": "In view of this\nhypothesis, we hoped that permanent expression of the SIAT1\ngene in MDCK cells could decrease -2,3-sialylation in these\ncells due to competition between SIAT1 and -2,3-sialyltrans-\nferases which utilize the same substrate [Gal(1,4)GlcNAc]\n(for example, ST3Gal III and ST3Gal IV [35]).",
+        "wordProcessed": "IV",
+        "senseFoundByLesk": "the cardinal number that is the sum of three and one"
+    },
+    {
+        "id": 281,
+        "sentence": "The MAA\nwhich we used to determine changes in expression of 3-linked\nsialic acids selectively binds to Neu5Ac/Gc(2,3)Gal(1,4)Gl-\ncNAc moieties synthesized by ST3Gal III and ST3Gal IV (23).",
+        "wordProcessed": "Gal",
+        "senseFoundByLesk": "United States liquid unit equal to 4 quarts or 3.785 liters"
+    },
+    {
+        "id": 282,
+        "sentence": "The MAA\nwhich we used to determine changes in expression of 3-linked\nsialic acids selectively binds to Neu5Ac/Gc(2,3)Gal(1,4)Gl-\ncNAc moieties synthesized by ST3Gal III and ST3Gal IV (23).",
+        "wordProcessed": "III",
+        "senseFoundByLesk": "the cardinal number that is the sum of one and one and one"
+    },
+    {
+        "id": 283,
+        "sentence": "The MAA\nwhich we used to determine changes in expression of 3-linked\nsialic acids selectively binds to Neu5Ac/Gc(2,3)Gal(1,4)Gl-\ncNAc moieties synthesized by ST3Gal III and ST3Gal IV (23).",
+        "wordProcessed": "IV",
+        "senseFoundByLesk": "the cardinal number that is the sum of three and one"
+    },
+    {
+        "id": 284,
+        "sentence": "However,\nbecause one cannot expect a competition between SIAT1 and\n-2,3-sialyltransferases with different substrate specificities\n[such as ST3Gal I and ST3Gal II, which sialylate Gal(1,3)\nGalNAc], the total decrease in expression of 3-linked sialic\nacids in all possible contexts was certainly less than that deter-\nmined with MAA.",
+        "wordProcessed": "II",
+        "senseFoundByLesk": "the cardinal number that is the sum of one and one or a numeral representing this number"
+    },
+    {
+        "id": 285,
+        "sentence": "However,\nbecause one cannot expect a competition between SIAT1 and\n-2,3-sialyltransferases with different substrate specificities\n[such as ST3Gal I and ST3Gal II, which sialylate Gal(1,3)\nGalNAc], the total decrease in expression of 3-linked sialic\nacids in all possible contexts was certainly less than that deter-\nmined with MAA.",
+        "wordProcessed": "Gal",
+        "senseFoundByLesk": "a unit of gravitational acceleration equal to one centimeter per second per second (named after Galileo)"
+    },
+    {
+        "id": 286,
+        "sentence": "Although NA mutations appear to be the major mechanism\nof influenza virus resistance to NAI in a clinical setting (32, 34,\n38), the possibility that resistance emerges due to mutations in\nHA cannot be completely excluded.",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 287,
+        "sentence": "Although NA mutations appear to be the major mechanism\nof influenza virus resistance to NAI in a clinical setting (32, 34,\n38), the possibility that resistance emerges due to mutations in\nHA cannot be completely excluded.",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 288,
+        "sentence": "Thus, in a study cited\nabove, the HA mutation T198I in influenza B virus was first\nobserved after 8 days of treatment with zanamivir, at least 4\nVOL.",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 289,
+        "sentence": "Thus, in a study cited\nabove, the HA mutation T198I in influenza B virus was first\nobserved after 8 days of treatment with zanamivir, at least 4\nVOL.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder"
+    },
+    {
+        "id": 290,
+        "sentence": "77, 2003 ALTERATION OF INFLUENZA VIRUS RECEPTORS IN MDCK CELLS 8423\n\fdays before the emergence of a drug resistance mutation in NA\n(18).",
+        "wordProcessed": "ALTERATION",
+        "senseFoundByLesk": "the act of making something different (as e.g. the size of a garment)"
+    },
+    {
+        "id": 291,
+        "sentence": "77, 2003 ALTERATION OF INFLUENZA VIRUS RECEPTORS IN MDCK CELLS 8423\n\fdays before the emergence of a drug resistance mutation in NA\n(18).",
+        "wordProcessed": "INFLUENZA",
+        "senseFoundByLesk": "an acute febrile highly contagious viral disease"
+    },
+    {
+        "id": 292,
+        "sentence": "77, 2003 ALTERATION OF INFLUENZA VIRUS RECEPTORS IN MDCK CELLS 8423\n\fdays before the emergence of a drug resistance mutation in NA\n(18).",
+        "wordProcessed": "VIRUS",
+        "senseFoundByLesk": "a software program capable of reproducing itself and usually capable of causing great harm to files or other programs on the same computer"
+    },
+    {
+        "id": 293,
+        "sentence": "77, 2003 ALTERATION OF INFLUENZA VIRUS RECEPTORS IN MDCK CELLS 8423\n\fdays before the emergence of a drug resistance mutation in NA\n(18).",
+        "wordProcessed": "RECEPTORS",
+        "senseFoundByLesk": "a cellular structure that is postulated to exist in order to mediate between a chemical agent that acts on nervous tissue and the physiological response"
+    },
+    {
+        "id": 294,
+        "sentence": "77, 2003 ALTERATION OF INFLUENZA VIRUS RECEPTORS IN MDCK CELLS 8423\n\fdays before the emergence of a drug resistance mutation in NA\n(18).",
+        "wordProcessed": "IN",
+        "senseFoundByLesk": "a rare soft silvery metallic element; occurs in small quantities in sphalerite"
+    },
+    {
+        "id": 295,
+        "sentence": "77, 2003 ALTERATION OF INFLUENZA VIRUS RECEPTORS IN MDCK CELLS 8423\n\fdays before the emergence of a drug resistance mutation in NA\n(18).",
+        "wordProcessed": "CELLS",
+        "senseFoundByLesk": "a small unit serving as part of or as the nucleus of a larger political movement"
+    },
+    {
+        "id": 296,
+        "sentence": "77, 2003 ALTERATION OF INFLUENZA VIRUS RECEPTORS IN MDCK CELLS 8423\n\fdays before the emergence of a drug resistance mutation in NA\n(18).",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 297,
+        "sentence": "The substitution T198I was found to lower substantially\nthe HA affinity for 6-linked sialic acid receptors.",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 298,
+        "sentence": "The authors\nsuggested that this mutation resulted in a decreased virus bind-\ning to human airway epithelial cells (where 6-linked receptors\npredominate) and thus reduced dependence of virus replica-\ntion on the NA function in humans (HA-mediated resistance\nto NAI).",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 299,
+        "sentence": "Support to this concept came from the study in which\nvolunteers who were experimentally infected with egg-adapted\nhuman H1N1 virus and treated with oseltamivir were moni-\ntored for the emergence of drug-resistant viruses by pheno-\ntypic assays and sequencing of HA and NA (20).",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 300,
+        "sentence": "Support to this concept came from the study in which\nvolunteers who were experimentally infected with egg-adapted\nhuman H1N1 virus and treated with oseltamivir were moni-\ntored for the emergence of drug-resistant viruses by pheno-\ntypic assays and sequencing of HA and NA (20).",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 301,
+        "sentence": "Due to its\npassaging in eggs, the original virus inoculum represented a\nheterogeneous mixture of receptor-binding variants differing\nby amino acid substitutions in HA.",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 302,
+        "sentence": "In the placebo group, variants with a higher affinity\nfor 6-linked receptors predominated over the egg-derived low-\naffinity variants with typical egg adaptation mutations in HA.",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 303,
+        "sentence": "Based on these results,\nit is currently believed that HA mutations decreasing virus\naffinity for 6-linked sialic acids may be a primary mechanism of\nthe HA-mediated resistance to NA inhibitors in humans.",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 304,
+        "sentence": "Based on these results,\nit is currently believed that HA mutations decreasing virus\naffinity for 6-linked sialic acids may be a primary mechanism of\nthe HA-mediated resistance to NA inhibitors in humans.",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 305,
+        "sentence": "To study HA-mediated virus resistance to NAI in MDCK-\nSIAT1 cells, we compared a clinical human virus with its three\nlaboratory-derived receptor binding variants, which differed\nfrom the parent virus by single amino acid substitutions in HA.",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 306,
+        "sentence": "The sensitivity of human influenza A and B viruses to neur-\naminidase inhibitor in MDCK-SIAT1 cells was increased and\nwas consistent with their sensitivity in the NA enzyme assay\nand with the HA receptor-binding phenotype.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 307,
+        "sentence": "The sensitivity of human influenza A and B viruses to neur-\naminidase inhibitor in MDCK-SIAT1 cells was increased and\nwas consistent with their sensitivity in the NA enzyme assay\nand with the HA receptor-binding phenotype.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder"
+    },
+    {
+        "id": 308,
+        "sentence": "The sensitivity of human influenza A and B viruses to neur-\naminidase inhibitor in MDCK-SIAT1 cells was increased and\nwas consistent with their sensitivity in the NA enzyme assay\nand with the HA receptor-binding phenotype.",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 309,
+        "sentence": "The sensitivity of human influenza A and B viruses to neur-\naminidase inhibitor in MDCK-SIAT1 cells was increased and\nwas consistent with their sensitivity in the NA enzyme assay\nand with the HA receptor-binding phenotype.",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 310,
+        "sentence": "ACKNOWLEDGMENTS\nM.M., T.M., and H.-D.K.",
+        "wordProcessed": "ACKNOWLEDGMENTS",
+        "senseFoundByLesk": "the state or quality of being recognized or acknowledged"
+    },
+    {
+        "id": 311,
+        "sentence": "ACKNOWLEDGMENTS\nM.M., T.M., and H.-D.K.",
+        "wordProcessed": "M.M.",
+        "senseFoundByLesk": "the pace of music measured by the number of beats occurring in 60 seconds"
+    },
+    {
+        "id": 312,
+        "sentence": "were supported by Roche Products Ltd.,\nWelwyn Garden City, United Kingdom.",
+        "wordProcessed": "Products",
+        "senseFoundByLesk": "a quantity obtained by multiplication"
+    },
+    {
+        "id": 313,
+        "sentence": "were supported by Roche Products Ltd.,\nWelwyn Garden City, United Kingdom.",
+        "wordProcessed": "Ltd.",
+        "senseFoundByLesk": "a company that is organized to give its owners limited liability"
+    },
+    {
+        "id": 314,
+        "sentence": "were supported by Roche Products Ltd.,\nWelwyn Garden City, United Kingdom.",
+        "wordProcessed": "Garden",
+        "senseFoundByLesk": "a yard or lawn adjoining a house"
+    },
+    {
+        "id": 315,
+        "sentence": "were supported by Roche Products Ltd.,\nWelwyn Garden City, United Kingdom.",
+        "wordProcessed": "City",
+        "senseFoundByLesk": "an incorporated administrative district established by state charter"
+    },
+    {
+        "id": 316,
+        "sentence": "were supported by Roche Products Ltd.,\nWelwyn Garden City, United Kingdom.",
+        "wordProcessed": "Kingdom",
+        "senseFoundByLesk": "the domain ruled by a king or queen"
+    },
+    {
+        "id": 317,
+        "sentence": "We thank Robert Webster for providing clinical virus isolates, Mat-\nthias Dobbelstein for his advice on cloning, and Andreas Kaufmann\nfor assistance with FACS analysis.",
+        "wordProcessed": "Robert",
+        "senseFoundByLesk": "United States parliamentary authority and author (in 1876) of Robert's Rules of Order (1837-1923)"
+    },
+    {
+        "id": 318,
+        "sentence": "We thank Robert Webster for providing clinical virus isolates, Mat-\nthias Dobbelstein for his advice on cloning, and Andreas Kaufmann\nfor assistance with FACS analysis.",
+        "wordProcessed": "Webster",
+        "senseFoundByLesk": "United States politician and orator (1782-1817)"
+    },
+    {
+        "id": 319,
+        "sentence": "Abed, Y., A. M. Bourgault, R. J. Fenton, P. J. Morley, D. Gower, I. J. Owens,\nM. Tisdale, and G. Boivin.",
+        "wordProcessed": "Morley",
+        "senseFoundByLesk": "United States chemist and physicist who collaborated with Michelson in the Michelson-Morley experiment (1838-1923)"
+    },
+    {
+        "id": 320,
+        "sentence": "Abed, Y., A. M. Bourgault, R. J. Fenton, P. J. Morley, D. Gower, I. J. Owens,\nM. Tisdale, and G. Boivin.",
+        "wordProcessed": "Owens",
+        "senseFoundByLesk": "United States athlete and Black American whose success in the 1936 Olympic Games in Berlin outraged Hitler (1913-1980)"
+    },
+    {
+        "id": 321,
+        "sentence": "Characterization of 2 influenza A(H3N2)\nclinical isolates with reduced susceptibility to neuraminidase inhibitors due\nto mutations in the hemagglutinin gene.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 322,
+        "sentence": "Dis.",
+        "wordProcessed": "Dis",
+        "senseFoundByLesk": "god of the underworld; counterpart of Greek Pluto"
+    },
+    {
+        "id": 323,
+        "sentence": "Air, G. M., and W. G. Laver.",
+        "wordProcessed": "Air",
+        "senseFoundByLesk": "medium for radio and television broadcasting"
+    },
+    {
+        "id": 324,
+        "sentence": "Air, G. M., and W. G. Laver.",
+        "wordProcessed": "Laver",
+        "senseFoundByLesk": "Australian tennis player who in 1962 was the second man to win the Australian and French and English and United States singles titles in the same year; in 1969 he repeated this feat (born in 1938)"
+    },
+    {
+        "id": 325,
+        "sentence": "Barnett, J. M., A. Cadman, D. Gor, M. Dempsey, M. Walters, A. Candlin, M.\nTisdale, P. J. Morley, I. J. Owens, R. J. Fenton, A. P. Lewis, E. C. Claas, G. F.\nRimmelzwaan, R. De Groot, and A. D. Osterhaus.",
+        "wordProcessed": "Dempsey",
+        "senseFoundByLesk": "United States prizefighter who was world heavyweight champion (1895-1983)"
+    },
+    {
+        "id": 326,
+        "sentence": "Barnett, J. M., A. Cadman, D. Gor, M. Dempsey, M. Walters, A. Candlin, M.\nTisdale, P. J. Morley, I. J. Owens, R. J. Fenton, A. P. Lewis, E. C. Claas, G. F.\nRimmelzwaan, R. De Groot, and A. D. Osterhaus.",
+        "wordProcessed": "Walters",
+        "senseFoundByLesk": "German conductor (1876-1962)"
+    },
+    {
+        "id": 327,
+        "sentence": "Barnett, J. M., A. Cadman, D. Gor, M. Dempsey, M. Walters, A. Candlin, M.\nTisdale, P. J. Morley, I. J. Owens, R. J. Fenton, A. P. Lewis, E. C. Claas, G. F.\nRimmelzwaan, R. De Groot, and A. D. Osterhaus.",
+        "wordProcessed": "Morley",
+        "senseFoundByLesk": "United States chemist and physicist who collaborated with Michelson in the Michelson-Morley experiment (1838-1923)"
+    },
+    {
+        "id": 328,
+        "sentence": "Barnett, J. M., A. Cadman, D. Gor, M. Dempsey, M. Walters, A. Candlin, M.\nTisdale, P. J. Morley, I. J. Owens, R. J. Fenton, A. P. Lewis, E. C. Claas, G. F.\nRimmelzwaan, R. De Groot, and A. D. Osterhaus.",
+        "wordProcessed": "Owens",
+        "senseFoundByLesk": "United States athlete and Black American whose success in the 1936 Olympic Games in Berlin outraged Hitler (1913-1980)"
+    },
+    {
+        "id": 329,
+        "sentence": "Barnett, J. M., A. Cadman, D. Gor, M. Dempsey, M. Walters, A. Candlin, M.\nTisdale, P. J. Morley, I. J. Owens, R. J. Fenton, A. P. Lewis, E. C. Claas, G. F.\nRimmelzwaan, R. De Groot, and A. D. Osterhaus.",
+        "wordProcessed": "Lewis",
+        "senseFoundByLesk": "English critic and novelist; author of theological works and of books for children (1898-1963)"
+    },
+    {
+        "id": 330,
+        "sentence": "Barnett, J. M., A. Cadman, D. Gor, M. Dempsey, M. Walters, A. Candlin, M.\nTisdale, P. J. Morley, I. J. Owens, R. J. Fenton, A. P. Lewis, E. C. Claas, G. F.\nRimmelzwaan, R. De Groot, and A. D. Osterhaus.",
+        "wordProcessed": "De",
+        "senseFoundByLesk": "a Mid-Atlantic state; one of the original 13 colonies"
+    },
+    {
+        "id": 331,
+        "sentence": "Zanamivir suscep-\ntibility monitoring and characterization of influenza virus clinical isolates\nobtained during phase II clinical efficacy studies.",
+        "wordProcessed": "II",
+        "senseFoundByLesk": "the cardinal number that is the sum of one and one or a numeral representing this number"
+    },
+    {
+        "id": 332,
+        "sentence": "Baum, L. G., and J. C. Paulson.",
+        "wordProcessed": "Baum",
+        "senseFoundByLesk": "United States writer of children's books (1856-1919)"
+    },
+    {
+        "id": 333,
+        "sentence": "The\ngeneration and characterization of a rat neural cell line overexpressing the\nalpha2,6(N) sialyltransferase.",
+        "wordProcessed": "N",
+        "senseFoundByLesk": "a common nonmetallic element that is normally a colorless odorless tasteless inert diatomic gas; constitutes 78 percent of the atmosphere by volume; a constituent of all living tissues"
+    },
+    {
+        "id": 334,
+        "sentence": "J.",
+        "wordProcessed": "J",
+        "senseFoundByLesk": "a unit of electrical energy equal to the work done when a current of one ampere passes through a resistance of one ohm for one second"
+    },
+    {
+        "id": 335,
+        "sentence": "Carr, J., J. Ives, L. Kelly, R. Lambkin, J. Oxford, D. Mendel, L. Tai, and N.\nRoberts.",
+        "wordProcessed": "Ives",
+        "senseFoundByLesk": "United States lithographer who (with his partner Nathaniel Currier) produced thousands of prints signed `Currier & Ives' (1824-1895)"
+    },
+    {
+        "id": 336,
+        "sentence": "Carr, J., J. Ives, L. Kelly, R. Lambkin, J. Oxford, D. Mendel, L. Tai, and N.\nRoberts.",
+        "wordProcessed": "Kelly",
+        "senseFoundByLesk": "United States dancer who performed in many musical films (1912-1996)"
+    },
+    {
+        "id": 337,
+        "sentence": "Carr, J., J. Ives, L. Kelly, R. Lambkin, J. Oxford, D. Mendel, L. Tai, and N.\nRoberts.",
+        "wordProcessed": "Lambkin",
+        "senseFoundByLesk": "a very young lamb"
+    },
+    {
+        "id": 338,
+        "sentence": "Carr, J., J. Ives, L. Kelly, R. Lambkin, J. Oxford, D. Mendel, L. Tai, and N.\nRoberts.",
+        "wordProcessed": "Oxford",
+        "senseFoundByLesk": "a city in southern England to the northwest of London; site of Oxford University"
+    },
+    {
+        "id": 339,
+        "sentence": "Carr, J., J. Ives, L. Kelly, R. Lambkin, J. Oxford, D. Mendel, L. Tai, and N.\nRoberts.",
+        "wordProcessed": "Mendel",
+        "senseFoundByLesk": "Augustinian monk and botanist whose experiments in breeding garden peas led to his eventual recognition as founder of the science of genetics (1822-1884)"
+    },
+    {
+        "id": 340,
+        "sentence": "Carr, J., J. Ives, L. Kelly, R. Lambkin, J. Oxford, D. Mendel, L. Tai, and N.\nRoberts.",
+        "wordProcessed": "Tai",
+        "senseFoundByLesk": "the most widespread and best known of the Kadai family of languages"
+    },
+    {
+        "id": 341,
+        "sentence": "Carr, J., J. Ives, L. Kelly, R. Lambkin, J. Oxford, D. Mendel, L. Tai, and N.\nRoberts.",
+        "wordProcessed": "Roberts",
+        "senseFoundByLesk": "United States parliamentary authority and author (in 1876) of Robert's Rules of Order (1837-1923)"
+    },
+    {
+        "id": 342,
+        "sentence": "Influenza virus carrying neuraminidase with reduced sensi-\ntivity to oseltamivir carboxylate has altered properties in vitro and is com-\npromised for infectivity and replicative ability in vivo.",
+        "wordProcessed": "Influenza",
+        "senseFoundByLesk": "an acute febrile highly contagious viral disease"
+    },
+    {
+        "id": 343,
+        "sentence": "Res.",
+        "wordProcessed": "Res",
+        "senseFoundByLesk": "a rare heavy polyvalent metallic element that resembles manganese chemically and is used in some alloys; is obtained as a by-product in refining molybdenum"
+    },
+    {
+        "id": 344,
+        "sentence": "In K. G. Nicholson, R. G. Webster, and A. J. Hay (ed.",
+        "wordProcessed": "Webster",
+        "senseFoundByLesk": "United States politician and orator (1782-1817)"
+    },
+    {
+        "id": 345,
+        "sentence": "In K. G. Nicholson, R. G. Webster, and A. J. Hay (ed.",
+        "wordProcessed": "Hay",
+        "senseFoundByLesk": "grass mowed and cured for use as fodder"
+    },
+    {
+        "id": 346,
+        "sentence": "), Textbook of\ninfluenza.",
+        "wordProcessed": "Textbook",
+        "senseFoundByLesk": "a book prepared for use in schools or colleges"
+    },
+    {
+        "id": 347,
+        "sentence": "Blackwell Science, London, United Kingdom.",
+        "wordProcessed": "Science",
+        "senseFoundByLesk": "ability to produce solutions in some problem domain"
+    },
+    {
+        "id": 348,
+        "sentence": "Blackwell Science, London, United Kingdom.",
+        "wordProcessed": "London",
+        "senseFoundByLesk": "United States writer of novels based on experiences in the Klondike gold rush (1876-1916)"
+    },
+    {
+        "id": 349,
+        "sentence": "Blackwell Science, London, United Kingdom.",
+        "wordProcessed": "Kingdom",
+        "senseFoundByLesk": "a basic group of natural objects"
+    },
+    {
+        "id": 350,
+        "sentence": "Couceiro, J. N., J. C. Paulson, and L. G. Baum.",
+        "wordProcessed": "Baum",
+        "senseFoundByLesk": "United States writer of children's books (1856-1919)"
+    },
+    {
+        "id": 351,
+        "sentence": "Influenza virus strains\nselectively recognize sialyloligosaccharides on human respiratory epithelium;\nthe role of the host cell in selection of hemagglutinin receptor specificity.",
+        "wordProcessed": "Influenza",
+        "senseFoundByLesk": "an acute febrile highly contagious viral disease"
+    },
+    {
+        "id": 352,
+        "sentence": "Virus Res.",
+        "wordProcessed": "Virus",
+        "senseFoundByLesk": "a software program capable of reproducing itself and usually capable of causing great harm to files or other programs on the same computer"
+    },
+    {
+        "id": 353,
+        "sentence": "Virus Res.",
+        "wordProcessed": "Res",
+        "senseFoundByLesk": "a rare heavy polyvalent metallic element that resembles manganese chemically and is used in some alloys; is obtained as a by-product in refining molybdenum"
+    },
+    {
+        "id": 354,
+        "sentence": "Human colon\ncancer cell lines permanently expressing alpha 2,6-sialylated sugar chains by\ntransfection with rat beta-galactoside alpha 2,6 sialyltransferase cDNA.",
+        "wordProcessed": "Human",
+        "senseFoundByLesk": "any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage"
+    },
+    {
+        "id": 355,
+        "sentence": "Res.",
+        "wordProcessed": "Res",
+        "senseFoundByLesk": "a rare heavy polyvalent metallic element that resembles manganese chemically and is used in some alloys; is obtained as a by-product in refining molybdenum"
+    },
+    {
+        "id": 356,
+        "sentence": "J.",
+        "wordProcessed": "J",
+        "senseFoundByLesk": "a unit of electrical energy equal to the work done when a current of one ampere passes through a resistance of one ohm for one second"
+    },
+    {
+        "id": 357,
+        "sentence": "J.",
+        "wordProcessed": "J",
+        "senseFoundByLesk": "a unit of electrical energy equal to the work done when a current of one ampere passes through a resistance of one ohm for one second"
+    },
+    {
+        "id": 358,
+        "sentence": "Gambaryan, A. S., A.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "the blood group whose red cells carry the A antigen"
+    },
+    {
+        "id": 359,
+        "sentence": "B. Tuzikov, V. E. Piskarev, S. S. Yamnikova, D. K.\nLvov, J. S. Robertson, N. V. Bovin, and M. N. Matrosovich.",
+        "wordProcessed": "Robertson",
+        "senseFoundByLesk": "United States basketball guard (born in 1938)"
+    },
+    {
+        "id": 360,
+        "sentence": "Specifi-\ncation of receptor-binding phenotypes of influenza virus isolates from dif-\nferent hosts using synthetic sialylglycopolymers: non-egg-adapted human H1\nand H3 influenza A and influenza B viruses share a common high binding\naffinity for 6-sialyl(N-acetyllactosamine).",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 361,
+        "sentence": "Specifi-\ncation of receptor-binding phenotypes of influenza virus isolates from dif-\nferent hosts using synthetic sialylglycopolymers: non-egg-adapted human H1\nand H3 influenza A and influenza B viruses share a common high binding\naffinity for 6-sialyl(N-acetyllactosamine).",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder"
+    },
+    {
+        "id": 362,
+        "sentence": "Virology 232:345\u00c2\u00ad350.",
+        "wordProcessed": "Virology",
+        "senseFoundByLesk": "the branch of medical science that studies viruses and viral diseases"
+    },
+    {
+        "id": 363,
+        "sentence": "Gambaryan, A. S., V. P. Marinina, A.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "the blood group whose red cells carry the A antigen"
+    },
+    {
+        "id": 364,
+        "sentence": "A. Rudneva,\nB. V. Sinitsyn, A.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "the blood group whose red cells carry the A antigen"
+    },
+    {
+        "id": 365,
+        "sentence": "Virology 247:170\u00c2\u00ad177.",
+        "wordProcessed": "Virology",
+        "senseFoundByLesk": "the branch of medical science that studies viruses and viral diseases"
+    },
+    {
+        "id": 366,
+        "sentence": "Gambaryan, A. S., J. S. Robertson, and M. N. Matrosovich.",
+        "wordProcessed": "Robertson",
+        "senseFoundByLesk": "United States basketball guard (born in 1938)"
+    },
+    {
+        "id": 367,
+        "sentence": "Effects of\negg-adaptation on the receptor-binding properties of human influenza A and\nB viruses.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 368,
+        "sentence": "Effects of\negg-adaptation on the receptor-binding properties of human influenza A and\nB viruses.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder"
+    },
+    {
+        "id": 369,
+        "sentence": "Virology 258:232\u00c2\u00ad239.",
+        "wordProcessed": "Virology",
+        "senseFoundByLesk": "the branch of medical science that studies viruses and viral diseases"
+    },
+    {
+        "id": 370,
+        "sentence": "Govorkova, E. A., G. Murti, B. Meignier, C. de Taisne, and R. G. Webster.",
+        "wordProcessed": "de",
+        "senseFoundByLesk": "a Mid-Atlantic state; one of the original 13 colonies"
+    },
+    {
+        "id": 371,
+        "sentence": "Govorkova, E. A., G. Murti, B. Meignier, C. de Taisne, and R. G. Webster.",
+        "wordProcessed": "Webster",
+        "senseFoundByLesk": "United States politician and orator (1782-1817)"
+    },
+    {
+        "id": 372,
+        "sentence": "African green monkey kidney (Vero) cells provide an alternative host\ncell system for influenza A and B viruses.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "the blood group whose red cells carry the A antigen"
+    },
+    {
+        "id": 373,
+        "sentence": "African green monkey kidney (Vero) cells provide an alternative host\ncell system for influenza A and B viruses.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "(physics) a unit of nuclear cross section; the effective circular area that one particle presents to another as a target for an encounter"
+    },
+    {
+        "id": 374,
+        "sentence": "Govorkova, E. A., M. N. Matrosovich, A.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "the blood group whose red cells carry the A antigen"
+    },
+    {
+        "id": 375,
+        "sentence": "B. Tuzikov, N. V. Bovin, C. Gerdil,\nB. Fanget, and R. G. Webster.",
+        "wordProcessed": "Webster",
+        "senseFoundByLesk": "United States politician and orator (1782-1817)"
+    },
+    {
+        "id": 376,
+        "sentence": "Selection of receptor-binding variants of\nhuman influenza A and B viruses in baby hamster kidney cells.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 377,
+        "sentence": "Selection of receptor-binding variants of\nhuman influenza A and B viruses in baby hamster kidney cells.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder"
+    },
+    {
+        "id": 378,
+        "sentence": "Virology\n262:31\u00c2\u00ad38.",
+        "wordProcessed": "Virology",
+        "senseFoundByLesk": "the branch of medical science that studies viruses and viral diseases"
+    },
+    {
+        "id": 379,
+        "sentence": "Gubareva, L. V., M. N. Matrosovich, M. K. Brenner, R. C. Bethell, and R. G.\nWebster.",
+        "wordProcessed": "Webster",
+        "senseFoundByLesk": "United States politician and orator (1782-1817)"
+    },
+    {
+        "id": 380,
+        "sentence": "Evidence for zanamivir resistance in an immunocompro-\nmised child infected with influenza B virus.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "(physics) a unit of nuclear cross section; the effective circular area that one particle presents to another as a target for an encounter"
+    },
+    {
+        "id": 381,
+        "sentence": "Dis.",
+        "wordProcessed": "Dis",
+        "senseFoundByLesk": "god of the underworld; counterpart of Greek Pluto"
+    },
+    {
+        "id": 382,
+        "sentence": "Gubareva, L. V., L. Kaiser, and F. G. Hayden.",
+        "wordProcessed": "Kaiser",
+        "senseFoundByLesk": "the title of the Holy Roman Emperors or the emperors of Austria or of Germany until 1918"
+    },
+    {
+        "id": 383,
+        "sentence": "Influenza virus neur-\naminidase inhibitors.",
+        "wordProcessed": "Influenza",
+        "senseFoundByLesk": "an acute febrile highly contagious viral disease"
+    },
+    {
+        "id": 384,
+        "sentence": "Lancet 355:827\u00c2\u00ad835.",
+        "wordProcessed": "Lancet",
+        "senseFoundByLesk": "an acutely pointed Gothic arch, like a lance"
+    },
+    {
+        "id": 385,
+        "sentence": "Gubareva, L. V., L. Kaiser, M. N. Matrosovich, Y. Soo-Hoo, and F. G.\nHayden.",
+        "wordProcessed": "Kaiser",
+        "senseFoundByLesk": "the title of the Holy Roman Emperors or the emperors of Austria or of Germany until 1918"
+    },
+    {
+        "id": 386,
+        "sentence": "Dis.",
+        "wordProcessed": "Dis",
+        "senseFoundByLesk": "god of the underworld; counterpart of Greek Pluto"
+    },
+    {
+        "id": 387,
+        "sentence": "Ives, J., J. Carr, N. A. Roberts, C. Y. Tai, D. B. Mendel, L. Kelly, R. Lambkin,\nand J. Oxford.",
+        "wordProcessed": "Roberts",
+        "senseFoundByLesk": "United States parliamentary authority and author (in 1876) of Robert's Rules of Order (1837-1923)"
+    },
+    {
+        "id": 388,
+        "sentence": "Ives, J., J. Carr, N. A. Roberts, C. Y. Tai, D. B. Mendel, L. Kelly, R. Lambkin,\nand J. Oxford.",
+        "wordProcessed": "Tai",
+        "senseFoundByLesk": "the most widespread and best known of the Kadai family of languages"
+    },
+    {
+        "id": 389,
+        "sentence": "Ives, J., J. Carr, N. A. Roberts, C. Y. Tai, D. B. Mendel, L. Kelly, R. Lambkin,\nand J. Oxford.",
+        "wordProcessed": "Mendel",
+        "senseFoundByLesk": "Augustinian monk and botanist whose experiments in breeding garden peas led to his eventual recognition as founder of the science of genetics (1822-1884)"
+    },
+    {
+        "id": 390,
+        "sentence": "Ives, J., J. Carr, N. A. Roberts, C. Y. Tai, D. B. Mendel, L. Kelly, R. Lambkin,\nand J. Oxford.",
+        "wordProcessed": "Kelly",
+        "senseFoundByLesk": "United States dancer who performed in many musical films (1912-1996)"
+    },
+    {
+        "id": 391,
+        "sentence": "Ives, J., J. Carr, N. A. Roberts, C. Y. Tai, D. B. Mendel, L. Kelly, R. Lambkin,\nand J. Oxford.",
+        "wordProcessed": "Lambkin",
+        "senseFoundByLesk": "a very young lamb"
+    },
+    {
+        "id": 392,
+        "sentence": "Ives, J., J. Carr, N. A. Roberts, C. Y. Tai, D. B. Mendel, L. Kelly, R. Lambkin,\nand J. Oxford.",
+        "wordProcessed": "Oxford",
+        "senseFoundByLesk": "a city in southern England to the northwest of London; site of Oxford University"
+    },
+    {
+        "id": 393,
+        "sentence": "Comparison with other sialic acid-specific\nlectins.",
+        "wordProcessed": "Comparison",
+        "senseFoundByLesk": "qualities that are comparable"
+    },
+    {
+        "id": 394,
+        "sentence": "Lee, E. U., J. Roth, and J. C. Paulson.",
+        "wordProcessed": "Lee",
+        "senseFoundByLesk": "United States actor who was an expert in kung fu and starred in martial arts films (1941-1973)"
+    },
+    {
+        "id": 395,
+        "sentence": "Lee, E. U., J. Roth, and J. C. Paulson.",
+        "wordProcessed": "Roth",
+        "senseFoundByLesk": "United States writer whose novels portray middle-class Jewish life (born in 1933)"
+    },
+    {
+        "id": 396,
+        "sentence": "Lin, S., W. Kemmner, S. Grigull, and P. M. Schlag.",
+        "wordProcessed": "Lin",
+        "senseFoundByLesk": "United States sculptor and architect whose public works include the memorial to veterans of the Vietnam War in Washington (born in 1959)"
+    },
+    {
+        "id": 397,
+        "sentence": "Cell surface alpha\n8424 MATROSOVICH ET AL.",
+        "wordProcessed": "Cell",
+        "senseFoundByLesk": "a hand-held mobile radiotelephone for use in an area divided into small sections, each with its own short-range transmitter/receiver"
+    },
+    {
+        "id": 398,
+        "sentence": "Cell surface alpha\n8424 MATROSOVICH ET AL.",
+        "wordProcessed": "AL",
+        "senseFoundByLesk": "a silvery ductile metallic element found primarily in bauxite"
+    },
+    {
+        "id": 399,
+        "sentence": "Cell Res.",
+        "wordProcessed": "Cell",
+        "senseFoundByLesk": "a hand-held mobile radiotelephone for use in an area divided into small sections, each with its own short-range transmitter/receiver"
+    },
+    {
+        "id": 400,
+        "sentence": "Cell Res.",
+        "wordProcessed": "Res",
+        "senseFoundByLesk": "a rare heavy polyvalent metallic element that resembles manganese chemically and is used in some alloys; is obtained as a by-product in refining molybdenum"
+    },
+    {
+        "id": 401,
+        "sentence": "Macken, C., H. Lu, J. Goodman, and L. Boykin.",
+        "wordProcessed": "Lu",
+        "senseFoundByLesk": "a trivalent metallic element of the rare earth group; usually occurs in association with yttrium"
+    },
+    {
+        "id": 402,
+        "sentence": "Macken, C., H. Lu, J. Goodman, and L. Boykin.",
+        "wordProcessed": "Goodman",
+        "senseFoundByLesk": "United States clarinetist who in 1934 formed a big band (including black as well as white musicians) and introduced a kind of jazz known as swing (1909-1986)"
+    },
+    {
+        "id": 403,
+        "sentence": "In A. D. Oster-\nhaus, N. Cox, and A. W. Hampson (ed.",
+        "wordProcessed": "Cox",
+        "senseFoundByLesk": "either of two related enzymes that control the production of prostaglandins and are blocked by aspirin"
+    },
+    {
+        "id": 404,
+        "sentence": "), Options for the control of influenza\nIV.",
+        "wordProcessed": "Options",
+        "senseFoundByLesk": "the act of choosing or selecting"
+    },
+    {
+        "id": 405,
+        "sentence": "), Options for the control of influenza\nIV.",
+        "wordProcessed": "IV",
+        "senseFoundByLesk": "the cardinal number that is the sum of three and one"
+    },
+    {
+        "id": 406,
+        "sentence": "Elsevier Science, Amsterdam, The Netherlands.",
+        "wordProcessed": "Science",
+        "senseFoundByLesk": "ability to produce solutions in some problem domain"
+    },
+    {
+        "id": 407,
+        "sentence": "Elsevier Science, Amsterdam, The Netherlands.",
+        "wordProcessed": "Amsterdam",
+        "senseFoundByLesk": "an industrial center and the nominal capital of the Netherlands; center of the diamond-cutting industry; seat of an important stock exchange; known for its canals and art museum"
+    },
+    {
+        "id": 408,
+        "sentence": "Elsevier Science, Amsterdam, The Netherlands.",
+        "wordProcessed": "Netherlands",
+        "senseFoundByLesk": "a constitutional monarchy in western Europe on the North Sea; half the country lies below sea level"
+    },
+    {
+        "id": 409,
+        "sentence": "Matrosovich, M., N. Zhou, Y. Kawaoka, and R. Webster.",
+        "wordProcessed": "Zhou",
+        "senseFoundByLesk": "the imperial dynasty of China from 1122 to 221 BC; notable for the rise of Confucianism and Taoism"
+    },
+    {
+        "id": 410,
+        "sentence": "Matrosovich, M., N. Zhou, Y. Kawaoka, and R. Webster.",
+        "wordProcessed": "Webster",
+        "senseFoundByLesk": "United States politician and orator (1782-1817)"
+    },
+    {
+        "id": 411,
+        "sentence": "Res.",
+        "wordProcessed": "Res",
+        "senseFoundByLesk": "a rare heavy polyvalent metallic element that resembles manganese chemically and is used in some alloys; is obtained as a by-product in refining molybdenum"
+    },
+    {
+        "id": 412,
+        "sentence": "Mendel, D. B., and R. W. Sidwell.",
+        "wordProcessed": "Mendel",
+        "senseFoundByLesk": "Augustinian monk and botanist whose experiments in breeding garden peas led to his eventual recognition as founder of the science of genetics (1822-1884)"
+    },
+    {
+        "id": 413,
+        "sentence": "Influenza virus resistance to neur-\naminidase inhibitors.",
+        "wordProcessed": "Influenza",
+        "senseFoundByLesk": "an acute febrile highly contagious viral disease"
+    },
+    {
+        "id": 414,
+        "sentence": "Drug Resist.",
+        "wordProcessed": "Drug",
+        "senseFoundByLesk": "a substance that is used as a medicine or narcotic"
+    },
+    {
+        "id": 415,
+        "sentence": "Rees, S., J. Coote, J. Stables, S. Goodson, S. Harris, and M. G. Lee.",
+        "wordProcessed": "Stables",
+        "senseFoundByLesk": "a farm building for housing horses or other livestock"
+    },
+    {
+        "id": 416,
+        "sentence": "Rees, S., J. Coote, J. Stables, S. Goodson, S. Harris, and M. G. Lee.",
+        "wordProcessed": "Harris",
+        "senseFoundByLesk": "United States linguist (born in Ukraine) who developed mathematical linguistics and interpreted speech and writing in a social context (1909-1992)"
+    },
+    {
+        "id": 417,
+        "sentence": "Rees, S., J. Coote, J. Stables, S. Goodson, S. Harris, and M. G. Lee.",
+        "wordProcessed": "Lee",
+        "senseFoundByLesk": "United States actor who was an expert in kung fu and starred in martial arts films (1941-1973)"
+    },
+    {
+        "id": 418,
+        "sentence": "Bio-\nTechniques 20:102\u00c2\u00ad110.",
+        "wordProcessed": "Techniques",
+        "senseFoundByLesk": "a practical method or art applied to some particular task"
+    },
+    {
+        "id": 419,
+        "sentence": "Roberts, N. A.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "the blood group whose red cells carry the A antigen"
+    },
+    {
+        "id": 420,
+        "sentence": "B Biol.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "the blood group whose red cells carry the B antigen"
+    },
+    {
+        "id": 421,
+        "sentence": "Seo, S. H., O. Goloubeva, R. Webby, and R. G. Webster.",
+        "wordProcessed": "Webster",
+        "senseFoundByLesk": "United States politician and orator (1782-1817)"
+    },
+    {
+        "id": 422,
+        "sentence": "Monitoring of viral susceptibility: new challenges with the\ndevelopment of influenza NA inhibitors.",
+        "wordProcessed": "NA",
+        "senseFoundByLesk": "a silvery soft waxy metallic element of the alkali metal group; occurs abundantly in natural compounds (especially in salt water); burns with a yellow flame and reacts violently in water; occurs in sea water and in the mineral halite (rock salt)"
+    },
+    {
+        "id": 423,
+        "sentence": "Rev.",
+        "wordProcessed": "Rev",
+        "senseFoundByLesk": "rate of revolution of a motor"
+    },
+    {
+        "id": 424,
+        "sentence": "Med.",
+        "wordProcessed": "Med",
+        "senseFoundByLesk": "a master's degree in education"
+    },
+    {
+        "id": 425,
+        "sentence": "Wagner, R., M. Matrosovich, and H.-D. Klenk.",
+        "wordProcessed": "Wagner",
+        "senseFoundByLesk": "the music of Wagner"
+    },
+    {
+        "id": 426,
+        "sentence": "Rev.",
+        "wordProcessed": "Rev",
+        "senseFoundByLesk": "rate of revolution of a motor"
+    },
+    {
+        "id": 427,
+        "sentence": "Med.",
+        "wordProcessed": "Med",
+        "senseFoundByLesk": "a master's degree in education"
+    },
+    {
+        "id": 428,
+        "sentence": "Woods, J. M., R. C. Bethell, J.",
+        "wordProcessed": "J",
+        "senseFoundByLesk": "a unit of electrical energy equal to the work done when a current of one ampere passes through a resistance of one ohm for one second"
+    },
+    {
+        "id": 429,
+        "sentence": "A. V. Coates, N. Healy, S. A. Hiscox, B.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "the blood group whose red cells carry the B antigen"
+    },
+    {
+        "id": 430,
+        "sentence": "A.\nPearson, D. M. Ryan, J. Ticehurst, J. Tilling, S. M. Walcott, and C. R. Penn.",
+        "wordProcessed": "Tilling",
+        "senseFoundByLesk": "cultivation of the land in order to raise crops"
+    },
+    {
+        "id": 431,
+        "sentence": "A.\nPearson, D. M. Ryan, J. Ticehurst, J. Tilling, S. M. Walcott, and C. R. Penn.",
+        "wordProcessed": "Penn",
+        "senseFoundByLesk": "Englishman and Quaker who founded the colony of Pennsylvania (1644-1718)"
+    },
+    {
+        "id": 432,
+        "sentence": "4-Guanidino-2,4-dideoxy-2,3-dehydro-N-acetylneuraminic acid is a\nhighly effective inhibitor both of the sialidase (neuraminidase) and of growth\nof a wide range of influenza A and B viruses in vitro.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 433,
+        "sentence": "4-Guanidino-2,4-dideoxy-2,3-dehydro-N-acetylneuraminic acid is a\nhighly effective inhibitor both of the sialidase (neuraminidase) and of growth\nof a wide range of influenza A and B viruses in vitro.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder"
+    },
+    {
+        "id": 434,
+        "sentence": "Res.",
+        "wordProcessed": "Res",
+        "senseFoundByLesk": "a rare heavy polyvalent metallic element that resembles manganese chemically and is used in some alloys; is obtained as a by-product in refining molybdenum"
+    },
+    {
+        "id": 435,
+        "sentence": "77, 2003 ALTERATION OF INFLUENZA VIRUS RECEPTORS IN MDCK CELLS 8425",
+        "wordProcessed": "ALTERATION",
+        "senseFoundByLesk": "the act of revising or altering (involving reconsideration and modification)"
+    },
+    {
+        "id": 436,
+        "sentence": "77, 2003 ALTERATION OF INFLUENZA VIRUS RECEPTORS IN MDCK CELLS 8425",
+        "wordProcessed": "INFLUENZA",
+        "senseFoundByLesk": "an acute febrile highly contagious viral disease"
+    },
+    {
+        "id": 437,
+        "sentence": "77, 2003 ALTERATION OF INFLUENZA VIRUS RECEPTORS IN MDCK CELLS 8425",
+        "wordProcessed": "VIRUS",
+        "senseFoundByLesk": "a software program capable of reproducing itself and usually capable of causing great harm to files or other programs on the same computer"
+    },
+    {
+        "id": 438,
+        "sentence": "77, 2003 ALTERATION OF INFLUENZA VIRUS RECEPTORS IN MDCK CELLS 8425",
+        "wordProcessed": "RECEPTORS",
+        "senseFoundByLesk": "an organ having nerve endings (in the skin or viscera or eye or ear or nose or mouth) that respond to stimulation"
+    },
+    {
+        "id": 439,
+        "sentence": "77, 2003 ALTERATION OF INFLUENZA VIRUS RECEPTORS IN MDCK CELLS 8425",
+        "wordProcessed": "IN",
+        "senseFoundByLesk": "a rare soft silvery metallic element; occurs in small quantities in sphalerite"
+    },
+    {
+        "id": 440,
+        "sentence": "77, 2003 ALTERATION OF INFLUENZA VIRUS RECEPTORS IN MDCK CELLS 8425",
+        "wordProcessed": "CELLS",
+        "senseFoundByLesk": "a hand-held mobile radiotelephone for use in an area divided into small sections, each with its own short-range transmitter/receiver"
+    }
+]

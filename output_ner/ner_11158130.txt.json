@@ -1,0 +1,537 @@
+[
+    {
+        "id": 0,
+        "word": "\u00ef",
+        "classModel": "O"
+    },
+    {
+        "id": 1,
+        "word": "\u00bb",
+        "classModel": "O"
+    },
+    {
+        "id": 2,
+        "word": "\u00bfJOURNAL",
+        "classModel": "O"
+    },
+    {
+        "id": 3,
+        "word": "OF",
+        "classModel": "O"
+    },
+    {
+        "id": 4,
+        "word": "CLINICAL",
+        "classModel": "O"
+    },
+    {
+        "id": 5,
+        "word": "MICROBIOLOGY",
+        "classModel": "O"
+    },
+    {
+        "id": 6,
+        "word": ",",
+        "classModel": "O"
+    },
+    {
+        "id": 7,
+        "word": "0095-113701",
+        "classModel": "O"
+    },
+    {
+        "id": 8,
+        "word": "$",
+        "classModel": "O"
+    },
+    {
+        "id": 9,
+        "word": "04.000",
+        "classModel": "O"
+    },
+    {
+        "id": 10,
+        "word": "DOI",
+        "classModel": "O"
+    },
+    {
+        "id": 11,
+        "word": ":",
+        "classModel": "O"
+    },
+    {
+        "id": 12,
+        "word": "10.1128JCM.39.2.696\u00c2\u00ad704.2001",
+        "classModel": "O"
+    },
+    {
+        "id": 13,
+        "word": "Feb.",
+        "classModel": "O"
+    },
+    {
+        "id": 14,
+        "word": "2001",
+        "classModel": "O"
+    },
+    {
+        "id": 15,
+        "word": ",",
+        "classModel": "O"
+    },
+    {
+        "id": 16,
+        "word": "p.",
+        "classModel": "O"
+    },
+    {
+        "id": 17,
+        "word": "696\u00c2\u00ad704",
+        "classModel": "O"
+    },
+    {
+        "id": 18,
+        "word": "Vol",
+        "classModel": "O"
+    },
+    {
+        "id": 19,
+        "word": ".",
+        "classModel": "O"
+    },
+    {
+        "id": 20,
+        "word": "2",
+        "classModel": "O"
+    },
+    {
+        "id": 21,
+        "word": "Copyright",
+        "classModel": "O"
+    },
+    {
+        "id": 22,
+        "word": "\u00c2\u00a9",
+        "classModel": "O"
+    },
+    {
+        "id": 23,
+        "word": "2001",
+        "classModel": "O"
+    },
+    {
+        "id": 24,
+        "word": ",",
+        "classModel": "O"
+    },
+    {
+        "id": 25,
+        "word": "American",
+        "classModel": "ORGANIZATION"
+    },
+    {
+        "id": 26,
+        "word": "Society",
+        "classModel": "ORGANIZATION"
+    },
+    {
+        "id": 27,
+        "word": "for",
+        "classModel": "ORGANIZATION"
+    },
+    {
+        "id": 28,
+        "word": "Microbiology",
+        "classModel": "ORGANIZATION"
+    },
+    {
+        "id": 29,
+        "word": ".",
+        "classModel": "O"
+    },
+    {
+        "id": 30,
+        "word": "All",
+        "classModel": "O"
+    },
+    {
+        "id": 31,
+        "word": "Rights",
+        "classModel": "O"
+    },
+    {
+        "id": 32,
+        "word": "Reserved",
+        "classModel": "O"
+    },
+    {
+        "id": 33,
+        "word": ".",
+        "classModel": "O"
+    },
+    {
+        "id": 34,
+        "word": "Typing",
+        "classModel": "O"
+    },
+    {
+        "id": 35,
+        "word": "and",
+        "classModel": "O"
+    },
+    {
+        "id": 36,
+        "word": "Subtyping",
+        "classModel": "O"
+    },
+    {
+        "id": 37,
+        "word": "Influenza",
+        "classModel": "O"
+    },
+    {
+        "id": 38,
+        "word": "Virus",
+        "classModel": "O"
+    },
+    {
+        "id": 39,
+        "word": "Using",
+        "classModel": "O"
+    },
+    {
+        "id": 40,
+        "word": "DNA",
+        "classModel": "O"
+    },
+    {
+        "id": 41,
+        "word": "Microarrays",
+        "classModel": "O"
+    },
+    {
+        "id": 42,
+        "word": "and",
+        "classModel": "O"
+    },
+    {
+        "id": 43,
+        "word": "Multiplex",
+        "classModel": "O"
+    },
+    {
+        "id": 44,
+        "word": "Reverse",
+        "classModel": "O"
+    },
+    {
+        "id": 45,
+        "word": "Transcriptase",
+        "classModel": "O"
+    },
+    {
+        "id": 46,
+        "word": "PCR",
+        "classModel": "O"
+    },
+    {
+        "id": 47,
+        "word": "JIPING",
+        "classModel": "O"
+    },
+    {
+        "id": 48,
+        "word": "LI,1,2",
+        "classModel": "O"
+    },
+    {
+        "id": 49,
+        "word": "SHU",
+        "classModel": "O"
+    },
+    {
+        "id": 50,
+        "word": "CHEN,2",
+        "classModel": "O"
+    },
+    {
+        "id": 51,
+        "word": "AND",
+        "classModel": "O"
+    },
+    {
+        "id": 52,
+        "word": "DAVID",
+        "classModel": "O"
+    },
+    {
+        "id": 53,
+        "word": "H.",
+        "classModel": "O"
+    },
+    {
+        "id": 54,
+        "word": "EVANS1",
+        "classModel": "O"
+    },
+    {
+        "id": 55,
+        "word": "*",
+        "classModel": "O"
+    },
+    {
+        "id": 56,
+        "word": "Department",
+        "classModel": "ORGANIZATION"
+    },
+    {
+        "id": 57,
+        "word": "of",
+        "classModel": "ORGANIZATION"
+    },
+    {
+        "id": 58,
+        "word": "Molecular",
+        "classModel": "ORGANIZATION"
+    },
+    {
+        "id": 59,
+        "word": "Biology",
+        "classModel": "ORGANIZATION"
+    },
+    {
+        "id": 60,
+        "word": "and",
+        "classModel": "O"
+    },
+    {
+        "id": 61,
+        "word": "Genetics1",
+        "classModel": "O"
+    },
+    {
+        "id": 62,
+        "word": "and",
+        "classModel": "O"
+    },
+    {
+        "id": 63,
+        "word": "Laboratory",
+        "classModel": "O"
+    },
+    {
+        "id": 64,
+        "word": "Services",
+        "classModel": "O"
+    },
+    {
+        "id": 65,
+        "word": "Division,2",
+        "classModel": "O"
+    },
+    {
+        "id": 66,
+        "word": "The",
+        "classModel": "O"
+    },
+    {
+        "id": 67,
+        "word": "University",
+        "classModel": "ORGANIZATION"
+    },
+    {
+        "id": 68,
+        "word": "of",
+        "classModel": "ORGANIZATION"
+    },
+    {
+        "id": 69,
+        "word": "Guelph",
+        "classModel": "ORGANIZATION"
+    },
+    {
+        "id": 70,
+        "word": ",",
+        "classModel": "O"
+    },
+    {
+        "id": 71,
+        "word": "Guelph",
+        "classModel": "LOCATION"
+    },
+    {
+        "id": 72,
+        "word": ",",
+        "classModel": "O"
+    },
+    {
+        "id": 73,
+        "word": "Ontario",
+        "classModel": "LOCATION"
+    },
+    {
+        "id": 74,
+        "word": "N1G",
+        "classModel": "O"
+    },
+    {
+        "id": 75,
+        "word": "2W1",
+        "classModel": "O"
+    },
+    {
+        "id": 76,
+        "word": ",",
+        "classModel": "O"
+    },
+    {
+        "id": 77,
+        "word": "Canada",
+        "classModel": "LOCATION"
+    },
+    {
+        "id": 78,
+        "word": "Received",
+        "classModel": "O"
+    },
+    {
+        "id": 79,
+        "word": "21",
+        "classModel": "O"
+    },
+    {
+        "id": 80,
+        "word": "September",
+        "classModel": "O"
+    },
+    {
+        "id": 81,
+        "word": "2000Accepted",
+        "classModel": "O"
+    },
+    {
+        "id": 82,
+        "word": "15",
+        "classModel": "O"
+    },
+    {
+        "id": 83,
+        "word": "November",
+        "classModel": "O"
+    },
+    {
+        "id": 84,
+        "word": "2000",
+        "classModel": "O"
+    },
+    {
+        "id": 85,
+        "word": "A",
+        "classModel": "O"
+    },
+    {
+        "id": 86,
+        "word": "model",
+        "classModel": "O"
+    },
+    {
+        "id": 87,
+        "word": "DNA",
+        "classModel": "O"
+    },
+    {
+        "id": 88,
+        "word": "microarray",
+        "classModel": "O"
+    },
+    {
+        "id": 89,
+        "word": "has",
+        "classModel": "O"
+    },
+    {
+        "id": 90,
+        "word": "been",
+        "classModel": "O"
+    },
+    {
+        "id": 91,
+        "word": "prepared",
+        "classModel": "O"
+    },
+    {
+        "id": 92,
+        "word": "and",
+        "classModel": "O"
+    },
+    {
+        "id": 93,
+        "word": "shown",
+        "classModel": "O"
+    },
+    {
+        "id": 94,
+        "word": "to",
+        "classModel": "O"
+    },
+    {
+        "id": 95,
+        "word": "facilitate",
+        "classModel": "O"
+    },
+    {
+        "id": 96,
+        "word": "typing",
+        "classModel": "O"
+    },
+    {
+        "id": 97,
+        "word": "and",
+        "classModel": "O"
+    },
+    {
+        "id": 98,
+        "word": "subtyping",
+        "classModel": "O"
+    },
+    {
+        "id": 99,
+        "word": "of",
+        "classModel": "O"
+    },
+    {
+        "id": 100,
+        "word": "human",
+        "classModel": "O"
+    },
+    {
+        "id": 101,
+        "word": "influenza",
+        "classModel": "O"
+    },
+    {
+        "id": 102,
+        "word": "A",
+        "classModel": "O"
+    },
+    {
+        "id": 103,
+        "word": "and",
+        "classModel": "O"
+    },
+    {
+        "id": 104,
+        "word": "B",
+        "classModel": "O"
+    },
+    {
+        "id": 105,
+        "word": "viruses",
+        "classModel": "O"
+    },
+    {
+        "id": 106,
+        "word": ".",
+        "classModel": "O"
+    }
+]

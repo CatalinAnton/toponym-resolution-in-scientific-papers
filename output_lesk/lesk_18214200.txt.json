@@ -1,0 +1,1496 @@
+[
+    {
+        "id": 0,
+        "sentence": "\u00ef\u00bb\u00bfLETTERS\n1120 Emerging Infectious Diseases \u00c2\u00b7 www.cdc.gov/eid \u00c2\u00b7 Vol.",
+        "wordProcessed": "Diseases",
+        "senseFoundByLesk": "an impairment of health or a condition of abnormal functioning"
+    },
+    {
+        "id": 1,
+        "sentence": "7, July 2007\nQiao-Ping Wang,*\nXiao-Guang Chen\nand Zhao-Rong Lun*\n*Sun Yat-Sen (Zhongshan) University,\nGuangzhou, People's Republic of China;\nand Southern Medical University, Guang-\nzhou, People's Republic of China\nReferences\n1.",
+        "wordProcessed": "July",
+        "senseFoundByLesk": "the month following June and preceding August"
+    },
+    {
+        "id": 2,
+        "sentence": "7, July 2007\nQiao-Ping Wang,*\nXiao-Guang Chen\nand Zhao-Rong Lun*\n*Sun Yat-Sen (Zhongshan) University,\nGuangzhou, People's Republic of China;\nand Southern Medical University, Guang-\nzhou, People's Republic of China\nReferences\n1.",
+        "wordProcessed": "Chen",
+        "senseFoundByLesk": "wild goose having white adult plumage"
+    },
+    {
+        "id": 3,
+        "sentence": "7, July 2007\nQiao-Ping Wang,*\nXiao-Guang Chen\nand Zhao-Rong Lun*\n*Sun Yat-Sen (Zhongshan) University,\nGuangzhou, People's Republic of China;\nand Southern Medical University, Guang-\nzhou, People's Republic of China\nReferences\n1.",
+        "wordProcessed": "University",
+        "senseFoundByLesk": "a large and diverse institution of higher learning created to educate for life and for a profession and to grant degrees"
+    },
+    {
+        "id": 4,
+        "sentence": "7, July 2007\nQiao-Ping Wang,*\nXiao-Guang Chen\nand Zhao-Rong Lun*\n*Sun Yat-Sen (Zhongshan) University,\nGuangzhou, People's Republic of China;\nand Southern Medical University, Guang-\nzhou, People's Republic of China\nReferences\n1.",
+        "wordProcessed": "Guangzhou",
+        "senseFoundByLesk": "a city on the Zhu Jiang delta in southern China; the capital of Guangdong province and a major deep-water port"
+    },
+    {
+        "id": 5,
+        "sentence": "7, July 2007\nQiao-Ping Wang,*\nXiao-Guang Chen\nand Zhao-Rong Lun*\n*Sun Yat-Sen (Zhongshan) University,\nGuangzhou, People's Republic of China;\nand Southern Medical University, Guang-\nzhou, People's Republic of China\nReferences\n1.",
+        "wordProcessed": "People",
+        "senseFoundByLesk": "members of a family line"
+    },
+    {
+        "id": 6,
+        "sentence": "7, July 2007\nQiao-Ping Wang,*\nXiao-Guang Chen\nand Zhao-Rong Lun*\n*Sun Yat-Sen (Zhongshan) University,\nGuangzhou, People's Republic of China;\nand Southern Medical University, Guang-\nzhou, People's Republic of China\nReferences\n1.",
+        "wordProcessed": "Republic",
+        "senseFoundByLesk": "a form of government whose head of state is not a monarch"
+    },
+    {
+        "id": 7,
+        "sentence": "7, July 2007\nQiao-Ping Wang,*\nXiao-Guang Chen\nand Zhao-Rong Lun*\n*Sun Yat-Sen (Zhongshan) University,\nGuangzhou, People's Republic of China;\nand Southern Medical University, Guang-\nzhou, People's Republic of China\nReferences\n1.",
+        "wordProcessed": "China",
+        "senseFoundByLesk": "a government on the island of Taiwan established in 1949 by Chiang Kai-shek after the conquest of mainland China by the Communists led by Mao Zedong"
+    },
+    {
+        "id": 8,
+        "sentence": "7, July 2007\nQiao-Ping Wang,*\nXiao-Guang Chen\nand Zhao-Rong Lun*\n*Sun Yat-Sen (Zhongshan) University,\nGuangzhou, People's Republic of China;\nand Southern Medical University, Guang-\nzhou, People's Republic of China\nReferences\n1.",
+        "wordProcessed": "Medical",
+        "senseFoundByLesk": "a thorough physical examination; includes a variety of tests depending on the age and sex and health of the person"
+    },
+    {
+        "id": 9,
+        "sentence": "7, July 2007\nQiao-Ping Wang,*\nXiao-Guang Chen\nand Zhao-Rong Lun*\n*Sun Yat-Sen (Zhongshan) University,\nGuangzhou, People's Republic of China;\nand Southern Medical University, Guang-\nzhou, People's Republic of China\nReferences\n1.",
+        "wordProcessed": "University",
+        "senseFoundByLesk": "a large and diverse institution of higher learning created to educate for life and for a profession and to grant degrees"
+    },
+    {
+        "id": 10,
+        "sentence": "7, July 2007\nQiao-Ping Wang,*\nXiao-Guang Chen\nand Zhao-Rong Lun*\n*Sun Yat-Sen (Zhongshan) University,\nGuangzhou, People's Republic of China;\nand Southern Medical University, Guang-\nzhou, People's Republic of China\nReferences\n1.",
+        "wordProcessed": "zhou",
+        "senseFoundByLesk": "the imperial dynasty of China from 1122 to 221 BC; notable for the rise of Confucianism and Taoism"
+    },
+    {
+        "id": 11,
+        "sentence": "7, July 2007\nQiao-Ping Wang,*\nXiao-Guang Chen\nand Zhao-Rong Lun*\n*Sun Yat-Sen (Zhongshan) University,\nGuangzhou, People's Republic of China;\nand Southern Medical University, Guang-\nzhou, People's Republic of China\nReferences\n1.",
+        "wordProcessed": "People",
+        "senseFoundByLesk": "members of a family line"
+    },
+    {
+        "id": 12,
+        "sentence": "7, July 2007\nQiao-Ping Wang,*\nXiao-Guang Chen\nand Zhao-Rong Lun*\n*Sun Yat-Sen (Zhongshan) University,\nGuangzhou, People's Republic of China;\nand Southern Medical University, Guang-\nzhou, People's Republic of China\nReferences\n1.",
+        "wordProcessed": "Republic",
+        "senseFoundByLesk": "a form of government whose head of state is not a monarch"
+    },
+    {
+        "id": 13,
+        "sentence": "7, July 2007\nQiao-Ping Wang,*\nXiao-Guang Chen\nand Zhao-Rong Lun*\n*Sun Yat-Sen (Zhongshan) University,\nGuangzhou, People's Republic of China;\nand Southern Medical University, Guang-\nzhou, People's Republic of China\nReferences\n1.",
+        "wordProcessed": "China",
+        "senseFoundByLesk": "a government on the island of Taiwan established in 1949 by Chiang Kai-shek after the conquest of mainland China by the Communists led by Mao Zedong"
+    },
+    {
+        "id": 14,
+        "sentence": "7, July 2007\nQiao-Ping Wang,*\nXiao-Guang Chen\nand Zhao-Rong Lun*\n*Sun Yat-Sen (Zhongshan) University,\nGuangzhou, People's Republic of China;\nand Southern Medical University, Guang-\nzhou, People's Republic of China\nReferences\n1.",
+        "wordProcessed": "References",
+        "senseFoundByLesk": "the relation between a word or phrase and the object or idea it refers to"
+    },
+    {
+        "id": 15,
+        "sentence": "Xu HG, Qiang S. Inventory invasive alien\nspecies in China.",
+        "wordProcessed": "HG",
+        "senseFoundByLesk": "a heavy silvery toxic univalent and bivalent metallic element; the only metal that is liquid at ordinary temperatures"
+    },
+    {
+        "id": 16,
+        "sentence": "Xu HG, Qiang S. Inventory invasive alien\nspecies in China.",
+        "wordProcessed": "Qiang",
+        "senseFoundByLesk": "the Tibeto-Burman language spoken in Sichuan"
+    },
+    {
+        "id": 17,
+        "sentence": "Xu HG, Qiang S. Inventory invasive alien\nspecies in China.",
+        "wordProcessed": "Inventory",
+        "senseFoundByLesk": "(accounting) the value of a firm's current assets including raw materials and work in progress and finished goods"
+    },
+    {
+        "id": 18,
+        "sentence": "Xu HG, Qiang S. Inventory invasive alien\nspecies in China.",
+        "wordProcessed": "China",
+        "senseFoundByLesk": "a government on the island of Taiwan established in 1949 by Chiang Kai-shek after the conquest of mainland China by the Communists led by Mao Zedong"
+    },
+    {
+        "id": 19,
+        "sentence": "Beijing: Chinese Envi-\nronmental Science Press; 2004.",
+        "wordProcessed": "Beijing",
+        "senseFoundByLesk": "capital of the People's Republic of China in the Hebei province in northeastern China; 2nd largest Chinese city"
+    },
+    {
+        "id": 20,
+        "sentence": "Beijing: Chinese Envi-\nronmental Science Press; 2004.",
+        "wordProcessed": "Science",
+        "senseFoundByLesk": "ability to produce solutions in some problem domain"
+    },
+    {
+        "id": 21,
+        "sentence": "Beijing: Chinese Envi-\nronmental Science Press; 2004.",
+        "wordProcessed": "Press",
+        "senseFoundByLesk": "a tall piece of furniture that provides storage space for clothes; has a door and rails or hooks for hanging clothes"
+    },
+    {
+        "id": 22,
+        "sentence": "Zhou XC.",
+        "wordProcessed": "Zhou",
+        "senseFoundByLesk": "the imperial dynasty of China from 1122 to 221 BC; notable for the rise of Confucianism and Taoism"
+    },
+    {
+        "id": 23,
+        "sentence": "Zhou XC.",
+        "wordProcessed": "XC",
+        "senseFoundByLesk": "the cardinal number that is the product of ten and nine"
+    },
+    {
+        "id": 24,
+        "sentence": "Jian Yan Jian Yi Ke Xue.",
+        "wordProcessed": "Yi",
+        "senseFoundByLesk": "a Loloish language"
+    },
+    {
+        "id": 25,
+        "sentence": "Tsai HC, Liu YC, Kunin CM, Lai PH, Lee\nSS, Chen YS, et al.",
+        "wordProcessed": "CM",
+        "senseFoundByLesk": "a radioactive transuranic metallic element; produced by bombarding plutonium with helium nuclei"
+    },
+    {
+        "id": 26,
+        "sentence": "Tsai HC, Liu YC, Kunin CM, Lai PH, Lee\nSS, Chen YS, et al.",
+        "wordProcessed": "PH",
+        "senseFoundByLesk": "(from potential of Hydrogen) the logarithm of the reciprocal of hydrogen-ion concentration in gram atoms per liter; provides a measure on a scale from 0 to 14 of the acidity or alkalinity of a solution (where 7 is neutral and greater than 7 is more basic and less than 7 is more acidic); "
+    },
+    {
+        "id": 27,
+        "sentence": "Tsai HC, Liu YC, Kunin CM, Lai PH, Lee\nSS, Chen YS, et al.",
+        "wordProcessed": "Lee",
+        "senseFoundByLesk": "United States physicist (born in China) who collaborated with Yang Chen Ning in disproving the principle of conservation of parity (born in 1926)"
+    },
+    {
+        "id": 28,
+        "sentence": "Tsai HC, Liu YC, Kunin CM, Lai PH, Lee\nSS, Chen YS, et al.",
+        "wordProcessed": "SS",
+        "senseFoundByLesk": "special police force in Nazi Germany founded as a personal bodyguard for Adolf Hitler in 1925; the SS administered the concentration camps"
+    },
+    {
+        "id": 29,
+        "sentence": "Tsai HC, Liu YC, Kunin CM, Lai PH, Lee\nSS, Chen YS, et al.",
+        "wordProcessed": "Chen",
+        "senseFoundByLesk": "wild goose having white adult plumage"
+    },
+    {
+        "id": 30,
+        "sentence": "Tsai HC, Liu YC, Kunin CM, Lai PH, Lee\nSS, Chen YS, et al.",
+        "wordProcessed": "YS",
+        "senseFoundByLesk": "a silvery metallic element that is common in rare-earth minerals; used in magnesium and aluminum alloys"
+    },
+    {
+        "id": 31,
+        "sentence": "Am J Trop\nMed Hyg.",
+        "wordProcessed": "Am",
+        "senseFoundByLesk": "a master's degree in arts and sciences"
+    },
+    {
+        "id": 32,
+        "sentence": "Am J Trop\nMed Hyg.",
+        "wordProcessed": "J",
+        "senseFoundByLesk": "a unit of electrical energy equal to the work done when a current of one ampere passes through a resistance of one ohm for one second"
+    },
+    {
+        "id": 33,
+        "sentence": "Am J Trop\nMed Hyg.",
+        "wordProcessed": "Med",
+        "senseFoundByLesk": "a master's degree in education"
+    },
+    {
+        "id": 34,
+        "sentence": "Tsai HC, Liu YC, Kunin CM, Lee SS,\nChen YS, Lin HH, et al.",
+        "wordProcessed": "CM",
+        "senseFoundByLesk": "a radioactive transuranic metallic element; produced by bombarding plutonium with helium nuclei"
+    },
+    {
+        "id": 35,
+        "sentence": "Tsai HC, Liu YC, Kunin CM, Lee SS,\nChen YS, Lin HH, et al.",
+        "wordProcessed": "Lee",
+        "senseFoundByLesk": "United States physicist (born in China) who collaborated with Yang Chen Ning in disproving the principle of conservation of parity (born in 1926)"
+    },
+    {
+        "id": 36,
+        "sentence": "Tsai HC, Liu YC, Kunin CM, Lee SS,\nChen YS, Lin HH, et al.",
+        "wordProcessed": "SS",
+        "senseFoundByLesk": "special police force in Nazi Germany founded as a personal bodyguard for Adolf Hitler in 1925; the SS administered the concentration camps"
+    },
+    {
+        "id": 37,
+        "sentence": "Tsai HC, Liu YC, Kunin CM, Lee SS,\nChen YS, Lin HH, et al.",
+        "wordProcessed": "Chen",
+        "senseFoundByLesk": "wild goose having white adult plumage"
+    },
+    {
+        "id": 38,
+        "sentence": "Tsai HC, Liu YC, Kunin CM, Lee SS,\nChen YS, Lin HH, et al.",
+        "wordProcessed": "YS",
+        "senseFoundByLesk": "a silvery metallic element that is common in rare-earth minerals; used in magnesium and aluminum alloys"
+    },
+    {
+        "id": 39,
+        "sentence": "Tsai HC, Liu YC, Kunin CM, Lee SS,\nChen YS, Lin HH, et al.",
+        "wordProcessed": "Lin",
+        "senseFoundByLesk": "United States sculptor and architect whose public works include the memorial to veterans of the Vietnam War in Washington (born in 1959)"
+    },
+    {
+        "id": 40,
+        "sentence": "Am J\nMed.",
+        "wordProcessed": "Am",
+        "senseFoundByLesk": "a master's degree in arts and sciences"
+    },
+    {
+        "id": 41,
+        "sentence": "Am J\nMed.",
+        "wordProcessed": "J",
+        "senseFoundByLesk": "a unit of electrical energy equal to the work done when a current of one ampere passes through a resistance of one ohm for one second"
+    },
+    {
+        "id": 42,
+        "sentence": "Am J\nMed.",
+        "wordProcessed": "Med",
+        "senseFoundByLesk": "a master's degree in education"
+    },
+    {
+        "id": 43,
+        "sentence": "Lin W, Wang XT.",
+        "wordProcessed": "Lin",
+        "senseFoundByLesk": "United States sculptor and architect whose public works include the memorial to veterans of the Vietnam War in Washington (born in 1959)"
+    },
+    {
+        "id": 44,
+        "sentence": "Lin W, Wang XT.",
+        "wordProcessed": "W",
+        "senseFoundByLesk": "the cardinal compass point that is a 270 degrees"
+    },
+    {
+        "id": 45,
+        "sentence": "Lin W, Wang XT.",
+        "wordProcessed": "XT",
+        "senseFoundByLesk": "the presence of an unwanted signal via an accidental coupling"
+    },
+    {
+        "id": 46,
+        "sentence": "Epidemiological survey\nof angiostrongyliasis in Mainland China.",
+        "wordProcessed": "Mainland",
+        "senseFoundByLesk": "the main land mass of a country or continent; as distinguished from an island or peninsula"
+    },
+    {
+        "id": 47,
+        "sentence": "Epidemiological survey\nof angiostrongyliasis in Mainland China.",
+        "wordProcessed": "China",
+        "senseFoundByLesk": "a government on the island of Taiwan established in 1949 by Chiang Kai-shek after the conquest of mainland China by the Communists led by Mao Zedong"
+    },
+    {
+        "id": 48,
+        "sentence": "Chin J Zoonoses.",
+        "wordProcessed": "Chin",
+        "senseFoundByLesk": "Kamarupan languages spoken in western Burma and Bangladesh and easternmost India"
+    },
+    {
+        "id": 49,
+        "sentence": "Chin J Zoonoses.",
+        "wordProcessed": "J",
+        "senseFoundByLesk": "a unit of electrical energy equal to the work done when a current of one ampere passes through a resistance of one ohm for one second"
+    },
+    {
+        "id": 50,
+        "sentence": "Chin J Zoonoses.",
+        "wordProcessed": "Zoonoses",
+        "senseFoundByLesk": "an animal disease that can be transmitted to humans"
+    },
+    {
+        "id": 51,
+        "sentence": "Hollingsworth RG, Cowie RH.",
+        "wordProcessed": "RG",
+        "senseFoundByLesk": "a radioactive transuranic element"
+    },
+    {
+        "id": 52,
+        "sentence": "Hollingsworth RG, Cowie RH.",
+        "wordProcessed": "RH",
+        "senseFoundByLesk": "a white hard metallic element that is one of the platinum group and is found in platinum ores; used in alloys with platinum"
+    },
+    {
+        "id": 53,
+        "sentence": "Apple\nsnails as disease vectors.",
+        "wordProcessed": "Apple",
+        "senseFoundByLesk": "native Eurasian tree widely cultivated in many varieties for its firm rounded edible fruits"
+    },
+    {
+        "id": 54,
+        "sentence": "Nueva Ecija: Philippine Rice Institute;\n2006. p. 121\u00c2\u00ad32\n7.",
+        "wordProcessed": "Rice",
+        "senseFoundByLesk": "United States playwright (1892-1967)"
+    },
+    {
+        "id": 55,
+        "sentence": "Nueva Ecija: Philippine Rice Institute;\n2006. p. 121\u00c2\u00ad32\n7.",
+        "wordProcessed": "Institute",
+        "senseFoundByLesk": "an association organized to promote art or science or education"
+    },
+    {
+        "id": 56,
+        "sentence": "Chen XG, Li H, Lun ZR.",
+        "wordProcessed": "Chen",
+        "senseFoundByLesk": "wild goose having white adult plumage"
+    },
+    {
+        "id": 57,
+        "sentence": "Chen XG, Li H, Lun ZR.",
+        "wordProcessed": "Li",
+        "senseFoundByLesk": "a soft silver-white univalent element of the alkali metal group; the lightest metal known; occurs in several minerals"
+    },
+    {
+        "id": 58,
+        "sentence": "Chen XG, Li H, Lun ZR.",
+        "wordProcessed": "H",
+        "senseFoundByLesk": "the constant of proportionality relating the energy of a photon to its frequency; approximately 6.626 x 10^-34 joule-second"
+    },
+    {
+        "id": 59,
+        "sentence": "Chen XG, Li H, Lun ZR.",
+        "wordProcessed": "ZR",
+        "senseFoundByLesk": "a lustrous grey strong metallic element resembling titanium; it is used in nuclear reactors as a neutron absorber; it occurs in baddeleyite but is obtained chiefly from zircon"
+    },
+    {
+        "id": 60,
+        "sentence": "Angiostrongyli-\nasis, mainland China.",
+        "wordProcessed": "China",
+        "senseFoundByLesk": "a government on the island of Taiwan established in 1949 by Chiang Kai-shek after the conquest of mainland China by the Communists led by Mao Zedong"
+    },
+    {
+        "id": 61,
+        "sentence": "Emerg Infect Dis.",
+        "wordProcessed": "Dis",
+        "senseFoundByLesk": "god of the underworld; counterpart of Greek Pluto"
+    },
+    {
+        "id": 62,
+        "sentence": "The number of the case of angiostron-\ngyliasis caused by eating P. canaliculata\nreached 131 in Beijing.",
+        "wordProcessed": "Beijing",
+        "senseFoundByLesk": "capital of the People's Republic of China in the Hebei province in northeastern China; 2nd largest Chinese city"
+    },
+    {
+        "id": 63,
+        "sentence": "[cited 2007 Jan\n21].",
+        "wordProcessed": "Jan",
+        "senseFoundByLesk": "the first month of the year; begins 10 days after the winter solstice"
+    },
+    {
+        "id": 64,
+        "sentence": "Cowie RH.",
+        "wordProcessed": "RH",
+        "senseFoundByLesk": "a white hard metallic element that is one of the platinum group and is found in platinum ores; used in alloys with platinum"
+    },
+    {
+        "id": 65,
+        "sentence": "Apple snails (Ampullariidae)\nas agricultural pests: their biology, im-\npacts and management.",
+        "wordProcessed": "Apple",
+        "senseFoundByLesk": "fruit with red or yellow or green skin and sweet to tart crisp whitish flesh"
+    },
+    {
+        "id": 66,
+        "sentence": "In: Barker GM.",
+        "wordProcessed": "Barker",
+        "senseFoundByLesk": "informal terms for dogs"
+    },
+    {
+        "id": 67,
+        "sentence": "In: Barker GM.",
+        "wordProcessed": "GM",
+        "senseFoundByLesk": "a metric unit of weight equal to one thousandth of a kilogram"
+    },
+    {
+        "id": 68,
+        "sentence": "Wallingford\n(UK): CABI Publishing; 2002. p. 145\u00c2\u00ad92\n10.",
+        "wordProcessed": "UK",
+        "senseFoundByLesk": "a monarchy in northwestern Europe occupying most of the British Isles; divided into England and Scotland and Wales and Northern Ireland; `Great Britain' is often used loosely to refer to the United Kingdom"
+    },
+    {
+        "id": 69,
+        "sentence": "Wallingford\n(UK): CABI Publishing; 2002. p. 145\u00c2\u00ad92\n10.",
+        "wordProcessed": "Publishing",
+        "senseFoundByLesk": "the business of issuing printed matter for sale or distribution"
+    },
+    {
+        "id": 70,
+        "sentence": "Tsai HC, Lee SS, Huang CK, Yen CM,\nChen ER, Liu YC.",
+        "wordProcessed": "Lee",
+        "senseFoundByLesk": "United States physicist (born in China) who collaborated with Yang Chen Ning in disproving the principle of conservation of parity (born in 1926)"
+    },
+    {
+        "id": 71,
+        "sentence": "Tsai HC, Lee SS, Huang CK, Yen CM,\nChen ER, Liu YC.",
+        "wordProcessed": "SS",
+        "senseFoundByLesk": "special police force in Nazi Germany founded as a personal bodyguard for Adolf Hitler in 1925; the SS administered the concentration camps"
+    },
+    {
+        "id": 72,
+        "sentence": "Tsai HC, Lee SS, Huang CK, Yen CM,\nChen ER, Liu YC.",
+        "wordProcessed": "Yen",
+        "senseFoundByLesk": "the basic unit of money in Japan; equal to 100 sen"
+    },
+    {
+        "id": 73,
+        "sentence": "Tsai HC, Lee SS, Huang CK, Yen CM,\nChen ER, Liu YC.",
+        "wordProcessed": "CM",
+        "senseFoundByLesk": "a radioactive transuranic metallic element; produced by bombarding plutonium with helium nuclei"
+    },
+    {
+        "id": 74,
+        "sentence": "Tsai HC, Lee SS, Huang CK, Yen CM,\nChen ER, Liu YC.",
+        "wordProcessed": "Chen",
+        "senseFoundByLesk": "wild goose having white adult plumage"
+    },
+    {
+        "id": 75,
+        "sentence": "Tsai HC, Lee SS, Huang CK, Yen CM,\nChen ER, Liu YC.",
+        "wordProcessed": "ER",
+        "senseFoundByLesk": "a trivalent metallic element of the rare earth group; occurs with yttrium"
+    },
+    {
+        "id": 76,
+        "sentence": "Outbreak of eosino-\nphilic meningitis associated with drinking\nraw vegetable juice in southern Taiwan.",
+        "wordProcessed": "Taiwan",
+        "senseFoundByLesk": "a government on the island of Taiwan established in 1949 by Chiang Kai-shek after the conquest of mainland China by the Communists led by Mao Zedong"
+    },
+    {
+        "id": 77,
+        "sentence": "Am J Trop Med Hyg.",
+        "wordProcessed": "Am",
+        "senseFoundByLesk": "a master's degree in arts and sciences"
+    },
+    {
+        "id": 78,
+        "sentence": "Am J Trop Med Hyg.",
+        "wordProcessed": "J",
+        "senseFoundByLesk": "a unit of electrical energy equal to the work done when a current of one ampere passes through a resistance of one ohm for one second"
+    },
+    {
+        "id": 79,
+        "sentence": "Am J Trop Med Hyg.",
+        "wordProcessed": "Med",
+        "senseFoundByLesk": "a master's degree in education"
+    },
+    {
+        "id": 80,
+        "sentence": "Address for correspondence: Zhao-Rong\nLun, Center for Parasitic Organisms, State\nKey Laboratory of Biocontrol, School of Life\nSciences, Sun Yat-Sen (Zhongshan) University,\nGuangzhou 510275, People's Republic of\nChina; email: lsslzr@mail.sysu.edu.cn\nPossible Avian\nInfluenza (H5N1)\nfrom Migratory\nBird, Egypt\nTo the Editor: Wild migratory\nbirds are reservoirs for low pathogenic\navian influenza (LPAI) viruses (1), but\ntheir role in transmitting highly patho-\ngenic avian influenza (HPAI) viruses\nis hotly debated and unclear (2\u00c2\u00ad4).",
+        "wordProcessed": "Center",
+        "senseFoundByLesk": "the sweet central portion of a piece of candy that is enclosed in chocolate or some other covering"
+    },
+    {
+        "id": 81,
+        "sentence": "Address for correspondence: Zhao-Rong\nLun, Center for Parasitic Organisms, State\nKey Laboratory of Biocontrol, School of Life\nSciences, Sun Yat-Sen (Zhongshan) University,\nGuangzhou 510275, People's Republic of\nChina; email: lsslzr@mail.sysu.edu.cn\nPossible Avian\nInfluenza (H5N1)\nfrom Migratory\nBird, Egypt\nTo the Editor: Wild migratory\nbirds are reservoirs for low pathogenic\navian influenza (LPAI) viruses (1), but\ntheir role in transmitting highly patho-\ngenic avian influenza (HPAI) viruses\nis hotly debated and unclear (2\u00c2\u00ad4).",
+        "wordProcessed": "Organisms",
+        "senseFoundByLesk": "a system considered analogous in structure or function to a living body"
+    },
+    {
+        "id": 82,
+        "sentence": "Address for correspondence: Zhao-Rong\nLun, Center for Parasitic Organisms, State\nKey Laboratory of Biocontrol, School of Life\nSciences, Sun Yat-Sen (Zhongshan) University,\nGuangzhou 510275, People's Republic of\nChina; email: lsslzr@mail.sysu.edu.cn\nPossible Avian\nInfluenza (H5N1)\nfrom Migratory\nBird, Egypt\nTo the Editor: Wild migratory\nbirds are reservoirs for low pathogenic\navian influenza (LPAI) viruses (1), but\ntheir role in transmitting highly patho-\ngenic avian influenza (HPAI) viruses\nis hotly debated and unclear (2\u00c2\u00ad4).",
+        "wordProcessed": "State",
+        "senseFoundByLesk": "(chemistry) the three traditional states of matter are solids (fixed shape and volume) and liquids (fixed volume and shaped by the container) and gases (filling the container)"
+    },
+    {
+        "id": 83,
+        "sentence": "Address for correspondence: Zhao-Rong\nLun, Center for Parasitic Organisms, State\nKey Laboratory of Biocontrol, School of Life\nSciences, Sun Yat-Sen (Zhongshan) University,\nGuangzhou 510275, People's Republic of\nChina; email: lsslzr@mail.sysu.edu.cn\nPossible Avian\nInfluenza (H5N1)\nfrom Migratory\nBird, Egypt\nTo the Editor: Wild migratory\nbirds are reservoirs for low pathogenic\navian influenza (LPAI) viruses (1), but\ntheir role in transmitting highly patho-\ngenic avian influenza (HPAI) viruses\nis hotly debated and unclear (2\u00c2\u00ad4).",
+        "wordProcessed": "Key",
+        "senseFoundByLesk": "(basketball) a space (including the foul line) in front of the basket at each end of a basketball court; usually painted a different color from the rest of the court"
+    },
+    {
+        "id": 84,
+        "sentence": "Address for correspondence: Zhao-Rong\nLun, Center for Parasitic Organisms, State\nKey Laboratory of Biocontrol, School of Life\nSciences, Sun Yat-Sen (Zhongshan) University,\nGuangzhou 510275, People's Republic of\nChina; email: lsslzr@mail.sysu.edu.cn\nPossible Avian\nInfluenza (H5N1)\nfrom Migratory\nBird, Egypt\nTo the Editor: Wild migratory\nbirds are reservoirs for low pathogenic\navian influenza (LPAI) viruses (1), but\ntheir role in transmitting highly patho-\ngenic avian influenza (HPAI) viruses\nis hotly debated and unclear (2\u00c2\u00ad4).",
+        "wordProcessed": "Laboratory",
+        "senseFoundByLesk": "a workplace for the conduct of scientific research"
+    },
+    {
+        "id": 85,
+        "sentence": "Address for correspondence: Zhao-Rong\nLun, Center for Parasitic Organisms, State\nKey Laboratory of Biocontrol, School of Life\nSciences, Sun Yat-Sen (Zhongshan) University,\nGuangzhou 510275, People's Republic of\nChina; email: lsslzr@mail.sysu.edu.cn\nPossible Avian\nInfluenza (H5N1)\nfrom Migratory\nBird, Egypt\nTo the Editor: Wild migratory\nbirds are reservoirs for low pathogenic\navian influenza (LPAI) viruses (1), but\ntheir role in transmitting highly patho-\ngenic avian influenza (HPAI) viruses\nis hotly debated and unclear (2\u00c2\u00ad4).",
+        "wordProcessed": "School",
+        "senseFoundByLesk": "the period of instruction in a school; the time period when school is in session"
+    },
+    {
+        "id": 86,
+        "sentence": "Address for correspondence: Zhao-Rong\nLun, Center for Parasitic Organisms, State\nKey Laboratory of Biocontrol, School of Life\nSciences, Sun Yat-Sen (Zhongshan) University,\nGuangzhou 510275, People's Republic of\nChina; email: lsslzr@mail.sysu.edu.cn\nPossible Avian\nInfluenza (H5N1)\nfrom Migratory\nBird, Egypt\nTo the Editor: Wild migratory\nbirds are reservoirs for low pathogenic\navian influenza (LPAI) viruses (1), but\ntheir role in transmitting highly patho-\ngenic avian influenza (HPAI) viruses\nis hotly debated and unclear (2\u00c2\u00ad4).",
+        "wordProcessed": "Life",
+        "senseFoundByLesk": "the course of existence of an individual; the actions and events that occur in living"
+    },
+    {
+        "id": 87,
+        "sentence": "Address for correspondence: Zhao-Rong\nLun, Center for Parasitic Organisms, State\nKey Laboratory of Biocontrol, School of Life\nSciences, Sun Yat-Sen (Zhongshan) University,\nGuangzhou 510275, People's Republic of\nChina; email: lsslzr@mail.sysu.edu.cn\nPossible Avian\nInfluenza (H5N1)\nfrom Migratory\nBird, Egypt\nTo the Editor: Wild migratory\nbirds are reservoirs for low pathogenic\navian influenza (LPAI) viruses (1), but\ntheir role in transmitting highly patho-\ngenic avian influenza (HPAI) viruses\nis hotly debated and unclear (2\u00c2\u00ad4).",
+        "wordProcessed": "Sciences",
+        "senseFoundByLesk": "ability to produce solutions in some problem domain"
+    },
+    {
+        "id": 88,
+        "sentence": "Address for correspondence: Zhao-Rong\nLun, Center for Parasitic Organisms, State\nKey Laboratory of Biocontrol, School of Life\nSciences, Sun Yat-Sen (Zhongshan) University,\nGuangzhou 510275, People's Republic of\nChina; email: lsslzr@mail.sysu.edu.cn\nPossible Avian\nInfluenza (H5N1)\nfrom Migratory\nBird, Egypt\nTo the Editor: Wild migratory\nbirds are reservoirs for low pathogenic\navian influenza (LPAI) viruses (1), but\ntheir role in transmitting highly patho-\ngenic avian influenza (HPAI) viruses\nis hotly debated and unclear (2\u00c2\u00ad4).",
+        "wordProcessed": "Sun",
+        "senseFoundByLesk": "the star that is the source of light and heat for the planets in the solar system"
+    },
+    {
+        "id": 89,
+        "sentence": "Address for correspondence: Zhao-Rong\nLun, Center for Parasitic Organisms, State\nKey Laboratory of Biocontrol, School of Life\nSciences, Sun Yat-Sen (Zhongshan) University,\nGuangzhou 510275, People's Republic of\nChina; email: lsslzr@mail.sysu.edu.cn\nPossible Avian\nInfluenza (H5N1)\nfrom Migratory\nBird, Egypt\nTo the Editor: Wild migratory\nbirds are reservoirs for low pathogenic\navian influenza (LPAI) viruses (1), but\ntheir role in transmitting highly patho-\ngenic avian influenza (HPAI) viruses\nis hotly debated and unclear (2\u00c2\u00ad4).",
+        "wordProcessed": "University",
+        "senseFoundByLesk": "establishment where a seat of higher learning is housed, including administrative and living quarters as well as facilities for research and teaching"
+    },
+    {
+        "id": 90,
+        "sentence": "Address for correspondence: Zhao-Rong\nLun, Center for Parasitic Organisms, State\nKey Laboratory of Biocontrol, School of Life\nSciences, Sun Yat-Sen (Zhongshan) University,\nGuangzhou 510275, People's Republic of\nChina; email: lsslzr@mail.sysu.edu.cn\nPossible Avian\nInfluenza (H5N1)\nfrom Migratory\nBird, Egypt\nTo the Editor: Wild migratory\nbirds are reservoirs for low pathogenic\navian influenza (LPAI) viruses (1), but\ntheir role in transmitting highly patho-\ngenic avian influenza (HPAI) viruses\nis hotly debated and unclear (2\u00c2\u00ad4).",
+        "wordProcessed": "Guangzhou",
+        "senseFoundByLesk": "a city on the Zhu Jiang delta in southern China; the capital of Guangdong province and a major deep-water port"
+    },
+    {
+        "id": 91,
+        "sentence": "Address for correspondence: Zhao-Rong\nLun, Center for Parasitic Organisms, State\nKey Laboratory of Biocontrol, School of Life\nSciences, Sun Yat-Sen (Zhongshan) University,\nGuangzhou 510275, People's Republic of\nChina; email: lsslzr@mail.sysu.edu.cn\nPossible Avian\nInfluenza (H5N1)\nfrom Migratory\nBird, Egypt\nTo the Editor: Wild migratory\nbirds are reservoirs for low pathogenic\navian influenza (LPAI) viruses (1), but\ntheir role in transmitting highly patho-\ngenic avian influenza (HPAI) viruses\nis hotly debated and unclear (2\u00c2\u00ad4).",
+        "wordProcessed": "People",
+        "senseFoundByLesk": "the body of citizens of a state or country"
+    },
+    {
+        "id": 92,
+        "sentence": "Address for correspondence: Zhao-Rong\nLun, Center for Parasitic Organisms, State\nKey Laboratory of Biocontrol, School of Life\nSciences, Sun Yat-Sen (Zhongshan) University,\nGuangzhou 510275, People's Republic of\nChina; email: lsslzr@mail.sysu.edu.cn\nPossible Avian\nInfluenza (H5N1)\nfrom Migratory\nBird, Egypt\nTo the Editor: Wild migratory\nbirds are reservoirs for low pathogenic\navian influenza (LPAI) viruses (1), but\ntheir role in transmitting highly patho-\ngenic avian influenza (HPAI) viruses\nis hotly debated and unclear (2\u00c2\u00ad4).",
+        "wordProcessed": "Republic",
+        "senseFoundByLesk": "a political system in which the supreme power lies in a body of citizens who can elect people to represent them"
+    },
+    {
+        "id": 93,
+        "sentence": "Address for correspondence: Zhao-Rong\nLun, Center for Parasitic Organisms, State\nKey Laboratory of Biocontrol, School of Life\nSciences, Sun Yat-Sen (Zhongshan) University,\nGuangzhou 510275, People's Republic of\nChina; email: lsslzr@mail.sysu.edu.cn\nPossible Avian\nInfluenza (H5N1)\nfrom Migratory\nBird, Egypt\nTo the Editor: Wild migratory\nbirds are reservoirs for low pathogenic\navian influenza (LPAI) viruses (1), but\ntheir role in transmitting highly patho-\ngenic avian influenza (HPAI) viruses\nis hotly debated and unclear (2\u00c2\u00ad4).",
+        "wordProcessed": "China",
+        "senseFoundByLesk": "a government on the island of Taiwan established in 1949 by Chiang Kai-shek after the conquest of mainland China by the Communists led by Mao Zedong"
+    },
+    {
+        "id": 94,
+        "sentence": "Address for correspondence: Zhao-Rong\nLun, Center for Parasitic Organisms, State\nKey Laboratory of Biocontrol, School of Life\nSciences, Sun Yat-Sen (Zhongshan) University,\nGuangzhou 510275, People's Republic of\nChina; email: lsslzr@mail.sysu.edu.cn\nPossible Avian\nInfluenza (H5N1)\nfrom Migratory\nBird, Egypt\nTo the Editor: Wild migratory\nbirds are reservoirs for low pathogenic\navian influenza (LPAI) viruses (1), but\ntheir role in transmitting highly patho-\ngenic avian influenza (HPAI) viruses\nis hotly debated and unclear (2\u00c2\u00ad4).",
+        "wordProcessed": "Possible",
+        "senseFoundByLesk": "an applicant who might be suitable"
+    },
+    {
+        "id": 95,
+        "sentence": "Address for correspondence: Zhao-Rong\nLun, Center for Parasitic Organisms, State\nKey Laboratory of Biocontrol, School of Life\nSciences, Sun Yat-Sen (Zhongshan) University,\nGuangzhou 510275, People's Republic of\nChina; email: lsslzr@mail.sysu.edu.cn\nPossible Avian\nInfluenza (H5N1)\nfrom Migratory\nBird, Egypt\nTo the Editor: Wild migratory\nbirds are reservoirs for low pathogenic\navian influenza (LPAI) viruses (1), but\ntheir role in transmitting highly patho-\ngenic avian influenza (HPAI) viruses\nis hotly debated and unclear (2\u00c2\u00ad4).",
+        "wordProcessed": "Influenza",
+        "senseFoundByLesk": "an acute febrile highly contagious viral disease"
+    },
+    {
+        "id": 96,
+        "sentence": "Address for correspondence: Zhao-Rong\nLun, Center for Parasitic Organisms, State\nKey Laboratory of Biocontrol, School of Life\nSciences, Sun Yat-Sen (Zhongshan) University,\nGuangzhou 510275, People's Republic of\nChina; email: lsslzr@mail.sysu.edu.cn\nPossible Avian\nInfluenza (H5N1)\nfrom Migratory\nBird, Egypt\nTo the Editor: Wild migratory\nbirds are reservoirs for low pathogenic\navian influenza (LPAI) viruses (1), but\ntheir role in transmitting highly patho-\ngenic avian influenza (HPAI) viruses\nis hotly debated and unclear (2\u00c2\u00ad4).",
+        "wordProcessed": "Bird",
+        "senseFoundByLesk": "the flesh of a bird or fowl (wild or domestic) used as food"
+    },
+    {
+        "id": 97,
+        "sentence": "Address for correspondence: Zhao-Rong\nLun, Center for Parasitic Organisms, State\nKey Laboratory of Biocontrol, School of Life\nSciences, Sun Yat-Sen (Zhongshan) University,\nGuangzhou 510275, People's Republic of\nChina; email: lsslzr@mail.sysu.edu.cn\nPossible Avian\nInfluenza (H5N1)\nfrom Migratory\nBird, Egypt\nTo the Editor: Wild migratory\nbirds are reservoirs for low pathogenic\navian influenza (LPAI) viruses (1), but\ntheir role in transmitting highly patho-\ngenic avian influenza (HPAI) viruses\nis hotly debated and unclear (2\u00c2\u00ad4).",
+        "wordProcessed": "Egypt",
+        "senseFoundByLesk": "a republic in northeastern Africa known as the United Arab Republic until 1971; site of an ancient civilization that flourished from 2600 to 30 BC"
+    },
+    {
+        "id": 98,
+        "sentence": "Be-\nginning in July 2005, a clade of HPAI\n(H5N1) viruses rapidly expanded from\nan apparent focus in western People's\nRepublic of China and spread to the\nMiddle East, Africa, and Europe (5).",
+        "wordProcessed": "July",
+        "senseFoundByLesk": "the month following June and preceding August"
+    },
+    {
+        "id": 99,
+        "sentence": "Be-\nginning in July 2005, a clade of HPAI\n(H5N1) viruses rapidly expanded from\nan apparent focus in western People's\nRepublic of China and spread to the\nMiddle East, Africa, and Europe (5).",
+        "wordProcessed": "Republic",
+        "senseFoundByLesk": "a political system in which the supreme power lies in a body of citizens who can elect people to represent them"
+    },
+    {
+        "id": 100,
+        "sentence": "Be-\nginning in July 2005, a clade of HPAI\n(H5N1) viruses rapidly expanded from\nan apparent focus in western People's\nRepublic of China and spread to the\nMiddle East, Africa, and Europe (5).",
+        "wordProcessed": "China",
+        "senseFoundByLesk": "a government on the island of Taiwan established in 1949 by Chiang Kai-shek after the conquest of mainland China by the Communists led by Mao Zedong"
+    },
+    {
+        "id": 101,
+        "sentence": "Be-\nginning in July 2005, a clade of HPAI\n(H5N1) viruses rapidly expanded from\nan apparent focus in western People's\nRepublic of China and spread to the\nMiddle East, Africa, and Europe (5).",
+        "wordProcessed": "Middle",
+        "senseFoundByLesk": "time between the beginning and the end of a temporal period"
+    },
+    {
+        "id": 102,
+        "sentence": "Be-\nginning in July 2005, a clade of HPAI\n(H5N1) viruses rapidly expanded from\nan apparent focus in western People's\nRepublic of China and spread to the\nMiddle East, Africa, and Europe (5).",
+        "wordProcessed": "East",
+        "senseFoundByLesk": "a location in the eastern part of a country, region, or city"
+    },
+    {
+        "id": 103,
+        "sentence": "Be-\nginning in July 2005, a clade of HPAI\n(H5N1) viruses rapidly expanded from\nan apparent focus in western People's\nRepublic of China and spread to the\nMiddle East, Africa, and Europe (5).",
+        "wordProcessed": "Africa",
+        "senseFoundByLesk": "the second largest continent; located to the south of Europe and bordered to the west by the South Atlantic and to the east by the Indian Ocean"
+    },
+    {
+        "id": 104,
+        "sentence": "Be-\nginning in July 2005, a clade of HPAI\n(H5N1) viruses rapidly expanded from\nan apparent focus in western People's\nRepublic of China and spread to the\nMiddle East, Africa, and Europe (5).",
+        "wordProcessed": "Europe",
+        "senseFoundByLesk": "an international organization of European countries formed after World War II to reduce trade barriers and increase cooperation among its members"
+    },
+    {
+        "id": 105,
+        "sentence": "Genetic analysis of HPAI virus iso-\nlates from dead wild birds along major\nflyways indicated that the strains were\nclosely related to the Qinghai H5N1\nA/bar-headed goose/Qinghai/65 /2005\nvirus (clade II) (GenBank accession\nno.",
+        "wordProcessed": "II",
+        "senseFoundByLesk": "the cardinal number that is the sum of one and one or a numeral representing this number"
+    },
+    {
+        "id": 106,
+        "sentence": "In addition to trans-\nmission to domestic poultry, HPAI\n(H5N1)\u00c2\u00adinfected mute swans have\nbeen implicated in direct transmission\nto humans in Azerbaijan (6).",
+        "wordProcessed": "Azerbaijan",
+        "senseFoundByLesk": "a landlocked republic in southwestern Asia; formerly an Asian soviet"
+    },
+    {
+        "id": 107,
+        "sentence": "The US Naval Medical Research\nUnit No.",
+        "wordProcessed": "US",
+        "senseFoundByLesk": "a heavy toxic silvery-white radioactive metallic element; occurs in many isotopes; used for nuclear fuels and nuclear weapons"
+    },
+    {
+        "id": 108,
+        "sentence": "The US Naval Medical Research\nUnit No.",
+        "wordProcessed": "Medical",
+        "senseFoundByLesk": "a thorough physical examination; includes a variety of tests depending on the age and sex and health of the person"
+    },
+    {
+        "id": 109,
+        "sentence": "The US Naval Medical Research\nUnit No.",
+        "wordProcessed": "Research",
+        "senseFoundByLesk": "systematic investigation to establish facts"
+    },
+    {
+        "id": 110,
+        "sentence": "The US Naval Medical Research\nUnit No.",
+        "wordProcessed": "Unit",
+        "senseFoundByLesk": "an assemblage of parts that is regarded as a single entity"
+    },
+    {
+        "id": 111,
+        "sentence": "The US Naval Medical Research\nUnit No.",
+        "wordProcessed": "No",
+        "senseFoundByLesk": "a radioactive transuranic element synthesized by bombarding curium with carbon ions; 7 isotopes are known"
+    },
+    {
+        "id": 112,
+        "sentence": "3 and the Ministry of Envi-\nronment of Egypt have collaborated\nsince 2003 in obtaining samples from\nmigratory birds to detect circulating\ninfluenza viruses.",
+        "wordProcessed": "Ministry",
+        "senseFoundByLesk": "the work of a minister of religion"
+    },
+    {
+        "id": 113,
+        "sentence": "3 and the Ministry of Envi-\nronment of Egypt have collaborated\nsince 2003 in obtaining samples from\nmigratory birds to detect circulating\ninfluenza viruses.",
+        "wordProcessed": "Egypt",
+        "senseFoundByLesk": "an ancient empire to the west of Israel; centered on the Nile River and ruled by a Pharaoh; figured in many events described in the Old Testament"
+    },
+    {
+        "id": 114,
+        "sentence": "During the 2005\u00c2\u00ad06\nmigratory birds season, 1,304 migra-\ntory birds were sampled from either\nlive bird markets or cage birds trapped\nby fishermen in Port Said, Damietta,\nFayoum, Arish, and Sharm el Sheikh\n(online Appendix Figure, panel A,\navailable from www.cdc.gov/EID/\ncontent/13/7/1120-appG.htm).",
+        "wordProcessed": "Port",
+        "senseFoundByLesk": "the left side of a ship or aircraft to someone who is aboard and facing the bow or nose"
+    },
+    {
+        "id": 115,
+        "sentence": "During the 2005\u00c2\u00ad06\nmigratory birds season, 1,304 migra-\ntory birds were sampled from either\nlive bird markets or cage birds trapped\nby fishermen in Port Said, Damietta,\nFayoum, Arish, and Sharm el Sheikh\n(online Appendix Figure, panel A,\navailable from www.cdc.gov/EID/\ncontent/13/7/1120-appG.htm).",
+        "wordProcessed": "Sheikh",
+        "senseFoundByLesk": "the leader of an Arab village or family"
+    },
+    {
+        "id": 116,
+        "sentence": "During the 2005\u00c2\u00ad06\nmigratory birds season, 1,304 migra-\ntory birds were sampled from either\nlive bird markets or cage birds trapped\nby fishermen in Port Said, Damietta,\nFayoum, Arish, and Sharm el Sheikh\n(online Appendix Figure, panel A,\navailable from www.cdc.gov/EID/\ncontent/13/7/1120-appG.htm).",
+        "wordProcessed": "Appendix",
+        "senseFoundByLesk": "a vestigial process that extends from the lower end of the cecum and that resembles a small pouch"
+    },
+    {
+        "id": 117,
+        "sentence": "During the 2005\u00c2\u00ad06\nmigratory birds season, 1,304 migra-\ntory birds were sampled from either\nlive bird markets or cage birds trapped\nby fishermen in Port Said, Damietta,\nFayoum, Arish, and Sharm el Sheikh\n(online Appendix Figure, panel A,\navailable from www.cdc.gov/EID/\ncontent/13/7/1120-appG.htm).",
+        "wordProcessed": "Figure",
+        "senseFoundByLesk": "the property possessed by a sum or total or indefinite quantity of units or individuals"
+    },
+    {
+        "id": 118,
+        "sentence": "During the 2005\u00c2\u00ad06\nmigratory birds season, 1,304 migra-\ntory birds were sampled from either\nlive bird markets or cage birds trapped\nby fishermen in Port Said, Damietta,\nFayoum, Arish, and Sharm el Sheikh\n(online Appendix Figure, panel A,\navailable from www.cdc.gov/EID/\ncontent/13/7/1120-appG.htm).",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 119,
+        "sentence": "Of the 2 migra-\ntory birds positive for the H5 gene, the\nfirst was a common teal (Anas crec-\nca) captured in the Nile Delta region\nof Damietta in October 2005 (online\nAppendix Figure, panel A).",
+        "wordProcessed": "Anas",
+        "senseFoundByLesk": "type genus of the Anatidae: freshwater ducks"
+    },
+    {
+        "id": 120,
+        "sentence": "Of the 2 migra-\ntory birds positive for the H5 gene, the\nfirst was a common teal (Anas crec-\nca) captured in the Nile Delta region\nof Damietta in October 2005 (online\nAppendix Figure, panel A).",
+        "wordProcessed": "Nile",
+        "senseFoundByLesk": "the world's longest river (4150 miles); flows northward through eastern Africa into the Mediterranean; the Nile River valley in Egypt was the site of the world's first great civilization"
+    },
+    {
+        "id": 121,
+        "sentence": "Of the 2 migra-\ntory birds positive for the H5 gene, the\nfirst was a common teal (Anas crec-\nca) captured in the Nile Delta region\nof Damietta in October 2005 (online\nAppendix Figure, panel A).",
+        "wordProcessed": "Delta",
+        "senseFoundByLesk": "the 4th letter of the Greek alphabet"
+    },
+    {
+        "id": 122,
+        "sentence": "Of the 2 migra-\ntory birds positive for the H5 gene, the\nfirst was a common teal (Anas crec-\nca) captured in the Nile Delta region\nof Damietta in October 2005 (online\nAppendix Figure, panel A).",
+        "wordProcessed": "October",
+        "senseFoundByLesk": "the month following September and preceding November"
+    },
+    {
+        "id": 123,
+        "sentence": "Of the 2 migra-\ntory birds positive for the H5 gene, the\nfirst was a common teal (Anas crec-\nca) captured in the Nile Delta region\nof Damietta in October 2005 (online\nAppendix Figure, panel A).",
+        "wordProcessed": "Appendix",
+        "senseFoundByLesk": "a vestigial process that extends from the lower end of the cecum and that resembles a small pouch"
+    },
+    {
+        "id": 124,
+        "sentence": "Of the 2 migra-\ntory birds positive for the H5 gene, the\nfirst was a common teal (Anas crec-\nca) captured in the Nile Delta region\nof Damietta in October 2005 (online\nAppendix Figure, panel A).",
+        "wordProcessed": "Figure",
+        "senseFoundByLesk": "alternative names for the body of a human being"
+    },
+    {
+        "id": 125,
+        "sentence": "In January 2006, an influenza A\nH5 virus (weak positive result) was\ndetected in another common teal\n(trapped in a cage by a fisherman)\nsampled from the Damietta region\nin December 2005 (online Appendix\nFigure, panel A).",
+        "wordProcessed": "January",
+        "senseFoundByLesk": "the first month of the year; begins 10 days after the winter solstice"
+    },
+    {
+        "id": 126,
+        "sentence": "In January 2006, an influenza A\nH5 virus (weak positive result) was\ndetected in another common teal\n(trapped in a cage by a fisherman)\nsampled from the Damietta region\nin December 2005 (online Appendix\nFigure, panel A).",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 127,
+        "sentence": "In January 2006, an influenza A\nH5 virus (weak positive result) was\ndetected in another common teal\n(trapped in a cage by a fisherman)\nsampled from the Damietta region\nin December 2005 (online Appendix\nFigure, panel A).",
+        "wordProcessed": "December",
+        "senseFoundByLesk": "the last (12th) month of the year"
+    },
+    {
+        "id": 128,
+        "sentence": "In January 2006, an influenza A\nH5 virus (weak positive result) was\ndetected in another common teal\n(trapped in a cage by a fisherman)\nsampled from the Damietta region\nin December 2005 (online Appendix\nFigure, panel A).",
+        "wordProcessed": "Appendix",
+        "senseFoundByLesk": "a vestigial process that extends from the lower end of the cecum and that resembles a small pouch"
+    },
+    {
+        "id": 129,
+        "sentence": "In January 2006, an influenza A\nH5 virus (weak positive result) was\ndetected in another common teal\n(trapped in a cage by a fisherman)\nsampled from the Damietta region\nin December 2005 (online Appendix\nFigure, panel A).",
+        "wordProcessed": "Figure",
+        "senseFoundByLesk": "the property possessed by a sum or total or indefinite quantity of units or individuals"
+    },
+    {
+        "id": 130,
+        "sentence": "After the outbreak of\ninfluenza A (H5N1) in poultry and\nhumans in Egypt in February 2006,\nadditional retrospective attempts to\nconcentrate RNA were used to as-\nsess potential introduction scenarios.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 131,
+        "sentence": "After the outbreak of\ninfluenza A (H5N1) in poultry and\nhumans in Egypt in February 2006,\nadditional retrospective attempts to\nconcentrate RNA were used to as-\nsess potential introduction scenarios.",
+        "wordProcessed": "Egypt",
+        "senseFoundByLesk": "an ancient empire to the west of Israel; centered on the Nile River and ruled by a Pharaoh; figured in many events described in the Old Testament"
+    },
+    {
+        "id": 132,
+        "sentence": "After the outbreak of\ninfluenza A (H5N1) in poultry and\nhumans in Egypt in February 2006,\nadditional retrospective attempts to\nconcentrate RNA were used to as-\nsess potential introduction scenarios.",
+        "wordProcessed": "February",
+        "senseFoundByLesk": "the month following January and preceding March"
+    },
+    {
+        "id": 133,
+        "sentence": "After the outbreak of\ninfluenza A (H5N1) in poultry and\nhumans in Egypt in February 2006,\nadditional retrospective attempts to\nconcentrate RNA were used to as-\nsess potential introduction scenarios.",
+        "wordProcessed": "RNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer of nucleotides found in the nucleus but mainly in the cytoplasm of a cell where it is associated with microsomes; it transmits genetic information from DNA to the cytoplasm and controls certain chemical processes in the cell"
+    },
+    {
+        "id": 134,
+        "sentence": "After multiple RNA extractions were\nconducted and the RNA was concen-\ntrated, this specimen was found to be\npositive for the neuraminidase 1 (N1)\ngene by real-time PCR.",
+        "wordProcessed": "RNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer of nucleotides found in the nucleus but mainly in the cytoplasm of a cell where it is associated with microsomes; it transmits genetic information from DNA to the cytoplasm and controls certain chemical processes in the cell"
+    },
+    {
+        "id": 135,
+        "sentence": "After multiple RNA extractions were\nconducted and the RNA was concen-\ntrated, this specimen was found to be\npositive for the neuraminidase 1 (N1)\ngene by real-time PCR.",
+        "wordProcessed": "RNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer of nucleotides found in the nucleus but mainly in the cytoplasm of a cell where it is associated with microsomes; it transmits genetic information from DNA to the cytoplasm and controls certain chemical processes in the cell"
+    },
+    {
+        "id": 136,
+        "sentence": "Sequences were aligned\nwith other influenza A (H5N1) strains\nfrom Egypt (9 from humans, 5 from\nchickens).",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "(biochemistry) purine base found in DNA and RNA; pairs with thymine in DNA and with uracil in RNA"
+    },
+    {
+        "id": 137,
+        "sentence": "Sequences were aligned\nwith other influenza A (H5N1) strains\nfrom Egypt (9 from humans, 5 from\nchickens).",
+        "wordProcessed": "Egypt",
+        "senseFoundByLesk": "a republic in northeastern Africa known as the United Arab Republic until 1971; site of an ancient civilization that flourished from 2600 to 30 BC"
+    },
+    {
+        "id": 138,
+        "sentence": "Twenty other strains with\nhigh similarity and from different lo-\ncations were selected by using a Gen-\nBank search algorithm and included in\nthe alignment.Aphylogenetic analysis\nwas conducted by using the Kimura\n2-parameter model.",
+        "wordProcessed": "Bank",
+        "senseFoundByLesk": "a container (usually with a slot in the top) for keeping money at home"
+    },
+    {
+        "id": 139,
+        "sentence": "Bootstrap analysis with 500 replicates\nof sequence data was also conducted\nby using MEGA 3.1 software (8).",
+        "wordProcessed": "Bootstrap",
+        "senseFoundByLesk": "a strap that is looped and sewn to the top of a boot for pulling it on"
+    },
+    {
+        "id": 140,
+        "sentence": "Phylogenetic analysis showed\nclustering of the HPAI (H5N1) strains\ncollected from 1 geographic region\n(country) (online Appendix Figure,\npanel B).",
+        "wordProcessed": "Appendix",
+        "senseFoundByLesk": "a vestigial process that extends from the lower end of the cecum and that resembles a small pouch"
+    },
+    {
+        "id": 141,
+        "sentence": "Phylogenetic analysis showed\nclustering of the HPAI (H5N1) strains\ncollected from 1 geographic region\n(country) (online Appendix Figure,\npanel B).",
+        "wordProcessed": "Figure",
+        "senseFoundByLesk": "the property possessed by a sum or total or indefinite quantity of units or individuals"
+    },
+    {
+        "id": 142,
+        "sentence": "Phylogenetic analysis showed\nclustering of the HPAI (H5N1) strains\ncollected from 1 geographic region\n(country) (online Appendix Figure,\npanel B).",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder"
+    },
+    {
+        "id": 143,
+        "sentence": "All HPAI (H5N1) strains\nfrom Egypt from humans or chickens\nanalyzed clustered with a bootstrap\nsupportvalueof98%.Furthermore,the\nA/Teal/Egypt/14051-NAMRU3/2006\n\fLETTERS\nEmerging Infectious Diseases \u00c2\u00b7 www.cdc.gov/eid \u00c2\u00b7 Vol.",
+        "wordProcessed": "Egypt",
+        "senseFoundByLesk": "a republic in northeastern Africa known as the United Arab Republic until 1971; site of an ancient civilization that flourished from 2600 to 30 BC"
+    },
+    {
+        "id": 144,
+        "sentence": "All HPAI (H5N1) strains\nfrom Egypt from humans or chickens\nanalyzed clustered with a bootstrap\nsupportvalueof98%.Furthermore,the\nA/Teal/Egypt/14051-NAMRU3/2006\n\fLETTERS\nEmerging Infectious Diseases \u00c2\u00b7 www.cdc.gov/eid \u00c2\u00b7 Vol.",
+        "wordProcessed": "LETTERS",
+        "senseFoundByLesk": "a strictly literal interpretation (as distinct from the intention)"
+    },
+    {
+        "id": 145,
+        "sentence": "All HPAI (H5N1) strains\nfrom Egypt from humans or chickens\nanalyzed clustered with a bootstrap\nsupportvalueof98%.Furthermore,the\nA/Teal/Egypt/14051-NAMRU3/2006\n\fLETTERS\nEmerging Infectious Diseases \u00c2\u00b7 www.cdc.gov/eid \u00c2\u00b7 Vol.",
+        "wordProcessed": "Diseases",
+        "senseFoundByLesk": "an impairment of health or a condition of abnormal functioning"
+    },
+    {
+        "id": 146,
+        "sentence": "7, July 2007 1121\n(H5N1) strain (collected in December\n2005; online Appendix Figure, panel\nA) is an HPAI and is closely related\nto the parent of the group of viruses\nisolated in the early 2006 Egypt out-\nbreak, with an average identity of\n99.4% with all other strains from\nEgypt and a bootstrap support value of\n96% (online Appendix Figure, panel\nB).",
+        "wordProcessed": "July",
+        "senseFoundByLesk": "the month following June and preceding August"
+    },
+    {
+        "id": 147,
+        "sentence": "7, July 2007 1121\n(H5N1) strain (collected in December\n2005; online Appendix Figure, panel\nA) is an HPAI and is closely related\nto the parent of the group of viruses\nisolated in the early 2006 Egypt out-\nbreak, with an average identity of\n99.4% with all other strains from\nEgypt and a bootstrap support value of\n96% (online Appendix Figure, panel\nB).",
+        "wordProcessed": "December",
+        "senseFoundByLesk": "the last (12th) month of the year"
+    },
+    {
+        "id": 148,
+        "sentence": "7, July 2007 1121\n(H5N1) strain (collected in December\n2005; online Appendix Figure, panel\nA) is an HPAI and is closely related\nto the parent of the group of viruses\nisolated in the early 2006 Egypt out-\nbreak, with an average identity of\n99.4% with all other strains from\nEgypt and a bootstrap support value of\n96% (online Appendix Figure, panel\nB).",
+        "wordProcessed": "Appendix",
+        "senseFoundByLesk": "supplementary material that is collected and appended at the back of a book"
+    },
+    {
+        "id": 149,
+        "sentence": "7, July 2007 1121\n(H5N1) strain (collected in December\n2005; online Appendix Figure, panel\nA) is an HPAI and is closely related\nto the parent of the group of viruses\nisolated in the early 2006 Egypt out-\nbreak, with an average identity of\n99.4% with all other strains from\nEgypt and a bootstrap support value of\n96% (online Appendix Figure, panel\nB).",
+        "wordProcessed": "Figure",
+        "senseFoundByLesk": "a unitary percept having structure and coherence that is the object of attention and that stands out against a ground"
+    },
+    {
+        "id": 150,
+        "sentence": "7, July 2007 1121\n(H5N1) strain (collected in December\n2005; online Appendix Figure, panel\nA) is an HPAI and is closely related\nto the parent of the group of viruses\nisolated in the early 2006 Egypt out-\nbreak, with an average identity of\n99.4% with all other strains from\nEgypt and a bootstrap support value of\n96% (online Appendix Figure, panel\nB).",
+        "wordProcessed": "Egypt",
+        "senseFoundByLesk": "an ancient empire to the west of Israel; centered on the Nile River and ruled by a Pharaoh; figured in many events described in the Old Testament"
+    },
+    {
+        "id": 151,
+        "sentence": "7, July 2007 1121\n(H5N1) strain (collected in December\n2005; online Appendix Figure, panel\nA) is an HPAI and is closely related\nto the parent of the group of viruses\nisolated in the early 2006 Egypt out-\nbreak, with an average identity of\n99.4% with all other strains from\nEgypt and a bootstrap support value of\n96% (online Appendix Figure, panel\nB).",
+        "wordProcessed": "Egypt",
+        "senseFoundByLesk": "an ancient empire to the west of Israel; centered on the Nile River and ruled by a Pharaoh; figured in many events described in the Old Testament"
+    },
+    {
+        "id": 152,
+        "sentence": "7, July 2007 1121\n(H5N1) strain (collected in December\n2005; online Appendix Figure, panel\nA) is an HPAI and is closely related\nto the parent of the group of viruses\nisolated in the early 2006 Egypt out-\nbreak, with an average identity of\n99.4% with all other strains from\nEgypt and a bootstrap support value of\n96% (online Appendix Figure, panel\nB).",
+        "wordProcessed": "Appendix",
+        "senseFoundByLesk": "supplementary material that is collected and appended at the back of a book"
+    },
+    {
+        "id": 153,
+        "sentence": "7, July 2007 1121\n(H5N1) strain (collected in December\n2005; online Appendix Figure, panel\nA) is an HPAI and is closely related\nto the parent of the group of viruses\nisolated in the early 2006 Egypt out-\nbreak, with an average identity of\n99.4% with all other strains from\nEgypt and a bootstrap support value of\n96% (online Appendix Figure, panel\nB).",
+        "wordProcessed": "Figure",
+        "senseFoundByLesk": "a unitary percept having structure and coherence that is the object of attention and that stands out against a ground"
+    },
+    {
+        "id": 154,
+        "sentence": "7, July 2007 1121\n(H5N1) strain (collected in December\n2005; online Appendix Figure, panel\nA) is an HPAI and is closely related\nto the parent of the group of viruses\nisolated in the early 2006 Egypt out-\nbreak, with an average identity of\n99.4% with all other strains from\nEgypt and a bootstrap support value of\n96% (online Appendix Figure, panel\nB).",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder"
+    },
+    {
+        "id": 155,
+        "sentence": "Brown et al.",
+        "wordProcessed": "Brown",
+        "senseFoundByLesk": "a university in Rhode Island"
+    },
+    {
+        "id": 156,
+        "sentence": "Data presented herein suggest that an\nHPAI virus may have been introduced\ninto Egypt through a migratory bird.",
+        "wordProcessed": "Data",
+        "senseFoundByLesk": "a collection of facts from which conclusions may be drawn"
+    },
+    {
+        "id": 157,
+        "sentence": "Data presented herein suggest that an\nHPAI virus may have been introduced\ninto Egypt through a migratory bird.",
+        "wordProcessed": "Egypt",
+        "senseFoundByLesk": "a republic in northeastern Africa known as the United Arab Republic until 1971; site of an ancient civilization that flourished from 2600 to 30 BC"
+    },
+    {
+        "id": 158,
+        "sentence": "Whether poultry were infected before\nmid-February or the teal was infected\nwith influenza A (H5N1) virus by a\ndomesticated species is not unknown.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "any of several fat-soluble vitamins essential for normal vision; prevents night blindness or inflammation or dryness of the eyes"
+    },
+    {
+        "id": 159,
+        "sentence": "The low degree of viral shedding in-\ndicates that detection of any influenza\nA (H5N1) virus in wild birds in a new\nregion should be immediately fol-\nlowed up with efforts to characterize\nthe virus to control the spread of new\nsubtypes/strains of HPAI into new lo-\ncations.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 160,
+        "sentence": "Acknowledgments\nWe thank the Egyptian Ministry of\nEnvironment for its continued collabora-\ntive efforts in migratory bird surveillance.",
+        "wordProcessed": "Ministry",
+        "senseFoundByLesk": "the work of a minister of religion"
+    },
+    {
+        "id": 161,
+        "sentence": "Acknowledgments\nWe thank the Egyptian Ministry of\nEnvironment for its continued collabora-\ntive efforts in migratory bird surveillance.",
+        "wordProcessed": "Environment",
+        "senseFoundByLesk": "the area in which something exists or lives"
+    },
+    {
+        "id": 162,
+        "sentence": "This study was supported by the\nDepartment of Defense Global Emerg-\ning Infections System (work unit no.",
+        "wordProcessed": "Department",
+        "senseFoundByLesk": "the territorial and administrative division of some countries (such as France)"
+    },
+    {
+        "id": 163,
+        "sentence": "This study was supported by the\nDepartment of Defense Global Emerg-\ning Infections System (work unit no.",
+        "wordProcessed": "Defense",
+        "senseFoundByLesk": "the speech act of answering an attack on your assertions"
+    },
+    {
+        "id": 164,
+        "sentence": "This study was supported by the\nDepartment of Defense Global Emerg-\ning Infections System (work unit no.",
+        "wordProcessed": "Infections",
+        "senseFoundByLesk": "(medicine) the invasion of the body by pathogenic microorganisms and their multiplication which can lead to tissue damage and disease"
+    },
+    {
+        "id": 165,
+        "sentence": "This study was supported by the\nDepartment of Defense Global Emerg-\ning Infections System (work unit no.",
+        "wordProcessed": "System",
+        "senseFoundByLesk": "the living body considered as made up of interdependent components forming a unified whole"
+    },
+    {
+        "id": 166,
+        "sentence": "Magdi D. Saad,*\nLu'ay S. Ahmed,\nMohamed A. Gamal-Eldein,\nMohamed K. Fouda,\nFouda M. Khalil,\nSamuel L. Yingst,*\nMichael A. Parker,*\nand Marshall R. Montevillel*\n*US Naval Medical Research Unit No.",
+        "wordProcessed": "Samuel",
+        "senseFoundByLesk": "(Old Testament) Hebrew prophet and judge who anointed Saul as king"
+    },
+    {
+        "id": 167,
+        "sentence": "Magdi D. Saad,*\nLu'ay S. Ahmed,\nMohamed A. Gamal-Eldein,\nMohamed K. Fouda,\nFouda M. Khalil,\nSamuel L. Yingst,*\nMichael A. Parker,*\nand Marshall R. Montevillel*\n*US Naval Medical Research Unit No.",
+        "wordProcessed": "Michael",
+        "senseFoundByLesk": "(Old Testament) the guardian archangel of the Jews"
+    },
+    {
+        "id": 168,
+        "sentence": "Magdi D. Saad,*\nLu'ay S. Ahmed,\nMohamed A. Gamal-Eldein,\nMohamed K. Fouda,\nFouda M. Khalil,\nSamuel L. Yingst,*\nMichael A. Parker,*\nand Marshall R. Montevillel*\n*US Naval Medical Research Unit No.",
+        "wordProcessed": "Parker",
+        "senseFoundByLesk": "United States saxophonist and leader of the bop style of jazz (1920-1955)"
+    },
+    {
+        "id": 169,
+        "sentence": "Magdi D. Saad,*\nLu'ay S. Ahmed,\nMohamed A. Gamal-Eldein,\nMohamed K. Fouda,\nFouda M. Khalil,\nSamuel L. Yingst,*\nMichael A. Parker,*\nand Marshall R. Montevillel*\n*US Naval Medical Research Unit No.",
+        "wordProcessed": "Marshall",
+        "senseFoundByLesk": "United States general and statesman who as Secretary of State organized the European Recovery Program (1880-1959)"
+    },
+    {
+        "id": 170,
+        "sentence": "Magdi D. Saad,*\nLu'ay S. Ahmed,\nMohamed A. Gamal-Eldein,\nMohamed K. Fouda,\nFouda M. Khalil,\nSamuel L. Yingst,*\nMichael A. Parker,*\nand Marshall R. Montevillel*\n*US Naval Medical Research Unit No.",
+        "wordProcessed": "Medical",
+        "senseFoundByLesk": "a thorough physical examination; includes a variety of tests depending on the age and sex and health of the person"
+    },
+    {
+        "id": 171,
+        "sentence": "Magdi D. Saad,*\nLu'ay S. Ahmed,\nMohamed A. Gamal-Eldein,\nMohamed K. Fouda,\nFouda M. Khalil,\nSamuel L. Yingst,*\nMichael A. Parker,*\nand Marshall R. Montevillel*\n*US Naval Medical Research Unit No.",
+        "wordProcessed": "Research",
+        "senseFoundByLesk": "systematic investigation to establish facts"
+    },
+    {
+        "id": 172,
+        "sentence": "Magdi D. Saad,*\nLu'ay S. Ahmed,\nMohamed A. Gamal-Eldein,\nMohamed K. Fouda,\nFouda M. Khalil,\nSamuel L. Yingst,*\nMichael A. Parker,*\nand Marshall R. Montevillel*\n*US Naval Medical Research Unit No.",
+        "wordProcessed": "Unit",
+        "senseFoundByLesk": "an assemblage of parts that is regarded as a single entity"
+    },
+    {
+        "id": 173,
+        "sentence": "Magdi D. Saad,*\nLu'ay S. Ahmed,\nMohamed A. Gamal-Eldein,\nMohamed K. Fouda,\nFouda M. Khalil,\nSamuel L. Yingst,*\nMichael A. Parker,*\nand Marshall R. Montevillel*\n*US Naval Medical Research Unit No.",
+        "wordProcessed": "No",
+        "senseFoundByLesk": "a radioactive transuranic element synthesized by bombarding curium with carbon ions; 7 isotopes are known"
+    },
+    {
+        "id": 174,
+        "sentence": "3,\nCairo, Egypt; and Ministry of Environment,\nCairo, Egypt\nReferences\n1.",
+        "wordProcessed": "Cairo",
+        "senseFoundByLesk": "the capital of Egypt and the largest city in Africa; a major port just to the south of the Nile delta; formerly the home of the Pharaohs"
+    },
+    {
+        "id": 175,
+        "sentence": "3,\nCairo, Egypt; and Ministry of Environment,\nCairo, Egypt\nReferences\n1.",
+        "wordProcessed": "Egypt",
+        "senseFoundByLesk": "an ancient empire to the west of Israel; centered on the Nile River and ruled by a Pharaoh; figured in many events described in the Old Testament"
+    },
+    {
+        "id": 176,
+        "sentence": "3,\nCairo, Egypt; and Ministry of Environment,\nCairo, Egypt\nReferences\n1.",
+        "wordProcessed": "Ministry",
+        "senseFoundByLesk": "the work of a minister of religion"
+    },
+    {
+        "id": 177,
+        "sentence": "3,\nCairo, Egypt; and Ministry of Environment,\nCairo, Egypt\nReferences\n1.",
+        "wordProcessed": "Environment",
+        "senseFoundByLesk": "the totality of surrounding conditions"
+    },
+    {
+        "id": 178,
+        "sentence": "3,\nCairo, Egypt; and Ministry of Environment,\nCairo, Egypt\nReferences\n1.",
+        "wordProcessed": "Cairo",
+        "senseFoundByLesk": "the capital of Egypt and the largest city in Africa; a major port just to the south of the Nile delta; formerly the home of the Pharaohs"
+    },
+    {
+        "id": 179,
+        "sentence": "3,\nCairo, Egypt; and Ministry of Environment,\nCairo, Egypt\nReferences\n1.",
+        "wordProcessed": "Egypt",
+        "senseFoundByLesk": "an ancient empire to the west of Israel; centered on the Nile River and ruled by a Pharaoh; figured in many events described in the Old Testament"
+    },
+    {
+        "id": 180,
+        "sentence": "3,\nCairo, Egypt; and Ministry of Environment,\nCairo, Egypt\nReferences\n1.",
+        "wordProcessed": "References",
+        "senseFoundByLesk": "the relation between a word or phrase and the object or idea it refers to"
+    },
+    {
+        "id": 181,
+        "sentence": "Alexander DJ.",
+        "wordProcessed": "Alexander",
+        "senseFoundByLesk": "king of Macedon; conqueror of Greece and Egypt and Persia; founder of Alexandria (356-323 BC)"
+    },
+    {
+        "id": 182,
+        "sentence": "Alexander DJ.",
+        "wordProcessed": "DJ",
+        "senseFoundByLesk": "a person who announces and plays popular recorded music"
+    },
+    {
+        "id": 183,
+        "sentence": "Vet Microbiol.",
+        "wordProcessed": "Vet",
+        "senseFoundByLesk": "a doctor who practices veterinary medicine"
+    },
+    {
+        "id": 184,
+        "sentence": "Munster VJ, Wallensten A, Baas C, Rim-\nmelzwaan GF, Schutten M, Olsen B, et al.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "the blood group whose red cells carry the A antigen"
+    },
+    {
+        "id": 185,
+        "sentence": "Munster VJ, Wallensten A, Baas C, Rim-\nmelzwaan GF, Schutten M, Olsen B, et al.",
+        "wordProcessed": "Baas",
+        "senseFoundByLesk": "South African term for `boss'"
+    },
+    {
+        "id": 186,
+        "sentence": "Munster VJ, Wallensten A, Baas C, Rim-\nmelzwaan GF, Schutten M, Olsen B, et al.",
+        "wordProcessed": "C",
+        "senseFoundByLesk": "(music) the keynote of the scale of C major"
+    },
+    {
+        "id": 187,
+        "sentence": "Munster VJ, Wallensten A, Baas C, Rim-\nmelzwaan GF, Schutten M, Olsen B, et al.",
+        "wordProcessed": "M",
+        "senseFoundByLesk": "the cardinal number that is the product of 10 and 100"
+    },
+    {
+        "id": 188,
+        "sentence": "Munster VJ, Wallensten A, Baas C, Rim-\nmelzwaan GF, Schutten M, Olsen B, et al.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "the blood group whose red cells carry the B antigen"
+    },
+    {
+        "id": 189,
+        "sentence": "Mallards and highly pathogenic avian in-\nfluenza ancestral viruses, northern Europe.",
+        "wordProcessed": "Europe",
+        "senseFoundByLesk": "an international organization of European countries formed after World War II to reduce trade barriers and increase cooperation among its members"
+    },
+    {
+        "id": 190,
+        "sentence": "Emerg Infect Dis.",
+        "wordProcessed": "Dis",
+        "senseFoundByLesk": "god of the underworld; counterpart of Greek Pluto"
+    },
+    {
+        "id": 191,
+        "sentence": "Sturm-Ramirez KM, Ellis T, Bousfield B,\nBissett L, Dyrting K, Rehg JE, et al.",
+        "wordProcessed": "KM",
+        "senseFoundByLesk": "a metric unit of length equal to 1000 meters (or 0.621371 miles)"
+    },
+    {
+        "id": 192,
+        "sentence": "Sturm-Ramirez KM, Ellis T, Bousfield B,\nBissett L, Dyrting K, Rehg JE, et al.",
+        "wordProcessed": "Ellis",
+        "senseFoundByLesk": "(Norse mythology) goddess of old age who defeated Thor in a wrestling match"
+    },
+    {
+        "id": 193,
+        "sentence": "Sturm-Ramirez KM, Ellis T, Bousfield B,\nBissett L, Dyrting K, Rehg JE, et al.",
+        "wordProcessed": "T",
+        "senseFoundByLesk": "thyroid hormone similar to thyroxine but with one less iodine atom per molecule and produced in smaller quantity; exerts the same biological effects as thyroxine but is more potent and briefer"
+    },
+    {
+        "id": 194,
+        "sentence": "Sturm-Ramirez KM, Ellis T, Bousfield B,\nBissett L, Dyrting K, Rehg JE, et al.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "the blood group whose red cells carry the B antigen"
+    },
+    {
+        "id": 195,
+        "sentence": "Sturm-Ramirez KM, Ellis T, Bousfield B,\nBissett L, Dyrting K, Rehg JE, et al.",
+        "wordProcessed": "L",
+        "senseFoundByLesk": "a metric unit of capacity, formerly defined as the volume of one kilogram of pure water under standard conditions; now equal to 1,000 cubic centimeters (or approximately 1.75 pints)"
+    },
+    {
+        "id": 196,
+        "sentence": "Sturm-Ramirez KM, Ellis T, Bousfield B,\nBissett L, Dyrting K, Rehg JE, et al.",
+        "wordProcessed": "K",
+        "senseFoundByLesk": "the cardinal number that is the product of 10 and 100"
+    },
+    {
+        "id": 197,
+        "sentence": "J Virol.",
+        "wordProcessed": "J",
+        "senseFoundByLesk": "a unit of electrical energy equal to the work done when a current of one ampere passes through a resistance of one ohm for one second"
+    },
+    {
+        "id": 198,
+        "sentence": "Yingst SL, Saad MD, Felt SA.",
+        "wordProcessed": "SL",
+        "senseFoundByLesk": "a terrorist group formed in Peru in the late 1960s as a splinter group from the communist party of Peru; is among the most ruthless guerilla organizations in the world; seeks to destroy Peruvian institutions and replace them with a Maoist peasant regime; is involved in the cocaine trade"
+    },
+    {
+        "id": 199,
+        "sentence": "Yingst SL, Saad MD, Felt SA.",
+        "wordProcessed": "MD",
+        "senseFoundByLesk": "a radioactive transuranic element synthesized by bombarding einsteinium with alpha particles (Md is the current symbol for mendelevium but Mv was formerly the symbol)"
+    },
+    {
+        "id": 200,
+        "sentence": "Yingst SL, Saad MD, Felt SA.",
+        "wordProcessed": "Felt",
+        "senseFoundByLesk": "a fabric made of compressed matted animal fibers"
+    },
+    {
+        "id": 201,
+        "sentence": "Yingst SL, Saad MD, Felt SA.",
+        "wordProcessed": "SA",
+        "senseFoundByLesk": "Nazi militia created by Hitler in 1921 that helped him to power but was eclipsed by the SS after 1943"
+    },
+    {
+        "id": 202,
+        "sentence": "Qinghai-\nlike H5N1 from domestic cats, northern\nIraq.",
+        "wordProcessed": "Iraq",
+        "senseFoundByLesk": "a republic in the Middle East in western Asia; the ancient civilization of Mesopotamia was in the area now known as Iraq"
+    },
+    {
+        "id": 203,
+        "sentence": "Emerg Infect Dis.",
+        "wordProcessed": "Dis",
+        "senseFoundByLesk": "god of the underworld; counterpart of Greek Pluto"
+    },
+    {
+        "id": 204,
+        "sentence": "Gilsdorf A, Boxall N, Gasimov V, Agayev\nI, Mammadzale F, Ursu P, et al.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "the blood group whose red cells carry the A antigen"
+    },
+    {
+        "id": 205,
+        "sentence": "Gilsdorf A, Boxall N, Gasimov V, Agayev\nI, Mammadzale F, Ursu P, et al.",
+        "wordProcessed": "N",
+        "senseFoundByLesk": "the cardinal compass point that is at 0 or 360 degrees"
+    },
+    {
+        "id": 206,
+        "sentence": "Gilsdorf A, Boxall N, Gasimov V, Agayev\nI, Mammadzale F, Ursu P, et al.",
+        "wordProcessed": "V",
+        "senseFoundByLesk": "a unit of potential equal to the potential difference between two points on a conductor carrying a current of 1 ampere when the power dissipated between the two points is 1 watt; equivalent to the potential difference across a resistance of 1 ohm when 1 ampere of current flows through it"
+    },
+    {
+        "id": 207,
+        "sentence": "Gilsdorf A, Boxall N, Gasimov V, Agayev\nI, Mammadzale F, Ursu P, et al.",
+        "wordProcessed": "F",
+        "senseFoundByLesk": "a nonmetallic univalent element belonging to the halogens; usually a yellow irritating toxic flammable gas; a powerful oxidizing agent; recovered from fluorite or cryolite or fluorapatite"
+    },
+    {
+        "id": 208,
+        "sentence": "Gilsdorf A, Boxall N, Gasimov V, Agayev\nI, Mammadzale F, Ursu P, et al.",
+        "wordProcessed": "P",
+        "senseFoundByLesk": "a multivalent nonmetallic element of the nitrogen family that occurs commonly in inorganic phosphate rocks and as organic phosphates in all living cells; is highly reactive and occurs in several allotropic forms"
+    },
+    {
+        "id": 209,
+        "sentence": "Two clus-\nters of human infection with influenza\nA/H5N1 virus in the Republic of Azerbai-\njan, February-March 2006.",
+        "wordProcessed": "Republic",
+        "senseFoundByLesk": "a political system in which the supreme power lies in a body of citizens who can elect people to represent them"
+    },
+    {
+        "id": 210,
+        "sentence": "Euro Surveill.",
+        "wordProcessed": "Euro",
+        "senseFoundByLesk": "the basic monetary unit of most members of the European Union (introduced in 1999); in 2002 twelve European nations (Germany, France, Belgium, Luxembourg, the Netherlands, Italy, Spain, Portugal, Ireland, Greece, Austria, Finland) adopted the euro as their basic unit of money and abandoned their traditional currencies"
+    },
+    {
+        "id": 211,
+        "sentence": "Spackman E, Senne DA, Myers TJ, Bulaga\nLL, Garber LP, Perdue ML, et al.",
+        "wordProcessed": "E",
+        "senseFoundByLesk": "a fat-soluble vitamin that is essential for normal reproduction; an important antioxidant that neutralizes free radicals in the body"
+    },
+    {
+        "id": 212,
+        "sentence": "Spackman E, Senne DA, Myers TJ, Bulaga\nLL, Garber LP, Perdue ML, et al.",
+        "wordProcessed": "DA",
+        "senseFoundByLesk": "an official prosecutor for a judicial district"
+    },
+    {
+        "id": 213,
+        "sentence": "Spackman E, Senne DA, Myers TJ, Bulaga\nLL, Garber LP, Perdue ML, et al.",
+        "wordProcessed": "LP",
+        "senseFoundByLesk": "a long-playing phonograph record; designed to be played at 33.3 rpm"
+    },
+    {
+        "id": 214,
+        "sentence": "Spackman E, Senne DA, Myers TJ, Bulaga\nLL, Garber LP, Perdue ML, et al.",
+        "wordProcessed": "ML",
+        "senseFoundByLesk": "a metric unit of volume equal to one thousandth of a liter"
+    },
+    {
+        "id": 215,
+        "sentence": "Devel-\nopment of a real-time reverse transcriptase\nPCR assay for type A influenza virus and\nthe avian H5 and H7 hemagglutinin sub-\ntypes.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 216,
+        "sentence": "J Clin Microbiol.",
+        "wordProcessed": "J",
+        "senseFoundByLesk": "a unit of electrical energy equal to the work done when a current of one ampere passes through a resistance of one ohm for one second"
+    },
+    {
+        "id": 217,
+        "sentence": "Kumar S, Tamura K, Nei M. MEGA3: In-\ntegrated software for molecular evolution-\nary genetics analysis and sequence align-\nment.",
+        "wordProcessed": "S",
+        "senseFoundByLesk": "an abundant tasteless odorless multivalent nonmetallic element; best known in yellow crystals; occurs in many sulphide and sulphate minerals and even in native form (especially in volcanic regions)"
+    },
+    {
+        "id": 218,
+        "sentence": "Kumar S, Tamura K, Nei M. MEGA3: In-\ntegrated software for molecular evolution-\nary genetics analysis and sequence align-\nment.",
+        "wordProcessed": "K",
+        "senseFoundByLesk": "the cardinal number that is the product of 10 and 100"
+    },
+    {
+        "id": 219,
+        "sentence": "Brown JD, Stallknecht DE, Beck JR, Su-\narez DL, Swayne DE.",
+        "wordProcessed": "Brown",
+        "senseFoundByLesk": "a university in Rhode Island"
+    },
+    {
+        "id": 220,
+        "sentence": "Brown JD, Stallknecht DE, Beck JR, Su-\narez DL, Swayne DE.",
+        "wordProcessed": "DE",
+        "senseFoundByLesk": "a Mid-Atlantic state; one of the original 13 colonies"
+    },
+    {
+        "id": 221,
+        "sentence": "Brown JD, Stallknecht DE, Beck JR, Su-\narez DL, Swayne DE.",
+        "wordProcessed": "Beck",
+        "senseFoundByLesk": "a beckoning gesture"
+    },
+    {
+        "id": 222,
+        "sentence": "Brown JD, Stallknecht DE, Beck JR, Su-\narez DL, Swayne DE.",
+        "wordProcessed": "JR",
+        "senseFoundByLesk": "a son who has the same first name as his father"
+    },
+    {
+        "id": 223,
+        "sentence": "Brown JD, Stallknecht DE, Beck JR, Su-\narez DL, Swayne DE.",
+        "wordProcessed": "DL",
+        "senseFoundByLesk": "a metric unit of volume equal to one tenth of a liter"
+    },
+    {
+        "id": 224,
+        "sentence": "Brown JD, Stallknecht DE, Beck JR, Su-\narez DL, Swayne DE.",
+        "wordProcessed": "DE",
+        "senseFoundByLesk": "a Mid-Atlantic state; one of the original 13 colonies"
+    },
+    {
+        "id": 225,
+        "sentence": "Susceptibility of\nNorth American ducks and gulls to H5N1\nhighly pathogenic avian influenza viruses.",
+        "wordProcessed": "Susceptibility",
+        "senseFoundByLesk": "the state of being susceptible; easily affected"
+    },
+    {
+        "id": 226,
+        "sentence": "Emerg Infect Dis.",
+        "wordProcessed": "Dis",
+        "senseFoundByLesk": "god of the underworld; counterpart of Greek Pluto"
+    },
+    {
+        "id": 227,
+        "sentence": "Address for correspondence: Magdi D. Saad,\nCommanding Officer, US Naval Medical\nResearch Unit No.3, PSC 452, Box 5000, MDS\nCode 303, FPO AE 09835-0007, Cairo, Egypt;\nemail: darwishm@namru3.med.navy.mil\nCommunity-\nacquired Extended-\nSpectrum\n-Lactamase\nProducers,\nUnited States\nTo the Editor: Extended-spec-\ntrum -lactamase (ESBL)\u00c2\u00adproducing\norganisms have become a common\nproblem for patients in hospitals and\nother healthcare facilities (1).",
+        "wordProcessed": "Officer",
+        "senseFoundByLesk": "any person in the armed services who holds a position of authority or command"
+    },
+    {
+        "id": 228,
+        "sentence": "Address for correspondence: Magdi D. Saad,\nCommanding Officer, US Naval Medical\nResearch Unit No.3, PSC 452, Box 5000, MDS\nCode 303, FPO AE 09835-0007, Cairo, Egypt;\nemail: darwishm@namru3.med.navy.mil\nCommunity-\nacquired Extended-\nSpectrum\n-Lactamase\nProducers,\nUnited States\nTo the Editor: Extended-spec-\ntrum -lactamase (ESBL)\u00c2\u00adproducing\norganisms have become a common\nproblem for patients in hospitals and\nother healthcare facilities (1).",
+        "wordProcessed": "US",
+        "senseFoundByLesk": "a heavy toxic silvery-white radioactive metallic element; occurs in many isotopes; used for nuclear fuels and nuclear weapons"
+    },
+    {
+        "id": 229,
+        "sentence": "Address for correspondence: Magdi D. Saad,\nCommanding Officer, US Naval Medical\nResearch Unit No.3, PSC 452, Box 5000, MDS\nCode 303, FPO AE 09835-0007, Cairo, Egypt;\nemail: darwishm@namru3.med.navy.mil\nCommunity-\nacquired Extended-\nSpectrum\n-Lactamase\nProducers,\nUnited States\nTo the Editor: Extended-spec-\ntrum -lactamase (ESBL)\u00c2\u00adproducing\norganisms have become a common\nproblem for patients in hospitals and\nother healthcare facilities (1).",
+        "wordProcessed": "Medical",
+        "senseFoundByLesk": "a thorough physical examination; includes a variety of tests depending on the age and sex and health of the person"
+    },
+    {
+        "id": 230,
+        "sentence": "Address for correspondence: Magdi D. Saad,\nCommanding Officer, US Naval Medical\nResearch Unit No.3, PSC 452, Box 5000, MDS\nCode 303, FPO AE 09835-0007, Cairo, Egypt;\nemail: darwishm@namru3.med.navy.mil\nCommunity-\nacquired Extended-\nSpectrum\n-Lactamase\nProducers,\nUnited States\nTo the Editor: Extended-spec-\ntrum -lactamase (ESBL)\u00c2\u00adproducing\norganisms have become a common\nproblem for patients in hospitals and\nother healthcare facilities (1).",
+        "wordProcessed": "Research",
+        "senseFoundByLesk": "a search for knowledge"
+    },
+    {
+        "id": 231,
+        "sentence": "Address for correspondence: Magdi D. Saad,\nCommanding Officer, US Naval Medical\nResearch Unit No.3, PSC 452, Box 5000, MDS\nCode 303, FPO AE 09835-0007, Cairo, Egypt;\nemail: darwishm@namru3.med.navy.mil\nCommunity-\nacquired Extended-\nSpectrum\n-Lactamase\nProducers,\nUnited States\nTo the Editor: Extended-spec-\ntrum -lactamase (ESBL)\u00c2\u00adproducing\norganisms have become a common\nproblem for patients in hospitals and\nother healthcare facilities (1).",
+        "wordProcessed": "Unit",
+        "senseFoundByLesk": "a single undivided natural thing occurring in the composition of something else"
+    },
+    {
+        "id": 232,
+        "sentence": "Address for correspondence: Magdi D. Saad,\nCommanding Officer, US Naval Medical\nResearch Unit No.3, PSC 452, Box 5000, MDS\nCode 303, FPO AE 09835-0007, Cairo, Egypt;\nemail: darwishm@namru3.med.navy.mil\nCommunity-\nacquired Extended-\nSpectrum\n-Lactamase\nProducers,\nUnited States\nTo the Editor: Extended-spec-\ntrum -lactamase (ESBL)\u00c2\u00adproducing\norganisms have become a common\nproblem for patients in hospitals and\nother healthcare facilities (1).",
+        "wordProcessed": "Box",
+        "senseFoundByLesk": "separate partitioned area in a public place for a few people"
+    },
+    {
+        "id": 233,
+        "sentence": "Address for correspondence: Magdi D. Saad,\nCommanding Officer, US Naval Medical\nResearch Unit No.3, PSC 452, Box 5000, MDS\nCode 303, FPO AE 09835-0007, Cairo, Egypt;\nemail: darwishm@namru3.med.navy.mil\nCommunity-\nacquired Extended-\nSpectrum\n-Lactamase\nProducers,\nUnited States\nTo the Editor: Extended-spec-\ntrum -lactamase (ESBL)\u00c2\u00adproducing\norganisms have become a common\nproblem for patients in hospitals and\nother healthcare facilities (1).",
+        "wordProcessed": "MDS",
+        "senseFoundByLesk": "a radioactive transuranic element synthesized by bombarding einsteinium with alpha particles (Md is the current symbol for mendelevium but Mv was formerly the symbol)"
+    },
+    {
+        "id": 234,
+        "sentence": "Address for correspondence: Magdi D. Saad,\nCommanding Officer, US Naval Medical\nResearch Unit No.3, PSC 452, Box 5000, MDS\nCode 303, FPO AE 09835-0007, Cairo, Egypt;\nemail: darwishm@namru3.med.navy.mil\nCommunity-\nacquired Extended-\nSpectrum\n-Lactamase\nProducers,\nUnited States\nTo the Editor: Extended-spec-\ntrum -lactamase (ESBL)\u00c2\u00adproducing\norganisms have become a common\nproblem for patients in hospitals and\nother healthcare facilities (1).",
+        "wordProcessed": "Code",
+        "senseFoundByLesk": "(computer science) the symbolic arrangement of data or instructions in a computer program or the set of such instructions"
+    },
+    {
+        "id": 235,
+        "sentence": "Address for correspondence: Magdi D. Saad,\nCommanding Officer, US Naval Medical\nResearch Unit No.3, PSC 452, Box 5000, MDS\nCode 303, FPO AE 09835-0007, Cairo, Egypt;\nemail: darwishm@namru3.med.navy.mil\nCommunity-\nacquired Extended-\nSpectrum\n-Lactamase\nProducers,\nUnited States\nTo the Editor: Extended-spec-\ntrum -lactamase (ESBL)\u00c2\u00adproducing\norganisms have become a common\nproblem for patients in hospitals and\nother healthcare facilities (1).",
+        "wordProcessed": "Cairo",
+        "senseFoundByLesk": "the capital of Egypt and the largest city in Africa; a major port just to the south of the Nile delta; formerly the home of the Pharaohs"
+    },
+    {
+        "id": 236,
+        "sentence": "Address for correspondence: Magdi D. Saad,\nCommanding Officer, US Naval Medical\nResearch Unit No.3, PSC 452, Box 5000, MDS\nCode 303, FPO AE 09835-0007, Cairo, Egypt;\nemail: darwishm@namru3.med.navy.mil\nCommunity-\nacquired Extended-\nSpectrum\n-Lactamase\nProducers,\nUnited States\nTo the Editor: Extended-spec-\ntrum -lactamase (ESBL)\u00c2\u00adproducing\norganisms have become a common\nproblem for patients in hospitals and\nother healthcare facilities (1).",
+        "wordProcessed": "Egypt",
+        "senseFoundByLesk": "an ancient empire to the west of Israel; centered on the Nile River and ruled by a Pharaoh; figured in many events described in the Old Testament"
+    },
+    {
+        "id": 237,
+        "sentence": "Address for correspondence: Magdi D. Saad,\nCommanding Officer, US Naval Medical\nResearch Unit No.3, PSC 452, Box 5000, MDS\nCode 303, FPO AE 09835-0007, Cairo, Egypt;\nemail: darwishm@namru3.med.navy.mil\nCommunity-\nacquired Extended-\nSpectrum\n-Lactamase\nProducers,\nUnited States\nTo the Editor: Extended-spec-\ntrum -lactamase (ESBL)\u00c2\u00adproducing\norganisms have become a common\nproblem for patients in hospitals and\nother healthcare facilities (1).",
+        "wordProcessed": "Spectrum",
+        "senseFoundByLesk": "a broad range of related objects or values or qualities or ideas or activities"
+    },
+    {
+        "id": 238,
+        "sentence": "Address for correspondence: Magdi D. Saad,\nCommanding Officer, US Naval Medical\nResearch Unit No.3, PSC 452, Box 5000, MDS\nCode 303, FPO AE 09835-0007, Cairo, Egypt;\nemail: darwishm@namru3.med.navy.mil\nCommunity-\nacquired Extended-\nSpectrum\n-Lactamase\nProducers,\nUnited States\nTo the Editor: Extended-spec-\ntrum -lactamase (ESBL)\u00c2\u00adproducing\norganisms have become a common\nproblem for patients in hospitals and\nother healthcare facilities (1).",
+        "wordProcessed": "Producers",
+        "senseFoundByLesk": "someone who finds financing for and supervises the making and presentation of a show (play or film or program or similar work)"
+    },
+    {
+        "id": 239,
+        "sentence": "Address for correspondence: Magdi D. Saad,\nCommanding Officer, US Naval Medical\nResearch Unit No.3, PSC 452, Box 5000, MDS\nCode 303, FPO AE 09835-0007, Cairo, Egypt;\nemail: darwishm@namru3.med.navy.mil\nCommunity-\nacquired Extended-\nSpectrum\n-Lactamase\nProducers,\nUnited States\nTo the Editor: Extended-spec-\ntrum -lactamase (ESBL)\u00c2\u00adproducing\norganisms have become a common\nproblem for patients in hospitals and\nother healthcare facilities (1).",
+        "wordProcessed": "States",
+        "senseFoundByLesk": "the federal department in the United States that sets and maintains foreign policies"
+    },
+    {
+        "id": 240,
+        "sentence": "Com-\nmunity-onset ESBL infections have\nrecently been described in Spain, the\nUnited Kingdom, Israel, and Canada\n(2,3).",
+        "wordProcessed": "Spain",
+        "senseFoundByLesk": "a parliamentary monarchy in southwestern Europe on the Iberian Peninsula; a former colonial power"
+    },
+    {
+        "id": 241,
+        "sentence": "Com-\nmunity-onset ESBL infections have\nrecently been described in Spain, the\nUnited Kingdom, Israel, and Canada\n(2,3).",
+        "wordProcessed": "Kingdom",
+        "senseFoundByLesk": "the highest taxonomic group into which organisms are grouped; one of five biological categories: Monera or Protoctista or Plantae or Fungi or Animalia"
+    },
+    {
+        "id": 242,
+        "sentence": "Com-\nmunity-onset ESBL infections have\nrecently been described in Spain, the\nUnited Kingdom, Israel, and Canada\n(2,3).",
+        "wordProcessed": "Israel",
+        "senseFoundByLesk": "an ancient kingdom of the Hebrew tribes at the southeastern end of the Mediterranean Sea; founded by Saul around 1025 BC and destroyed by the Assyrians in 721 BC"
+    },
+    {
+        "id": 243,
+        "sentence": "Com-\nmunity-onset ESBL infections have\nrecently been described in Spain, the\nUnited Kingdom, Israel, and Canada\n(2,3).",
+        "wordProcessed": "Canada",
+        "senseFoundByLesk": "a nation in northern North America; the French were the first Europeans to settle in mainland Canada"
+    },
+    {
+        "id": 244,
+        "sentence": "Typically, the infections are uri-\nnary tract infections (UTIs) with CTX-\nM\u00c2\u00adproducing Escherichia coli.",
+        "wordProcessed": "Escherichia",
+        "senseFoundByLesk": "a genus of enteric bacteria"
+    },
+    {
+        "id": 245,
+        "sentence": "Although CTX-M\u00c2\u00adproducing E.\ncoli have previously been found in the\nUnited States (4), clinical descriptions\nof community-acquired ESBL-pro-\nducing E. coli infections have not been\nreported in this country.",
+        "wordProcessed": "States",
+        "senseFoundByLesk": "the federal department in the United States that sets and maintains foreign policies"
+    },
+    {
+        "id": 246,
+        "sentence": "We describe 2\nhealthy young women in Pennsylvania\nin whom UTI with CTX-M-15\u00c2\u00adpro-\nducing E. coli developed.",
+        "wordProcessed": "Pennsylvania",
+        "senseFoundByLesk": "a university in Philadelphia, Pennsylvania"
+    },
+    {
+        "id": 247,
+        "sentence": "A 25-year-old woman was seen\nin October 2006 at the emergency de-\npartment of a hospital in Pittsburgh\nreporting frequent urination, chills,\nand bilateral back pain.",
+        "wordProcessed": "October",
+        "senseFoundByLesk": "the month following September and preceding November"
+    },
+    {
+        "id": 248,
+        "sentence": "A 25-year-old woman was seen\nin October 2006 at the emergency de-\npartment of a hospital in Pittsburgh\nreporting frequent urination, chills,\nand bilateral back pain.",
+        "wordProcessed": "Pittsburgh",
+        "senseFoundByLesk": "a city in southwestern Pennsylvania where the confluence of the Allegheny River and Monongahela River forms the Ohio River; long an important urban industrial area; site of Carnegie Mellon University and the University of Pittsburgh"
+    }
+]
