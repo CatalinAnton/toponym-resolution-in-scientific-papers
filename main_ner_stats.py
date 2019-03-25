@@ -17,6 +17,9 @@ simple_tokens = 0
 all_tokens = 0
 master_list_of_dictionaries_word = []
 index_words_added = 0
+count_location = 0
+count_person = 0
+count_organization = 0
 
 ########################
 # 1. getting the files #
@@ -59,11 +62,23 @@ for (file_path, content) in dict_file_content.items():
         ##########################
         # 6. NNP sentence filter #
         if (p6_nnp_filter.is_NNP_sentence(sentence_pos_tagged)):
-
             ###################################
             # W6. Word Sense Disambiguisation #
             senses = list()
             nr_sentences +=1
+            nerd = nltk.ne_chunk(sentence_pos_tagged)
+            str_nerd = str(nerd)
+            count_location += str_nerd.count("LOCATION")
+            count_location += str_nerd.count("GPE")
+            count_person += str_nerd.count("PERSON")
+            count_organization +=str_nerd.count("ORGANIZATION")
+
+            print(nerd)
+            for t in nerd:
+                if "LOCATION" in t:
+                    count_location += 1
+                if "PERSON" in t:
+                    count_person += 1
             # identify the sense of nouns (NNP) in the sentences
             for tag in sentence_pos_tagged:
                 if 'NNP' in tag[1]:
@@ -103,3 +118,7 @@ print("all tokens", all_tokens)
 #
 # out = nltk.ne_chunk(pos_tagged)
 # print(out)
+
+print("location entities:",count_location)
+print("person entities:", count_person)
+print("organiztion entities:", count_organization)
