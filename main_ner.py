@@ -12,7 +12,6 @@ import w6_lesk_algorithm
 # nltk.download('punkt')
 # nltk.download('averaged_perceptron_tagger')
 
-
 import os
 
 java_path = "C:\Program Files\Java\jdk1.8.0_201\\bin\java.exe"
@@ -27,7 +26,7 @@ stanford_ner_path = 'C:\stanford-ner-2018-10-16\stanford-ner.jar'
 NERtagger = StanfordNERTagger(stanford_classifier,
                               stanford_ner_path,
                               encoding='utf-8')
-
+master_list_of_dicitionaries_statistics = []
 ########################
 # 1. getting the files #
 files = p1_file_management.get_file_list(p1_file_management.resource_location)
@@ -36,8 +35,10 @@ dict_file_content = p1_file_management.get_dictionary_file_content(files)
 output_sentences = list()
 #############################
 # 2. getting the paragraphs #
-
+statistics_file_index = 0
 for (file_path, content) in dict_file_content.items():
+    statistics_file_index += 1
+    statistics_total_nr_sentences = 0
     master_list_of_dictionaries_word = []
     index_words_added = 0
     # paragraph_list = p2_paragraph_splitter.get_paragraphs(content)
@@ -50,7 +51,7 @@ for (file_path, content) in dict_file_content.items():
     # 3. getting the sentences #
     sentences = p3_sentence_splitter.get_sentences(paragraph)
     for sentence in sentences:
-
+        statistics_total_nr_sentences += 1
         ###################
         # 4. tokenization #
         sentence_tokenized = p4_tokenizer.get_tokens(sentence)
@@ -81,6 +82,13 @@ for (file_path, content) in dict_file_content.items():
     filename = get_filename(file_path)
     write_to_output_file_json('output_ner/ner_' + filename + '.json', master_list_of_dictionaries_word)
 
+    dict_master_statistics = {}
+    dict_master_statistics['file_id'] = statistics_file_index
+    dict_master_statistics['sentences'] = statistics_total_nr_sentences
+    master_list_of_dicitionaries_statistics.append(dict_master_word)
+
+    filename = get_filename(file_path)
+    write_to_output_file_json('output_statistics/statistics_' + filename + '.json', dict_master_statistics)
     # break after reading the first file -> just for testing ;)
     break
-# jsoned = json.dumps(master_list_of_dictionaries_word)
+
