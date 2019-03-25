@@ -1,4 +1,9 @@
 {
-    "file_id": 1,
-    "sentences": 5
+    "FileId": 1,
+    "NrOfSentences": 15,
+    "NrOfTokensIncludingPunctuation": 373,
+    "NrOfTokensExcludingPunctuation": 7628,
+    "NrOfAnnotatedTokens": 303,
+    "NrOfTokensUnderAtLeastOneRelation": "",
+    "NrOfTokensUnderAllRelations": ""
 }

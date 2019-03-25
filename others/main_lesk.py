@@ -10,7 +10,7 @@ import p3_sentence_splitter
 import p4_tokenizer
 import p5_pos_tagger
 import p6_nnp_filter
-import w6_lesk_algorithm
+import w5_lesk_algorithm
 
 # nltk.download('punkt')
 # nltk.download('averaged_perceptron_tagger')
@@ -68,7 +68,7 @@ for (file_path, content) in dict_file_content.items():
         if (p6_nnp_filter.is_NNP_sentence(sentence_pos_tagged)):
 
             ###################################
-            # W6. Word Sense Disambiguisation #
+            # W5. Word Sense Disambiguisation #
             senses = list()
             nr_sentences +=1
             # identify the sense of nouns (NNP) in the sentences
@@ -76,7 +76,7 @@ for (file_path, content) in dict_file_content.items():
                 if 'NNP' in tag[1]:
                     word = tag[0]
                     if word != None:
-                        best_sense_word = w6_lesk_algorithm.lesk_algorithm(word, sentence)
+                        best_sense_word = w5_lesk_algorithm.lesk_algorithm(word, sentence)
                         if best_sense_word:
                             dict_master_word = {}
                             dict_master_word['id'] = index_words_added

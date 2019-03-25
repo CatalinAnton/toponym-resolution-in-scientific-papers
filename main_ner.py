@@ -1,32 +1,34 @@
-# named entity recognition
+import os
+
+from nltk.tag import StanfordNERTagger
+from nltk.tokenize import word_tokenize
+
+java_path = "C:\Program Files\Java\jdk1.8.0_201\\bin\java.exe"
+os.environ['JAVAHOME'] = java_path
+
+stanford_classifier = 'C:\stanford-ner-2018-10-16\classifiers\english.muc.7class.distsim.crf.ser.gz'
+stanford_ner_path = 'C:\stanford-ner-2018-10-16\stanford-ner.jar'
+
 import p1_file_management
-from p1_file_management.output import write_to_output_file_json
-from p1_file_management.file_path import get_filename
+import p1_file_management
 import p2_paragraph_splitter
 import p3_sentence_splitter
 import p4_tokenizer
 import p5_pos_tagger
 import p6_nnp_filter
-import w6_lesk_algorithm
+import w5_lesk_algorithm
+import utils
 
 # nltk.download('punkt')
 # nltk.download('averaged_perceptron_tagger')
 
-import os
-
-java_path = "C:\Program Files\Java\jdk1.8.0_201\\bin\java.exe"
-os.environ['JAVAHOME'] = java_path
-
-from nltk.tag import StanfordNERTagger
-from nltk.tokenize import word_tokenize
-
-stanford_classifier = 'C:\stanford-ner-2018-10-16\classifiers\english.all.3class.distsim.crf.ser.gz'
-stanford_ner_path = 'C:\stanford-ner-2018-10-16\stanford-ner.jar'
-
 NERtagger = StanfordNERTagger(stanford_classifier,
                               stanford_ner_path,
                               encoding='utf-8')
+
 master_list_of_dicitionaries_statistics = []
+
+list_of_dictionaries_word_for_lesk = []
 ########################
 # 1. getting the files #
 files = p1_file_management.get_file_list(p1_file_management.resource_location)
@@ -35,12 +37,20 @@ dict_file_content = p1_file_management.get_dictionary_file_content(files)
 output_sentences = list()
 #############################
 # 2. getting the paragraphs #
-statistics_file_index = 0
+statistics_file_index_id = 0
 for (file_path, content) in dict_file_content.items():
-    statistics_file_index += 1
+    # statistics
+    statistics_file_index_id += 1
     statistics_total_nr_sentences = 0
-    master_list_of_dictionaries_word = []
-    index_words_added = 0
+    statistics_tokens_including_punctuation = 0
+    statistics_tokens_excluding_punctuation = len(utils.get_set_of_words_from_sentence(content))
+    statistics_nr_of_annotated_tokens = 0
+
+    master_dict_for_lesk = []
+    master_dict_for_ner = []
+    list_of_dictionaries_word_for_ner = []
+    list_of_dictionaries_word_for_lesk = []
+
     # paragraph_list = p2_paragraph_splitter.get_paragraphs(content)
     # for paragraph in paragraph_list:
     # TODO break down the content into paragraphs
@@ -51,10 +61,15 @@ for (file_path, content) in dict_file_content.items():
     # 3. getting the sentences #
     sentences = p3_sentence_splitter.get_sentences(paragraph)
     for sentence in sentences:
+        index_words_added_id_for_lesk = 0
+        index_words_added_id_for_ner = 0
+        dict_sentence_for_lesk = {'SentenceAnalized': sentence}
+        dict_sentence_for_ner = {'SentenceAnalized': sentence}
         statistics_total_nr_sentences += 1
         ###################
         # 4. tokenization #
         sentence_tokenized = p4_tokenizer.get_tokens(sentence)
+        statistics_tokens_including_punctuation += len(sentence_tokenized)
 
         ################################
         # 5. pos tagging the sentences #
@@ -62,33 +77,69 @@ for (file_path, content) in dict_file_content.items():
 
         ##########################
         # 6. NNP sentence filter #
-        if (p6_nnp_filter.is_NNP_sentence(sentence_pos_tagged)):
-            ##########
-            # 8. NER #
+        if p6_nnp_filter.is_NNP_sentence(sentence_pos_tagged):
+
+            ###################################
+            # W5. Word Sense Disambiguisation #
+            senses = list()
+            # identify the sense of nouns (NNP) in the sentences
+            for tag in sentence_pos_tagged:
+                if 'NNP' in tag[1]:
+                    word = tag[0]
+                    if word != None:
+                        best_sense_word = w5_lesk_algorithm.lesk_algorithm(word, sentence)
+                        if best_sense_word:
+                            dict_word_for_lesk = {}
+                            dict_word_for_lesk['WordId'] = index_words_added_id_for_lesk
+                            dict_word_for_lesk['Word'] = word
+                            dict_word_for_lesk['SenseFoundByLesk'] = best_sense_word
+                            list_of_dictionaries_word_for_lesk.append(dict_word_for_lesk)
+                            index_words_added_id_for_lesk += 1
+            # end of w5
+
+            ###############################
+            # W6. Named-entity recognition #
             classified_text_list = NERtagger.tag(sentence_tokenized)
             # print(classified_text_list)
             for element in classified_text_list:
-                dict_master_word = {}
-                dict_master_word['id'] = index_words_added
-                dict_master_word['word'] = element[0]
-                dict_master_word['classModel'] = element[1]
-                master_list_of_dictionaries_word.append(dict_master_word)
-                index_words_added += 1
-        # break after classifing the first 100 words
-        if (index_words_added >= 100):
+                dict_word = {'WordId': index_words_added_id_for_ner,
+                             'Word': element[0],
+                             'ClassModel': element[1]}
+                list_of_dictionaries_word_for_ner.append(dict_word)
+                index_words_added_id_for_ner += 1
+            # end of w6
+
+        dict_sentence_for_lesk['Words'] = list_of_dictionaries_word_for_lesk
+        master_dict_for_lesk.append(dict_sentence_for_lesk)
+        dict_sentence_for_ner['Words'] = list_of_dictionaries_word_for_ner
+        master_dict_for_ner.append(dict_sentence_for_ner)
+
+        statistics_nr_of_annotated_tokens += index_words_added_id_for_ner
+
+        # break after classifing the first 300 words
+        if statistics_nr_of_annotated_tokens >= 300:
             break
-        print(index_words_added)
+        print(statistics_nr_of_annotated_tokens)
 
-    filename = get_filename(file_path)
-    write_to_output_file_json('output_ner/ner_' + filename + '.json', master_list_of_dictionaries_word)
+    filename = p1_file_management.get_filename(file_path)
+    p1_file_management.write_to_output_file_json('output_lesk/lesk_' + filename + '.json', master_dict_for_lesk)
 
-    dict_master_statistics = {}
-    dict_master_statistics['file_id'] = statistics_file_index
-    dict_master_statistics['sentences'] = statistics_total_nr_sentences
-    master_list_of_dicitionaries_statistics.append(dict_master_word)
+    filename = p1_file_management.get_filename(file_path)
+    p1_file_management.write_to_output_file_json('output_ner/ner_' + filename + '.json',
+                                                 master_dict_for_ner)
 
-    filename = get_filename(file_path)
-    write_to_output_file_json('output_statistics/statistics_' + filename + '.json', dict_master_statistics)
+    dict_master_statistics = {'FileId': statistics_file_index_id,
+                              'NrOfSentences': statistics_total_nr_sentences,
+                              'NrOfTokensIncludingPunctuation': statistics_tokens_including_punctuation,
+                              'NrOfTokensExcludingPunctuation': statistics_tokens_excluding_punctuation,
+                              'NrOfAnnotatedTokens': statistics_nr_of_annotated_tokens,
+                              'NrOfTokensUnderAtLeastOneRelation': '',
+                              'NrOfTokensUnderAllRelations': ''}
+    master_list_of_dicitionaries_statistics.append(dict_word)
+
+    filename = p1_file_management.get_filename(file_path)
+    p1_file_management.write_to_output_file_json('output_statistics/statistics_' + filename + '.json',
+                                                 dict_master_statistics)
+
     # break after reading the first file -> just for testing ;)
     break
-

@@ -6,11 +6,13 @@ import p3_sentence_splitter
 import p4_tokenizer
 import p5_pos_tagger
 import p6_nnp_filter
-import w6_lesk_algorithm
+import w5_lesk_algorithm
 import json
 
 # nltk.download('punkt')
 # nltk.download('averaged_perceptron_tagger')
+# nltk.download('maxent_ne_chunker')
+# nltk.download('words')
 
 nr_sentences = 0
 simple_tokens = 0
@@ -84,7 +86,7 @@ for (file_path, content) in dict_file_content.items():
                 if 'NNP' in tag[1]:
                     word = tag[0]
                     if word != None:
-                        best_sense_word = w6_lesk_algorithm.lesk_algorithm(word, sentence)
+                        best_sense_word = w5_lesk_algorithm.lesk_algorithm(word, sentence)
                         if best_sense_word:
                             dict_master_word = {}
                             dict_master_word['id'] = index_words_added

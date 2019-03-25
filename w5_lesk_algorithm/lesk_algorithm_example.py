@@ -1,4 +1,4 @@
-from w6_lesk_algorithm.lesk_algorithm import *
+from w5_lesk_algorithm.lesk_algorithm import *
 from utils.senses import *
 
 
