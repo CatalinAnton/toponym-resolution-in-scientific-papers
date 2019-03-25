@@ -1,0 +1,896 @@
+[
+    {
+        "id": 0,
+        "sentence": "\u00ef\u00bb\u00bfJOURNAL OF CLINICAL MICROBIOLOGY, Dec. 2005, p. 6130\u00c2\u00ad6132 Vol.",
+        "wordProcessed": "MICROBIOLOGY",
+        "senseFoundByLesk": "the branch of biology that studies microorganisms and their effects on humans"
+    },
+    {
+        "id": 1,
+        "sentence": "12\n0095-1137/05/$08.000 doi:10.1128/JCM.43.12.6130\u00c2\u00ad6132.2005\nCopyright \u00c2\u00a9 2005, American Society for Microbiology.",
+        "wordProcessed": "Copyright",
+        "senseFoundByLesk": "a document granting exclusive right to publish and sell literary or musical or artistic work"
+    },
+    {
+        "id": 2,
+        "sentence": "12\n0095-1137/05/$08.000 doi:10.1128/JCM.43.12.6130\u00c2\u00ad6132.2005\nCopyright \u00c2\u00a9 2005, American Society for Microbiology.",
+        "wordProcessed": "American",
+        "senseFoundByLesk": "a native or inhabitant of a North American or Central American or South American country"
+    },
+    {
+        "id": 3,
+        "sentence": "12\n0095-1137/05/$08.000 doi:10.1128/JCM.43.12.6130\u00c2\u00ad6132.2005\nCopyright \u00c2\u00a9 2005, American Society for Microbiology.",
+        "wordProcessed": "Society",
+        "senseFoundByLesk": "the fashionable elite"
+    },
+    {
+        "id": 4,
+        "sentence": "12\n0095-1137/05/$08.000 doi:10.1128/JCM.43.12.6130\u00c2\u00ad6132.2005\nCopyright \u00c2\u00a9 2005, American Society for Microbiology.",
+        "wordProcessed": "Microbiology",
+        "senseFoundByLesk": "the branch of biology that studies microorganisms and their effects on humans"
+    },
+    {
+        "id": 5,
+        "sentence": "All Rights Reserved.",
+        "wordProcessed": "Rights",
+        "senseFoundByLesk": "the piece of ground in the outfield on the catcher's right"
+    },
+    {
+        "id": 6,
+        "sentence": "Molecular Evolution of Human Influenza A/H3N2 Virus in Asia\nand Europe from 2001 to 2003\nX. Sherry Chi, Trentice V. Bolar, Ping Zhao, John S. Tam,\nRuth Rappaport, and Sheau-Mei Cheng*\nApplied Immunology and Microbiology Division, Wyeth Vaccines Research, Pearl River, New York 10965\nReceived 9 May 2005/Returned for modification 15 August 2005/Accepted 20 September 2005\nHemagglutinin sequences of 146 human influenza A/H3N2 strains identified in respiratory specimens from\nAsia and Europe during the 2001-2003 influenza seasons were analyzed by DNA sequencing.",
+        "wordProcessed": "Human",
+        "senseFoundByLesk": "any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage"
+    },
+    {
+        "id": 7,
+        "sentence": "Molecular Evolution of Human Influenza A/H3N2 Virus in Asia\nand Europe from 2001 to 2003\nX. Sherry Chi, Trentice V. Bolar, Ping Zhao, John S. Tam,\nRuth Rappaport, and Sheau-Mei Cheng*\nApplied Immunology and Microbiology Division, Wyeth Vaccines Research, Pearl River, New York 10965\nReceived 9 May 2005/Returned for modification 15 August 2005/Accepted 20 September 2005\nHemagglutinin sequences of 146 human influenza A/H3N2 strains identified in respiratory specimens from\nAsia and Europe during the 2001-2003 influenza seasons were analyzed by DNA sequencing.",
+        "wordProcessed": "Influenza",
+        "senseFoundByLesk": "an acute febrile highly contagious viral disease"
+    },
+    {
+        "id": 8,
+        "sentence": "Molecular Evolution of Human Influenza A/H3N2 Virus in Asia\nand Europe from 2001 to 2003\nX. Sherry Chi, Trentice V. Bolar, Ping Zhao, John S. Tam,\nRuth Rappaport, and Sheau-Mei Cheng*\nApplied Immunology and Microbiology Division, Wyeth Vaccines Research, Pearl River, New York 10965\nReceived 9 May 2005/Returned for modification 15 August 2005/Accepted 20 September 2005\nHemagglutinin sequences of 146 human influenza A/H3N2 strains identified in respiratory specimens from\nAsia and Europe during the 2001-2003 influenza seasons were analyzed by DNA sequencing.",
+        "wordProcessed": "Virus",
+        "senseFoundByLesk": "a software program capable of reproducing itself and usually capable of causing great harm to files or other programs on the same computer"
+    },
+    {
+        "id": 9,
+        "sentence": "Molecular Evolution of Human Influenza A/H3N2 Virus in Asia\nand Europe from 2001 to 2003\nX. Sherry Chi, Trentice V. Bolar, Ping Zhao, John S. Tam,\nRuth Rappaport, and Sheau-Mei Cheng*\nApplied Immunology and Microbiology Division, Wyeth Vaccines Research, Pearl River, New York 10965\nReceived 9 May 2005/Returned for modification 15 August 2005/Accepted 20 September 2005\nHemagglutinin sequences of 146 human influenza A/H3N2 strains identified in respiratory specimens from\nAsia and Europe during the 2001-2003 influenza seasons were analyzed by DNA sequencing.",
+        "wordProcessed": "Asia",
+        "senseFoundByLesk": "the largest continent with 60% of the earth's population; it is joined to Europe on the west to form Eurasia; it is the site of some of the world's earliest civilizations"
+    },
+    {
+        "id": 10,
+        "sentence": "Molecular Evolution of Human Influenza A/H3N2 Virus in Asia\nand Europe from 2001 to 2003\nX. Sherry Chi, Trentice V. Bolar, Ping Zhao, John S. Tam,\nRuth Rappaport, and Sheau-Mei Cheng*\nApplied Immunology and Microbiology Division, Wyeth Vaccines Research, Pearl River, New York 10965\nReceived 9 May 2005/Returned for modification 15 August 2005/Accepted 20 September 2005\nHemagglutinin sequences of 146 human influenza A/H3N2 strains identified in respiratory specimens from\nAsia and Europe during the 2001-2003 influenza seasons were analyzed by DNA sequencing.",
+        "wordProcessed": "Europe",
+        "senseFoundByLesk": "an international organization of European countries formed after World War II to reduce trade barriers and increase cooperation among its members"
+    },
+    {
+        "id": 11,
+        "sentence": "Molecular Evolution of Human Influenza A/H3N2 Virus in Asia\nand Europe from 2001 to 2003\nX. Sherry Chi, Trentice V. Bolar, Ping Zhao, John S. Tam,\nRuth Rappaport, and Sheau-Mei Cheng*\nApplied Immunology and Microbiology Division, Wyeth Vaccines Research, Pearl River, New York 10965\nReceived 9 May 2005/Returned for modification 15 August 2005/Accepted 20 September 2005\nHemagglutinin sequences of 146 human influenza A/H3N2 strains identified in respiratory specimens from\nAsia and Europe during the 2001-2003 influenza seasons were analyzed by DNA sequencing.",
+        "wordProcessed": "Sherry",
+        "senseFoundByLesk": "dry to sweet amber wine from the Jerez region of southern Spain or similar wines produced elsewhere; usually drunk as an aperitif"
+    },
+    {
+        "id": 12,
+        "sentence": "Molecular Evolution of Human Influenza A/H3N2 Virus in Asia\nand Europe from 2001 to 2003\nX. Sherry Chi, Trentice V. Bolar, Ping Zhao, John S. Tam,\nRuth Rappaport, and Sheau-Mei Cheng*\nApplied Immunology and Microbiology Division, Wyeth Vaccines Research, Pearl River, New York 10965\nReceived 9 May 2005/Returned for modification 15 August 2005/Accepted 20 September 2005\nHemagglutinin sequences of 146 human influenza A/H3N2 strains identified in respiratory specimens from\nAsia and Europe during the 2001-2003 influenza seasons were analyzed by DNA sequencing.",
+        "wordProcessed": "Chi",
+        "senseFoundByLesk": "the circulating life energy that in Chinese philosophy is thought to be inherent in all things; in traditional Chinese medicine the balance of negative and positive forms in the body is believed to be essential for good health"
+    },
+    {
+        "id": 13,
+        "sentence": "Molecular Evolution of Human Influenza A/H3N2 Virus in Asia\nand Europe from 2001 to 2003\nX. Sherry Chi, Trentice V. Bolar, Ping Zhao, John S. Tam,\nRuth Rappaport, and Sheau-Mei Cheng*\nApplied Immunology and Microbiology Division, Wyeth Vaccines Research, Pearl River, New York 10965\nReceived 9 May 2005/Returned for modification 15 August 2005/Accepted 20 September 2005\nHemagglutinin sequences of 146 human influenza A/H3N2 strains identified in respiratory specimens from\nAsia and Europe during the 2001-2003 influenza seasons were analyzed by DNA sequencing.",
+        "wordProcessed": "Ping",
+        "senseFoundByLesk": "a river in western Thailand; a major tributary of the Chao Phraya"
+    },
+    {
+        "id": 14,
+        "sentence": "Molecular Evolution of Human Influenza A/H3N2 Virus in Asia\nand Europe from 2001 to 2003\nX. Sherry Chi, Trentice V. Bolar, Ping Zhao, John S. Tam,\nRuth Rappaport, and Sheau-Mei Cheng*\nApplied Immunology and Microbiology Division, Wyeth Vaccines Research, Pearl River, New York 10965\nReceived 9 May 2005/Returned for modification 15 August 2005/Accepted 20 September 2005\nHemagglutinin sequences of 146 human influenza A/H3N2 strains identified in respiratory specimens from\nAsia and Europe during the 2001-2003 influenza seasons were analyzed by DNA sequencing.",
+        "wordProcessed": "John",
+        "senseFoundByLesk": "youngest son of Henry II; King of England from 1199 to 1216; succeeded to the throne on the death of his brother Richard I; lost his French possessions; in 1215 John was compelled by the barons to sign the Magna Carta (1167-1216)"
+    },
+    {
+        "id": 15,
+        "sentence": "Molecular Evolution of Human Influenza A/H3N2 Virus in Asia\nand Europe from 2001 to 2003\nX. Sherry Chi, Trentice V. Bolar, Ping Zhao, John S. Tam,\nRuth Rappaport, and Sheau-Mei Cheng*\nApplied Immunology and Microbiology Division, Wyeth Vaccines Research, Pearl River, New York 10965\nReceived 9 May 2005/Returned for modification 15 August 2005/Accepted 20 September 2005\nHemagglutinin sequences of 146 human influenza A/H3N2 strains identified in respiratory specimens from\nAsia and Europe during the 2001-2003 influenza seasons were analyzed by DNA sequencing.",
+        "wordProcessed": "Tam",
+        "senseFoundByLesk": "a woolen cap of Scottish origin"
+    },
+    {
+        "id": 16,
+        "sentence": "Molecular Evolution of Human Influenza A/H3N2 Virus in Asia\nand Europe from 2001 to 2003\nX. Sherry Chi, Trentice V. Bolar, Ping Zhao, John S. Tam,\nRuth Rappaport, and Sheau-Mei Cheng*\nApplied Immunology and Microbiology Division, Wyeth Vaccines Research, Pearl River, New York 10965\nReceived 9 May 2005/Returned for modification 15 August 2005/Accepted 20 September 2005\nHemagglutinin sequences of 146 human influenza A/H3N2 strains identified in respiratory specimens from\nAsia and Europe during the 2001-2003 influenza seasons were analyzed by DNA sequencing.",
+        "wordProcessed": "Ruth",
+        "senseFoundByLesk": "a book of the Old Testament that tells the story of Ruth who was not an Israelite but who married an Israelite and who stayed with her mother-in-law Naomi after her husband died"
+    },
+    {
+        "id": 17,
+        "sentence": "Molecular Evolution of Human Influenza A/H3N2 Virus in Asia\nand Europe from 2001 to 2003\nX. Sherry Chi, Trentice V. Bolar, Ping Zhao, John S. Tam,\nRuth Rappaport, and Sheau-Mei Cheng*\nApplied Immunology and Microbiology Division, Wyeth Vaccines Research, Pearl River, New York 10965\nReceived 9 May 2005/Returned for modification 15 August 2005/Accepted 20 September 2005\nHemagglutinin sequences of 146 human influenza A/H3N2 strains identified in respiratory specimens from\nAsia and Europe during the 2001-2003 influenza seasons were analyzed by DNA sequencing.",
+        "wordProcessed": "Immunology",
+        "senseFoundByLesk": "the branch of medical science that studies the body's immune system"
+    },
+    {
+        "id": 18,
+        "sentence": "Molecular Evolution of Human Influenza A/H3N2 Virus in Asia\nand Europe from 2001 to 2003\nX. Sherry Chi, Trentice V. Bolar, Ping Zhao, John S. Tam,\nRuth Rappaport, and Sheau-Mei Cheng*\nApplied Immunology and Microbiology Division, Wyeth Vaccines Research, Pearl River, New York 10965\nReceived 9 May 2005/Returned for modification 15 August 2005/Accepted 20 September 2005\nHemagglutinin sequences of 146 human influenza A/H3N2 strains identified in respiratory specimens from\nAsia and Europe during the 2001-2003 influenza seasons were analyzed by DNA sequencing.",
+        "wordProcessed": "Microbiology",
+        "senseFoundByLesk": "the branch of biology that studies microorganisms and their effects on humans"
+    },
+    {
+        "id": 19,
+        "sentence": "Molecular Evolution of Human Influenza A/H3N2 Virus in Asia\nand Europe from 2001 to 2003\nX. Sherry Chi, Trentice V. Bolar, Ping Zhao, John S. Tam,\nRuth Rappaport, and Sheau-Mei Cheng*\nApplied Immunology and Microbiology Division, Wyeth Vaccines Research, Pearl River, New York 10965\nReceived 9 May 2005/Returned for modification 15 August 2005/Accepted 20 September 2005\nHemagglutinin sequences of 146 human influenza A/H3N2 strains identified in respiratory specimens from\nAsia and Europe during the 2001-2003 influenza seasons were analyzed by DNA sequencing.",
+        "wordProcessed": "Division",
+        "senseFoundByLesk": "one of the portions into which something is regarded as divided and which together constitute a whole"
+    },
+    {
+        "id": 20,
+        "sentence": "Molecular Evolution of Human Influenza A/H3N2 Virus in Asia\nand Europe from 2001 to 2003\nX. Sherry Chi, Trentice V. Bolar, Ping Zhao, John S. Tam,\nRuth Rappaport, and Sheau-Mei Cheng*\nApplied Immunology and Microbiology Division, Wyeth Vaccines Research, Pearl River, New York 10965\nReceived 9 May 2005/Returned for modification 15 August 2005/Accepted 20 September 2005\nHemagglutinin sequences of 146 human influenza A/H3N2 strains identified in respiratory specimens from\nAsia and Europe during the 2001-2003 influenza seasons were analyzed by DNA sequencing.",
+        "wordProcessed": "Wyeth",
+        "senseFoundByLesk": "United States painter (born in 1917)"
+    },
+    {
+        "id": 21,
+        "sentence": "Molecular Evolution of Human Influenza A/H3N2 Virus in Asia\nand Europe from 2001 to 2003\nX. Sherry Chi, Trentice V. Bolar, Ping Zhao, John S. Tam,\nRuth Rappaport, and Sheau-Mei Cheng*\nApplied Immunology and Microbiology Division, Wyeth Vaccines Research, Pearl River, New York 10965\nReceived 9 May 2005/Returned for modification 15 August 2005/Accepted 20 September 2005\nHemagglutinin sequences of 146 human influenza A/H3N2 strains identified in respiratory specimens from\nAsia and Europe during the 2001-2003 influenza seasons were analyzed by DNA sequencing.",
+        "wordProcessed": "Vaccines",
+        "senseFoundByLesk": "immunogen consisting of a suspension of weakened or dead pathogenic cells injected in order to stimulate the production of antibodies"
+    },
+    {
+        "id": 22,
+        "sentence": "Molecular Evolution of Human Influenza A/H3N2 Virus in Asia\nand Europe from 2001 to 2003\nX. Sherry Chi, Trentice V. Bolar, Ping Zhao, John S. Tam,\nRuth Rappaport, and Sheau-Mei Cheng*\nApplied Immunology and Microbiology Division, Wyeth Vaccines Research, Pearl River, New York 10965\nReceived 9 May 2005/Returned for modification 15 August 2005/Accepted 20 September 2005\nHemagglutinin sequences of 146 human influenza A/H3N2 strains identified in respiratory specimens from\nAsia and Europe during the 2001-2003 influenza seasons were analyzed by DNA sequencing.",
+        "wordProcessed": "Research",
+        "senseFoundByLesk": "systematic investigation to establish facts"
+    },
+    {
+        "id": 23,
+        "sentence": "Molecular Evolution of Human Influenza A/H3N2 Virus in Asia\nand Europe from 2001 to 2003\nX. Sherry Chi, Trentice V. Bolar, Ping Zhao, John S. Tam,\nRuth Rappaport, and Sheau-Mei Cheng*\nApplied Immunology and Microbiology Division, Wyeth Vaccines Research, Pearl River, New York 10965\nReceived 9 May 2005/Returned for modification 15 August 2005/Accepted 20 September 2005\nHemagglutinin sequences of 146 human influenza A/H3N2 strains identified in respiratory specimens from\nAsia and Europe during the 2001-2003 influenza seasons were analyzed by DNA sequencing.",
+        "wordProcessed": "Pearl",
+        "senseFoundByLesk": "a smooth lustrous round structure inside the shell of a clam or oyster; much valued as a jewel"
+    },
+    {
+        "id": 24,
+        "sentence": "Molecular Evolution of Human Influenza A/H3N2 Virus in Asia\nand Europe from 2001 to 2003\nX. Sherry Chi, Trentice V. Bolar, Ping Zhao, John S. Tam,\nRuth Rappaport, and Sheau-Mei Cheng*\nApplied Immunology and Microbiology Division, Wyeth Vaccines Research, Pearl River, New York 10965\nReceived 9 May 2005/Returned for modification 15 August 2005/Accepted 20 September 2005\nHemagglutinin sequences of 146 human influenza A/H3N2 strains identified in respiratory specimens from\nAsia and Europe during the 2001-2003 influenza seasons were analyzed by DNA sequencing.",
+        "wordProcessed": "River",
+        "senseFoundByLesk": "a large natural stream of water (larger than a creek)"
+    },
+    {
+        "id": 25,
+        "sentence": "Molecular Evolution of Human Influenza A/H3N2 Virus in Asia\nand Europe from 2001 to 2003\nX. Sherry Chi, Trentice V. Bolar, Ping Zhao, John S. Tam,\nRuth Rappaport, and Sheau-Mei Cheng*\nApplied Immunology and Microbiology Division, Wyeth Vaccines Research, Pearl River, New York 10965\nReceived 9 May 2005/Returned for modification 15 August 2005/Accepted 20 September 2005\nHemagglutinin sequences of 146 human influenza A/H3N2 strains identified in respiratory specimens from\nAsia and Europe during the 2001-2003 influenza seasons were analyzed by DNA sequencing.",
+        "wordProcessed": "York",
+        "senseFoundByLesk": "the English royal house (a branch of the Plantagenet line) that reigned from 1461 to 1485; its emblem was a white rose"
+    },
+    {
+        "id": 26,
+        "sentence": "Molecular Evolution of Human Influenza A/H3N2 Virus in Asia\nand Europe from 2001 to 2003\nX. Sherry Chi, Trentice V. Bolar, Ping Zhao, John S. Tam,\nRuth Rappaport, and Sheau-Mei Cheng*\nApplied Immunology and Microbiology Division, Wyeth Vaccines Research, Pearl River, New York 10965\nReceived 9 May 2005/Returned for modification 15 August 2005/Accepted 20 September 2005\nHemagglutinin sequences of 146 human influenza A/H3N2 strains identified in respiratory specimens from\nAsia and Europe during the 2001-2003 influenza seasons were analyzed by DNA sequencing.",
+        "wordProcessed": "May",
+        "senseFoundByLesk": "thorny Eurasian shrub of small tree having dense clusters of white to scarlet flowers followed by deep red berries; established as an escape in eastern North America"
+    },
+    {
+        "id": 27,
+        "sentence": "Molecular Evolution of Human Influenza A/H3N2 Virus in Asia\nand Europe from 2001 to 2003\nX. Sherry Chi, Trentice V. Bolar, Ping Zhao, John S. Tam,\nRuth Rappaport, and Sheau-Mei Cheng*\nApplied Immunology and Microbiology Division, Wyeth Vaccines Research, Pearl River, New York 10965\nReceived 9 May 2005/Returned for modification 15 August 2005/Accepted 20 September 2005\nHemagglutinin sequences of 146 human influenza A/H3N2 strains identified in respiratory specimens from\nAsia and Europe during the 2001-2003 influenza seasons were analyzed by DNA sequencing.",
+        "wordProcessed": "August",
+        "senseFoundByLesk": "the month following July and preceding September"
+    },
+    {
+        "id": 28,
+        "sentence": "Molecular Evolution of Human Influenza A/H3N2 Virus in Asia\nand Europe from 2001 to 2003\nX. Sherry Chi, Trentice V. Bolar, Ping Zhao, John S. Tam,\nRuth Rappaport, and Sheau-Mei Cheng*\nApplied Immunology and Microbiology Division, Wyeth Vaccines Research, Pearl River, New York 10965\nReceived 9 May 2005/Returned for modification 15 August 2005/Accepted 20 September 2005\nHemagglutinin sequences of 146 human influenza A/H3N2 strains identified in respiratory specimens from\nAsia and Europe during the 2001-2003 influenza seasons were analyzed by DNA sequencing.",
+        "wordProcessed": "September",
+        "senseFoundByLesk": "the month following August and preceding October"
+    },
+    {
+        "id": 29,
+        "sentence": "Molecular Evolution of Human Influenza A/H3N2 Virus in Asia\nand Europe from 2001 to 2003\nX. Sherry Chi, Trentice V. Bolar, Ping Zhao, John S. Tam,\nRuth Rappaport, and Sheau-Mei Cheng*\nApplied Immunology and Microbiology Division, Wyeth Vaccines Research, Pearl River, New York 10965\nReceived 9 May 2005/Returned for modification 15 August 2005/Accepted 20 September 2005\nHemagglutinin sequences of 146 human influenza A/H3N2 strains identified in respiratory specimens from\nAsia and Europe during the 2001-2003 influenza seasons were analyzed by DNA sequencing.",
+        "wordProcessed": "Asia",
+        "senseFoundByLesk": "the largest continent with 60% of the earth's population; it is joined to Europe on the west to form Eurasia; it is the site of some of the world's earliest civilizations"
+    },
+    {
+        "id": 30,
+        "sentence": "Molecular Evolution of Human Influenza A/H3N2 Virus in Asia\nand Europe from 2001 to 2003\nX. Sherry Chi, Trentice V. Bolar, Ping Zhao, John S. Tam,\nRuth Rappaport, and Sheau-Mei Cheng*\nApplied Immunology and Microbiology Division, Wyeth Vaccines Research, Pearl River, New York 10965\nReceived 9 May 2005/Returned for modification 15 August 2005/Accepted 20 September 2005\nHemagglutinin sequences of 146 human influenza A/H3N2 strains identified in respiratory specimens from\nAsia and Europe during the 2001-2003 influenza seasons were analyzed by DNA sequencing.",
+        "wordProcessed": "Europe",
+        "senseFoundByLesk": "an international organization of European countries formed after World War II to reduce trade barriers and increase cooperation among its members"
+    },
+    {
+        "id": 31,
+        "sentence": "Molecular Evolution of Human Influenza A/H3N2 Virus in Asia\nand Europe from 2001 to 2003\nX. Sherry Chi, Trentice V. Bolar, Ping Zhao, John S. Tam,\nRuth Rappaport, and Sheau-Mei Cheng*\nApplied Immunology and Microbiology Division, Wyeth Vaccines Research, Pearl River, New York 10965\nReceived 9 May 2005/Returned for modification 15 August 2005/Accepted 20 September 2005\nHemagglutinin sequences of 146 human influenza A/H3N2 strains identified in respiratory specimens from\nAsia and Europe during the 2001-2003 influenza seasons were analyzed by DNA sequencing.",
+        "wordProcessed": "DNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer found in the nucleus of a cell and formed from nucleotides and shaped like a double helix; associated with the transmission of genetic information"
+    },
+    {
+        "id": 32,
+        "sentence": "Influenza virus genomes are well known to undergo anti-\ngenic drifts that enable escape from preexisting immunity and\npotentially cause epidemics in humans (10).",
+        "wordProcessed": "Influenza",
+        "senseFoundByLesk": "an acute febrile highly contagious viral disease"
+    },
+    {
+        "id": 33,
+        "sentence": "The surface glycoprotein hemagglutinin (HA) is the major sur-\nface antigen of influenza viruses, against which neutralizing anti-\nbodies are elicited during virus infection and vaccination (12).",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 34,
+        "sentence": "HA\nis synthesized as a single polypeptide that is subsequently cleaved\ninto two polypeptides, HA1 and HA2.",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 35,
+        "sentence": "Five antigenic sites (A to E) on the\nthree-dimensional structure of the HA protein of A/Aichi/2/68\n(H3N2) have been proposed to be the antibody-binding sites of\nthe protein (13, 14).",
+        "wordProcessed": "E",
+        "senseFoundByLesk": "the base of the natural system of logarithms; approximately equal to 2.718282..."
+    },
+    {
+        "id": 36,
+        "sentence": "Five antigenic sites (A to E) on the\nthree-dimensional structure of the HA protein of A/Aichi/2/68\n(H3N2) have been proposed to be the antibody-binding sites of\nthe protein (13, 14).",
+        "wordProcessed": "HA",
+        "senseFoundByLesk": "(astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day"
+    },
+    {
+        "id": 37,
+        "sentence": "The appearance of A/Fujian/411/2002-\nlike viruses prompted a change in the selection of vaccine\ncomponents for the Southern Hemisphere in 2003 and for the\nSouthern and Northern Hemispheres in 2004.",
+        "wordProcessed": "Hemisphere",
+        "senseFoundByLesk": "either half of the cerebrum"
+    },
+    {
+        "id": 38,
+        "sentence": "The appearance of A/Fujian/411/2002-\nlike viruses prompted a change in the selection of vaccine\ncomponents for the Southern Hemisphere in 2003 and for the\nSouthern and Northern Hemispheres in 2004.",
+        "wordProcessed": "Northern",
+        "senseFoundByLesk": "a dialect of Middle English that developed into Scottish Lallans"
+    },
+    {
+        "id": 39,
+        "sentence": "The appearance of A/Fujian/411/2002-\nlike viruses prompted a change in the selection of vaccine\ncomponents for the Southern Hemisphere in 2003 and for the\nSouthern and Northern Hemispheres in 2004.",
+        "wordProcessed": "Hemispheres",
+        "senseFoundByLesk": "either half of the cerebrum"
+    },
+    {
+        "id": 40,
+        "sentence": "The specimens were divided into the following five groups,\nbased on the date of collection (Table 1): groups 1, 3, and 5\nwere from Asian countries, including Bangladesh, Singapore,\nMalaysia, and South Korea, and groups 2 and 4 were from\nEuropean countries, including the United Kingdom, Scotland,\nFinland, The Netherlands, Poland, and Italy.",
+        "wordProcessed": "Bangladesh",
+        "senseFoundByLesk": "a Muslim republic in southern Asia bordered by India to the north and west and east and the Bay of Bengal to the south; formerly part of India and then part of Pakistan; it achieved independence in 1971"
+    },
+    {
+        "id": 41,
+        "sentence": "The specimens were divided into the following five groups,\nbased on the date of collection (Table 1): groups 1, 3, and 5\nwere from Asian countries, including Bangladesh, Singapore,\nMalaysia, and South Korea, and groups 2 and 4 were from\nEuropean countries, including the United Kingdom, Scotland,\nFinland, The Netherlands, Poland, and Italy.",
+        "wordProcessed": "Singapore",
+        "senseFoundByLesk": "a country in southeastern Asia on the island of Singapore; achieved independence from Malaysia in 1965"
+    },
+    {
+        "id": 42,
+        "sentence": "The specimens were divided into the following five groups,\nbased on the date of collection (Table 1): groups 1, 3, and 5\nwere from Asian countries, including Bangladesh, Singapore,\nMalaysia, and South Korea, and groups 2 and 4 were from\nEuropean countries, including the United Kingdom, Scotland,\nFinland, The Netherlands, Poland, and Italy.",
+        "wordProcessed": "Malaysia",
+        "senseFoundByLesk": "a constitutional monarchy in southeastern Asia on Borneo and the Malay Peninsula; achieved independence from the United Kingdom in 1957"
+    },
+    {
+        "id": 43,
+        "sentence": "The specimens were divided into the following five groups,\nbased on the date of collection (Table 1): groups 1, 3, and 5\nwere from Asian countries, including Bangladesh, Singapore,\nMalaysia, and South Korea, and groups 2 and 4 were from\nEuropean countries, including the United Kingdom, Scotland,\nFinland, The Netherlands, Poland, and Italy.",
+        "wordProcessed": "South",
+        "senseFoundByLesk": "the region of the United States lying to the south of the Mason-Dixon line"
+    },
+    {
+        "id": 44,
+        "sentence": "The specimens were divided into the following five groups,\nbased on the date of collection (Table 1): groups 1, 3, and 5\nwere from Asian countries, including Bangladesh, Singapore,\nMalaysia, and South Korea, and groups 2 and 4 were from\nEuropean countries, including the United Kingdom, Scotland,\nFinland, The Netherlands, Poland, and Italy.",
+        "wordProcessed": "Korea",
+        "senseFoundByLesk": "an Asian peninsula (off Manchuria) separating the Yellow Sea and the Sea of Japan; the Korean name is Dae-Han-Min-Gook or Han-Gook"
+    },
+    {
+        "id": 45,
+        "sentence": "The specimens were divided into the following five groups,\nbased on the date of collection (Table 1): groups 1, 3, and 5\nwere from Asian countries, including Bangladesh, Singapore,\nMalaysia, and South Korea, and groups 2 and 4 were from\nEuropean countries, including the United Kingdom, Scotland,\nFinland, The Netherlands, Poland, and Italy.",
+        "wordProcessed": "Kingdom",
+        "senseFoundByLesk": "the highest taxonomic group into which organisms are grouped; one of five biological categories: Monera or Protoctista or Plantae or Fungi or Animalia"
+    },
+    {
+        "id": 46,
+        "sentence": "The specimens were divided into the following five groups,\nbased on the date of collection (Table 1): groups 1, 3, and 5\nwere from Asian countries, including Bangladesh, Singapore,\nMalaysia, and South Korea, and groups 2 and 4 were from\nEuropean countries, including the United Kingdom, Scotland,\nFinland, The Netherlands, Poland, and Italy.",
+        "wordProcessed": "Scotland",
+        "senseFoundByLesk": "one of the four countries that make up the United Kingdom of Great Britain and Northern Ireland; located on the northern part of the island of Great Britain; famous for bagpipes and plaids and kilts"
+    },
+    {
+        "id": 47,
+        "sentence": "The specimens were divided into the following five groups,\nbased on the date of collection (Table 1): groups 1, 3, and 5\nwere from Asian countries, including Bangladesh, Singapore,\nMalaysia, and South Korea, and groups 2 and 4 were from\nEuropean countries, including the United Kingdom, Scotland,\nFinland, The Netherlands, Poland, and Italy.",
+        "wordProcessed": "Finland",
+        "senseFoundByLesk": "republic in northern Europe; achieved independence from Russia in 1917"
+    },
+    {
+        "id": 48,
+        "sentence": "The specimens were divided into the following five groups,\nbased on the date of collection (Table 1): groups 1, 3, and 5\nwere from Asian countries, including Bangladesh, Singapore,\nMalaysia, and South Korea, and groups 2 and 4 were from\nEuropean countries, including the United Kingdom, Scotland,\nFinland, The Netherlands, Poland, and Italy.",
+        "wordProcessed": "Netherlands",
+        "senseFoundByLesk": "a constitutional monarchy in western Europe on the North Sea; half the country lies below sea level"
+    },
+    {
+        "id": 49,
+        "sentence": "The specimens were divided into the following five groups,\nbased on the date of collection (Table 1): groups 1, 3, and 5\nwere from Asian countries, including Bangladesh, Singapore,\nMalaysia, and South Korea, and groups 2 and 4 were from\nEuropean countries, including the United Kingdom, Scotland,\nFinland, The Netherlands, Poland, and Italy.",
+        "wordProcessed": "Poland",
+        "senseFoundByLesk": "a republic in central Europe; the invasion of Poland by Germany in 1939 started World War II"
+    },
+    {
+        "id": 50,
+        "sentence": "The specimens were divided into the following five groups,\nbased on the date of collection (Table 1): groups 1, 3, and 5\nwere from Asian countries, including Bangladesh, Singapore,\nMalaysia, and South Korea, and groups 2 and 4 were from\nEuropean countries, including the United Kingdom, Scotland,\nFinland, The Netherlands, Poland, and Italy.",
+        "wordProcessed": "Italy",
+        "senseFoundByLesk": "a republic in southern Europe on the Italian Peninsula; was the core of the Roman Republic and the Roman Empire between the 4th century BC and the 5th century AD"
+    },
+    {
+        "id": 51,
+        "sentence": "Viral RNA was\nextracted from influenza viruses propagated once in MDCK\ncells as previously described (4).",
+        "wordProcessed": "RNA",
+        "senseFoundByLesk": "(biochemistry) a long linear polymer of nucleotides found in the nucleus but mainly in the cytoplasm of a cell where it is associated with microsomes; it transmits genetic information from DNA to the cytoplasm and controls certain chemical processes in the cell"
+    },
+    {
+        "id": 52,
+        "sentence": "HA1 fragments correspond-\ning to nucleotides 37 to 1154 were amplified by reverse tran-\nscription-PCR using oligonucleotides 5-CTATCATTGCTT\nTGAGCTAC (primer 1) and 5-ATCTGCTGCTTGTCCTGT\nGC (primer 2).",
+        "wordProcessed": "GC",
+        "senseFoundByLesk": "1,000,000,000 periods per second"
+    },
+    {
+        "id": 53,
+        "sentence": "The PCR products were purified and subjected\nto sequencing on a genetic analyzer (ABI PRISM 3100; Ap-\nplied Biosystems, Foster City, CA) with the above-mentioned\noligonucleotides and two additional oligonucleotides, 5-ATG\nCCAAACAATGACAAATT (primer 3) and 5-TGTTTG\nGCATAGTCACGTTC (primer 4), except for group 3 speci-\nmens, for which only primers 1 and 4 were used for sequencing.",
+        "wordProcessed": "PRISM",
+        "senseFoundByLesk": "optical device having a triangular shape and made of glass or quartz; used to deviate a beam or invert an image"
+    },
+    {
+        "id": 54,
+        "sentence": "The PCR products were purified and subjected\nto sequencing on a genetic analyzer (ABI PRISM 3100; Ap-\nplied Biosystems, Foster City, CA) with the above-mentioned\noligonucleotides and two additional oligonucleotides, 5-ATG\nCCAAACAATGACAAATT (primer 3) and 5-TGTTTG\nGCATAGTCACGTTC (primer 4), except for group 3 speci-\nmens, for which only primers 1 and 4 were used for sequencing.",
+        "wordProcessed": "Foster",
+        "senseFoundByLesk": "United States songwriter whose songs embody the sentiment of the South before the American Civil War (1826-1864)"
+    },
+    {
+        "id": 55,
+        "sentence": "The PCR products were purified and subjected\nto sequencing on a genetic analyzer (ABI PRISM 3100; Ap-\nplied Biosystems, Foster City, CA) with the above-mentioned\noligonucleotides and two additional oligonucleotides, 5-ATG\nCCAAACAATGACAAATT (primer 3) and 5-TGTTTG\nGCATAGTCACGTTC (primer 4), except for group 3 speci-\nmens, for which only primers 1 and 4 were used for sequencing.",
+        "wordProcessed": "City",
+        "senseFoundByLesk": "a large and densely populated urban area; may include several independent administrative districts"
+    },
+    {
+        "id": 56,
+        "sentence": "The PCR products were purified and subjected\nto sequencing on a genetic analyzer (ABI PRISM 3100; Ap-\nplied Biosystems, Foster City, CA) with the above-mentioned\noligonucleotides and two additional oligonucleotides, 5-ATG\nCCAAACAATGACAAATT (primer 3) and 5-TGTTTG\nGCATAGTCACGTTC (primer 4), except for group 3 speci-\nmens, for which only primers 1 and 4 were used for sequencing.",
+        "wordProcessed": "CA",
+        "senseFoundByLesk": "a state in the western United States on the Pacific; the 3rd largest state; known for earthquakes"
+    },
+    {
+        "id": 57,
+        "sentence": "The sequences formed clusters (Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 58,
+        "sentence": "The HA1 sequences in\ngroups 1 and 2 all exhibited amino acid changes S21P, L183H,\nand S186G, regardless of origin (Asia or Europe), suggesting\nthat these three changes were inherited from earlier drifts.",
+        "wordProcessed": "Asia",
+        "senseFoundByLesk": "the largest continent with 60% of the earth's population; it is joined to Europe on the west to form Eurasia; it is the site of some of the world's earliest civilizations"
+    },
+    {
+        "id": 59,
+        "sentence": "The HA1 sequences in\ngroups 1 and 2 all exhibited amino acid changes S21P, L183H,\nand S186G, regardless of origin (Asia or Europe), suggesting\nthat these three changes were inherited from earlier drifts.",
+        "wordProcessed": "Europe",
+        "senseFoundByLesk": "an international organization of European countries formed after World War II to reduce trade barriers and increase cooperation among its members"
+    },
+    {
+        "id": 60,
+        "sentence": "Six\nadditional changes (R50G, E83K, A131T, V202I, W222R, and\nG225D) were detected in group 1 sequences, five of which (all\nbut A131T) were also observed in group 2.",
+        "wordProcessed": "Six",
+        "senseFoundByLesk": "the cardinal number that is the sum of five and one"
+    },
+    {
+        "id": 61,
+        "sentence": "Mailing address: Applied Immunology and\nMicrobiology Division, Wyeth Vaccines Research, 401 N. Middletown\nRd., Building 180, Pearl River, NY 10965.",
+        "wordProcessed": "Immunology",
+        "senseFoundByLesk": "the branch of medical science that studies the body's immune system"
+    },
+    {
+        "id": 62,
+        "sentence": "Mailing address: Applied Immunology and\nMicrobiology Division, Wyeth Vaccines Research, 401 N. Middletown\nRd., Building 180, Pearl River, NY 10965.",
+        "wordProcessed": "Microbiology",
+        "senseFoundByLesk": "the branch of biology that studies microorganisms and their effects on humans"
+    },
+    {
+        "id": 63,
+        "sentence": "Mailing address: Applied Immunology and\nMicrobiology Division, Wyeth Vaccines Research, 401 N. Middletown\nRd., Building 180, Pearl River, NY 10965.",
+        "wordProcessed": "Division",
+        "senseFoundByLesk": "one of the portions into which something is regarded as divided and which together constitute a whole"
+    },
+    {
+        "id": 64,
+        "sentence": "Mailing address: Applied Immunology and\nMicrobiology Division, Wyeth Vaccines Research, 401 N. Middletown\nRd., Building 180, Pearl River, NY 10965.",
+        "wordProcessed": "Wyeth",
+        "senseFoundByLesk": "United States painter (born in 1917)"
+    },
+    {
+        "id": 65,
+        "sentence": "Mailing address: Applied Immunology and\nMicrobiology Division, Wyeth Vaccines Research, 401 N. Middletown\nRd., Building 180, Pearl River, NY 10965.",
+        "wordProcessed": "Vaccines",
+        "senseFoundByLesk": "immunogen consisting of a suspension of weakened or dead pathogenic cells injected in order to stimulate the production of antibodies"
+    },
+    {
+        "id": 66,
+        "sentence": "Mailing address: Applied Immunology and\nMicrobiology Division, Wyeth Vaccines Research, 401 N. Middletown\nRd., Building 180, Pearl River, NY 10965.",
+        "wordProcessed": "Research",
+        "senseFoundByLesk": "systematic investigation to establish facts"
+    },
+    {
+        "id": 67,
+        "sentence": "Mailing address: Applied Immunology and\nMicrobiology Division, Wyeth Vaccines Research, 401 N. Middletown\nRd., Building 180, Pearl River, NY 10965.",
+        "wordProcessed": "Building",
+        "senseFoundByLesk": "a structure that has a roof and walls and stands more or less permanently in one place"
+    },
+    {
+        "id": 68,
+        "sentence": "Mailing address: Applied Immunology and\nMicrobiology Division, Wyeth Vaccines Research, 401 N. Middletown\nRd., Building 180, Pearl River, NY 10965.",
+        "wordProcessed": "Pearl",
+        "senseFoundByLesk": "a shape that is spherical and small"
+    },
+    {
+        "id": 69,
+        "sentence": "Mailing address: Applied Immunology and\nMicrobiology Division, Wyeth Vaccines Research, 401 N. Middletown\nRd., Building 180, Pearl River, NY 10965.",
+        "wordProcessed": "River",
+        "senseFoundByLesk": "a large natural stream of water (larger than a creek)"
+    },
+    {
+        "id": 70,
+        "sentence": "Mailing address: Applied Immunology and\nMicrobiology Division, Wyeth Vaccines Research, 401 N. Middletown\nRd., Building 180, Pearl River, NY 10965.",
+        "wordProcessed": "NY",
+        "senseFoundByLesk": "a Mid-Atlantic state; one of the original 13 colonies"
+    },
+    {
+        "id": 71,
+        "sentence": "Among\nthe 13 amino acid differences between the HA1 protein of\nA/Fujian/411/2002 and that of A/Panama/2007/99, many\nwere detected before March 2002 in both Asia and Europe.",
+        "wordProcessed": "March",
+        "senseFoundByLesk": "the act of marching; walking with regular steps (especially in a procession of some kind)"
+    },
+    {
+        "id": 72,
+        "sentence": "Among\nthe 13 amino acid differences between the HA1 protein of\nA/Fujian/411/2002 and that of A/Panama/2007/99, many\nwere detected before March 2002 in both Asia and Europe.",
+        "wordProcessed": "Asia",
+        "senseFoundByLesk": "the largest continent with 60% of the earth's population; it is joined to Europe on the west to form Eurasia; it is the site of some of the world's earliest civilizations"
+    },
+    {
+        "id": 73,
+        "sentence": "Among\nthe 13 amino acid differences between the HA1 protein of\nA/Fujian/411/2002 and that of A/Panama/2007/99, many\nwere detected before March 2002 in both Asia and Europe.",
+        "wordProcessed": "Europe",
+        "senseFoundByLesk": "an international organization of European countries formed after World War II to reduce trade barriers and increase cooperation among its members"
+    },
+    {
+        "id": 74,
+        "sentence": "Changes were more frequent and advanced in Asia since\nonly 1 out of 17 specimens in group 2 exhibited amino acid\nchanges other than S21P, L183H, and S186G (Fig.",
+        "wordProcessed": "Asia",
+        "senseFoundByLesk": "the nations of the Asian continent collectively"
+    },
+    {
+        "id": 75,
+        "sentence": "Changes were more frequent and advanced in Asia since\nonly 1 out of 17 specimens in group 2 exhibited amino acid\nchanges other than S21P, L183H, and S186G (Fig.",
+        "wordProcessed": "Fig",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 76,
+        "sentence": "In addition, 39%\nof the European specimens collected from November 2002 to\nMay 2003 contained A/Fujian/411/2002-like viruses, based on\nthe HA1 sequence data.",
+        "wordProcessed": "November",
+        "senseFoundByLesk": "the month following October and preceding December"
+    },
+    {
+        "id": 77,
+        "sentence": "In addition, 39%\nof the European specimens collected from November 2002 to\nMay 2003 contained A/Fujian/411/2002-like viruses, based on\nthe HA1 sequence data.",
+        "wordProcessed": "May",
+        "senseFoundByLesk": "thorny Eurasian shrub of small tree having dense clusters of white to scarlet flowers followed by deep red berries; established as an escape in eastern North America"
+    },
+    {
+        "id": 78,
+        "sentence": "This percentage is significantly\nhigher than that previously reported by Paget et al.",
+        "wordProcessed": "Paget",
+        "senseFoundByLesk": "English pathologist who discovered the cause of trichinosis (1814-1899)"
+    },
+    {
+        "id": 79,
+        "sentence": "The sharp rise of the A/\nFujian/411/2002-like viruses in the population coincides with\nFIG.",
+        "wordProcessed": "FIG",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 80,
+        "sentence": "AA, amino acid.",
+        "wordProcessed": "AA",
+        "senseFoundByLesk": "an associate degree in arts"
+    },
+    {
+        "id": 81,
+        "sentence": "Changes in the deduced amino acid sequences of the HA1 protein of influenza A/H3N2 virusesa\nGroup Region Period (mo/yr)\nNo.",
+        "wordProcessed": "Group",
+        "senseFoundByLesk": "(chemistry) two or more atoms bound together as a single unit and forming part of a molecule"
+    },
+    {
+        "id": 82,
+        "sentence": "Changes in the deduced amino acid sequences of the HA1 protein of influenza A/H3N2 virusesa\nGroup Region Period (mo/yr)\nNo.",
+        "wordProcessed": "Region",
+        "senseFoundByLesk": "the approximate amount of something (usually used prepositionally as in `in the region of')"
+    },
+    {
+        "id": 83,
+        "sentence": "Changes in the deduced amino acid sequences of the HA1 protein of influenza A/H3N2 virusesa\nGroup Region Period (mo/yr)\nNo.",
+        "wordProcessed": "Period",
+        "senseFoundByLesk": "a punctuation mark (.) placed at the end of a declarative sentence to indicate a full stop or after abbreviations"
+    },
+    {
+        "id": 84,
+        "sentence": "of\nspecimens\nNo.",
+        "wordProcessed": "No",
+        "senseFoundByLesk": "a radioactive transuranic element synthesized by bombarding curium with carbon ions; 7 isotopes are known"
+    },
+    {
+        "id": 85,
+        "sentence": "of amino\nacid changes\ndetectedb\nChanges in amino acid residuesb\n1 Asia 11/2001 to 03/2002 16 9 S21P, R50G, E83K, A131T, L183H, S186G, V202I, W222R, G225D\n2 Europe 11/2001 to 03/2002 17 8 Same as group 1 but without A131T\n3 Asia 04/2002 to 08/2002 58 12 Same as group 1 plus L25I, H75Q, and H155T\n4 Europe 11/2002 to 05/2003 28 13 Same as group 1 plus L25I, H75Q, H155T, and Q156H\n5 Asia 11/2002 to 05/2003 27 13 Same as group 1 plus L25I, H75Q, H155T, and Q156H\na\nCompared with the HA1 sequence of A/Panama/2007/99.",
+        "wordProcessed": "Asia",
+        "senseFoundByLesk": "the largest continent with 60% of the earth's population; it is joined to Europe on the west to form Eurasia; it is the site of some of the world's earliest civilizations"
+    },
+    {
+        "id": 86,
+        "sentence": "of amino\nacid changes\ndetectedb\nChanges in amino acid residuesb\n1 Asia 11/2001 to 03/2002 16 9 S21P, R50G, E83K, A131T, L183H, S186G, V202I, W222R, G225D\n2 Europe 11/2001 to 03/2002 17 8 Same as group 1 but without A131T\n3 Asia 04/2002 to 08/2002 58 12 Same as group 1 plus L25I, H75Q, and H155T\n4 Europe 11/2002 to 05/2003 28 13 Same as group 1 plus L25I, H75Q, H155T, and Q156H\n5 Asia 11/2002 to 05/2003 27 13 Same as group 1 plus L25I, H75Q, H155T, and Q156H\na\nCompared with the HA1 sequence of A/Panama/2007/99.",
+        "wordProcessed": "Europe",
+        "senseFoundByLesk": "the 2nd smallest continent (actually a vast peninsula of Eurasia); the British use `Europe' to refer to all of the continent except the British Isles"
+    },
+    {
+        "id": 87,
+        "sentence": "of amino\nacid changes\ndetectedb\nChanges in amino acid residuesb\n1 Asia 11/2001 to 03/2002 16 9 S21P, R50G, E83K, A131T, L183H, S186G, V202I, W222R, G225D\n2 Europe 11/2001 to 03/2002 17 8 Same as group 1 but without A131T\n3 Asia 04/2002 to 08/2002 58 12 Same as group 1 plus L25I, H75Q, and H155T\n4 Europe 11/2002 to 05/2003 28 13 Same as group 1 plus L25I, H75Q, H155T, and Q156H\n5 Asia 11/2002 to 05/2003 27 13 Same as group 1 plus L25I, H75Q, H155T, and Q156H\na\nCompared with the HA1 sequence of A/Panama/2007/99.",
+        "wordProcessed": "Same",
+        "senseFoundByLesk": "the language of nomadic Lapps in northern Scandinavia and the Kola Peninsula"
+    },
+    {
+        "id": 88,
+        "sentence": "of amino\nacid changes\ndetectedb\nChanges in amino acid residuesb\n1 Asia 11/2001 to 03/2002 16 9 S21P, R50G, E83K, A131T, L183H, S186G, V202I, W222R, G225D\n2 Europe 11/2001 to 03/2002 17 8 Same as group 1 but without A131T\n3 Asia 04/2002 to 08/2002 58 12 Same as group 1 plus L25I, H75Q, and H155T\n4 Europe 11/2002 to 05/2003 28 13 Same as group 1 plus L25I, H75Q, H155T, and Q156H\n5 Asia 11/2002 to 05/2003 27 13 Same as group 1 plus L25I, H75Q, H155T, and Q156H\na\nCompared with the HA1 sequence of A/Panama/2007/99.",
+        "wordProcessed": "Asia",
+        "senseFoundByLesk": "the largest continent with 60% of the earth's population; it is joined to Europe on the west to form Eurasia; it is the site of some of the world's earliest civilizations"
+    },
+    {
+        "id": 89,
+        "sentence": "of amino\nacid changes\ndetectedb\nChanges in amino acid residuesb\n1 Asia 11/2001 to 03/2002 16 9 S21P, R50G, E83K, A131T, L183H, S186G, V202I, W222R, G225D\n2 Europe 11/2001 to 03/2002 17 8 Same as group 1 but without A131T\n3 Asia 04/2002 to 08/2002 58 12 Same as group 1 plus L25I, H75Q, and H155T\n4 Europe 11/2002 to 05/2003 28 13 Same as group 1 plus L25I, H75Q, H155T, and Q156H\n5 Asia 11/2002 to 05/2003 27 13 Same as group 1 plus L25I, H75Q, H155T, and Q156H\na\nCompared with the HA1 sequence of A/Panama/2007/99.",
+        "wordProcessed": "Same",
+        "senseFoundByLesk": "the language of nomadic Lapps in northern Scandinavia and the Kola Peninsula"
+    },
+    {
+        "id": 90,
+        "sentence": "of amino\nacid changes\ndetectedb\nChanges in amino acid residuesb\n1 Asia 11/2001 to 03/2002 16 9 S21P, R50G, E83K, A131T, L183H, S186G, V202I, W222R, G225D\n2 Europe 11/2001 to 03/2002 17 8 Same as group 1 but without A131T\n3 Asia 04/2002 to 08/2002 58 12 Same as group 1 plus L25I, H75Q, and H155T\n4 Europe 11/2002 to 05/2003 28 13 Same as group 1 plus L25I, H75Q, H155T, and Q156H\n5 Asia 11/2002 to 05/2003 27 13 Same as group 1 plus L25I, H75Q, H155T, and Q156H\na\nCompared with the HA1 sequence of A/Panama/2007/99.",
+        "wordProcessed": "Europe",
+        "senseFoundByLesk": "the 2nd smallest continent (actually a vast peninsula of Eurasia); the British use `Europe' to refer to all of the continent except the British Isles"
+    },
+    {
+        "id": 91,
+        "sentence": "of amino\nacid changes\ndetectedb\nChanges in amino acid residuesb\n1 Asia 11/2001 to 03/2002 16 9 S21P, R50G, E83K, A131T, L183H, S186G, V202I, W222R, G225D\n2 Europe 11/2001 to 03/2002 17 8 Same as group 1 but without A131T\n3 Asia 04/2002 to 08/2002 58 12 Same as group 1 plus L25I, H75Q, and H155T\n4 Europe 11/2002 to 05/2003 28 13 Same as group 1 plus L25I, H75Q, H155T, and Q156H\n5 Asia 11/2002 to 05/2003 27 13 Same as group 1 plus L25I, H75Q, H155T, and Q156H\na\nCompared with the HA1 sequence of A/Panama/2007/99.",
+        "wordProcessed": "Same",
+        "senseFoundByLesk": "the language of nomadic Lapps in northern Scandinavia and the Kola Peninsula"
+    },
+    {
+        "id": 92,
+        "sentence": "of amino\nacid changes\ndetectedb\nChanges in amino acid residuesb\n1 Asia 11/2001 to 03/2002 16 9 S21P, R50G, E83K, A131T, L183H, S186G, V202I, W222R, G225D\n2 Europe 11/2001 to 03/2002 17 8 Same as group 1 but without A131T\n3 Asia 04/2002 to 08/2002 58 12 Same as group 1 plus L25I, H75Q, and H155T\n4 Europe 11/2002 to 05/2003 28 13 Same as group 1 plus L25I, H75Q, H155T, and Q156H\n5 Asia 11/2002 to 05/2003 27 13 Same as group 1 plus L25I, H75Q, H155T, and Q156H\na\nCompared with the HA1 sequence of A/Panama/2007/99.",
+        "wordProcessed": "Asia",
+        "senseFoundByLesk": "the largest continent with 60% of the earth's population; it is joined to Europe on the west to form Eurasia; it is the site of some of the world's earliest civilizations"
+    },
+    {
+        "id": 93,
+        "sentence": "of amino\nacid changes\ndetectedb\nChanges in amino acid residuesb\n1 Asia 11/2001 to 03/2002 16 9 S21P, R50G, E83K, A131T, L183H, S186G, V202I, W222R, G225D\n2 Europe 11/2001 to 03/2002 17 8 Same as group 1 but without A131T\n3 Asia 04/2002 to 08/2002 58 12 Same as group 1 plus L25I, H75Q, and H155T\n4 Europe 11/2002 to 05/2003 28 13 Same as group 1 plus L25I, H75Q, H155T, and Q156H\n5 Asia 11/2002 to 05/2003 27 13 Same as group 1 plus L25I, H75Q, H155T, and Q156H\na\nCompared with the HA1 sequence of A/Panama/2007/99.",
+        "wordProcessed": "Same",
+        "senseFoundByLesk": "the language of nomadic Lapps in northern Scandinavia and the Kola Peninsula"
+    },
+    {
+        "id": 94,
+        "sentence": "This\nparticular amino acid located near antigenic site B is con-\nsidered 1 of the 18 amino acids in the HA1 protein under\npositive selection and exhibiting a rapid rate of replacement\n(2).",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder"
+    },
+    {
+        "id": 95,
+        "sentence": "It is likely that these changes altered the antigenic\nproperty of the virus and facilitated the spread of A/Fujian/\n411/2002-like viruses in Asia and Europe as well as in other\nparts of the world such as South Africa (1).",
+        "wordProcessed": "Asia",
+        "senseFoundByLesk": "the largest continent with 60% of the earth's population; it is joined to Europe on the west to form Eurasia; it is the site of some of the world's earliest civilizations"
+    },
+    {
+        "id": 96,
+        "sentence": "It is likely that these changes altered the antigenic\nproperty of the virus and facilitated the spread of A/Fujian/\n411/2002-like viruses in Asia and Europe as well as in other\nparts of the world such as South Africa (1).",
+        "wordProcessed": "Europe",
+        "senseFoundByLesk": "an international organization of European countries formed after World War II to reduce trade barriers and increase cooperation among its members"
+    },
+    {
+        "id": 97,
+        "sentence": "It is likely that these changes altered the antigenic\nproperty of the virus and facilitated the spread of A/Fujian/\n411/2002-like viruses in Asia and Europe as well as in other\nparts of the world such as South Africa (1).",
+        "wordProcessed": "South",
+        "senseFoundByLesk": "a location in the southern part of a country, region, or city"
+    },
+    {
+        "id": 98,
+        "sentence": "It is likely that these changes altered the antigenic\nproperty of the virus and facilitated the spread of A/Fujian/\n411/2002-like viruses in Asia and Europe as well as in other\nparts of the world such as South Africa (1).",
+        "wordProcessed": "Africa",
+        "senseFoundByLesk": "the second largest continent; located to the south of Europe and bordered to the west by the South Atlantic and to the east by the Indian Ocean"
+    },
+    {
+        "id": 99,
+        "sentence": "Among the 13 amino acid changes in the HA1\nprotein of A/Fujian/411/2002 compared to that of A/Panama/\n2007/99, at least 7 of them were located in one of the five\nantigenic sites: R50G (site C), H75Q and E83K (site E),\nA131T (site A), and H155T, Q156H, and S186G (site B) (6).",
+        "wordProcessed": "C",
+        "senseFoundByLesk": "the speed at which light travels in a vacuum; the constancy and universality of the speed of light is recognized by defining it to be exactly 299,792,458 meters per second"
+    },
+    {
+        "id": 100,
+        "sentence": "Among the 13 amino acid changes in the HA1\nprotein of A/Fujian/411/2002 compared to that of A/Panama/\n2007/99, at least 7 of them were located in one of the five\nantigenic sites: R50G (site C), H75Q and E83K (site E),\nA131T (site A), and H155T, Q156H, and S186G (site B) (6).",
+        "wordProcessed": "E",
+        "senseFoundByLesk": "a fat-soluble vitamin that is essential for normal reproduction; an important antioxidant that neutralizes free radicals in the body"
+    },
+    {
+        "id": 101,
+        "sentence": "Among the 13 amino acid changes in the HA1\nprotein of A/Fujian/411/2002 compared to that of A/Panama/\n2007/99, at least 7 of them were located in one of the five\nantigenic sites: R50G (site C), H75Q and E83K (site E),\nA131T (site A), and H155T, Q156H, and S186G (site B) (6).",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "(physics) a unit of nuclear cross section; the effective circular area that one particle presents to another as a target for an encounter"
+    },
+    {
+        "id": 102,
+        "sentence": "Nucleotide sequence accession numbers.",
+        "wordProcessed": "Nucleotide",
+        "senseFoundByLesk": "a phosphoric ester of a nucleoside; the basic structural unit of nucleic acids (DNA or RNA)"
+    },
+    {
+        "id": 103,
+        "sentence": "We thank Giuseppe Palladino for providing wild-type influenza ref-\nerence strains and Fenglan Li and Wafa Al-Rimawi for technical\nassistance.",
+        "wordProcessed": "Li",
+        "senseFoundByLesk": "a soft silver-white univalent element of the alkali metal group; the lightest metal known; occurs in several minerals"
+    },
+    {
+        "id": 104,
+        "sentence": "Antigenic and molecular analysis of influenza A (H3N2) virus strains iso-\nlated from a localised influenza outbreak in South Africa in 2003.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 105,
+        "sentence": "Antigenic and molecular analysis of influenza A (H3N2) virus strains iso-\nlated from a localised influenza outbreak in South Africa in 2003.",
+        "wordProcessed": "South",
+        "senseFoundByLesk": "a location in the southern part of a country, region, or city"
+    },
+    {
+        "id": 106,
+        "sentence": "Antigenic and molecular analysis of influenza A (H3N2) virus strains iso-\nlated from a localised influenza outbreak in South Africa in 2003.",
+        "wordProcessed": "Africa",
+        "senseFoundByLesk": "the second largest continent; located to the south of Europe and bordered to the west by the South Atlantic and to the east by the Indian Ocean"
+    },
+    {
+        "id": 107,
+        "sentence": "J. Med.",
+        "wordProcessed": "Med",
+        "senseFoundByLesk": "a master's degree in education"
+    },
+    {
+        "id": 108,
+        "sentence": "Bush, R. M., C. A. Bender, K. Subbarao, N. J. Cox, and W. M. Fitch.",
+        "wordProcessed": "Bush",
+        "senseFoundByLesk": "vice president under Reagan and 41st President of the United States (born in 1924)"
+    },
+    {
+        "id": 109,
+        "sentence": "Bush, R. M., C. A. Bender, K. Subbarao, N. J. Cox, and W. M. Fitch.",
+        "wordProcessed": "Bender",
+        "senseFoundByLesk": "a pitch of a baseball that is thrown with spin so that its path curves as it approaches the batter"
+    },
+    {
+        "id": 110,
+        "sentence": "Bush, R. M., C. A. Bender, K. Subbarao, N. J. Cox, and W. M. Fitch.",
+        "wordProcessed": "Cox",
+        "senseFoundByLesk": "either of two related enzymes that control the production of prostaglandins and are blocked by aspirin"
+    },
+    {
+        "id": 111,
+        "sentence": "Bush, R. M., C. A. Bender, K. Subbarao, N. J. Cox, and W. M. Fitch.",
+        "wordProcessed": "Fitch",
+        "senseFoundByLesk": "dark brown mustelid of woodlands of Eurasia that gives off an unpleasant odor when threatened"
+    },
+    {
+        "id": 112,
+        "sentence": "Predicting the evolution of human influenza A.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "any of several fat-soluble vitamins essential for normal vision; prevents night blindness or inflammation or dryness of the eyes"
+    },
+    {
+        "id": 113,
+        "sentence": "Centers for Disease Control and Prevention.",
+        "wordProcessed": "Disease",
+        "senseFoundByLesk": "an impairment of health or a condition of abnormal functioning"
+    },
+    {
+        "id": 114,
+        "sentence": "Centers for Disease Control and Prevention.",
+        "wordProcessed": "Control",
+        "senseFoundByLesk": "discipline in personal and social activities"
+    },
+    {
+        "id": 115,
+        "sentence": "Centers for Disease Control and Prevention.",
+        "wordProcessed": "Prevention",
+        "senseFoundByLesk": "the act of preventing"
+    },
+    {
+        "id": 116,
+        "sentence": "Information for the Vaccines\nand Related Biological Products Advisory Committee, CBER, FDA.",
+        "wordProcessed": "Products",
+        "senseFoundByLesk": "commodities offered for sale"
+    },
+    {
+        "id": 117,
+        "sentence": "Information for the Vaccines\nand Related Biological Products Advisory Committee, CBER, FDA.",
+        "wordProcessed": "Advisory",
+        "senseFoundByLesk": "an announcement that usually advises or warns the public of some threat"
+    },
+    {
+        "id": 118,
+        "sentence": "Information for the Vaccines\nand Related Biological Products Advisory Committee, CBER, FDA.",
+        "wordProcessed": "Committee",
+        "senseFoundByLesk": "a self-constituted organization to promote something"
+    },
+    {
+        "id": 119,
+        "sentence": "Information for the Vaccines\nand Related Biological Products Advisory Committee, CBER, FDA.",
+        "wordProcessed": "FDA",
+        "senseFoundByLesk": "a federal agency in the Department of Health and Human Services established to regulate the release of new foods and health-related products"
+    },
+    {
+        "id": 120,
+        "sentence": "Chi, X. S., T. V. Bolar, P. Zhao, R. Rappaport, and S. M. Cheng.",
+        "wordProcessed": "Chi",
+        "senseFoundByLesk": "the circulating life energy that in Chinese philosophy is thought to be inherent in all things; in traditional Chinese medicine the balance of negative and positive forms in the body is believed to be essential for good health"
+    },
+    {
+        "id": 121,
+        "sentence": "Cocirculation and evolution of two lineages of influenza B viruses in Europe\nand Israel in the 2001\u00c2\u00ad2002 season.",
+        "wordProcessed": "B",
+        "senseFoundByLesk": "a trivalent metalloid element; occurs both in a hard black crystal and in the form of a yellow or brown powder"
+    },
+    {
+        "id": 122,
+        "sentence": "Cocirculation and evolution of two lineages of influenza B viruses in Europe\nand Israel in the 2001\u00c2\u00ad2002 season.",
+        "wordProcessed": "Europe",
+        "senseFoundByLesk": "an international organization of European countries formed after World War II to reduce trade barriers and increase cooperation among its members"
+    },
+    {
+        "id": 123,
+        "sentence": "Cocirculation and evolution of two lineages of influenza B viruses in Europe\nand Israel in the 2001\u00c2\u00ad2002 season.",
+        "wordProcessed": "Israel",
+        "senseFoundByLesk": "an ancient kingdom of the Hebrew tribes at the southeastern end of the Mediterranean Sea; founded by Saul around 1025 BC and destroyed by the Assyrians in 721 BC"
+    },
+    {
+        "id": 124,
+        "sentence": "Ferguson, N. M., and R. M. Anderson.",
+        "wordProcessed": "Anderson",
+        "senseFoundByLesk": "United States physicist who studied the electronic structure of magnetic and disordered systems (1923-)"
+    },
+    {
+        "id": 125,
+        "sentence": "Med.",
+        "wordProcessed": "Med",
+        "senseFoundByLesk": "a master's degree in education"
+    },
+    {
+        "id": 126,
+        "sentence": "Lee, M. S., and J. S. Chen.",
+        "wordProcessed": "Lee",
+        "senseFoundByLesk": "United States physicist (born in China) who collaborated with Yang Chen Ning in disproving the principle of conservation of parity (born in 1926)"
+    },
+    {
+        "id": 127,
+        "sentence": "Lee, M. S., and J. S. Chen.",
+        "wordProcessed": "Chen",
+        "senseFoundByLesk": "wild goose having white adult plumage"
+    },
+    {
+        "id": 128,
+        "sentence": "Dis.",
+        "wordProcessed": "Dis",
+        "senseFoundByLesk": "god of the underworld; counterpart of Greek Pluto"
+    },
+    {
+        "id": 129,
+        "sentence": "Paget, W. J., T. J. Meerhoff, and H. Rebelo de Andrade.",
+        "wordProcessed": "Paget",
+        "senseFoundByLesk": "English pathologist who discovered the cause of trichinosis (1814-1899)"
+    },
+    {
+        "id": 130,
+        "sentence": "Heteroge-\nneous influenza activity across Europe during the winter of 2002\u00c2\u00ad2003.",
+        "wordProcessed": "Europe",
+        "senseFoundByLesk": "the nations of the European continent collectively"
+    },
+    {
+        "id": 131,
+        "sentence": "Euro.",
+        "wordProcessed": "Euro",
+        "senseFoundByLesk": "the basic monetary unit of most members of the European Union (introduced in 1999); in 2002 twelve European nations (Germany, France, Belgium, Luxembourg, the Netherlands, Italy, Spain, Portugal, Ireland, Greece, Austria, Finland) adopted the euro as their basic unit of money and abandoned their traditional currencies"
+    },
+    {
+        "id": 132,
+        "sentence": "Plotkin, J.",
+        "wordProcessed": "J",
+        "senseFoundByLesk": "a unit of electrical energy equal to the work done when a current of one ampere passes through a resistance of one ohm for one second"
+    },
+    {
+        "id": 133,
+        "sentence": "Codon bias and frequency-dependent\nselection on the hemagglutinin epitopes of influenza A virus.",
+        "wordProcessed": "Codon",
+        "senseFoundByLesk": "a specific sequence of three adjacent nucleotides on a strand of DNA or RNA that specifies the genetic code information for synthesizing a particular amino acid"
+    },
+    {
+        "id": 134,
+        "sentence": "Codon bias and frequency-dependent\nselection on the hemagglutinin epitopes of influenza A virus.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 135,
+        "sentence": "USA 100:7152\u00c2\u00ad7157.",
+        "wordProcessed": "USA",
+        "senseFoundByLesk": "the army of the United States of America; the agency that organizes and trains soldiers for land warfare"
+    },
+    {
+        "id": 136,
+        "sentence": "Plotkin, J.",
+        "wordProcessed": "J",
+        "senseFoundByLesk": "a unit of electrical energy equal to the work done when a current of one ampere passes through a resistance of one ohm for one second"
+    },
+    {
+        "id": 137,
+        "sentence": "Hemagglutinin sequence\nclusters and the antigenic evolution of influenza A virus.",
+        "wordProcessed": "A",
+        "senseFoundByLesk": "one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)"
+    },
+    {
+        "id": 138,
+        "sentence": "USA 99:6263\u00c2\u00ad6268.",
+        "wordProcessed": "USA",
+        "senseFoundByLesk": "the army of the United States of America; the agency that organizes and trains soldiers for land warfare"
+    },
+    {
+        "id": 139,
+        "sentence": "Potter, C. W. 2001.",
+        "wordProcessed": "Potter",
+        "senseFoundByLesk": "a craftsman who shapes pottery on a potter's wheel and bakes them it a kiln"
+    },
+    {
+        "id": 140,
+        "sentence": "Smith, D. J., A. S. Lapedes, J. C. de Jong, T. M. Bestebroer, G. F. Rimmel-\nzwaan, A. D. Osterhaus, and R. A. Fouchier.",
+        "wordProcessed": "Smith",
+        "senseFoundByLesk": "someone who works metal (especially by hammering it when it is hot and malleable)"
+    },
+    {
+        "id": 141,
+        "sentence": "Smith, D. J., A. S. Lapedes, J. C. de Jong, T. M. Bestebroer, G. F. Rimmel-\nzwaan, A. D. Osterhaus, and R. A. Fouchier.",
+        "wordProcessed": "Jong",
+        "senseFoundByLesk": "United States writer (born in 1942)"
+    },
+    {
+        "id": 142,
+        "sentence": "Rev.",
+        "wordProcessed": "Rev",
+        "senseFoundByLesk": "rate of revolution of a motor"
+    },
+    {
+        "id": 143,
+        "sentence": "A. Wilson, and J. J. Skehel.",
+        "wordProcessed": "Wilson",
+        "senseFoundByLesk": "28th President of the United States; led the United States in World War I and secured the formation of the League of Nations (1856-1924)"
+    },
+    {
+        "id": 144,
+        "sentence": "Wilson, I.",
+        "wordProcessed": "Wilson",
+        "senseFoundByLesk": "28th President of the United States; led the United States in World War I and secured the formation of the League of Nations (1856-1924)"
+    },
+    {
+        "id": 145,
+        "sentence": "A., and N. J. Cox.",
+        "wordProcessed": "Cox",
+        "senseFoundByLesk": "either of two related enzymes that control the production of prostaglandins and are blocked by aspirin"
+    },
+    {
+        "id": 146,
+        "sentence": "Rev.",
+        "wordProcessed": "Rev",
+        "senseFoundByLesk": "rate of revolution of a motor"
+    },
+    {
+        "id": 147,
+        "sentence": "FIG.",
+        "wordProcessed": "FIG",
+        "senseFoundByLesk": "a Libyan terrorist group organized in 1995 and aligned with al-Qaeda; seeks to radicalize the Libyan government; attempted to assassinate Qaddafi"
+    },
+    {
+        "id": 148,
+        "sentence": "6132 NOTES J. CLIN.",
+        "wordProcessed": "NOTES",
+        "senseFoundByLesk": "a promise to pay a specified amount on demand or at a certain time"
+    }
+]
