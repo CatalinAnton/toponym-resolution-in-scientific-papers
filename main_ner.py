@@ -39,6 +39,7 @@ output_sentences = list()
 # 2. getting the paragraphs #
 statistics_file_index_id = 0
 for (file_path, content) in dict_file_content.items():
+    print('Processing -> ' + str(file_path))
     # statistics
     statistics_file_index_id += 1
     statistics_total_nr_sentences = 0
@@ -48,8 +49,6 @@ for (file_path, content) in dict_file_content.items():
 
     master_dict_for_lesk = []
     master_dict_for_ner = []
-    list_of_dictionaries_word_for_ner = []
-    list_of_dictionaries_word_for_lesk = []
 
     # paragraph_list = p2_paragraph_splitter.get_paragraphs(content)
     # for paragraph in paragraph_list:
@@ -60,7 +59,10 @@ for (file_path, content) in dict_file_content.items():
     #############################
     # 3. getting the sentences #
     sentences = p3_sentence_splitter.get_sentences(paragraph)
+    sentence_index = 0
     for sentence in sentences:
+        list_of_dictionaries_word_for_ner = []
+        list_of_dictionaries_word_for_lesk = []
         index_words_added_id_for_lesk = 0
         index_words_added_id_for_ner = 0
         dict_sentence_for_lesk = {'SentenceAnalized': sentence}
@@ -115,11 +117,11 @@ for (file_path, content) in dict_file_content.items():
         master_dict_for_ner.append(dict_sentence_for_ner)
 
         statistics_nr_of_annotated_tokens += index_words_added_id_for_ner
-
+        sentence_index += 1
+        print('Finished ' + str(sentence_index) + ' sentences')
         # break after classifing the first 300 words
-        if statistics_nr_of_annotated_tokens >= 300:
-            break
-        print(statistics_nr_of_annotated_tokens)
+        # if statistics_nr_of_annotated_tokens >= 300:
+        #     break
 
     filename = p1_file_management.get_filename(file_path)
     p1_file_management.write_to_output_file_json('output_lesk/lesk_' + filename + '.json', master_dict_for_lesk)
@@ -141,5 +143,6 @@ for (file_path, content) in dict_file_content.items():
     p1_file_management.write_to_output_file_json('output_statistics/statistics_' + filename + '.json',
                                                  dict_master_statistics)
 
+    print('Finished -> ' + str(file_path))
     # break after reading the first file -> just for testing ;)
     break
