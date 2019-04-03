@@ -1,6 +1,7 @@
 from nltk.wsd import lesk
 from utils.get_set_of_words_from_sentence import *
 
+
 # function returns None if a sense has not been found
 # e.g. for the owrd 'Clin' or 'J' no sense will be found
 def lesk_algorithm(word, sentence):
