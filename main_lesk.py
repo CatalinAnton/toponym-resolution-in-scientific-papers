@@ -102,9 +102,6 @@ print("nr sentences", nr_sentences)
 print("tokens with no punctuation", simple_tokens)
 print("all tokens", all_tokens)
 
-
-
-
 # tagged = p4_tokenizer.get_tokens("Mars is a hostile planet.")
 # pos_tagged = p5_pos_tagger.pos_tag(tagged)
 #
