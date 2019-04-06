@@ -1,9 +1,5 @@
 from textblob import TextBlob
 
-import p1_file_management
-import p3_sentence_splitter
-
-
 def sentiment_alg(text_list):
     c_pos = 0
     c_neg = 0
@@ -25,15 +21,3 @@ def sentiment_alg(text_list):
     print("negatives:", c_neg)
     print("neutrals:", c_neut)
     return c_pos, c_neg, c_neut
-
-
-sentiment_alg(["I love hamburgers", "Paris is in France"])
-
-files = p1_file_management.get_file_list(p1_file_management.resource_location)
-dict_file_content = p1_file_management.get_dictionary_file_content(files)
-
-test_input = open('../resources/txt/1731092.txt')
-test_input = test_input.read()
-sentences = p3_sentence_splitter.get_sentences(test_input)
-
-sentiment_alg(sentences)

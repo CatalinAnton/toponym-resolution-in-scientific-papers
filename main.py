@@ -17,6 +17,7 @@ import p4_tokenizer
 import p5_pos_tagger
 import p6_nnp_filter
 import w5_lesk_algorithm
+import w7_sentiments_analysis
 import utils
 
 # nltk.download('punkt')
@@ -25,8 +26,6 @@ import utils
 NERtagger = StanfordNERTagger(stanford_classifier,
                               stanford_ner_path,
                               encoding='utf-8')
-
-master_list_of_dicitionaries_statistics = []
 
 list_of_dictionaries_word_for_lesk = []
 ########################
@@ -99,7 +98,7 @@ for (file_path, content) in dict_file_content.items():
                             index_words_added_id_for_lesk += 1
             # end of w5
 
-            ###############################
+            ################################
             # W6. Named-entity recognition #
             classified_text_list = NERtagger.tag(sentence_tokenized)
             # print(classified_text_list)
@@ -123,6 +122,10 @@ for (file_path, content) in dict_file_content.items():
         # if statistics_nr_of_annotated_tokens >= 300:
         #     break
 
+    ##########################
+    # W7. Sentiment analysis #
+    c_pos, c_neg, c_neut = w7_sentiments_analysis.sentiment_alg(sentences)
+
     filename = p1_file_management.get_filename(file_path)
     p1_file_management.write_to_output_file_json('output_lesk/lesk_' + filename + '.json', master_dict_for_lesk)
 
@@ -136,8 +139,10 @@ for (file_path, content) in dict_file_content.items():
                               'NrOfTokensExcludingPunctuation': statistics_tokens_excluding_punctuation,
                               'NrOfAnnotatedTokens': statistics_nr_of_annotated_tokens,
                               'NrOfTokensUnderAtLeastOneRelation': '',
-                              'NrOfTokensUnderAllRelations': ''}
-    master_list_of_dicitionaries_statistics.append(dict_word)
+                              'NrOfTokensUnderAllRelations': '',
+                              'NrOfPositiveSentiments': c_pos,
+                              'NrOfNegativeSentiments': c_neg,
+                              'NrOfNeutralSentiments': c_neut}
 
     filename = p1_file_management.get_filename(file_path)
     p1_file_management.write_to_output_file_json('output_statistics/statistics_' + filename + '.json',

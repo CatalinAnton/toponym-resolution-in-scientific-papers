@@ -1,16 +1,12 @@
 {
-  "FileId": 1,
-  "NrOfSentences": 500,
-  "NrOfTokensIncludingPunctuation": 8230,
-  "NrOfTokensExcludingPunctuation": 7628,
-  "NrOfAnnotatedTokens": 6111,
-  "NrOfTokensUnderAtLeastOneRelation": "",
-  "NrOfTokensUnderAllRelations": "",
-  "NrOfPositiveSentiments": 96,
-  "NrOfNegativeSentiments": 36,
-  "NrOfNeutralSentiments": 494
+    "FileId": 1,
+    "NrOfSentences": 500,
+    "NrOfTokensIncludingPunctuation": 8230,
+    "NrOfTokensExcludingPunctuation": 7628,
+    "NrOfAnnotatedTokens": 6111,
+    "NrOfTokensUnderAtLeastOneRelation": "",
+    "NrOfTokensUnderAllRelations": "",
+    "NrOfPositiveSentiments": 66,
+    "NrOfNegativeSentiments": 57,
+    "NrOfNeutralSentiments": 377
 }
-
-
-
-
