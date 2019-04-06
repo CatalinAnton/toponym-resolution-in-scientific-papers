@@ -4,9 +4,11 @@
     "NrOfTokensIncludingPunctuation": 8230,
     "NrOfTokensExcludingPunctuation": 7628,
     "NrOfAnnotatedTokens": 6111,
-    "NrOfTokensUnderAtLeastOneRelation": "",
-    "NrOfTokensUnderAllRelations": "",
-    "NrOfPositiveSentiments": 66,
-    "NrOfNegativeSentiments": 57,
-    "NrOfNeutralSentiments": 377
+    "#Location": 16,
+    "#Person": 300,
+    "#Organization": 94,
+    "#Money": 2,
+    "#Percent": 14,
+    "#Date": 22,
+    "#Time": 0
 }

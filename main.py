@@ -46,6 +46,14 @@ for (file_path, content) in dict_file_content.items():
     statistics_tokens_excluding_punctuation = len(utils.get_set_of_words_from_sentence(content))
     statistics_nr_of_annotated_tokens = 0
 
+    statistics_nr_entities_location = 0
+    statistics_nr_entities_person = 0
+    statistics_nr_entities_organization = 0
+    statistics_nr_entities_money = 0
+    statistics_nr_entities_percent = 0
+    statistics_nr_entities_date = 0
+    statistics_nr_entities_time = 0
+
     master_dict_for_lesk = []
     master_dict_for_ner = []
 
@@ -67,6 +75,7 @@ for (file_path, content) in dict_file_content.items():
         dict_sentence_for_lesk = {'SentenceAnalized': sentence}
         dict_sentence_for_ner = {'SentenceAnalized': sentence}
         statistics_total_nr_sentences += 1
+
         ###################
         # 4. tokenization #
         sentence_tokenized = p4_tokenizer.get_tokens(sentence)
@@ -106,6 +115,20 @@ for (file_path, content) in dict_file_content.items():
                 dict_word = {'WordId': index_words_added_id_for_ner,
                              'Word': element[0],
                              'ClassModel': element[1]}
+                if element[1] == 'LOCATION':
+                    statistics_nr_entities_location += 1
+                elif element[1] == 'PERSON':
+                    statistics_nr_entities_person += 1
+                elif element[1] == 'ORGANIZATION':
+                    statistics_nr_entities_organization += 1
+                elif element[1] == 'MONEY':
+                    statistics_nr_entities_money += 1
+                elif element[1] == 'PERCENT':
+                    statistics_nr_entities_percent += 1
+                elif element[1] == 'DATE':
+                    statistics_nr_entities_date += 1
+                elif element[1] == 'TIME':
+                    statistics_nr_entities_time += 1
                 list_of_dictionaries_word_for_ner.append(dict_word)
                 index_words_added_id_for_ner += 1
             # end of w6
@@ -138,8 +161,13 @@ for (file_path, content) in dict_file_content.items():
                               'NrOfTokensIncludingPunctuation': statistics_tokens_including_punctuation,
                               'NrOfTokensExcludingPunctuation': statistics_tokens_excluding_punctuation,
                               'NrOfAnnotatedTokens': statistics_nr_of_annotated_tokens,
-                              'NrOfTokensUnderAtLeastOneRelation': '',
-                              'NrOfTokensUnderAllRelations': '',
+                              '#Location': statistics_nr_entities_location,
+                              '#Person': statistics_nr_entities_person,
+                              '#Organization': statistics_nr_entities_organization,
+                              '#Money': statistics_nr_entities_money,
+                              '#Percent': statistics_nr_entities_percent,
+                              '#Date': statistics_nr_entities_date,
+                              '#Time': statistics_nr_entities_time,
                               'NrOfPositiveSentiments': c_pos,
                               'NrOfNegativeSentiments': c_neg,
                               'NrOfNeutralSentiments': c_neut}
