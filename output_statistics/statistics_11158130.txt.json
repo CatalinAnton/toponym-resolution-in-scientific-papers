@@ -10,5 +10,8 @@
     "#Money": 2,
     "#Percent": 14,
     "#Date": 22,
-    "#Time": 0
+    "#Time": 0,
+    "NrOfPositiveSentiments": 66,
+    "NrOfNegativeSentiments": 57,
+    "NrOfNeutralSentiments": 377
 }
