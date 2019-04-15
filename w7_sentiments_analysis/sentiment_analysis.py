@@ -7,17 +7,17 @@ def sentiment_alg(text_list):
     for text in text_list:
         # print(text.text)
         analysis = TextBlob(text)
-        print(analysis.sentiment)
+        # print(analysis.sentiment)
         if analysis.sentiment[0] > 0:
-            print("Positive")
+            # print("Positive")
             c_pos += 1
         elif analysis.sentiment[0] < 0:
-            print("Negative")
+            # print("Negative")
             c_neg += 1
         else:
-            print("Neutral")
+            # print("Neutral")
             c_neut += 1
-    print("positives:", c_pos)
-    print("negatives:", c_neg)
-    print("neutrals:", c_neut)
+    # print("positives:", c_pos)
+    # print("negatives:", c_neg)
+    # print("neutrals:", c_neut)
     return c_pos, c_neg, c_neut
