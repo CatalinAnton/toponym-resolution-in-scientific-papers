@@ -33,11 +33,11 @@ def resolve_output(corenlp_output):
     return output_text
 
 
-def get_proccessed_text(text):
+def get_processed_text(text):
     output = nlp.annotate(text, properties={'annotators': 'dcoref', 'outputFormat': 'json', 'ner.useSUTime': 'false'})
     resolve(output)
     return resolve_output(output)
 
 
-# get_proccessed_text("Tom and Jane are good friends. They are cool. He knows a lot of things and so does she. His car is red, but " \
+# get_processed_text("Tom and Jane are good friends. They are cool. He knows a lot of things and so does she. His car is red, but " \
 #    "hers is blue. It is older than hers. The big cat ate its dinner.")

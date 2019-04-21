@@ -1,0 +1,505 @@
+[
+    {
+        "SentenceAnalized": "Susan dropped the plate.",
+        "Words": [
+            {
+                "WordId": 0,
+                "Word": "Susan",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 1,
+                "Word": "dropped",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 2,
+                "Word": "the",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 3,
+                "Word": "plate",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 4,
+                "Word": ".",
+                "ClassModel": "O"
+            }
+        ]
+    },
+    {
+        "SentenceAnalized": "It shattered loudly.",
+        "Words": []
+    },
+    {
+        "SentenceAnalized": "The music stopped, and that upset everyone.",
+        "Words": []
+    },
+    {
+        "SentenceAnalized": "Tom and Jane are good friends.",
+        "Words": [
+            {
+                "WordId": 0,
+                "Word": "Tom",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 1,
+                "Word": "and",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 2,
+                "Word": "Jane",
+                "ClassModel": "PERSON"
+            },
+            {
+                "WordId": 3,
+                "Word": "are",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 4,
+                "Word": "good",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 5,
+                "Word": "friends",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 6,
+                "Word": ".",
+                "ClassModel": "O"
+            }
+        ]
+    },
+    {
+        "SentenceAnalized": "They are cool.",
+        "Words": []
+    },
+    {
+        "SentenceAnalized": "He knows a lot of things and so does she.",
+        "Words": []
+    },
+    {
+        "SentenceAnalized": "His car is red, but hers is blue.",
+        "Words": []
+    },
+    {
+        "SentenceAnalized": "It is older than hers.",
+        "Words": []
+    },
+    {
+        "SentenceAnalized": "The big cat ate its dinner.",
+        "Words": []
+    },
+    {
+        "SentenceAnalized": "Because he was very cold, David put on his coat.",
+        "Words": [
+            {
+                "WordId": 0,
+                "Word": "Because",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 1,
+                "Word": "he",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 2,
+                "Word": "was",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 3,
+                "Word": "very",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 4,
+                "Word": "cold",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 5,
+                "Word": ",",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 6,
+                "Word": "David",
+                "ClassModel": "PERSON"
+            },
+            {
+                "WordId": 7,
+                "Word": "put",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 8,
+                "Word": "on",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 9,
+                "Word": "his",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 10,
+                "Word": "coat",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 11,
+                "Word": ".",
+                "ClassModel": "O"
+            }
+        ]
+    },
+    {
+        "SentenceAnalized": "His friends have been criticizing Jim for exaggerating.",
+        "Words": [
+            {
+                "WordId": 0,
+                "Word": "His",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 1,
+                "Word": "friends",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 2,
+                "Word": "have",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 3,
+                "Word": "been",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 4,
+                "Word": "criticizing",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 5,
+                "Word": "Jim",
+                "ClassModel": "PERSON"
+            },
+            {
+                "WordId": 6,
+                "Word": "for",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 7,
+                "Word": "exaggerating",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 8,
+                "Word": ".",
+                "ClassModel": "O"
+            }
+        ]
+    },
+    {
+        "SentenceAnalized": "Although Sam might do so, I will not buy a new bike.",
+        "Words": [
+            {
+                "WordId": 0,
+                "Word": "Although",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 1,
+                "Word": "Sam",
+                "ClassModel": "PERSON"
+            },
+            {
+                "WordId": 2,
+                "Word": "might",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 3,
+                "Word": "do",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 4,
+                "Word": "so",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 5,
+                "Word": ",",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 6,
+                "Word": "I",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 7,
+                "Word": "will",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 8,
+                "Word": "not",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 9,
+                "Word": "buy",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 10,
+                "Word": "a",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 11,
+                "Word": "new",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 12,
+                "Word": "bike",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 13,
+                "Word": ".",
+                "ClassModel": "O"
+            }
+        ]
+    },
+    {
+        "SentenceAnalized": "In their free time, the kids play video games.",
+        "Words": []
+    },
+    {
+        "SentenceAnalized": "You and I are best friends since 2005.",
+        "Words": []
+    },
+    {
+        "SentenceAnalized": "We should go to California.",
+        "Words": [
+            {
+                "WordId": 0,
+                "Word": "We",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 1,
+                "Word": "should",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 2,
+                "Word": "go",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 3,
+                "Word": "to",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 4,
+                "Word": "California",
+                "ClassModel": "LOCATION"
+            },
+            {
+                "WordId": 5,
+                "Word": ".",
+                "ClassModel": "O"
+            }
+        ]
+    },
+    {
+        "SentenceAnalized": "It is a nice place.",
+        "Words": []
+    },
+    {
+        "SentenceAnalized": "That is a nice place.",
+        "Words": []
+    },
+    {
+        "SentenceAnalized": "We should go there sometime.",
+        "Words": []
+    },
+    {
+        "SentenceAnalized": "Los Angeles is the first city we should visit.",
+        "Words": [
+            {
+                "WordId": 0,
+                "Word": "Los",
+                "ClassModel": "LOCATION"
+            },
+            {
+                "WordId": 1,
+                "Word": "Angeles",
+                "ClassModel": "LOCATION"
+            },
+            {
+                "WordId": 2,
+                "Word": "is",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 3,
+                "Word": "the",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 4,
+                "Word": "first",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 5,
+                "Word": "city",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 6,
+                "Word": "we",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 7,
+                "Word": "should",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 8,
+                "Word": "visit",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 9,
+                "Word": ".",
+                "ClassModel": "O"
+            }
+        ]
+    },
+    {
+        "SentenceAnalized": "I heard it is nice.",
+        "Words": []
+    },
+    {
+        "SentenceAnalized": "Then we should visit San Diego.",
+        "Words": [
+            {
+                "WordId": 0,
+                "Word": "Then",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 1,
+                "Word": "we",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 2,
+                "Word": "should",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 3,
+                "Word": "visit",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 4,
+                "Word": "San",
+                "ClassModel": "LOCATION"
+            },
+            {
+                "WordId": 5,
+                "Word": "Diego",
+                "ClassModel": "LOCATION"
+            },
+            {
+                "WordId": 6,
+                "Word": ".",
+                "ClassModel": "O"
+            }
+        ]
+    },
+    {
+        "SentenceAnalized": "It has many nice restaurants.",
+        "Words": []
+    },
+    {
+        "SentenceAnalized": "Those places have tasty food.",
+        "Words": []
+    },
+    {
+        "SentenceAnalized": "Then up we go to New York.",
+        "Words": [
+            {
+                "WordId": 0,
+                "Word": "Then",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 1,
+                "Word": "up",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 2,
+                "Word": "we",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 3,
+                "Word": "go",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 4,
+                "Word": "to",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 5,
+                "Word": "New",
+                "ClassModel": "LOCATION"
+            },
+            {
+                "WordId": 6,
+                "Word": "York",
+                "ClassModel": "LOCATION"
+            },
+            {
+                "WordId": 7,
+                "Word": ".",
+                "ClassModel": "O"
+            }
+        ]
+    },
+    {
+        "SentenceAnalized": "You will like it there.",
+        "Words": []
+    },
+    {
+        "SentenceAnalized": "It is known as the city that never sleeps.",
+        "Words": []
+    }
+]

@@ -1,5 +1,5 @@
 # RUN THIS BEFORE STARTING THE APPLICATION
-# cd C:\stanford-ner-2018-10-16
+# cd stanford-corenlp-full-2018-10-05
 # java -mx4g -cp "*;stanford-corenlp-full-2017-06-09/*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -port 9000 -timeout 15000
 
 import os
@@ -43,7 +43,7 @@ output_sentences = list()
 # 2. getting the paragraphs #
 statistics_file_index_id = 0
 for (file_path, content) in dict_file_content.items():
-    # content = w9_anaphora_resolution.get_proccessed_text(content)
+    # content = w9_anaphora_resolution.get_processed_text(content)
     # print(content)
 
     print('Processing -> ' + str(file_path))
@@ -77,14 +77,16 @@ for (file_path, content) in dict_file_content.items():
 
     ###########################
     # W9. anaphora resolution #
+    print('[Anaphora resolution] Initial text')
+    for sentence in sentences:
+        print(sentence)
+    print()
     for sentence_index in range(0, len(sentences)):
         sentence_group_list = sentences[sentence_index: sentence_index + 5]  # RANGE
-        print("Grup initial", sentence_group_list)
         sentence_group_string = ''
         for sentence_item in sentence_group_list:
             sentence_group_string += ' ' + sentence_item
-        print("Group string", sentence_group_string)
-        processed_sentence_group_string = w9_anaphora_resolution.get_proccessed_text(sentence_group_string)
+        processed_sentence_group_string = w9_anaphora_resolution.get_processed_text(sentence_group_string)
         processed_sentence_group_list = p3_sentence_splitter.get_sentences(processed_sentence_group_string)
 
         for processed_item_index in range(0, len(processed_sentence_group_list)):
@@ -92,8 +94,11 @@ for (file_path, content) in dict_file_content.items():
             sentences[sentence_index + processed_item_index] = processed_item
 
         sentence_group_list = sentences[sentence_index: sentence_index + 5]
-        print("Grup final", sentence_group_list, "\n")
-    print(sentences)
+    print('[Anaphora resolution] Processed text')
+    for sentence in sentences:
+        print(sentence)
+    print()
+
     sentence_index = 0
     for sentence in sentences:
         list_of_dictionaries_word_for_ner = []
