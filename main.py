@@ -22,7 +22,6 @@ import p5_pos_tagger
 import p6_nnp_filter
 import w5_lesk_algorithm
 import w7_sentiments_analysis
-import w9_anaphora_resolution
 import utils
 
 # nltk.download('punkt')
@@ -74,30 +73,6 @@ for (file_path, content) in dict_file_content.items():
     #############################
     # 3. getting the sentences #
     sentences = p3_sentence_splitter.get_sentences(paragraph)
-
-    ###########################
-    # W9. anaphora resolution #
-    print('[Anaphora resolution] Initial text')
-    for sentence in sentences:
-        print(sentence)
-    print()
-    for sentence_index in range(0, len(sentences)):
-        sentence_group_list = sentences[sentence_index: sentence_index + 5]  # RANGE
-        sentence_group_string = ''
-        for sentence_item in sentence_group_list:
-            sentence_group_string += ' ' + sentence_item
-        processed_sentence_group_string = w9_anaphora_resolution.get_processed_text(sentence_group_string)
-        processed_sentence_group_list = p3_sentence_splitter.get_sentences(processed_sentence_group_string)
-
-        for processed_item_index in range(0, len(processed_sentence_group_list)):
-            processed_item = processed_sentence_group_list[processed_item_index]
-            sentences[sentence_index + processed_item_index] = processed_item
-
-        sentence_group_list = sentences[sentence_index: sentence_index + 5]
-    print('[Anaphora resolution] Processed text')
-    for sentence in sentences:
-        print(sentence)
-    print()
 
     sentence_index = 0
     for sentence in sentences:

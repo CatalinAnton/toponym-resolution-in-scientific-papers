@@ -1,10 +1,35 @@
 [
     {
+        "SentenceAnalized": "I read about the life of Prince Paris last week.",
+        "Words": [
+            {
+                "WordId": 0,
+                "Word": "Prince",
+                "SenseFoundByLesk": "a male member of a royal family other than the sovereign (especially the son of a sovereign)"
+            },
+            {
+                "WordId": 1,
+                "Word": "Paris",
+                "SenseFoundByLesk": "(Greek mythology) the prince of Troy who abducted Helen from her husband Menelaus and provoked the Trojan War"
+            }
+        ]
+    },
+    {
+        "SentenceAnalized": "I have been to Paris last week.",
+        "Words": [
+            {
+                "WordId": 0,
+                "Word": "Paris",
+                "SenseFoundByLesk": "a town in northeastern Texas"
+            }
+        ]
+    },
+    {
         "SentenceAnalized": "Susan dropped the plate.",
         "Words": []
     },
     {
-        "SentenceAnalized": "It shattered loudly.",
+        "SentenceAnalized": "the plate shattered loudly.",
         "Words": []
     },
     {
@@ -22,27 +47,57 @@
         ]
     },
     {
-        "SentenceAnalized": "They are cool.",
-        "Words": []
+        "SentenceAnalized": "Tom and Jane are cool.",
+        "Words": [
+            {
+                "WordId": 0,
+                "Word": "Tom",
+                "SenseFoundByLesk": "(ethnic slur) offensive and derogatory name for a Black man who is abjectly servile and deferential to Whites"
+            }
+        ]
     },
     {
-        "SentenceAnalized": "He knows a lot of things and so does she.",
-        "Words": []
+        "SentenceAnalized": "Tom knows a lot of things and so does Jane.",
+        "Words": [
+            {
+                "WordId": 0,
+                "Word": "Tom",
+                "SenseFoundByLesk": "(ethnic slur) offensive and derogatory name for a Black man who is abjectly servile and deferential to Whites"
+            }
+        ]
     },
     {
-        "SentenceAnalized": "His car is red, but hers is blue.",
-        "Words": []
+        "SentenceAnalized": "Tom's car is red, but Jane's is blue.",
+        "Words": [
+            {
+                "WordId": 0,
+                "Word": "Tom",
+                "SenseFoundByLesk": "(ethnic slur) offensive and derogatory name for a Black man who is abjectly servile and deferential to Whites"
+            }
+        ]
     },
     {
-        "SentenceAnalized": "It is older than hers.",
-        "Words": []
+        "SentenceAnalized": "Tom 's car is older than Jane's.",
+        "Words": [
+            {
+                "WordId": 0,
+                "Word": "Tom",
+                "SenseFoundByLesk": "(ethnic slur) offensive and derogatory name for a Black man who is abjectly servile and deferential to Whites"
+            }
+        ]
     },
     {
-        "SentenceAnalized": "The big cat ate its dinner.",
-        "Words": []
+        "SentenceAnalized": "The big cat ate Tom 's car's dinner.",
+        "Words": [
+            {
+                "WordId": 0,
+                "Word": "Tom",
+                "SenseFoundByLesk": "male cat"
+            }
+        ]
     },
     {
-        "SentenceAnalized": "Because he was very cold, David put on his coat.",
+        "SentenceAnalized": "Because The big cat was very cold, David put on The big cat's coat.",
         "Words": [
             {
                 "WordId": 0,
@@ -52,7 +107,7 @@
         ]
     },
     {
-        "SentenceAnalized": "His friends have been criticizing Jim for exaggerating.",
+        "SentenceAnalized": "The big cat's friends have been criticizing Jim for exaggerating.",
         "Words": []
     },
     {
@@ -66,7 +121,7 @@
         ]
     },
     {
-        "SentenceAnalized": "In their free time, the kids play video games.",
+        "SentenceAnalized": "In The big cat 's friends's free time, the kids play video games.",
         "Words": []
     },
     {
@@ -84,31 +139,43 @@
         ]
     },
     {
-        "SentenceAnalized": "It is a nice place.",
-        "Words": []
+        "SentenceAnalized": "California is a nice place.",
+        "Words": [
+            {
+                "WordId": 0,
+                "Word": "California",
+                "SenseFoundByLesk": "a state in the western United States on the Pacific; the 3rd largest state; known for earthquakes"
+            }
+        ]
     },
     {
-        "SentenceAnalized": "That is a nice place.",
-        "Words": []
+        "SentenceAnalized": "California is a nice place.",
+        "Words": [
+            {
+                "WordId": 0,
+                "Word": "California",
+                "SenseFoundByLesk": "a state in the western United States on the Pacific; the 3rd largest state; known for earthquakes"
+            }
+        ]
     },
     {
         "SentenceAnalized": "We should go there sometime.",
         "Words": []
     },
     {
-        "SentenceAnalized": "Los Angeles is the first city we should visit.",
+        "SentenceAnalized": "Los Angeles is the first city We should visit.",
         "Words": []
     },
     {
-        "SentenceAnalized": "I heard it is nice.",
+        "SentenceAnalized": "I heard Los Angeles is nice.",
         "Words": []
     },
     {
-        "SentenceAnalized": "Then we should visit San Diego.",
+        "SentenceAnalized": "Then We should visit San Diego.",
         "Words": []
     },
     {
-        "SentenceAnalized": "It has many nice restaurants.",
+        "SentenceAnalized": "Los Angeles has many nice restaurants.",
         "Words": []
     },
     {
@@ -116,7 +183,7 @@
         "Words": []
     },
     {
-        "SentenceAnalized": "Then up we go to New York.",
+        "SentenceAnalized": "Then up We go to New York.",
         "Words": [
             {
                 "WordId": 0,
@@ -126,11 +193,11 @@
         ]
     },
     {
-        "SentenceAnalized": "You will like it there.",
+        "SentenceAnalized": "You will like Los Angeles there.",
         "Words": []
     },
     {
-        "SentenceAnalized": "It is known as the city that never sleeps.",
+        "SentenceAnalized": "Los Angeles is known as the city that never sleeps.",
         "Words": []
     }
 ]

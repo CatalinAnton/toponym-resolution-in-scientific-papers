@@ -1,17 +1,17 @@
 {
     "FileId": 1,
-    "NrOfSentences": 26,
-    "NrOfTokensIncludingPunctuation": 201,
-    "NrOfTokensExcludingPunctuation": 170,
-    "NrOfAnnotatedTokens": 78,
-    "#Location": 7,
-    "#Person": 4,
+    "NrOfSentences": 28,
+    "NrOfTokensIncludingPunctuation": 248,
+    "NrOfTokensExcludingPunctuation": 187,
+    "NrOfAnnotatedTokens": 197,
+    "#Location": 19,
+    "#Person": 9,
     "#Organization": 0,
     "#Money": 0,
     "#Percent": 0,
-    "#Date": 0,
+    "#Date": 2,
     "#Time": 0,
     "NrOfPositiveSentiments": 13,
     "NrOfNegativeSentiments": 1,
-    "NrOfNeutralSentiments": 12
+    "NrOfNeutralSentiments": 14
 }
