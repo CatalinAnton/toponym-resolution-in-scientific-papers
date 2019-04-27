@@ -1,7 +1,7 @@
 {
     "sentences": [
         {
-            "sentece": "I read about the life of Prince Paris last week.",
+            "sentence": "I read about the life of Prince Paris last week.",
             "words": [
                 {
                     "toponymId": 0,
@@ -12,7 +12,7 @@
             ]
         },
         {
-            "sentece": "I have been to Paris last week.",
+            "sentence": "I have been to Paris last week.",
             "words": [
                 {
                     "toponymId": 1,
@@ -23,7 +23,7 @@
             ]
         },
         {
-            "sentece": "We should go to California.",
+            "sentence": "We should go to California.",
             "words": [
                 {
                     "toponymId": 2,
@@ -34,7 +34,7 @@
             ]
         },
         {
-            "sentece": "Los Angeles is the first city we should visit.",
+            "sentence": "Los Angeles is the first city we should visit.",
             "words": [
                 {
                     "toponymId": 3,
@@ -51,7 +51,7 @@
             ]
         },
         {
-            "sentece": "Then we should visit San Diego and San Jose.",
+            "sentence": "Then we should visit San Diego and San Jose.",
             "words": [
                 {
                     "toponymId": 5,
@@ -80,7 +80,7 @@
             ]
         },
         {
-            "sentece": "Then up we go to New York.",
+            "sentence": "Then up we go to New York.",
             "words": [
                 {
                     "toponymId": 9,

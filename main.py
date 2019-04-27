@@ -85,7 +85,7 @@ for (file_path, content) in dict_file_content.items():
         index_words_added_id_for_ner = 0
         dict_sentence_for_lesk = {'SentenceAnalized': sentence}
         dict_sentence_for_ner = {'SentenceAnalized': sentence}
-        dict_sentence_FINAL = {'sentece': sentence}
+        dict_sentence_FINAL = {'sentence': sentence}
         statistics_total_nr_sentences += 1
 
         ###################
