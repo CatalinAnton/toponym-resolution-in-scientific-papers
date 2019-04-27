@@ -63,6 +63,8 @@ for (file_path, content) in dict_file_content.items():
 
     master_dict_for_lesk = []
     master_dict_for_ner = []
+    master_dict_FINAL = []
+    index_toponym_added_id_FINAL = 0
 
     # paragraph_list = p2_paragraph_splitter.get_paragraphs(content)
     # for paragraph in paragraph_list:
@@ -78,10 +80,12 @@ for (file_path, content) in dict_file_content.items():
     for sentence in sentences:
         list_of_dictionaries_word_for_ner = []
         list_of_dictionaries_word_for_lesk = []
+        list_of_dictionaries_word_FINAL = []
         index_words_added_id_for_lesk = 0
         index_words_added_id_for_ner = 0
         dict_sentence_for_lesk = {'SentenceAnalized': sentence}
         dict_sentence_for_ner = {'SentenceAnalized': sentence}
+        dict_sentence_FINAL = {'sentece': sentence}
         statistics_total_nr_sentences += 1
 
         ###################
@@ -141,10 +145,24 @@ for (file_path, content) in dict_file_content.items():
                 index_words_added_id_for_ner += 1
             # end of w6
 
+            ##################
+            # W10. Validator #
+            for element in classified_text_list:
+                if element[1] == 'LOCATION':
+                    dict_word = {'toponymId': index_toponym_added_id_FINAL,
+                                 'toponym': element[0],
+                                 'latitude': 50,
+                                 'longitude': 120}
+                    list_of_dictionaries_word_FINAL.append(dict_word)
+                    index_toponym_added_id_FINAL += 1
+
         dict_sentence_for_lesk['Words'] = list_of_dictionaries_word_for_lesk
         master_dict_for_lesk.append(dict_sentence_for_lesk)
         dict_sentence_for_ner['Words'] = list_of_dictionaries_word_for_ner
         master_dict_for_ner.append(dict_sentence_for_ner)
+        dict_sentence_FINAL['words'] = list_of_dictionaries_word_FINAL
+        if len(dict_sentence_FINAL['words']) > 0:
+            master_dict_FINAL.append(dict_sentence_FINAL)
 
         statistics_nr_of_annotated_tokens += index_words_added_id_for_ner
         sentence_index += 1
@@ -164,7 +182,7 @@ for (file_path, content) in dict_file_content.items():
     p1_file_management.write_to_output_file_json('output_ner/ner_' + filename + '.json',
                                                  master_dict_for_ner)
 
-    dict_master_statistics = {'FileId': statistics_file_index_id,
+    master_dict_statistics = {'FileId': statistics_file_index_id,
                               'NrOfSentences': statistics_total_nr_sentences,
                               'NrOfTokensIncludingPunctuation': statistics_tokens_including_punctuation,
                               'NrOfTokensExcludingPunctuation': statistics_tokens_excluding_punctuation,
@@ -182,7 +200,11 @@ for (file_path, content) in dict_file_content.items():
 
     filename = p1_file_management.get_filename(file_path)
     p1_file_management.write_to_output_file_json('output_statistics/statistics_' + filename + '.json',
-                                                 dict_master_statistics)
+                                                 master_dict_statistics)
+
+    output_final = {'sentences': master_dict_FINAL}
+    p1_file_management.write_to_output_file_json('output_final/final_' + filename + '.json',
+                                                 output_final)
 
     print('Finished -> ' + str(file_path))
     # break after reading the first file -> just for testing ;)

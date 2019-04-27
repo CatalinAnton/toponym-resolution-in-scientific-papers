@@ -1,0 +1,100 @@
+{
+    "sentences": [
+        {
+            "sentece": "I read about the life of Prince Paris last week.",
+            "words": [
+                {
+                    "toponymId": 0,
+                    "toponym": "Paris",
+                    "latitude": 50,
+                    "longitude": 120
+                }
+            ]
+        },
+        {
+            "sentece": "I have been to Paris last week.",
+            "words": [
+                {
+                    "toponymId": 1,
+                    "toponym": "Paris",
+                    "latitude": 50,
+                    "longitude": 120
+                }
+            ]
+        },
+        {
+            "sentece": "We should go to California.",
+            "words": [
+                {
+                    "toponymId": 2,
+                    "toponym": "California",
+                    "latitude": 50,
+                    "longitude": 120
+                }
+            ]
+        },
+        {
+            "sentece": "Los Angeles is the first city we should visit.",
+            "words": [
+                {
+                    "toponymId": 3,
+                    "toponym": "Los",
+                    "latitude": 50,
+                    "longitude": 120
+                },
+                {
+                    "toponymId": 4,
+                    "toponym": "Angeles",
+                    "latitude": 50,
+                    "longitude": 120
+                }
+            ]
+        },
+        {
+            "sentece": "Then we should visit San Diego and San Jose.",
+            "words": [
+                {
+                    "toponymId": 5,
+                    "toponym": "San",
+                    "latitude": 50,
+                    "longitude": 120
+                },
+                {
+                    "toponymId": 6,
+                    "toponym": "Diego",
+                    "latitude": 50,
+                    "longitude": 120
+                },
+                {
+                    "toponymId": 7,
+                    "toponym": "San",
+                    "latitude": 50,
+                    "longitude": 120
+                },
+                {
+                    "toponymId": 8,
+                    "toponym": "Jose",
+                    "latitude": 50,
+                    "longitude": 120
+                }
+            ]
+        },
+        {
+            "sentece": "Then up we go to New York.",
+            "words": [
+                {
+                    "toponymId": 9,
+                    "toponym": "New",
+                    "latitude": 50,
+                    "longitude": 120
+                },
+                {
+                    "toponymId": 10,
+                    "toponym": "York",
+                    "latitude": 50,
+                    "longitude": 120
+                }
+            ]
+        }
+    ]
+}

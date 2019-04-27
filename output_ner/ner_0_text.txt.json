@@ -135,7 +135,7 @@
         ]
     },
     {
-        "SentenceAnalized": "the plate shattered loudly.",
+        "SentenceAnalized": "It shattered loudly.",
         "Words": []
     },
     {
@@ -183,272 +183,27 @@
         ]
     },
     {
-        "SentenceAnalized": "Tom and Jane are cool.",
-        "Words": [
-            {
-                "WordId": 0,
-                "Word": "Tom",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 1,
-                "Word": "and",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 2,
-                "Word": "Jane",
-                "ClassModel": "PERSON"
-            },
-            {
-                "WordId": 3,
-                "Word": "are",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 4,
-                "Word": "cool",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 5,
-                "Word": ".",
-                "ClassModel": "O"
-            }
-        ]
+        "SentenceAnalized": "They are cool.",
+        "Words": []
     },
     {
-        "SentenceAnalized": "Tom knows a lot of things and so does Jane.",
-        "Words": [
-            {
-                "WordId": 0,
-                "Word": "Tom",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 1,
-                "Word": "knows",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 2,
-                "Word": "a",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 3,
-                "Word": "lot",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 4,
-                "Word": "of",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 5,
-                "Word": "things",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 6,
-                "Word": "and",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 7,
-                "Word": "so",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 8,
-                "Word": "does",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 9,
-                "Word": "Jane",
-                "ClassModel": "PERSON"
-            },
-            {
-                "WordId": 10,
-                "Word": ".",
-                "ClassModel": "O"
-            }
-        ]
+        "SentenceAnalized": "He knows a lot of things and so does she.",
+        "Words": []
     },
     {
-        "SentenceAnalized": "Tom's car is red, but Jane's is blue.",
-        "Words": [
-            {
-                "WordId": 0,
-                "Word": "Tom",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 1,
-                "Word": "'s",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 2,
-                "Word": "car",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 3,
-                "Word": "is",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 4,
-                "Word": "red",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 5,
-                "Word": ",",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 6,
-                "Word": "but",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 7,
-                "Word": "Jane",
-                "ClassModel": "PERSON"
-            },
-            {
-                "WordId": 8,
-                "Word": "'s",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 9,
-                "Word": "is",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 10,
-                "Word": "blue",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 11,
-                "Word": ".",
-                "ClassModel": "O"
-            }
-        ]
+        "SentenceAnalized": "His car is red, but hers is blue.",
+        "Words": []
     },
     {
-        "SentenceAnalized": "Tom 's car is older than Jane's.",
-        "Words": [
-            {
-                "WordId": 0,
-                "Word": "Tom",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 1,
-                "Word": "'s",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 2,
-                "Word": "car",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 3,
-                "Word": "is",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 4,
-                "Word": "older",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 5,
-                "Word": "than",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 6,
-                "Word": "Jane",
-                "ClassModel": "PERSON"
-            },
-            {
-                "WordId": 7,
-                "Word": "'s",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 8,
-                "Word": ".",
-                "ClassModel": "O"
-            }
-        ]
+        "SentenceAnalized": "It is older than hers.",
+        "Words": []
     },
     {
-        "SentenceAnalized": "The big cat ate Tom 's car's dinner.",
-        "Words": [
-            {
-                "WordId": 0,
-                "Word": "The",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 1,
-                "Word": "big",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 2,
-                "Word": "cat",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 3,
-                "Word": "ate",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 4,
-                "Word": "Tom",
-                "ClassModel": "PERSON"
-            },
-            {
-                "WordId": 5,
-                "Word": "'s",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 6,
-                "Word": "car",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 7,
-                "Word": "'s",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 8,
-                "Word": "dinner",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 9,
-                "Word": ".",
-                "ClassModel": "O"
-            }
-        ]
+        "SentenceAnalized": "The big cat ate its dinner.",
+        "Words": []
     },
     {
-        "SentenceAnalized": "Because The big cat was very cold, David put on The big cat's coat.",
+        "SentenceAnalized": "Because he was very cold, David put on his coat.",
         "Words": [
             {
                 "WordId": 0,
@@ -457,146 +212,106 @@
             },
             {
                 "WordId": 1,
-                "Word": "The",
+                "Word": "he",
                 "ClassModel": "O"
             },
             {
                 "WordId": 2,
-                "Word": "big",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 3,
-                "Word": "cat",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 4,
                 "Word": "was",
                 "ClassModel": "O"
             },
             {
-                "WordId": 5,
+                "WordId": 3,
                 "Word": "very",
                 "ClassModel": "O"
             },
             {
-                "WordId": 6,
+                "WordId": 4,
                 "Word": "cold",
                 "ClassModel": "O"
             },
             {
-                "WordId": 7,
+                "WordId": 5,
                 "Word": ",",
                 "ClassModel": "O"
             },
             {
-                "WordId": 8,
+                "WordId": 6,
                 "Word": "David",
                 "ClassModel": "PERSON"
             },
             {
-                "WordId": 9,
+                "WordId": 7,
                 "Word": "put",
                 "ClassModel": "O"
             },
             {
-                "WordId": 10,
+                "WordId": 8,
                 "Word": "on",
                 "ClassModel": "O"
             },
             {
-                "WordId": 11,
-                "Word": "The",
+                "WordId": 9,
+                "Word": "his",
                 "ClassModel": "O"
             },
             {
-                "WordId": 12,
-                "Word": "big",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 13,
-                "Word": "cat",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 14,
-                "Word": "'s",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 15,
+                "WordId": 10,
                 "Word": "coat",
                 "ClassModel": "O"
             },
             {
-                "WordId": 16,
+                "WordId": 11,
                 "Word": ".",
                 "ClassModel": "O"
             }
         ]
     },
     {
-        "SentenceAnalized": "The big cat's friends have been criticizing Jim for exaggerating.",
+        "SentenceAnalized": "His friends have been criticizing Jim for exaggerating.",
         "Words": [
             {
                 "WordId": 0,
-                "Word": "The",
+                "Word": "His",
                 "ClassModel": "O"
             },
             {
                 "WordId": 1,
-                "Word": "big",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 2,
-                "Word": "cat",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 3,
-                "Word": "'s",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 4,
                 "Word": "friends",
                 "ClassModel": "O"
             },
             {
-                "WordId": 5,
+                "WordId": 2,
                 "Word": "have",
                 "ClassModel": "O"
             },
             {
-                "WordId": 6,
+                "WordId": 3,
                 "Word": "been",
                 "ClassModel": "O"
             },
             {
-                "WordId": 7,
+                "WordId": 4,
                 "Word": "criticizing",
                 "ClassModel": "O"
             },
             {
-                "WordId": 8,
+                "WordId": 5,
                 "Word": "Jim",
                 "ClassModel": "PERSON"
             },
             {
-                "WordId": 9,
+                "WordId": 6,
                 "Word": "for",
                 "ClassModel": "O"
             },
             {
-                "WordId": 10,
+                "WordId": 7,
                 "Word": "exaggerating",
                 "ClassModel": "O"
             },
             {
-                "WordId": 11,
+                "WordId": 8,
                 "Word": ".",
                 "ClassModel": "O"
             }
@@ -678,7 +393,7 @@
         ]
     },
     {
-        "SentenceAnalized": "In The big cat 's friends's free time, the kids play video games.",
+        "SentenceAnalized": "In their free time, the kids play video games.",
         "Words": []
     },
     {
@@ -721,81 +436,19 @@
         ]
     },
     {
-        "SentenceAnalized": "California is a nice place.",
-        "Words": [
-            {
-                "WordId": 0,
-                "Word": "California",
-                "ClassModel": "LOCATION"
-            },
-            {
-                "WordId": 1,
-                "Word": "is",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 2,
-                "Word": "a",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 3,
-                "Word": "nice",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 4,
-                "Word": "place",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 5,
-                "Word": ".",
-                "ClassModel": "O"
-            }
-        ]
+        "SentenceAnalized": "It is a nice place.",
+        "Words": []
     },
     {
-        "SentenceAnalized": "California is a nice place.",
-        "Words": [
-            {
-                "WordId": 0,
-                "Word": "California",
-                "ClassModel": "LOCATION"
-            },
-            {
-                "WordId": 1,
-                "Word": "is",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 2,
-                "Word": "a",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 3,
-                "Word": "nice",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 4,
-                "Word": "place",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 5,
-                "Word": ".",
-                "ClassModel": "O"
-            }
-        ]
+        "SentenceAnalized": "That is a nice place.",
+        "Words": []
     },
     {
         "SentenceAnalized": "We should go there sometime.",
         "Words": []
     },
     {
-        "SentenceAnalized": "Los Angeles is the first city We should visit.",
+        "SentenceAnalized": "Los Angeles is the first city we should visit.",
         "Words": [
             {
                 "WordId": 0,
@@ -829,7 +482,7 @@
             },
             {
                 "WordId": 6,
-                "Word": "We",
+                "Word": "we",
                 "ClassModel": "O"
             },
             {
@@ -850,47 +503,11 @@
         ]
     },
     {
-        "SentenceAnalized": "I heard Los Angeles is nice.",
-        "Words": [
-            {
-                "WordId": 0,
-                "Word": "I",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 1,
-                "Word": "heard",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 2,
-                "Word": "Los",
-                "ClassModel": "LOCATION"
-            },
-            {
-                "WordId": 3,
-                "Word": "Angeles",
-                "ClassModel": "LOCATION"
-            },
-            {
-                "WordId": 4,
-                "Word": "is",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 5,
-                "Word": "nice",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 6,
-                "Word": ".",
-                "ClassModel": "O"
-            }
-        ]
+        "SentenceAnalized": "I heard it is nice.",
+        "Words": []
     },
     {
-        "SentenceAnalized": "Then We should visit San Diego.",
+        "SentenceAnalized": "Then we should visit San Diego and San Jose.",
         "Words": [
             {
                 "WordId": 0,
@@ -899,7 +516,7 @@
             },
             {
                 "WordId": 1,
-                "Word": "We",
+                "Word": "we",
                 "ClassModel": "O"
             },
             {
@@ -924,57 +541,36 @@
             },
             {
                 "WordId": 6,
+                "Word": "and",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 7,
+                "Word": "San",
+                "ClassModel": "LOCATION"
+            },
+            {
+                "WordId": 8,
+                "Word": "Jose",
+                "ClassModel": "LOCATION"
+            },
+            {
+                "WordId": 9,
                 "Word": ".",
                 "ClassModel": "O"
             }
         ]
     },
     {
-        "SentenceAnalized": "Los Angeles has many nice restaurants.",
-        "Words": [
-            {
-                "WordId": 0,
-                "Word": "Los",
-                "ClassModel": "LOCATION"
-            },
-            {
-                "WordId": 1,
-                "Word": "Angeles",
-                "ClassModel": "LOCATION"
-            },
-            {
-                "WordId": 2,
-                "Word": "has",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 3,
-                "Word": "many",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 4,
-                "Word": "nice",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 5,
-                "Word": "restaurants",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 6,
-                "Word": ".",
-                "ClassModel": "O"
-            }
-        ]
+        "SentenceAnalized": "It has many nice restaurants.",
+        "Words": []
     },
     {
         "SentenceAnalized": "Those places have tasty food.",
         "Words": []
     },
     {
-        "SentenceAnalized": "Then up We go to New York.",
+        "SentenceAnalized": "Then up we go to New York.",
         "Words": [
             {
                 "WordId": 0,
@@ -988,7 +584,7 @@
             },
             {
                 "WordId": 2,
-                "Word": "We",
+                "Word": "we",
                 "ClassModel": "O"
             },
             {
@@ -1019,103 +615,11 @@
         ]
     },
     {
-        "SentenceAnalized": "You will like Los Angeles there.",
-        "Words": [
-            {
-                "WordId": 0,
-                "Word": "You",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 1,
-                "Word": "will",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 2,
-                "Word": "like",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 3,
-                "Word": "Los",
-                "ClassModel": "LOCATION"
-            },
-            {
-                "WordId": 4,
-                "Word": "Angeles",
-                "ClassModel": "LOCATION"
-            },
-            {
-                "WordId": 5,
-                "Word": "there",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 6,
-                "Word": ".",
-                "ClassModel": "O"
-            }
-        ]
+        "SentenceAnalized": "You will like it there.",
+        "Words": []
     },
     {
-        "SentenceAnalized": "Los Angeles is known as the city that never sleeps.",
-        "Words": [
-            {
-                "WordId": 0,
-                "Word": "Los",
-                "ClassModel": "LOCATION"
-            },
-            {
-                "WordId": 1,
-                "Word": "Angeles",
-                "ClassModel": "LOCATION"
-            },
-            {
-                "WordId": 2,
-                "Word": "is",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 3,
-                "Word": "known",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 4,
-                "Word": "as",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 5,
-                "Word": "the",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 6,
-                "Word": "city",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 7,
-                "Word": "that",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 8,
-                "Word": "never",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 9,
-                "Word": "sleeps",
-                "ClassModel": "O"
-            },
-            {
-                "WordId": 10,
-                "Word": ".",
-                "ClassModel": "O"
-            }
-        ]
+        "SentenceAnalized": "It is known as the city that never sleeps.",
+        "Words": []
     }
 ]
