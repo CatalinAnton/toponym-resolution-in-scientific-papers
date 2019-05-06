@@ -49,10 +49,10 @@ files = p1_file_management.get_file_list_output_final()
 dict_file_content = p1_file_management.get_dictionary_file_content(files)
 for (file_path, content) in dict_file_content.items():
     print("Validating " + file_path + " ...")
-json_object = json.loads(content)
-try:
-    jsonschema.validate(json_object, schema, format_checker=jsonschema.FormatChecker())
-    print("\tJSON file is valid")
-except Exception as e:
-    print("\t" + str(e.message))
-print("\n")
+    json_object = json.loads(content)
+    try:
+        jsonschema.validate(json_object, schema, format_checker=jsonschema.FormatChecker())
+        print("\tJSON file is valid")
+    except Exception as e:
+        print("\t" + str(e))
+    print("\n")
