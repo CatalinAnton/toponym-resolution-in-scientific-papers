@@ -1,13 +1,30 @@
 {
     "sentences": [
         {
-            "sentence": "I read about the life of Prince Paris last week.",
+            "sentence": "I will go to Paris and San Jose.",
             "words": [
                 {
                     "toponymId": 0,
                     "toponym": "Paris",
-                    "latitude": 50,
-                    "longitude": 120
+                    "latitude": "-19.05",
+                    "longitude": "29.56667"
+                },
+                {
+                    "toponymId": 1,
+                    "toponym": "San Jose",
+                    "latitude": "10.33344",
+                    "longitude": "-68.66445"
+                }
+            ]
+        },
+        {
+            "sentence": "I read about the life of Prince Paris last week.",
+            "words": [
+                {
+                    "toponymId": 2,
+                    "toponym": "Paris",
+                    "latitude": "-19.05",
+                    "longitude": "29.56667"
                 }
             ]
         },
@@ -15,10 +32,10 @@
             "sentence": "I have been to Paris last week.",
             "words": [
                 {
-                    "toponymId": 1,
+                    "toponymId": 3,
                     "toponym": "Paris",
-                    "latitude": 50,
-                    "longitude": 120
+                    "latitude": "-19.05",
+                    "longitude": "29.56667"
                 }
             ]
         },
@@ -26,10 +43,10 @@
             "sentence": "We should go to California.",
             "words": [
                 {
-                    "toponymId": 2,
+                    "toponymId": 4,
                     "toponym": "California",
-                    "latitude": 50,
-                    "longitude": 120
+                    "latitude": "-17.21667",
+                    "longitude": "30.75"
                 }
             ]
         },
@@ -37,16 +54,10 @@
             "sentence": "Los Angeles is the first city we should visit.",
             "words": [
                 {
-                    "toponymId": 3,
-                    "toponym": "Los",
-                    "latitude": 50,
-                    "longitude": 120
-                },
-                {
-                    "toponymId": 4,
-                    "toponym": "Angeles",
-                    "latitude": 50,
-                    "longitude": 120
+                    "toponymId": 5,
+                    "toponym": "Los Angeles",
+                    "latitude": "-25.46814",
+                    "longitude": "23.09949"
                 }
             ]
         },
@@ -54,28 +65,16 @@
             "sentence": "Then we should visit San Diego and San Jose.",
             "words": [
                 {
-                    "toponymId": 5,
-                    "toponym": "San",
-                    "latitude": 50,
-                    "longitude": 120
-                },
-                {
                     "toponymId": 6,
-                    "toponym": "Diego",
-                    "latitude": 50,
-                    "longitude": 120
+                    "toponym": "San Diego",
+                    "latitude": "8.16151",
+                    "longitude": "-72.04935"
                 },
                 {
                     "toponymId": 7,
-                    "toponym": "San",
-                    "latitude": 50,
-                    "longitude": 120
-                },
-                {
-                    "toponymId": 8,
-                    "toponym": "Jose",
-                    "latitude": 50,
-                    "longitude": 120
+                    "toponym": "San Jose",
+                    "latitude": "10.33344",
+                    "longitude": "-68.66445"
                 }
             ]
         },
@@ -83,16 +82,10 @@
             "sentence": "Then up we go to New York.",
             "words": [
                 {
-                    "toponymId": 9,
-                    "toponym": "New",
-                    "latitude": 50,
-                    "longitude": 120
-                },
-                {
-                    "toponymId": 10,
-                    "toponym": "York",
-                    "latitude": 50,
-                    "longitude": 120
+                    "toponymId": 8,
+                    "toponym": "New York",
+                    "latitude": "-23.41635",
+                    "longitude": "27.55004"
                 }
             ]
         }

@@ -24,12 +24,23 @@ import w5_lesk_algorithm
 import w7_sentiments_analysis
 import utils
 
-# nltk.download('punkt')
-# nltk.download('averaged_perceptron_tagger')
+import nltk
+
+nltk.download('punkt')
+nltk.download('wordnet')
+nltk.download('averaged_perceptron_tagger')
 
 NERtagger = StanfordNERTagger(stanford_classifier,
                               stanford_ner_path,
                               encoding='utf-8')
+
+import sys
+
+print(sys.maxsize)
+
+####################################
+# Creating dictionary of geo names #
+dictionary_geo_names = p1_file_management.get_dictionary_geo_names()
 
 list_of_dictionaries_word_for_lesk = []
 ########################
@@ -147,12 +158,25 @@ for (file_path, content) in dict_file_content.items():
 
             ##################
             # W10. Validator #
-            for element in classified_text_list:
-                if element[1] == 'LOCATION':
+            index_element = 0
+            for index_element in range(0, len(classified_text_list)):
+                toponym_word = ''
+                found_toponym = False
+                if (classified_text_list[index_element][1] == 'LOCATION'
+                        and index_element + 1 < len(classified_text_list)
+                        and classified_text_list[index_element + 1][1] == 'LOCATION'):
+                            toponym_word = classified_text_list[index_element][0] + ' ' + classified_text_list[index_element + 1][0]
+                            found_toponym = True
+                else:
+                    if classified_text_list[index_element][1] == 'LOCATION' and classified_text_list[index_element - 1][1] != 'LOCATION':
+                        toponym_word = classified_text_list[index_element][0]
+                        found_toponym = True
+                if found_toponym and toponym_word in dictionary_geo_names:
+                    print('Found toponym:', toponym_word)
                     dict_word = {'toponymId': index_toponym_added_id_FINAL,
-                                 'toponym': element[0],
-                                 'latitude': 50,
-                                 'longitude': 120}
+                                 'toponym': toponym_word,
+                                 'latitude': dictionary_geo_names[toponym_word]['latitude'],
+                                 'longitude': dictionary_geo_names[toponym_word]['longitude']}
                     list_of_dictionaries_word_FINAL.append(dict_word)
                     index_toponym_added_id_FINAL += 1
 

@@ -32,7 +32,7 @@ def get_file_list_output_final():
 
 
 def get_dictionary_geo_names():
-    with open("..\\resources\\geo_names\\allCountries.txt", 'r', encoding='utf8', errors='ignore') as geo_names_file:
+    with open(".\\resources\\geo_names\\allCountries.txt", 'r', encoding='utf8', errors='ignore') as geo_names_file:
         line = geo_names_file.readline()
         cnt = 1
         dictionary_geo_names = {}
@@ -45,6 +45,6 @@ def get_dictionary_geo_names():
             dictionary_geo_names[toponym] = {"location": location, "latitude": latitude, "longitude": longitude}
             line = geo_names_file.readline()
             if(cnt % 1000000 == 0):
-                print(cnt)
+                print('Created', cnt, 'keys in the geo names dictionary')
             cnt += 1
         return dictionary_geo_names

@@ -1,5 +1,55 @@
 [
     {
+        "SentenceAnalized": "I will go to Paris and San Jose.",
+        "Words": [
+            {
+                "WordId": 0,
+                "Word": "I",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 1,
+                "Word": "will",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 2,
+                "Word": "go",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 3,
+                "Word": "to",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 4,
+                "Word": "Paris",
+                "ClassModel": "LOCATION"
+            },
+            {
+                "WordId": 5,
+                "Word": "and",
+                "ClassModel": "O"
+            },
+            {
+                "WordId": 6,
+                "Word": "San",
+                "ClassModel": "LOCATION"
+            },
+            {
+                "WordId": 7,
+                "Word": "Jose",
+                "ClassModel": "LOCATION"
+            },
+            {
+                "WordId": 8,
+                "Word": ".",
+                "ClassModel": "O"
+            }
+        ]
+    },
+    {
         "SentenceAnalized": "I read about the life of Prince Paris last week.",
         "Words": [
             {

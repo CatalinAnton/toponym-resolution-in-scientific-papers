@@ -1,5 +1,15 @@
 [
     {
+        "SentenceAnalized": "I will go to Paris and San Jose.",
+        "Words": [
+            {
+                "WordId": 0,
+                "Word": "Paris",
+                "SenseFoundByLesk": "(Greek mythology) the prince of Troy who abducted Helen from her husband Menelaus and provoked the Trojan War"
+            }
+        ]
+    },
+    {
         "SentenceAnalized": "I read about the life of Prince Paris last week.",
         "Words": [
             {
