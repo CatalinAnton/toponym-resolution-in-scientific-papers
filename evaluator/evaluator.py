@@ -3,6 +3,11 @@ Created on Jun 11, 2018
 
 @author: dweissen
 '''
+
+# to run evaluator:python evaluator.py input output Detection
+# arg1: input folder path (for example, an .ann file outputed by the project
+# arg2: output folder path (to have a file scores.txt
+# arg3: evaluator mode: Detection | Disambiguation | Resolution
 import logging as log
 # from statistics import mean
 import sys
@@ -1132,7 +1137,7 @@ class ToponymEvaluator(object):
 
 
 if __name__ == '__main__':
-    LOG_FILENAME = '/tmp/ToponymDetectionEval.log'
+    LOG_FILENAME = 'E:\\faculty\\an3\\sem2\\ln\\gitProject\\evaluator\\ToponymDefaultDetection.log'
     # logging.basicConfig(filename=LOG_FILENAME,level=logging.DEBUG, format='%(asctime)s %(name)-12s %(levelname)-8s %(message)s')
     log.basicConfig(level=log.DEBUG,
                     format='%(asctime)s %(name)-12s %(levelname)-8s %(message)s',
