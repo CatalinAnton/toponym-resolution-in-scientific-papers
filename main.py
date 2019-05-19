@@ -14,8 +14,6 @@ stanford_classifier = 'C:\stanford-ner-2018-10-16\classifiers\english.muc.7class
 stanford_ner_path = 'C:\stanford-ner-2018-10-16\stanford-ner.jar'
 
 import p1_file_management
-import p1_file_management
-import p2_paragraph_splitter
 import p3_sentence_splitter
 import p4_tokenizer
 import p5_pos_tagger
@@ -165,10 +163,12 @@ for (file_path, content) in dict_file_content.items():
                 if (classified_text_list[index_element][1] == 'LOCATION'
                         and index_element + 1 < len(classified_text_list)
                         and classified_text_list[index_element + 1][1] == 'LOCATION'):
-                            toponym_word = classified_text_list[index_element][0] + ' ' + classified_text_list[index_element + 1][0]
-                            found_toponym = True
+                    toponym_word = classified_text_list[index_element][0] + ' ' + \
+                                   classified_text_list[index_element + 1][0]
+                    found_toponym = True
                 else:
-                    if classified_text_list[index_element][1] == 'LOCATION' and classified_text_list[index_element - 1][1] != 'LOCATION':
+                    if classified_text_list[index_element][1] == 'LOCATION' and classified_text_list[index_element - 1][
+                        1] != 'LOCATION':
                         toponym_word = classified_text_list[index_element][0]
                         found_toponym = True
                 if found_toponym and toponym_word in dictionary_geo_names:
