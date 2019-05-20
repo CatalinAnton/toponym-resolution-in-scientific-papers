@@ -2,7 +2,6 @@
 # cd stanford-corenlp-full-2018-10-05
 # java -mx4g -cp "*;stanford-corenlp-full-2017-06-09/*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -port 9000 -timeout 15000
 
-
 import p1_file_management
 import p3_sentence_splitter
 import p4_tokenizer
@@ -36,39 +35,29 @@ print(sys.maxsize)
 
 ####################################
 # Creating dictionary of geo names #
-# dictionary_geo_names = p1_file_management.get_dictionary_geo_names('..\\resources\\geo_names\\allCountries.txt')
+dictionary_geo_names = p1_file_management.get_dictionary_geo_names('..\\resources\\geo_names\\allCountries.txt')
 
 import json
+import flask_cors
+from flask import Flask, request
+from flask_cors import cross_origin
 
-from bottle import route, run, request, response, Bottle
-
-app = Bottle()
-
-@app.hook('after_request')
-def enable_cors():
-    """
-    You need to add some headers to each request.
-    Don't use the wildcard '*' for Access-Control-Allow-Origin in production.
-    """
-    response.headers['Access-Control-Allow-Origin'] = '*'
-    response.headers['Access-Control-Allow-Methods'] = 'PUT, GET, POST, DELETE, OPTIONS'
-    response.headers['Access-Control-Allow-Headers'] = 'Origin, Accept, Content-Type, X-Requested-With, X-CSRF-Token'
-
-@app.route('/')
-def index():
-    return '<b>Hello %s!</b>'
+app = Flask(__name__)
+cors = flask_cors.CORS(app, resources={r"/*": {"origins": "*"}})
 
 
-@app.route('/text', method='POST')
+@app.route('/text', methods=['POST'])
+@cross_origin()
 def post_text():
-    data = request.body
-    print(data)
-    raw_text = data["text"]
+    if request.method == 'POST':
+        data = request.json
+        print(data)
+        raw_text = data["text"]
 
-    # toponyms should have a python dictionary or a json object already
-    toponyms = extract_toponyms(raw_text)
-    json_toponyms = json.dumps(toponyms)
-    return json_toponyms
+        # toponyms should have a python dictionary or a json object already
+        toponyms = extract_toponyms(raw_text)
+        json_toponyms = json.dumps(toponyms)
+        return json_toponyms
 
 
 def extract_toponyms(raw_text):
