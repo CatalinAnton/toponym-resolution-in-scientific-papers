@@ -38,7 +38,7 @@ print(sys.maxsize)
 
 ####################################
 # Creating dictionary of geo names #
-dictionary_geo_names = p1_file_management.get_dictionary_geo_names()
+dictionary_geo_names = p1_file_management.get_dictionary_geo_names('.\\resources\\geo_names\\allCountries.txt')
 
 list_of_dictionaries_word_for_lesk = []
 ########################

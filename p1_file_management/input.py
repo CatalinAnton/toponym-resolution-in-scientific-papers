@@ -31,8 +31,8 @@ def get_file_list_output_final():
     return files
 
 
-def get_dictionary_geo_names():
-    with open(".\\resources\\geo_names\\allCountries.txt", 'r', encoding='utf8', errors='ignore') as geo_names_file:
+def get_dictionary_geo_names(geo_names_path):
+    with open(geo_names_path, 'r', encoding='utf8', errors='ignore') as geo_names_file:
         line = geo_names_file.readline()
         cnt = 1
         dictionary_geo_names = {}
